@@ -24,14 +24,10 @@ sequenceDiagram
 - 19^th^
 - H~2~O
 
-::: center
-Paragraph to center
-:::
+```js [g1:Irish]
+coire
+```
 
-:wink: :cry: :laughing: :yum:
-
-[Home page using absolute path](/)
-
-::: warning
-*here be dragons*
-:::
+```js [g1:English]
+cauldron
+```

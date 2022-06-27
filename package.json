@@ -41,8 +41,11 @@
     "bulma": "^0.9.3",
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^8.6.4",
+    "markdown-it-attrs": "^4.1.4",
+    "markdown-it-codetabs": "^1.2.0",
     "markdown-it-container": "^3.0.0",
     "markdown-it-emoji": "^2.0.2",
+    "markdown-it-expand-tabs": "^1.0.13",
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-katex": "^2.0.3",
     "markdown-it-latex": "^0.2.0",
@@ -50,7 +53,7 @@
     "markdown-it-sup": "^1.0.0",
     "markdown-it-table-of-contents": "^0.6.0",
     "markdown-it-task-lists": "^2.1.1",
-    "markdown-it-tips": "^1.0.3",
+    "markdown-it-texmath": "^1.0.0",
     "markdown-it-video": "^0.6.3",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^7.1.0",
@@ -77,5 +80,7 @@
     "build": "npm run css-deploy && npm run js-build && npm run eleventy-build"
   },
   "version": "0.0.4",
-  "dependencies": {}
+  "dependencies": {
+    "markdown-it-tips-bulma": "https://github.com/openordu/markdown-it-tips-bulma.git"
+  }
 }

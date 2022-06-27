@@ -1,18 +1,20 @@
 
 const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
-const pluginMermaid = require("@kevingimbel/eleventy-plugin-mermaid");
-const markdownIt = require("markdown-it");
-const markdownItEmoji = require("markdown-it-emoji");
-const markdownItFootnote = require("markdown-it-footnote");
-const markdownItContainer = require("markdown-it-container");
-const markdownItKatex = require("markdown-it-katex");
-const markdownItSub = require("markdown-it-sub");
-const markdownItSup = require("markdown-it-sup");
-const markdownItTableOfContents = require("markdown-it-table-of-contents");
-const markdownItTaskLists = require("markdown-it-task-lists");
-const markdownItVideo = require("markdown-it-video");
-const markdownItAnchor = require("markdown-it-anchor");
-
+const pluginMermaid                   = require("@kevingimbel/eleventy-plugin-mermaid");
+const markdownIt                      = require("markdown-it");
+const markdownItEmoji                 = require("markdown-it-emoji");
+const markdownItFootnote              = require("markdown-it-footnote");
+const markdownItContainer             = require("markdown-it-container");
+const markdownItTips                  = require("markdown-it-tips-bulma");
+const markdownItAlign                 = require("markdown-it-align");
+const markdownItKatex                 = require("markdown-it-texmath");
+const markdownItSub                   = require("markdown-it-sub");
+const markdownItSup                   = require("markdown-it-sup");
+const markdownItTableOfContents       = require("markdown-it-table-of-contents");
+const markdownItTaskLists             = require("markdown-it-task-lists");
+const markdownItVideo                 = require("markdown-it-video");
+const markdownItAnchor                = require("markdown-it-anchor");
+const markdownItAttrs                 = require("markdown-it-attrs")
 
 module.exports = function(eleventyConfig) {
     // assets we want to passthrough
@@ -28,28 +30,9 @@ module.exports = function(eleventyConfig) {
     let markdownLibrary = markdownIt(options).use(markdownItEmoji);
     
     markdownLibrary.use(markdownItFootnote);
-    markdownLibrary.use(markdownItContainer, 'warning', {
-      
-      validate: function(params) {
-        return params.trim().match(/^warning\s+(.*)$/);
-      },
-      
-      render: function (tokens, idx) {
-        var m = tokens[idx].info.trim().match(/^warning\s+(.*)$/);
-
-        console.log(m);
-  
-        if (tokens[idx].nesting === 1) {
-          // opening tag
-          return '<article class="message is-' + markdownLibrary.utils.escapeHtml(m[1]) + '"><div>' + markdownLibrary.utils.escapeHtml(m[1]) + '</div>\n';
-  
-        } else {
-          // closing tag
-          return '</article>\n';
-        }
-      }
-    });
     markdownLibrary.use(markdownItKatex);
+    markdownLibrary.use(markdownItTips);
+    markdownLibrary.use(markdownItAlign);
     markdownLibrary.use(markdownItSub);
     markdownLibrary.use(markdownItSup);
     markdownLibrary.use(markdownItTableOfContents);
