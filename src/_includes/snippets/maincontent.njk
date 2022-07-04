@@ -1,0 +1,5 @@
+{% include 'snippets/breadcrumbs.njk' %}
+<header>
+      <a name="{{ title | slugify }}" href="#{{ title | slugify }}"><h1 class="display-1">{{ title }}</h1></a>
+</header>
+{{ content | safe }}

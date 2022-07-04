@@ -1,0 +1,26 @@
+    {# Set up for breadcrumb nav #}
+    {% set url = page.url %}
+    {% set crumbs = url.split('/') %}
+    {% set last = crumbs.pop() %}
+    {% if title %}
+      {% set last = crumbs.pop() %}
+    {% endif %}
+
+  {# Start breadcrumb nav #}
+    {% if (crumbs | length) > 0 %}
+      <nav class="breadcrumbs" aria-label="breadcrumbs" role="navigation">
+        <a href="/">Home</a> 
+        {% for crumb in crumbs %}
+          {% if (crumb !== '') %}
+            &#187; <a href="{{ crumbs.slice(0, (crumbs.indexOf(crumb) + 1)).join("/") }}">{{ crumb | capitalize }}</a>
+          {% endif %}
+        {% endfor %}
+        {# {% set regExp = r/^page-*/g %}
+        {% if regExp.test(last) %}
+          &#187; Page {{ last | replace("page-", "") }}
+        {% else %}
+          &#187; {{ title }}
+        {% endif %} #}
+      </nav>
+      <hr>
+    {% endif %}
