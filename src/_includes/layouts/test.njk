@@ -6,21 +6,18 @@
   </head>
 
   <body>
-
+    {% include 'snippets/svg.njk' %}
     {% include 'snippets/navbar.njk' %}
 
-    <main class="container-fluid py-vh-5">
+    <main class="container-fluid py-vh-1">
       <div class="row align-items-start">
         <div class="row d-flex justify-content-center">
-            <div class="col col-12 col-sm-10 order-1 order-md-2">
-            {% include 'snippets/maincontent.njk' %}
+            <div class="col col-12 col-sm-2 flex-shrink-0 p-3 bg-white">
+              {% include 'snippets/sidebar.njk' %}
             </div>
-            <nav class="col col-12 col-sm-2 order-2 order-md-1 nav flex-column">
-                <a class="nav-link active" aria-current="page" href="#">Active</a>
-                <a class="nav-link" href="#">Link</a>
-                <a class="nav-link" href="#">Link</a>
-                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-            </nav>
+            <div class="col col-12 col-sm-10">
+              {% include 'snippets/maincontent.njk' %}
+            </div>
         </div>
       </div>
     </main>

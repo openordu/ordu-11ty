@@ -12,15 +12,9 @@
         <a href="/">Home</a> 
         {% for crumb in crumbs %}
           {% if (crumb !== '') %}
-            &#187; <a href="{{ crumbs.slice(0, (crumbs.indexOf(crumb) + 1)).join("/") }}">{{ crumb | capitalize }}</a>
+            &frasl; <a href="{{ crumbs.slice(0, (crumbs.indexOf(crumb) + 1)).join("/") }}">{{ crumb | capitalize }}</a>
           {% endif %}
         {% endfor %}
-        {# {% set regExp = r/^page-*/g %}
-        {% if regExp.test(last) %}
-          &#187; Page {{ last | replace("page-", "") }}
-        {% else %}
-          &#187; {{ title }}
-        {% endif %} #}
+          &frasl; {{ title }}
       </nav>
-      <hr>
     {% endif %}

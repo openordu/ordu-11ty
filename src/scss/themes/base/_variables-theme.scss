@@ -1,3 +1,21 @@
 //This is an example of how you can change BS5 variables. Just add the changed variables here and they will overwrite the defaults.
 // We changed the default font and the default $blue color (which is set as $primary as well)
-$blue: #1717e5;
+$blue:    #4343cc;
+$teal:    #4abf8a;
+$primary:   $teal !default;
+$secondary: $blue !default;
+
+$font-size-base:  1rem !default; // Assumes the browser default, typically `16px`
+
+$display-font-sizes: (
+  1: $font-size-base * 2.5,
+  2: $font-size-base * 2,
+  3: $font-size-base * 1.75,
+  4: $font-size-base * 1.5,
+  5: $font-size-base * 1.25,
+  6:  $font-size-base
+) !default;
+
+$lead-font-weight:    500 !default;
+$display-font-weight: 500 !default;
+

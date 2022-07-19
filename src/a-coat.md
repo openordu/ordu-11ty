@@ -1,18 +1,12 @@
 ---
 layout: layouts/test.njk
 title: a-coat
+icon: lightbulb
 ---
 
 # A Coat
 
-
-<!-- // 
- function footNote(link) {
- openpopup = window.open(link,"openpopup","width=512,height=128,left=256,top=256,resizable=no,scrollbars=1,menubar=1,statusbar=0,toolbar=0");
-}
-// -->
-
-
+::: collapseinfo
 
 #### Corpus of Electronic Texts Edition
 
@@ -39,7 +33,7 @@ CELT: Corpus of Electronic Texts: a project of University College, Cork
 College Road, Cork, Ireland—http://www.ucc.ie/celt
 
  (2012) Distributed by CELT online at University College, Cork, Ireland.  
-Text ID Number: E910001-031Availability [RESTRICTED] 
+Text ID Number: E910001-031Availability [RESTRICTED].
 The works by W. B. Yeats are in the public domain. This electronic text is available with prior consent of the CELT programme for purposes of private or academic research and teaching.
 
 
@@ -125,20 +119,11 @@ Created: By William Butler Yeats (1865–1939).
 * Text captured by scanning.
 
 
-
-
----
-
-
 #### Corpus of Electronic Texts Edition: E910001-031
 
+:::
 
 ### A Coat: Author: William Butler Yeats
-
-
-
-
----
 
 p.80
 
@@ -162,13 +147,3 @@ Song, let them take it
 For there's more enterprise
   
 In walking naked.
-
-
-
-
-
-
-
-
-
-
