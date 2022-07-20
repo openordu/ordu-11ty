@@ -5,7 +5,7 @@ const rssPlugin                       = require('@11ty/eleventy-plugin-rss')
 const markdownIt                      = require("markdown-it");
 const markdownItSub                   = require("markdown-it-sub");
 const markdownItSup                   = require("markdown-it-sup");
-const markdownItTips                  = require("markdown-it-tips");
+const markdownItTips                  = require("markdown-it-tips-bootstrap");
 const markdownItAttrs                 = require("markdown-it-attrs");
 const markdownItVideo                 = require("markdown-it-video");
 const markdownItEmoji                 = require("markdown-it-emoji");
@@ -18,10 +18,14 @@ const markdownItTaskLists             = require("markdown-it-task-lists");
 const eleventyNavigationPlugin        = require("@11ty/eleventy-navigation");
 const markdownItTableOfContents       = require("markdown-it-table-of-contents");
 const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
+const inspect = require("util").inspect;
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  
+  eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
+  eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
+
+
   // assets we want to passthrough
     
   eleventyConfig.addPassthroughCopy('./src/main.css');
