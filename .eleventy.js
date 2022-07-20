@@ -27,6 +27,10 @@ module.exports = function(eleventyConfig) {
 
 
   // assets we want to passthrough
+  eleventyConfig.addFilter(
+    "startsWith",
+    require("./src/_11ty/filters/startsWith")
+  );
     
   eleventyConfig.addPassthroughCopy('./src/main.css');
   eleventyConfig.addPassthroughCopy('./src/lib/main.js');
