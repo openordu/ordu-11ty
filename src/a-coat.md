@@ -2,6 +2,8 @@
 layout: layouts/test.njk
 title: a-coat
 icon: lightbulb
+order: 99 # Higher is sorted to lower
+index: 'false' # Must be a string
 ---
 
 # A Coat

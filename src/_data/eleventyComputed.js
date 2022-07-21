@@ -28,5 +28,6 @@ module.exports = {
       },
       order: (data) => data.order,
       index: (data) => data.index || true,
+      icon: (data) => data.icon || "file",
     },
   };

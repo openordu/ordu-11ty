@@ -4,25 +4,20 @@
 
 {# <nav class="navigation-primary navigation-primary--light stretch-horizontal-M"> #}
   {% macro renderSidebarListItem(entry, sub) -%}
-    {% if entry.index %}
+    {% if entry.index == true %}
       {# Some interesting workarounds/conditions here to apply .is-active classes down the tree #}
       {% set isHomepage = entry.url == '/' %}
       {% set isActive = page.url | startsWith(entry.url) %}
-
       <li class="mb-1">
-        <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse" 
-          {% if entry.url == page.url %}aria-current="page"{% endif %} aria-expanded="true"><a
+        <button class="btn {% if entry.children.length %}btn-toggle{% endif %} align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse" 
+          {% if entry.url == page.url %}aria-current="page"{% endif %} aria-expanded="{% if entry.url == page.url %}true{%else%}{% endif %}"><i class="{% if entry.children.length %}{% else %}fa-solid fa-{{ entry.icon }}{% endif %}"></i><a
           href="{{ entry.url | url }}"
           class="
             {% if sub %}navigation-primary__sub-link{% else %}navigation-primary__link{% endif %}
             {% if isActive and not isHomepage %}is-active{% endif %}
             {% if isHomepage and entry.url == page.url %}is-active{% endif %}
-          "
-        >
-        {{ entry.title | slugify }}
-        </a>
-        </button>
-        <div class="{% if sub %}collapse{% else %}no-children{% endif %}" id="{{ entry.title | slugify }}-collapse">
+          ">{{ entry.title }}</a></button>
+        <div class="{% if sub %}show{% else %}collapse{% endif %}" id="{{ entry.title | slugify }}-collapse">
         {%- if entry.children.length -%}
           <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
             {%- for child in entry.children %}{{
@@ -31,7 +26,7 @@
             {% endfor -%}
           </ul>
             
-      {%- endif -%}
+        {%- endif -%}
     </li>
     {% endif %}
   {%- endmacro %}
