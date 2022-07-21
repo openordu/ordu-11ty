@@ -28,6 +28,11 @@ module.exports = {
       },
       order: (data) => data.order,
       index: (data) => data.index || true,
-      icon: (data) => data.icon || "file",
+      icon: (data) => {
+        if(data.title.startsWith("Tagged")) {
+          return "tag";
+        }
+        return data.icon || 'file';
+      },
     },
   };
