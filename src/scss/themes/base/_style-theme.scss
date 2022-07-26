@@ -119,15 +119,37 @@ h1:hover a.header-anchor, h2:hover a.header-anchor, h3:hover a.header-anchor, h4
   padding-bottom:14vh;
 }
 
-.btn-toggle::before {
-  width: 1.25em;
-  line-height: 0;
-  content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
-  transition: transform .35s ease;
-  transform-origin: 0.5em 50%;
-  display: inline-block;
+.md-collapseinfo {
+  max-height: 200px;
 }
 
-.btn-toggle[aria-expanded="true"]::before {
+.topactive, .topactive i, button.sub[aria-expanded="true"] {
+  color: $primary !important;
+  background-color: #e9ecef !important;
+}
+
+.dropdown-item.active a {
+  color: #fff !important;
+}
+
+i.fa-angle-right[aria-expanded="true"] {
   transform: rotate(90deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+i.fa-angle-down[aria-expanded="true"] {
+  transform: rotate(0deg);
+  transition: transform 0.3s ease-in-out;
+}
+i.fa-angle-down[aria-expanded="false"] {
+  transform: rotate(-90deg);
+  transition: transform 0.3s ease-in-out;
+}
+aside a {
+  color: #2c3e50 !important;
+}
+
+div.aside, div.main{
+  overflow-y: auto;
+  overflow-x: hidden;
 }

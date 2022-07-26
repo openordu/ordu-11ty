@@ -6,15 +6,26 @@
       {% set last = crumbs.pop() %}
     {% endif %}
 
-  {# Start breadcrumb nav #}
-    {% if (crumbs | length) > 0 %}
-      <nav class="breadcrumbs" aria-label="breadcrumbs" role="navigation">
-        <a href="/">Home</a> 
-        {% for crumb in crumbs %}
-          {% if (crumb !== '') %}
-            &frasl; <a href="{{ crumbs.slice(0, (crumbs.indexOf(crumb) + 1)).join("/") }}">{{ crumb | capitalize }}</a>
-          {% endif %}
-        {% endfor %}
-          &frasl; {{ title }}
-      </nav>
-    {% endif %}
+  {% set navPages = collections.all | eleventyNavigation %}
+  <i class="fa-solid fa-home"></i><a href="/"> Home</a>
+    {% macro renderBreadCrumbList(entry, sub) -%}
+      {% set isHomepage = entry.url == '/' %}
+      {% set isActive = page.url | startsWith(entry.url) %}
+      {% if isActive and not isHomepage %}
+        &nbsp;&frasl;&nbsp;<i class="fa-solid fa-{{ entry.icon}}"></i>&nbsp;<a href="{{ entry.url }}" >{{ entry.title | truncate(16) }}</a>
+      {% endif %}
+      {%- if entry.children.length -%}
+        {%- for child in entry.children %}
+          {{
+            renderBreadCrumbList(child, sub + 1)
+          }}
+        {% endfor -%}
+
+      {%- endif -%}
+  {%- endmacro %}
+
+  {%- for entry in navPages %}
+    {{
+      renderBreadCrumbList(entry)
+    }}
+  {%- endfor -%}

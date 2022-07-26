@@ -4,127 +4,53 @@
 
 {# <nav class="navigation-primary navigation-primary--light stretch-horizontal-M"> #}
   {% macro renderSidebarListItem(entry, sub) -%}
-    {% if entry.index == true %}
+  {% if not sub %}{% set sub = 0 %}{% endif %}
+    {% if entry.index != false %}
       {# Some interesting workarounds/conditions here to apply .is-active classes down the tree #}
       {% set isHomepage = entry.url == '/' %}
       {% set isActive = page.url | startsWith(entry.url) %}
-      <li class="mb-1">
-        <button class="btn {% if entry.children.length %}btn-toggle{% endif %} align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse" 
-          {% if entry.url == page.url %}aria-current="page"{% endif %} aria-expanded="{% if entry.url == page.url %}true{%else%}{% endif %}"><i class="{% if entry.children.length %}{% else %}fa-solid fa-{{ entry.icon }}{% endif %}"></i><a
-          href="{{ entry.url | url }}"
+      <li class="mb-0 d-grid gap-0 py-0 ps-0">
+        <button class="dropdown-item btn text-start mb-0 ps-1 py-2 
+        {% if sub %}sub{% else %}top{% endif %} 
+            {% if not sub and entry.url != page.url and isActive and not isHomepage %}topactive{% endif %} 
+            {% if isActive and not isHomepage and entry.url == page.url %} active{% endif %} 
+            {% if isHomepage and entry.url == page.url %}is-active{% endif %} 
+        rounded
+        {% if entry.children.length %}btn-toggle{% endif %}"
+        {% if isActive %}
+        {# type="button" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse" #}
+        {% endif %}
+        {% if entry.url == page.url %}
+        aria-current="page"
+        {% endif %}
+        aria-expanded="{% if entry.children.length and entry.url == page.url and isActive %}true{% endif %}" style="margin: -2px 0px">
+        <i {% if entry.children.length %}type="button" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="fa-solid {% if entry.children.length and isActive %}fa-angle-down{% endif %}{% if entry.children.length and not isActive %}fa-angle-right{% endif %}{% if not entry.children.length %}fa-{{ entry.icon }}{% endif %} {% if sub %}ps-{{ sub }}{% endif %}" style="{% if isActive and not isHomepage %}color: white{% endif %}">
+          </i><a 
+        href="{{ entry.url | url }}"
           class="
-            {% if sub %}navigation-primary__sub-link{% else %}navigation-primary__link{% endif %}
-            {% if isActive and not isHomepage %}is-active{% endif %}
-            {% if isHomepage and entry.url == page.url %}is-active{% endif %}
-          ">{{ entry.title }}</a></button>
-        <div class="{% if sub %}show{% else %}collapse{% endif %}" id="{{ entry.title | slugify }}-collapse">
+            ">
+          {{ entry.title | truncate(28) }}
+          </a>
+          </button>
         {%- if entry.children.length -%}
+          <div class="m-0 p-0 {% if isActive %}collapse show{% else %}collapse{% endif %}" id="{{ entry.title | slugify }}-collapse">
           <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
             {%- for child in entry.children %}{{
-              renderSidebarListItem(child, true)
+              renderSidebarListItem(child, sub + 1)
             }}
             {% endfor -%}
           </ul>
-            
+          </div>    
         {%- endif -%}
     </li>
     {% endif %}
   {%- endmacro %}
-<div class="flex-shrink-0 p-3 bg-white" style="width: 280px;">
-  <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-    <svg class="bi me-2" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
-    <span class="fs-5 fw-semibold">Collapsible</span>
-  </a>
+<aside class="flex-shrink-0 p-0 bg-white">
   <ul class="list-unstyled ps-0">
-    {%- for entry in navPages %}{{
+    {%- for entry in navPages %}
+      {{
         renderSidebarListItem(entry)
       }}
     {%- endfor -%}
   </ul>
-</div>
-{# </nav> #}
-{# <div class="flex-shrink-0 p-3 bg-white" style="width: 280px;">
-  <div class="container-fluid">
-      <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none border-bottom">
-        <svg class="bi me-2" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
-        <svg class="me-1 small-logo"><image xlink:href="{{ "/assets/logo.svg" | url }}" width="96" height="96" /></svg>
-        <span class="fs-5 fw-semibold">Collapsible</span>
-      </a>
-      <ul class="list-unstyled ps-0">
-        <li class="mb-1">
-          <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#home-collapse" aria-expanded="true">
-            Home
-          </button>
-          <div class="collapse show" id="home-collapse">
-            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 ps-4 small">
-              <li><i class="fa-solid fa-lightbulb"></i><a href="#" class="link-dark rounded">Overview</a></li>
-              <li><a href="#" class="link-dark rounded">Updates</a></li>
-              <li><a href="#" class="link-dark rounded">Reports</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="mb-1">
-          <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="false">
-            Dashboard
-          </button>
-          <div class="collapse" id="dashboard-collapse">
-            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 ps-4 small">
-              <li><a href="#" class="link-dark rounded">Overview</a></li>
-              <li><a href="#" class="link-dark rounded">Weekly</a></li>
-              <li><a href="#" class="link-dark rounded">Monthly</a></li>
-              <li><a href="#" class="link-dark rounded">Annually</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="mb-1">
-          <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="false">
-            Orders
-          </button>
-          <div class="collapse" id="orders-collapse">
-            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 ps-4 small">
-              <li><a href="#" class="link-dark rounded">New</a></li>
-              <li><a href="#" class="link-dark rounded">Processed</a></li>
-              <li><a href="#" class="link-dark rounded">Shipped</a></li>
-              <li><a href="#" class="link-dark rounded">Returned</a></li>
-            </ul>
-          </div>
-        </li>
-        <li class="border-top my-3"></li>
-        <li class="mb-1">
-          <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#account-collapse" aria-expanded="false">
-            Account
-          </button>
-          <div class="collapse" id="account-collapse">
-            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-              <li><a href="#" class="link-dark rounded">New...</a></li>
-              <li><a href="#" class="link-dark rounded">Profile</a></li>
-              <li><a href="#" class="link-dark rounded">Settings</a></li>
-              <li><a href="#" class="link-dark rounded">Sign out</a></li>
-            </ul>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div> #}
-{# <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
-    <div class="offcanvas-header">
-      <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
-      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-  </div>
-  <div class="offcanvas-body">
-    <div>
-      Some text as placeholder. In real life you can have the elements you have chosen. Like, text, images, lists, etc.
-    </div>
-    <div class="dropdown mt-3">
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown">
-        Dropdown button
-      </button>
-      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <li><a class="dropdown-item" href="#">Action</a></li>
-        <li><a class="dropdown-item" href="#">Another action</a></li>
-        <li><a class="dropdown-item" href="#">Something else here</a></li>
-      </ul>
-    </div>
-  </div> #}
+</aside>
