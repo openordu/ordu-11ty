@@ -22,7 +22,7 @@ const inspect = require("util").inspect;
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
+  // eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
   eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
 
 

@@ -1,8 +1,5 @@
 {% set navPages = collections.all | eleventyNavigation %}
 
-{{ navPages | log }}
-
-{# <nav class="navigation-primary navigation-primary--light stretch-horizontal-M"> #}
   {% macro renderSidebarListItem(entry, sub) -%}
   {% if not sub %}{% set sub = 0 %}{% endif %}
     {% if entry.index != false %}
@@ -10,7 +7,7 @@
       {% set isHomepage = entry.url == '/' %}
       {% set isActive = page.url | startsWith(entry.url) %}
       <li class="mb-0 d-grid gap-0 py-0 ps-0">
-        <button class="dropdown-item btn text-start mb-0 ps-1 py-2 
+        <button class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2 
         {% if sub %}sub{% else %}top{% endif %} 
             {% if not sub and entry.url != page.url and isActive and not isHomepage %}topactive{% endif %} 
             {% if isActive and not isHomepage and entry.url == page.url %} active{% endif %} 
@@ -23,13 +20,10 @@
         {% if entry.url == page.url %}
         aria-current="page"
         {% endif %}
-        aria-expanded="{% if entry.children.length and entry.url == page.url and isActive %}true{% endif %}" style="margin: -2px 0px">
+        aria-expanded="{% if entry.children.length and entry.url == page.url and isActive %}true{% endif %}" style="text-overflow: ellipsis; margin: -2px 0px">
         <i {% if entry.children.length %}type="button" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="fa-solid {% if entry.children.length and isActive %}fa-angle-down{% endif %}{% if entry.children.length and not isActive %}fa-angle-right{% endif %}{% if not entry.children.length %}fa-{{ entry.icon }}{% endif %} {% if sub %}ps-{{ sub }}{% endif %}" style="{% if isActive and not isHomepage %}color: white{% endif %}">
-          </i><a 
-        href="{{ entry.url | url }}"
-          class="
-            ">
-          {{ entry.title | truncate(28) }}
+          </i><a href="{{ entry.url | url }}" class="text-decoration-none">
+          {{ entry.title }}
           </a>
           </button>
         {%- if entry.children.length -%}
@@ -45,6 +39,7 @@
     </li>
     {% endif %}
   {%- endmacro %}
+
 <aside class="flex-shrink-0 p-0 bg-white">
   <ul class="list-unstyled ps-0">
     {%- for entry in navPages %}

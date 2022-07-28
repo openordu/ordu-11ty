@@ -1,12 +1,10 @@
 ---
-layout: layouts/test.njk
-title: a-coat
+layout: layouts/default.njk
+title: A Coat
 icon: lightbulb
 order: 99 # Higher is sorted to lower
 # index: false
 ---
-
-# A Coat
 
 ::: collapseinfo
 
@@ -34,7 +32,7 @@ Funded by School of History, University College, Cork 1. First draft.Extent of t
 CELT: Corpus of Electronic Texts: a project of University College, Cork  
 College Road, Cork, Ireland—http://www.ucc.ie/celt
 
- (2012) Distributed by CELT online at University College, Cork, Ireland.  
+ (2012) Distributed by CELT online at University College, Cork, Ireland.
 Text ID Number: E910001-031Availability [RESTRICTED].
 The works by W. B. Yeats are in the public domain. This electronic text is available with prior consent of the CELT programme for purposes of private or academic research and teaching.
 

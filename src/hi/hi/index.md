@@ -1,6 +1,6 @@
 ---
 layout: layouts/test.njk
-title: Hi
+title: Level2
 icon: broom
 order: 99 # Higher is sorted to lower
 # index: false

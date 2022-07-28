@@ -29,8 +29,10 @@ module.exports = {
       order: (data) => data.order,
       index: (data) => data.index || true,
       icon: (data) => {
-        if(data.title.startsWith("Tagged")) {
-          return "tag";
+        if (typeof data.title === 'string') {
+          if(data.title.startsWith("Tagged")) {
+            return "tag";
+          }
         }
         return data.icon || 'file';
       },
