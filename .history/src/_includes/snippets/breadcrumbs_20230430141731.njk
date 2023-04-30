@@ -1,0 +1,26 @@
+{% if breadcrumbs != false %}
+  {% set navPages = collections.all | eleventyNavigation %}
+  <i class="fa-solid fa-home"></i><a href="/" class="text-decoration-none"> Home</a>
+    {% macro renderBreadCrumbList(entry, sub) -%}
+      {% set isHomepage = entry.url == '/' %}
+      {% set isActive = page.url | startsWith(entry.url) %}
+      {% set displayTitle = entry.short-title if entry.short-title else entry.title %}
+      {% if isActive and not isHomepage %}
+        &nbsp;&frasl;&nbsp;<i class="fa-solid fa-{{ entry.icon }}"></i>{% if entry.url != page.url %}<a href="{{ entry.url }}" class="text-decoration-none">{% else %}<span class="fw-bold text-muted">{% endif %}{{ displayTitle }}{% if entry.url != page.url %}</a>{% else %}</span>{% endif %}
+      {% endif %}
+      {%- if entry.children.length -%}
+        {%- for child in entry.children %}
+          {{
+            renderBreadCrumbList(child, sub + 1)
+          }}
+        {% endfor -%}
+
+      {%- endif -%}
+  {%- endmacro %}
+
+  {%- for entry in navPages %}
+    {{
+      renderBreadCrumbList(entry)
+    }}
+  {%- endfor -%}
+{% endif %}
