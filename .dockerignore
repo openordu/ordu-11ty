@@ -1,5 +1,5 @@
 # Folders
-node_modules
+*/node_modules*
 _site
 dev
 package-lock.json
@@ -7,4 +7,3 @@ yarn.lock
 yarn-error.log
 *.swp
 *.save
-.history
