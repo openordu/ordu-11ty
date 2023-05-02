@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Albion
-icon: article
-order: 1774
+icon: file-lines
+order: 89
 ---
-# Albion
-
 The medieval writer Geoffrey of Monmouth narrates the story of Albion, the British hero whose father was a sea god and who happened to be a giant. The name Albion is believed to be cognate with that of Albiorix, the continental Celtic god.
 
-## Attributes
+### Attributes
 
 - **Albion**: name
 - **Albion**: father's name
@@ -17,13 +15,13 @@ The medieval writer Geoffrey of Monmouth narrates the story of Albion, the Briti
 - **Geoffrey of Monmouth**: description
 - **Albiorix**: description
 
-## Entities
+### Entities
 
 - **Albion**: British hero
 - **Geoffrey of Monmouth**: medieval writer
 - **Albiorix**: continental Celtic god
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

@@ -5,17 +5,17 @@
     {% include 'snippets/head.njk' %}
   </head>
 
-  <body style="h-100">
+  <body style="h-100" class="pt-5">
 
     {% include 'snippets/navbar.njk' %}
 
     <main class="container-fluid">
       <div class="row d-flex align-items-start">
         <div class="row d-flex justify-content-center">
-            <div class="aside col col-12 col-sm-3 flex-shrink-0 p-2 bg-white">
+            <div class="aside order-md-1 order-2 col col-12 col-sm-3 flex-shrink-0 p-2 bg-white">
               {% include 'snippets/sidebar.njk' %}
             </div>
-            <div class="main col col-12 col-sm-9">
+            <div class="main order-md-2 order-1 col col-12 col-sm-9">
               {% include 'snippets/maincontent.njk' %}
             </div>
         </div>

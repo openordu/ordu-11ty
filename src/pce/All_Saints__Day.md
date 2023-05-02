@@ -1,20 +1,18 @@
 ---
 layout: layouts/default.njk
 title: All Saints’ Day
-icon: article
-order: 696
+icon: file-lines
+order: 98
 ---
-# All Saints’ Day
-
 All Saints’ Day See Samhain.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

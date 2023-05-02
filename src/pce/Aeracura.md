@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Aeracura
-icon: article
-order: 1313
+icon: file-lines
+order: 33
 ---
-# Aeracura
-
 Celtic goddess Aeracura, also known as Aericura and Heracura, was often associated with Dis Pater and revered in Germany and Switzerland. Her character bore similarities to the Greek goddess Hecate, as reflected in their names. Aeracura was commonly depicted holding a Cornucopia or a basket of fruits, symbols of her connection to the Otherworld and goddesses of fecundity. More information about similar goddesses can be found under Deae Matres.
 
-## Attributes
+### Attributes
 
 - **Aeracura**: Celtic goddess
 - **Switzerland**: location
@@ -22,7 +20,7 @@ Celtic goddess Aeracura, also known as Aericura and Heracura, was often associat
 - **Otherworld**: attribute
 - **Deae Matres**: related entity
 
-## Entities
+### Entities
 
 - **Aeracura**: Celtic goddess
 - **Switzerland**: location
@@ -36,7 +34,7 @@ Celtic goddess Aeracura, also known as Aericura and Heracura, was often associat
 - **Otherworld**: attribute
 - **Deae Matres**: related entity
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

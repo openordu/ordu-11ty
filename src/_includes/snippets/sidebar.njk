@@ -7,7 +7,7 @@
       {% set isHomepage = entry.url == '/' %}
       {% set isActive = page.url | startsWith(entry.url) %}
       <li class="mb-0 d-grid gap-0 py-0 ps-0">
-        <button class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2 
+        <button {% if entry.children.length %}data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2 
         {% if sub %}sub{% else %}top{% endif %} 
             {% if not sub and entry.url != page.url and isActive and not isHomepage %}topactive{% endif %} 
             {% if isActive and not isHomepage and entry.url == page.url %} active{% endif %} 

@@ -16,7 +16,7 @@
     "watch-dev": "npm run build-dev && npm run sync",
     "postinstall": "gulp copy-assets",
     "scss": "node-sass --output-style compressed -o dev/css/ src/scss/theme.scss",
-    "watch:all": "onchange 'src/' -- npm run build-dev",
+    "watch:all": "onchange 'src/' -- npm run build-dev --wait 1000 --delay 1000 --poll-interval 2000",
     "serve": "eleventy --serve",
     "watch": "npm run clean && npm run build-dev && run-p sync watch:all",
     "clean": "gulp clean-dev",

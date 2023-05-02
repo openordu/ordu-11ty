@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Aill na Mireann
-icon: article
-order: 854
+icon: file-lines
+order: 72
 ---
-# Aill na Mireann
-
 Aill na Mireann See Stone Of Divisions.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 - **entities**: Aill na Mireann See
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

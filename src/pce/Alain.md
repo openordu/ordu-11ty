@@ -1,25 +1,23 @@
 ---
 layout: layouts/default.njk
 title: Alain
-icon: article
-order: 142
+icon: file-lines
+order: 86
 ---
-# Alain
-
 Fisher King is seen by Alain. Also, Alator is a British warrior or a healing god. Several sites in Britain have his name which seems to mean “he who rears and nourishes his people”. The name versions of Alator are also present in Ireland. The Romans linked Alator with Mars which might indicate he governed either war or healing.
 
-## Attributes
+### Attributes
 
 - **Alator**: British warrior or healing god
 - **Alator**: associated by the Romans with Mars
 
-## Entities
+### Entities
 
 - **Alain See Fisher King**: Person
 - **Alator**: Deity
 - **Mars**: Deity
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

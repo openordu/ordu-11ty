@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Assembly
-icon: article
-order: 1494
+icon: file-lines
+order: 167
 ---
-# Assembly
 
 
+### Attributes
 
-## Attributes
 
-
-## Entities
+### Entities
 
 - **entities**: Blessed
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

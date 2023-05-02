@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Andred
-icon: article
-order: 819
+icon: file-lines
+order: 117
 ---
-# Andred
-
 Arthurian hero Andred was a cousin of the romantic hero Tristan and acted as a spy for King Mark, who was the husband of Iseult, the lover of Tristan. According to certain texts, Andred assassinated Tristan in order to win the king's favor.
 
-## Attributes
+### Attributes
 
 - **Andred**: cousin of Tristan
 - **Andred**: spy for king Mark
@@ -18,14 +16,14 @@ Arthurian hero Andred was a cousin of the romantic hero Tristan and acted as a s
 - **Andred**: murdered Tristan
 - **Andred**: curry favor with the king
 
-## Entities
+### Entities
 
 - **Andred**: Arthurian hero
 - **Tristan**: romantic hero
 - **king Mark**: king
 - **Iseult**: lover
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

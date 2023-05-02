@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Anfortas
-icon: article
-order: 750
+icon: file-lines
+order: 118
 ---
-# Anfortas
-
 Anfortas See Fisher King.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 - **entities**: Anfortas See Fisher King
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

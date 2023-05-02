@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Aifi
-icon: article
-order: 302
+icon: file-lines
+order: 55
 ---
-# Aifi
-
 Obscurely mentioned in the Book of Invasions, Aifi is one of the Five wives of the hero Partholón. elgnad or Dealgnaid, Cerbnat, Cichban, and Nerbgen are the other four. Her identity is unknown apart from this.
 
-## Attributes
+### Attributes
 
 - **Aifi**: Irish heroine
 - **Book Of Invasions**: named in
@@ -20,7 +18,7 @@ Obscurely mentioned in the Book of Invasions, Aifi is one of the Five wives of t
 - **Nerbgen**: wife of Partholón
 - **Aifi**: otherwise unknown
 
-## Entities
+### Entities
 
 - **Aifi**: Irish heroine
 - **Book Of Invasions**: text
@@ -31,7 +29,7 @@ Obscurely mentioned in the Book of Invasions, Aifi is one of the Five wives of t
 - **Cichban**: wife
 - **Nerbgen**: wife
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

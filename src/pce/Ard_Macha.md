@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Ard Macha
-icon: article
-order: 297
+icon: file-lines
+order: 147
 ---
-# Ard Macha
-
 Ard Macha See Emain Macha.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 - **entities**: Ard Macha See Emain Macha
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

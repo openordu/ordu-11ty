@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Agretes
-icon: article
-order: 1649
+icon: file-lines
+order: 43
 ---
-# Agretes
-
 A heroic figure known as Agretes once ruled over Camelot before King Arthur ascended to the throne. Agretes' life came to a tragic end due to his refusal to aid a pilgrim from the Holy Land who possessed the revered Grail. His refusal resulted in him being struck with madness, leading to his ultimate demise.
 
-## Attributes
+### Attributes
 
 - **Agretes**: Arthurian hero
 - **Camelot**: kingdom
@@ -16,7 +14,7 @@ A heroic figure known as Agretes once ruled over Camelot before King Arthur asce
 - **Holy Land**: place
 - **Grail**: great chalice
 
-## Entities
+### Entities
 
 - **Agretes**: hero
 - **Arthur**: hero
@@ -24,7 +22,7 @@ A heroic figure known as Agretes once ruled over Camelot before King Arthur asce
 - **Holy Land**: place
 - **Grail**: object
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

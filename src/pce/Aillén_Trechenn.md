@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Aillén Trechenn
-icon: article
-order: 18
+icon: file-lines
+order: 71
 ---
-# Aillén Trechenn
-
 A creature named Aillén Trechenn, also known as "Triple-headed Aillen," regularly attacked Ireland's capital Tara and the provincial capital Emain Macha in Ulster. This monster was described as being sometimes male and sometimes female, and it lived in a cave called Oweynagat located in the Connacht capital of Cruachan. The poet Amairgin eventually defeated the creature, which had been holding Tara captive. As the Mórrígan usually resided in Oweynagat, it is possible that this monster was associated with her. It is hard to differentiate between this dangerous fiend and Aillén mac Midgna.
 
-## Attributes
+### Attributes
 
 - **Aillén Trechenn**: Triple-headed
 - **Aillén Trechenn**: Attacked Tara
@@ -18,7 +16,7 @@ A creature named Aillén Trechenn, also known as "Triple-headed Aillen," regular
 - **Amairgin**: Dispatched Aillén Trechenn
 - **Tara**: Freed from Aillén Trechenn's stranglehold
 
-## Entities
+### Entities
 
 - **Aillén Trechenn**: Monster
 - **Ireland**: Location
@@ -32,7 +30,7 @@ A creature named Aillén Trechenn, also known as "Triple-headed Aillen," regular
 - **Amairgin**: Poet
 - **Aillén mac Midgna**: Monster
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

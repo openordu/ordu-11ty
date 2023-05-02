@@ -1,20 +1,18 @@
 ---
 layout: layouts/default.njk
 title: Assa
-icon: article
-order: 290
+icon: file-lines
+order: 165
 ---
-# Assa
-
 Assa See Nessa.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

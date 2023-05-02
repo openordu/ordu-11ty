@@ -5,6 +5,31 @@ body {
 svg.small-logo, svg.small-logo-white, svg.small-logo image, svg.small-logo-white image {
   width: 2rem;
   height: 2rem;
+  margin-right: 0px !important;
+}
+
+span.logotitle {
+  margin-left: 0.5rem;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    height: var(--navbar-height);
+    padding: var(--navbar-vertical-padding) var(--navbar-horizontal-padding);
+    background: var(--navbar-bg-color);
+    box-shadow: 0 2px 8px var(--card-shadow);
+    line-height: var(--navbar-line-height);
+    white-space: nowrap;
+    transition: transform ease-in-out .3s,background-color var(--color-transition),box-shadow var(--color-transition);
+    -webkit-backdrop-filter: saturate(150%) blur(12px);
+    backdrop-filter: saturate(150%) blur(12px);
 }
 
 svg.small-logo-white image {

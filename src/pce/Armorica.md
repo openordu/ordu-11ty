@@ -1,20 +1,18 @@
 ---
 layout: layouts/default.njk
 title: Armorica
-icon: article
-order: 203
+icon: file-lines
+order: 152
 ---
-# Armorica
-
 Armorica See Brittany.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

@@ -1,20 +1,18 @@
 ---
 layout: layouts/default.njk
 title: Aquae Sulis
-icon: article
-order: 1654
+icon: file-lines
+order: 141
 ---
-# Aquae Sulis
-
 British goddess Sul, also known as Aquae Sulis, is the deity worshipped at the Roman bath shrine located in Bath, England. The shrine is dedicated to Sul, the Sun goddess.
 
-## Attributes
+### Attributes
 
 - **Aquae Sulis**: British goddess
 - **Bath**: hot Springs
 - **Sun goddess Sul**: dedicated to
 
-## Entities
+### Entities
 
 - **Aquae Sulis**: Shrine
 - **British goddess**: Deity
@@ -23,7 +21,7 @@ British goddess Sul, also known as Aquae Sulis, is the deity worshipped at the R
 - **England**: Country
 - **Sun goddess Sul**: Deity
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

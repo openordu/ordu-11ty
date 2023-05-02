@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Adhnúall
-icon: article
-order: 881
+icon: file-lines
+order: 14
 ---
-# Adhnúall
-
 Irish folklore recounts the existence of Adhnúall (Adnual), an animal featured in the tales of the legendary hero of Ireland, Fionn Mac Cumhaill. Adhnúall is one of Fionn's hunting Dogs, albeit not as frequently seen as Fionn's trusted companions, Bran and Sceolan.
 
-## Attributes
+### Attributes
 
 - **Adhnúall**: hunting dog
 - **Fionn Mac Cumhaill**: Irish hero
 - **Bran**: primary companion hound
 - **Sceolan**: primary companion hound
 
-## Entities
+### Entities
 
 - **Adhnúall**: mythological animal
 - **Irish**: nationality
@@ -23,7 +21,7 @@ Irish folklore recounts the existence of Adhnúall (Adnual), an animal featured 
 - **Bran**: hunting dog
 - **Sceolan**: hunting dog
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

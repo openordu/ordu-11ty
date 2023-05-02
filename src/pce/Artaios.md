@@ -1,21 +1,19 @@
 ---
 layout: layouts/default.njk
 title: Artaios
-icon: article
-order: 870
+icon: file-lines
+order: 154
 ---
-# Artaios
-
 Artaios See Mercury.
 
-## Attributes
+### Attributes
 
 
-## Entities
+### Entities
 
 - **entities**: Mercury
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 

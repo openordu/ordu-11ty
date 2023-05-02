@@ -1,14 +1,12 @@
 ---
 layout: layouts/default.njk
 title: Arberth
-icon: article
-order: 1453
+icon: file-lines
+order: 143
 ---
-# Arberth
-
 A mythical site in Welsh mythology is referred to as Arberth, which is described as a Fairy Mound situated in the kingdom of Pwyll, where individuals witness visions. The location is occasionally linked with the town of Narberth, located in Dyfed, a region in southwestern Wales.
 
-## Attributes
+### Attributes
 
 - **Arberth**: name
 - **Arberth**: location
@@ -16,7 +14,7 @@ A mythical site in Welsh mythology is referred to as Arberth, which is described
 - **Narberth**: associated with Arberth
 - **Dyfed**: region in southwestern Wales
 
-## Entities
+### Entities
 
 - **Arberth**: mythological site
 - **Welsh**: language
@@ -25,7 +23,7 @@ A mythical site in Welsh mythology is referred to as Arberth, which is described
 - **Narberth**: town
 - **Dyfed**: region
 
-## Sources
+### Sources
 
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 
