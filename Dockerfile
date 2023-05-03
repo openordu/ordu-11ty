@@ -1,9 +1,11 @@
 # Use an official Node.js runtime as a parent image
-FROM node:16
+FROM node:16-alpine AS build
 
-ENV PORT=8080
 # Set the working directory
 WORKDIR /usr/src/app
+
+# Install git
+RUN apk add --no-cache git
 
 # Copy the rest of the application code
 COPY . .
@@ -14,9 +16,8 @@ RUN npm install
 # Install Eleventy globally
 RUN npm install -g @11ty/eleventy
 
+# Install glup
 RUN npm install -g gulp
-# Make port 8080 available to the world outside this container
-EXPOSE 8080
 
 # Define environment variable for Eleventy
 ENV ELEVENTY_ENV=production
@@ -24,13 +25,28 @@ ENV ELEVENTY_ENV=production
 # Build the Eleventy site
 RUN eleventy
 
+# Generate images and CSS
 RUN gulp dist-assets && gulp sass
 
+# Use an official Node.js runtime as a parent image
+FROM node:16-alpine
+
+# Copy the built Eleventy site from the previous image
+COPY --from=build /usr/src/app/dev /usr/src/app/dev
+
+RUN mv /usr/src/app/dev /usr/src/app/_site
+
+# Set the working directory
+WORKDIR /usr/src/app/_site
+
+# Install http-server
 RUN npm install http-server -g
 
-RUN mv dev _site
+# Set the env var for port(not used)
+ENV PORT=8080
 
-RUN rm -rf node_modules src
+# Expose port 8080 to the outside world
+EXPOSE 8080
 
 # Start Eleventy server
-CMD ["http-server", "_site", "-p=8080"]
+CMD ["http-server", "./", "-p=8080"]

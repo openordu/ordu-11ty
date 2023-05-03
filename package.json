@@ -16,11 +16,15 @@
     "watch-dev": "npm run build-dev && npm run sync",
     "postinstall": "gulp copy-assets",
     "scss": "node-sass --output-style compressed -o dev/css/ src/scss/theme.scss",
-    "watch:all": "onchange 'src/' -- npm run build-dev --wait 1000 --delay 1000 --poll-interval 2000",
+    "watch:all": "onchange -i -d 1000 -p 2000 'src/' -- npm run build-dev",
     "serve": "eleventy --serve",
     "watch": "npm run clean && npm run build-dev && run-p sync watch:all",
     "clean": "gulp clean-dev",
-    "clean-prod": "gulp clean-public"
+    "clean-prod": "gulp clean-public",
+    "docker:build": "docker build . -t eleventy:latest || true",
+    "docker:run": "docker run -d -p 8080:8080 eleventy:latest",
+    "docker:stop": "docker ps -a | grep eleventy | awk '{print $1}' | xargs docker stop || true",
+    "docker:watch": "onchange -i -k 'src/' -- bash -c 'run-p docker:stop docker:build && npm run docker:run'"
   },
   "dependencies": {
     "@11ty/eleventy": "1.0.1",
