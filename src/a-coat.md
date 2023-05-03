@@ -42,13 +42,14 @@ By using [`vuepress-plugin-md-enhance`][md-enhance], the theme extends more Mark
 
 #### Custom Container
 
-::: v-pre
+::: pre
 
-Safely use {{ variable }} in Markdown.
+Safely use \{\{ variable \}\} in Markdown.
 
 :::
 
-::: info Custom Title
+::: info
+### Custom Title
 
 A custom information container with `code`, [link](#custom-container).
 
@@ -58,31 +59,35 @@ const a = 1;
 
 :::
 
-::: tip Custom Title
+::: tip
+### Custom Title
 
 A custom tip container
 
 :::
 
-::: warning Custom Title
+::: warning
+### Custom Title
 
 A custom warning container
 
 :::
 
-::: danger Custom Title
+::: danger
+### Custom Title
 
 A custom danger container
 
 :::
 
-::: details Custom Title
+::: details
+### Custom Title
 
 A custom details container
 
 :::
 
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/container.html)
+down here
 
 #### Tabs
 
@@ -324,49 +329,6 @@ span {
 #### Stylize
 
 Donate Mr.Hope a cup of coffee. _Recommended_
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/stylize.html)
-
-#### Playground
-
-::: playground#ts TS demo
-
-@file index.ts
-
-```ts
-const msg = "hello world";
-
-const speak = (msg: string) => console.log(msg);
-
-speak(msg);
-```
-
-:::
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/playground.html)
-
-#### Vue Playground
-
-::: vue-playground Vue Playground
-
-@file App.vue
-
-```html
-<script setup>
-import { ref } from "vue";
-
-const msg = ref("Hello World!");
-</script>
-
-<template>
-  <h1>{{ msg }}</h1>
-  <input v-model="msg" />
-</template>
-```
-
-:::
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/vue-playground.html)
 
 #### Presentation
 

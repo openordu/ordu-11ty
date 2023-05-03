@@ -8,10 +8,14 @@ svg.small-logo, svg.small-logo-white, svg.small-logo image, svg.small-logo-white
   margin-right: 0px !important;
 }
 
-.features a h3 {
+.features a {
   color: $body-color;
 }
 
+.features a .icon, .features a i {
+  color: $teal;
+  size: x-large;
+}
 span.icon { font-size: x-large !important; }
 span.logotitle {
   margin-left: 0.5rem;

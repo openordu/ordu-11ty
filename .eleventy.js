@@ -1,7 +1,8 @@
 const { DateTime }                    = require("luxon");
-const navigationPlugin                = require('@11ty/eleventy-navigation')
+const doMarkdownIT                    = require('@digitalocean/do-markdownit');
+const navigationPlugin                = require('@11ty/eleventy-navigation');
 const pluginMermaid                   = require("@kevingimbel/eleventy-plugin-mermaid");
-const rssPlugin                       = require('@11ty/eleventy-plugin-rss')
+const rssPlugin                       = require('@11ty/eleventy-plugin-rss');
 const markdownIt                      = require("markdown-it");
 const markdownItSub                   = require("markdown-it-sub");
 const markdownItSup                   = require("markdown-it-sup");
@@ -42,19 +43,22 @@ module.exports = function(eleventyConfig) {
   };
   let markdownLibrary = markdownIt(options).use(markdownItEmoji);
   
+  markdownLibrary.use(markdownItContainer);
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItTips);
   markdownLibrary.use(markdownItAlign);
   markdownLibrary.use(markdownItSub);
+  markdownLibrary.use(doMarkdownIT)
   markdownLibrary.use(markdownItSup);
   markdownLibrary.use(markdownItTableOfContents);
   markdownLibrary.use(markdownItTaskLists);
   markdownLibrary.use(markdownItVideo);
   markdownLibrary.use(markdownItAnchor, {
+    level: 2,
+    permalinkClass: 'header-anchor',
     permalink: markdownItAnchor.permalink.linkInsideHeader({
-      symbol: `<span class="visually-hidden">Jump to heading</span>
-      <span aria-hidden="true">#</span>`,
+      symbol: '<span class="visually-hidden">Jump to heading</span>\n<span aria-hidden="true">¶</span>',
       placement: 'after'
     })
   });
