@@ -1,10 +1,24 @@
 ---
-title: todos
+title: Todos
 layout: layouts/default.njk
-icon: task
+icon: list-check
 ---
 
-# todos
+## Content
+- [ ] Move documentation to the git repository
+- [x] Build decent home page
+- [ ] Refine home page
+- [x] About page port
+- [ ] Blog port
+- [ ] Docs port
+- [x] Add contributors element
+- [ ] Regen MD files with tags, icons, contributors
+- [x] Remove the h1
+- [ ] Change the footer
+- [ ] Honestly revisit the credits section on the homepage
+- [ ] entity icons
+- [ ] pce letter list
+- [ ] letter page entry list
 
 ## Markdown
 - [ ] Style icons into all the custom containers
@@ -19,3 +33,7 @@ icon: task
 - [ ] Add code pen potentially
 - [ ] Add slides to markdown-it
 - [ ] custom titles in alert boxes unstyle as links
+
+## Search
+- [ ] Build site map
+- [ ] Deploy job calls Google crawl sitemap

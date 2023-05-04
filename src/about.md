@@ -7,11 +7,11 @@ layout: layouts/default.njk
 ## What is this Project?
 
 This is a project called the **_[Openordú Project](https://www.github.com/openordu/)_** 
-which features a **_[Public Celtic Encyclopedia(PCE)](https://www.github.com/openordu/pce)_**.
+which features a **_[Public Celtic Encyclopedia(PCE)](/pce)_**.
 
 It exists as a resource guide supporting the practice of Celtic Paganism. This
 project is released under the [Celtic Culture Attribution Share Alike 4.0
-International](license.md).
+International](/license/).
 
 ## About this project
 Our project's purpose is to produce a free software toolkit and text-base for a
@@ -42,13 +42,14 @@ awareness, and individual sovereignty.
 
 The technical portions of the project form several major parts:
 
-* Source Texts: myths, stories, transations, and folk-tales
+* Source Texts: myths, stories, translations, and folk-tales
 * Praxes: customs, prayers, praxis, charms, healing, rites, songs, dances, poetry 
 * Frontend: A body of UI which turns the Markdown into a
 website.
 * Public Celtic Encyclopedia: A whack at a public form of Mary Jones's
-JCE Volunteer coders are always welcome. We are, in particular, looking for
-vuejs and vuepress user interface programmers.
+[JCE](http://maryjones.us/jce)
+
+Volunteer coders are always welcome. We are, in particular, looking for user interface programmers familiar with 11ty.
 
 This site serves as the project's code repository, code documentation, and issue
 tracker.
@@ -70,7 +71,7 @@ Public means:
 1. Not free to change these restrictions in copies, distributions, uses,
    modifications, or contributions.
 
-Check out the [License](license.md) to find out. There's a summary section.
+Check out the [License](license) to find out. There's a summary section.
 
 ## Why isn't Wikipedia Good?
 

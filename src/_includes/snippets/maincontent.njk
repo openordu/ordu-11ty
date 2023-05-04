@@ -1,12 +1,12 @@
 
 {% include 'snippets/breadcrumbs.njk' %}
 
-<header>
+<header class="mt-4">
       {# <a name="{{ title | slugify }}" href="#{{ title | slugify }}"><h1 class="display-1 link-fancy">{{ title }}</h1></a> #}
-      {% if iconz %}
-      <i class="display-1 fa-{{ site.fatheme }} fa-{{ icon }}"></i>
+      {% if icon %}
+      <i class="display-1 fa-{{ site.fatheme }} fa-{{ icon }} float-start ps-0 ms-0"></i>
       {% endif %}
-      <a name="{{ page.fileSlug }}"><h1>{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
+      <a name="{{ page.fileSlug }}" class="link-fancy"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
 {{ content | safe }}

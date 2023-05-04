@@ -1,0 +1,7 @@
+const { DateTime } = require('luxon');
+
+module.exports = () => {
+  return (date, format) => {
+    return DateTime.fromJSDate(date).toFormat(format);
+  };
+};

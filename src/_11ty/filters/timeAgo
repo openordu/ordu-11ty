@@ -1,0 +1,7 @@
+const { formatDistanceToNow } = require('date-fns');
+
+module.exports = () => {
+  return (date) => {
+    return formatDistanceToNow(date, { addSuffix: true });
+  };
+};

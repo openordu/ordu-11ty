@@ -1,8 +1,9 @@
 ---
 layout: layouts/code.njk
-title: Pricing 1
+title: Merch
 description: Simple pricing table. Inspired by the vercel.com pricing page
 icon: dollar-sign
+order: 99
 ---
 <div class="row g-0 d-flex align-items-stretch border rounded shadow">
   <div class="col-6 bg-light p-5 d-flex align-items-center">

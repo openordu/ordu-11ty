@@ -20,11 +20,19 @@ const eleventyNavigationPlugin        = require("@11ty/eleventy-navigation");
 const markdownItTableOfContents       = require("markdown-it-table-of-contents");
 const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
+const fileModifiedDate = require('./src/_11ty/filters/fileModifiedDate');
+const timeAgo = require('./src/_11ty/filters/timeAgo');
+const date = require('./src/_11ty/filters/date');
+const readingTime = require('./src/_11ty/filters/readingTime');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   // eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
   eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
+  eleventyConfig.addNunjucksAsyncFilter('fileModifiedDate', fileModifiedDate());
+  eleventyConfig.addNunjucksFilter('timeAgo', timeAgo());
+  eleventyConfig.addNunjucksFilter('date', date());
+  eleventyConfig.addNunjucksFilter('readingTime', readingTime());
 
 
   // assets we want to passthrough
@@ -43,13 +51,20 @@ module.exports = function(eleventyConfig) {
   };
   let markdownLibrary = markdownIt(options).use(markdownItEmoji);
   
+
+  var externalLinks = require('markdown-it-external-links');
+ 
+  markdownLibrary.use(externalLinks, {
+    externalTarget: "_external",
+    internalClassName: "custom-internal-link",
+  });
   markdownLibrary.use(markdownItContainer);
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItTips);
   markdownLibrary.use(markdownItAlign);
   markdownLibrary.use(markdownItSub);
-  markdownLibrary.use(doMarkdownIT)
+  //markdownLibrary.use(doMarkdownIT);
   markdownLibrary.use(markdownItSup);
   markdownLibrary.use(markdownItTableOfContents);
   markdownLibrary.use(markdownItTaskLists);
