@@ -14,16 +14,56 @@ index: 4
 
 ## Tables
 
-|           center           |                    right | left                    |
-| :------------------------: | -----------------------: | :---------------------- |
-| For center align use `:-:` | For right align use `-:` | For left align use `:-` |
-|             b              |                aaaaaaaaa | aaaa                    |
-|             c              |                     aaaa | a                       |
+Example 1: Simple table with header and two rows
+
+
+| Fruit  | Price |
+| ------ | ----- |
+| Apple  | $1.00 |
+| Banana | $0.50 |
+
 
 ```md
-|           center           |                    right | left                    |
-| :------------------------: | -----------------------: | :---------------------- |
-| For center align use `:-:` | For right align use `-:` | For left align use `:-` |
-|             b              |                aaaaaaaaa | aaaa                    |
-|             c              |                     aaaa | a                       |
+| Fruit  | Price |
+| ------ | ----- |
+| Apple  | $1.00 |
+| Banana | $0.50 |
+```
+
+
+Example 2: Table with alignment and three rows
+
+|     Product | Unit Price | Quantity |
+| ----------- | ---------: | -------: |
+| Apples      |      $1.00 |       10 |
+| Bananas     |      $0.50 |       20 |
+| Grapes      |      $2.00 |        5 |
+
+
+```md
+|     Product | Unit Price | Quantity |
+| ----------- | ---------: | -------: |
+| Apples      |      $1.00 |       10 |
+| Bananas     |      $0.50 |       20 |
+| Grapes      |      $2.00 |        5 |
+```
+
+Example 3: Complex table with alignment, multiline header, and multiple rows
+
+|        Product | Unit Price | Quantity | Total Price |
+| -------------- | ---------: | -------: | ----------: |
+| Apples         |      $1.00 |       10 |      $10.00 |
+| Bananas        |      $0.50 |       20 |      $10.00 |
+| Grapes         |      $2.00 |        5 |      $10.00 |
+| Oranges        |      $0.80 |       12 |       $9.60 |
+| Strawberries   |      $0.50 |       20 |      $10.00 |
+
+```md
+|        Product | Unit Price | Quantity | Total Price |
+| -------------- | ---------: | -------: | ----------: |
+| Apples         |      $1.00 |       10 |      $10.00 |
+| Bananas        |      $0.50 |       20 |      $10.00 |
+| Grapes         |      $2.00 |        5 |      $10.00 |
+| Oranges        |      $0.80 |       12 |       $9.60 |
+| Strawberries   |      $0.50 |       20 |      $10.00 |
 ```

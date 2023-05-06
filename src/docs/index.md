@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 
-icon: read
+icon: book
 title: 'Documentation Home'
 tags:
   - Introduction

@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Tips & Warnings
-icon: creative
+icon: lightbulb
 
 
 index: 95
@@ -14,14 +14,14 @@ index: 95
 
 ## Tips, Notes, Warnings & Containers
 
-::: tip
+::: tip Title Text
 
 This is a tip.
 
 :::
 
 ```md
-::: tip
+::: tip Title Text
 This is a tip.
 :::
 ```
@@ -46,9 +46,9 @@ There are other kids of containers besides tips.
 :::
 ```
 
-:::: danger
+::: danger
 Careful how you use these boxes, each has a specific psychological impact.
-::::
+:::
 
 ```md
 ::: danger

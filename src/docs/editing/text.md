@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Text
-icon: superscript
+icon: font
 
 
 index: 1

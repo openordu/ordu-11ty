@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Code of Conduct
-icon: flower
+icon: balance-scale
 
 
 index: 80

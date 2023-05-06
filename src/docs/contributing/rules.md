@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Repository & Content Rules
-icon: markdown
+icon: archive
 
 
 order: 95

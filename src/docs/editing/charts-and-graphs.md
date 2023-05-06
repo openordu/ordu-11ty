@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Charts & Graphs
-icon: diagram
+icon: chart-bar
 
 
 index: 80
@@ -32,11 +32,11 @@ sequenceDiagram
 Go [here](https://vuepress-theme-hope.github.io/md-enhance/guide/flowchart/) and also see the [flowchart.js](https://github.com/adrai/flowchart.js) reference to master
  this type of formatting.
 
-# What is your favorite Smith God?
+# Who is your favorite Smith God?
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00', 'pie4': '#0000FF', 'pie5': '#800080', 'pie6': '#ff0000', 'pie7': '#FFA500'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#0000FF', 'pie2': '#800080', 'pie3': '#ff0000', 'pie4': '#FFA500'}}}%%
 pie
-title What is your favorite smith god?
+title Who is your favorite smith god?
   "Luchta" : 2
   "Lughaid" : 3
   "Goibniu" : 45
@@ -45,7 +45,7 @@ title What is your favorite smith god?
 ````md
 ```mermaid
 pie
-title What is your favorite smith god?
+title Who is your favorite smith god?
   "Luchta" : 2
   "Lughaid" : 3
   "Goibniu" : 45

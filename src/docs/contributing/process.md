@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-icon: note
+icon: sync
 title: 'The Change Process'
 contributors: [ "Christopher Godwin" ]
 time: 2022-12-28

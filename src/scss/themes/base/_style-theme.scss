@@ -2,6 +2,57 @@ body {
   letter-spacing:-.02rem;
 }
 
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  border-collapse: collapse;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+th, td {
+  padding: 0.5rem;
+  vertical-align: top;
+  border-top: 1px solid #646464;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2; /* Adjust the color as desired */
+}
+td {
+  border-right: 1px solid #646464;
+}
+
+th {
+  text-align: inherit;
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #646464;
+}
+
+.alert-tip {
+  background-color: $teal;
+  color: white;
+}
+.alert-tip .icon, .alert-tip a {
+  color: white;
+}
 svg.small-logo, svg.small-logo-white, svg.small-logo image, svg.small-logo-white image {
   width: 2rem;
   height: 2rem;
@@ -48,8 +99,11 @@ a.external-link {
 blockquote {
 padding: 10px 20px;
 margin: 0 0 20px;
-font-size: 17.5px;
 border-left: 5px solid #eee;
+font-size: 1.25rem;
+font-weight: 300;
+margin-top: 3rem;
+margin-bottom: 3rem;
 }
 
 blockquote footer, blockquote small {

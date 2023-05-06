@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 
-icon: create
+icon: user-plus
 title: 'Contributing'
 tags:
   - Contributing

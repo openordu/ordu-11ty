@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-icon: git
+icon: "brands fa-git"
 title: Git Installation
 time: 2022-12-27
 tags:

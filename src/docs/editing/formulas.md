@@ -6,7 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Formulas
-icon: tex
+icon: superscript
 
 
 index: 94

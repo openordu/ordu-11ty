@@ -59,7 +59,11 @@ module.exports = function(eleventyConfig) {
     internalClassName: "custom-internal-link",
   });
 
-  markdownLibrary.use(markdownItContainer);
+  markdownLibrary.use(markdownItContainer, {
+    validate: function(params) {
+        return params.trim().split(' ')[0];
+    }});
+  
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItTips);

@@ -1,6 +1,7 @@
 ---
-icon: id-card
+icon: file-alt
 title: Celtic Culture Attribution-ShareAlike 1.0 International Public License
+layout: layouts/default.njk
 ---
 # Celtic Culture Attribution-ShareAlike 1.0 International Public License
 ## Summary

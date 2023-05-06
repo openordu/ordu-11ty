@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 
-icon: read
+icon: rocket
 title: 'Quickstart Guide'
 tags:
   - Introduction

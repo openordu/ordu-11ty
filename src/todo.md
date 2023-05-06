@@ -11,7 +11,7 @@ icon: list-check
 - [x] About page port
 - [ ] Blog port
 - [x] Docs port
-  - [ ] fix all the icons
+  - [x] fix all the icons
 - [x] Add contributors element
 - [ ] Regen MD files with tags
 - [ ] See if you can find icons for some of the entity types
@@ -25,19 +25,18 @@ icon: list-check
 - [ ] images
 
 ## Markdown
-- [ ] Style icons into all the custom containers
+- [x] Style icons into all the custom containers
 - [ ] Test and rework collapse info blocks
-- [ ] See if the title can avoid being links
+- [x] See if the title can avoid being links
 - [ ] Use some tabs markdown plugin
 - [ ] markdown it attrs
-- [ ] mark / highlight important words
+- [x] mark / highlight important words
 - [ ] images and image Enhancement
-- [ ] charts, echarts, mermaid, and flowcharts
+- [x] charts, echarts, mermaid, and flowcharts
 - [ ] Style code blocks
 - [ ] Add code pen potentially
-- [ ] Add slides to markdown-it
-- [ ] custom titles in alert boxes unstyle as links
+- [x] custom titles in alert boxes
 
 ## Search
 - [ ] Build site map
-- [ ] Deploy job calls Google crawl sitemap
+- [ ] Deploy job will call Google crawl sitemap

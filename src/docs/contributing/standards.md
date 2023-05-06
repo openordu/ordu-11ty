@@ -1,7 +1,7 @@
 ---
 layout: layouts/default.njk
 
-icon: read
+icon: check-square
 title: 'Standards'
 tags:
   - Contributing

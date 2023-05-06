@@ -1,6 +1,6 @@
 ---
 layout: layouts/default.njk
-icon: list
+icon: spinner
 title: 'Fetching the Content'
 contributors: [ "Christopher Godwin" ]
 
