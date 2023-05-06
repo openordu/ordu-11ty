@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Alisanos
 icon: file-lines
-order: 97
+order: 96
+contributors: [ 'Christopher Godwin' ]
 ---
 A little-known deity from the Gaulish pantheon, Alisanos (also known as Alisanus) is a Continental Celtic god. His name may have been used for the significant town of Alesia, which is believed to have different meanings such as stone, alder, or rowan.
 
-### Attributes
+## Attributes
 
 - **Alisanos**: Continental Celtic god
 - **Gaulish god**: obscure
@@ -14,7 +15,7 @@ A little-known deity from the Gaulish pantheon, Alisanos (also known as Alisanus
 - **Alesia**: important settlement
 - **meaning**: stone, alder, or rowan
 
-### Entities
+## Entities
 
 - **Alisanos**: Continental Celtic god
 - **Gaulish god**: obscure

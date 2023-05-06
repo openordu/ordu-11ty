@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Alauna
 icon: file-lines
-order: 87
+order: 86
+contributors: [ 'Christopher Godwin' ]
 ---
 Continental Celtic goddess Alauna was a river divinity discovered in Wales, specifically in the river Alun located in Pembrokeshire, and in Brittany, specifically in the river Alaunus. It is also believed that she may have existed in England’s Alun, a tributary of the Dee. Folklore tells that fish from this river would come out of the water just to stare at human men and would wink suggestively at women.
 
-### Attributes
+## Attributes
 
 - **Alun**: River in Pembrokeshire
 - **Dee**: Tributary of England's Alun
@@ -14,7 +15,7 @@ Continental Celtic goddess Alauna was a river divinity discovered in Wales, spec
 - **men**: Stared at by fish from Dee
 - **women**: Suggestively winked at by fish from Dee
 
-### Entities
+## Entities
 
 - **Alauna**: Continental Celtic goddess
 - **Brittany**: Location

@@ -2,17 +2,18 @@
 layout: layouts/default.njk
 title: Airech
 icon: file-lines
-order: 81
+order: 80
+contributors: [ 'Christopher Godwin' ]
 ---
 Irish mythology features the enigmatic Airech, a hero who does not hold a prominent role except as the individual responsible for navigating the vessel helmed by the enigmatic Donn. Amairgin, the famed Bard of the Milesians served as Airech’s foster father. It is suggested that Donn may represent the sovereign of death and, therefore, Airech functions as the pilot of the death boat.
 
-### Attributes
+## Attributes
 
 - **Airech**: plays little part in Irish mythology
 - **Airech**: steersman of the death barge
 - **Donn**: mysterious
 
-### Entities
+## Entities
 
 - **Airech**: Irish hero
 - **Bard**: Milesians

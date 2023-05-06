@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: Assembly
 icon: file-lines
-order: 167
+order: 166
+contributors: [ 'Christopher Godwin' ]
 ---
 
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 - **entities**: Blessed
 

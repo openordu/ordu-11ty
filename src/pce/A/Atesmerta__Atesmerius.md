@@ -2,17 +2,18 @@
 layout: layouts/default.njk
 title: Atesmerta, Atesmerius
 icon: file-lines
-order: 172
+order: 171
+contributors: [ 'Christopher Godwin' ]
 ---
 Atesmerta and Atesmerius are two Celtic deities worshiped on the continent. Their names have been found on various inscriptions in Gaul, but no further information about them has been discovered.
 
-### Attributes
+## Attributes
 
 - **Atesmerta**: Divinity
 - **Atesmerius**: Divinity
 - **Gaul**: Location of inscriptions
 
-### Entities
+## Entities
 
 - **Atesmerta**: Continental Celtic goddess
 - **Atesmerius**: Continental Celtic god

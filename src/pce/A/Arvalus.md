@@ -2,18 +2,19 @@
 layout: layouts/default.njk
 title: Arvalus
 icon: file-lines
-order: 160
+order: 159
+contributors: [ 'Christopher Godwin' ]
 ---
 Continental Celtic deity Arvalus was associated with healing and was identified by Romans as an equivalent of Apollo. It is possible that the name Arvalus once presided over a sanctuary of thermal springs, as this term was frequently used for divine figures in such locations.
 
-### Attributes
+## Attributes
 
 - **Arvalus**: Healing
 - **Apollo**: equated with Arvalus by the invading Romans
 - **thermal Springs**: divinities associated with the name Apollo
 - **shrine**: a place where Arvalus may have once ruled
 
-### Entities
+## Entities
 
 - **Arvalus**: Celtic god
 - **Apollo**: Roman divinity

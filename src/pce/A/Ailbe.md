@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Ailbe
 icon: file-lines
-order: 58
+order: 57
+contributors: [ 'Christopher Godwin' ]
 ---
 Ailbe, also known as Ailba, is a creature from Irish mythology. This famous hunting dog belonged to Mac Dathó, a warrior who aimed to please two powerful provincial kings. Both Concobar Mac Nessa, the king of Ulster, and Ailill Mac Mata, the king of Connacht, desired the dog. Mac Dathó promised it to both of them, causing an argument that eventually led to the death of the dog.
 
-### Attributes
+## Attributes
 
 - **Ailbe**: famous hunting Dog
 - **Mac Dathó**: owner
@@ -14,7 +15,7 @@ Ailbe, also known as Ailba, is a creature from Irish mythology. This famous hunt
 - **Ailill Mac Mata**: one of the kings who desired Ailbe
 - **Ailbe**: killed
 
-### Entities
+## Entities
 
 - **Ailbe**: Irish mythological beast
 - **Mac Dathó**: warrior

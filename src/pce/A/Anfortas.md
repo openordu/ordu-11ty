@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: Anfortas
 icon: file-lines
-order: 118
+order: 117
+contributors: [ 'Christopher Godwin' ]
 ---
 Anfortas See Fisher King.
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 - **entities**: Anfortas See Fisher King
 

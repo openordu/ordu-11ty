@@ -2,16 +2,17 @@
 layout: layouts/default.njk
 title: Aimend
 icon: file-lines
-order: 74
+order: 73
+contributors: [ 'Christopher Godwin' ]
 ---
 Obscure and enigmatic, Aimend is a goddess from Irish mythology who holds her place among the ranks of early solar deities.
 
-### Attributes
+## Attributes
 
 - **Aimend**: obscure
 - **Aimend**: early
 
-### Entities
+## Entities
 
 - **Aimend**: Irish goddess
 - **solar divinity**: divinity

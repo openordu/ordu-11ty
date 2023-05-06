@@ -2,18 +2,19 @@
 layout: layouts/default.njk
 title: Aguigrenons
 icon: file-lines
-order: 46
+order: 45
+contributors: [ 'Christopher Godwin' ]
 ---
 Arthurian hero Aguigrenons, though a minor figure among the great knights of the Round Table, was ultimately defeated by the virtuous Percival, serving as their adversary.
 
-### Attributes
+## Attributes
 
 - **Aguigrenons**: minor figure
 - **Aguigrenons**: enemy
 - **Percival**: pure
 - **Aguigrenons**: vanquished
 
-### Entities
+## Entities
 
 - **Aguigrenons**: Arthurian hero
 - **Round Table knights**: legendary knights

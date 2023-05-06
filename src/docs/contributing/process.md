@@ -16,26 +16,16 @@ order: 97
 ---
 ## The Change Process
 
-```flow
-st=>start: Website Exists
-e=>end: Change Has Been Made
-op1=>operation: Someone Wants to Make a Change|past
-op2=>operation: Make the Change in Your Branch|current
-sub1=>subroutine: Branch Repo|invalid
-sub2=>subroutine: Request a Merge|invalid
-cond=>condition: Approved?
-io=>inputoutput: Merge Changes|future
-op3=>subroutine: Have a Discussion
-op4=>operation: Improve the Change
-
-st->op1(right)
-op1->sub1(right)
-sub1->op2(right)
-op2->sub2(right)
-sub2->cond
-cond(yes)->io(right)
-cond(no, right)->op3(right)
-op3->op4(down)
-op4(right)->sub2(right)
-io->e
+```mermaid
+graph TD
+    st(Website Exists) --> op1[Someone Wants to Make a Change]
+    op1 --> sub1[Branch Repo]
+    sub1 --> op2[Make the Change in Your Branch]
+    op2 --> sub2[Request a Merge]
+    sub2 --> cond{Approved?}
+    cond -- Yes --> io[Merge Changes]
+    cond -- No --> op3[Have a Discussion]
+    op3 --> op4[Improve the Change]
+    op4 --> sub2
+    io --> e(Change Has Been Made)
 ```

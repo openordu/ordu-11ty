@@ -37,10 +37,26 @@ span.icon { font-size: x-large !important; }
 span.logotitle {
   margin-left: 0.5rem;
 }
-
+.katex-html {
+  display: none;
+}
 a.external-link {
   position: relative;
   padding-right: 1.25em; /* Adjust the padding based on the icon size */
+}
+
+blockquote {
+padding: 10px 20px;
+margin: 0 0 20px;
+font-size: 17.5px;
+border-left: 5px solid #eee;
+}
+
+blockquote footer, blockquote small {
+  display: block;
+  font-size: 80%;
+  line-height: 1.42857143;
+  color: #777;
 }
 
 code {
@@ -61,7 +77,7 @@ pre code {
   border-radius: 6px;
   padding: 0.2em 0.4em;
   margin: 0;
-  border: 1px solid rgba(27, 31, 35, 0.15);
+  border: 1px solid rgba(27, 31, 35, .5);
   min-width: 100%;
 }
 

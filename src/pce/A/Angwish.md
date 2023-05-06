@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Angwish
 icon: file-lines
-order: 122
+order: 121
+contributors: [ 'Christopher Godwin' ]
 ---
 Angwish, an Arthurian hero, was a ruler of Ireland and the father of Iseult, the center of one of the most notable Arthurian romances. He was initially king Arthur's adversary, but later became his comrade. Angwish's brother, Morholt, instigated the battle that brought Tristan, Iseult's destined lover, to Angwish's palace where he first fell deeply in love with her. For information about animal divination, refer to Bull-Sleep.
 
-### Attributes
+## Attributes
 
 - **Angwish**: Arthurian hero
 - **Ireland**: Location
@@ -16,7 +17,7 @@ Angwish, an Arthurian hero, was a ruler of Ireland and the father of Iseult, the
 - **Tristan**: Fated lover of Iseult
 - **Bull-Sleep**: Animal divination
 
-### Entities
+## Entities
 
 - **Angwish**: Arthurian hero
 - **Ireland**: Location

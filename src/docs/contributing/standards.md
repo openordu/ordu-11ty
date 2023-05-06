@@ -9,18 +9,18 @@ tags:
 
 order: 100
 ---
-# Article Standards
+# Article Frontmatter Standards
 
-1. Lines must be wrapped at 80 characters for files ending in .md, yaml at 80 or
+1. Lines should be wrapped at 80 characters for files ending in .md, yaml at 80 or
    120 except for links.
-1. The frontmatter section `--- <stuff> ---` must exist and begin and end with
+1. The frontmatter section `--- key: value ---` must exist and begin and end with
    three dashes on separate lines.
-1. The first heading must be h1 and match the value of the frontmatter variable `title:`
+1. The frontmatter section must include `layout: layouts/default.njk` or a custom layout.
+1. The first heading should be omitted so that the first heading in the document is an h2.
    if title is supplied. If the frontmatter title isn't supplied, this h1 is the
    page title.
-1. Topic items in the [public-celtic-encyclopedia](https://github.com/openordu/pce)(PCE) repository must have `index:
-   false` in the frontmatter to avoid build problems.
 1. PCE entries must have a prev and next frontmatter tag.
 1. If you are contributing multiple articles outside of the PCE that go in a
-   list, in addition to prev and next, consider using `index` to correctly
+   list, in addition to prev and next, consider using `order:` to correctly
    order them.
+1. Directories must have an index.md file in them for them to show up.

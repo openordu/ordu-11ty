@@ -2,17 +2,18 @@
 layout: layouts/default.njk
 title: Aillén, brother of Áine
 icon: file-lines
-order: 69
+order: 68
+contributors: [ 'Christopher Godwin' ]
 ---
 Aillén, brother of the Fairy Queen of Munster named Áine, had developed romantic feelings towards the spouse of Manannán Mac Lir, who happened to be a deity of the sea.
 
-### Attributes
+## Attributes
 
 - **Aillén**: brother of Áine
 - **Áine**: goddess of Fairy Queen of Munster
 - **Manannán Mac Lir**: sea god
 
-### Entities
+## Entities
 
 - **Aillén**: person
 - **Áine**: mythical being

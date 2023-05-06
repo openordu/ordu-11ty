@@ -2,18 +2,19 @@
 layout: layouts/default.njk
 title: Antenociticus
 icon: file-lines
-order: 130
+order: 129
+contributors: [ 'Christopher Godwin' ]
 ---
 British god Antenociticus is associated with a temple that was uncovered at Benwell in Condercum. It is believed that Antenociticus was the Genius Loci or guardian spirit of that particular location which is the case for many Celtic gods. Antenociticus is exclusive to just one site and not much is known about him.
 
-### Attributes
+## Attributes
 
 - **Antenociticus**: temple dedicated to
 - **Benwell**: location of temple
 - **Celtic gods**: known only in single site
 - **Genius Loci**: may have been spirit of the place
 
-### Entities
+## Entities
 
 - **Antenociticus**: British god
 - **Benwell**: location

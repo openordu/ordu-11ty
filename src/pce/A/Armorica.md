@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: Armorica
 icon: file-lines
-order: 152
+order: 151
+contributors: [ 'Christopher Godwin' ]
 ---
 Armorica See Brittany.
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 
 ### Sources

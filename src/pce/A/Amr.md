@@ -2,18 +2,19 @@
 layout: layouts/default.njk
 title: Amr
 icon: file-lines
-order: 109
+order: 108
+contributors: [ 'Christopher Godwin' ]
 ---
 Arthurian hero Amr, or Anir, was a lesser-known individual who was allegedly the son of King Arthur and whose life ended tragically at the hands of his own father. His final resting place in Wales, known as the Countless Stones, is impossible to gauge as any attempts to do so result in new measurements each time (see Countless Stones).
 
-### Attributes
+## Attributes
 
 - **Amr**: son of king Arthur
 - **Amr**: slain accidentally by him
 - **Wales**: grave cannot be measured
 - **Wales**: continually gives a new measurement to those who try
 
-### Entities
+## Entities
 
 - **Amr**: Arthurian hero
 - **Anir**: Arthurian hero

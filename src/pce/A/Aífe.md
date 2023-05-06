@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Aífe
 icon: file-lines
-order: 52
+order: 51
+contributors: [ 'Christopher Godwin' ]
 ---
 Irish heroine Aífe, also known as Eefa, Eva, Aoife, Aife, or Aeife, is a name that has been used for various legendary Irish figures. The name means “radiant” or “beautiful.” One of the well-known figures with this name is Aífe of Scotland, a skilled warrior who trained Irish heroes. According to some legends, she was either the daughter, sister, or double of Scáthach, one of the great warrior women. After being defeated by the Ulster hero Cúchulainn in a battle, Aífe bore his child named Connla. Unfortunately, the hero unknowingly killed the young man and found too late the ring he had given Aífe as a memento for their child. This heartbreaking tragedy has been the inspiration for literary works, including W. B. Yeats’s play On Baile’s Strand. In some myths, Aífe was Scáthach’s rival rather than her sister. Another Aífe, who was a stepmother of the Children of Lir, was a jealous woman who took the place of her unfortunate foster sister Áeb as the wife of Lir after Áeb died giving birth to her second set of twins. However, the children did not fare well in Aífe’s care, as she turned Fionnuala and her brothers into swans for 900 years. Aífe of the crane bag was a woman who was magically transformed into a crane or heron by a jealous rival named Iuchra. She spent a lifetime on the sea and was later transformed by the sea god Manannán Mac Lir, who created the mythological Crane Bag from her skin to carry all his mythic treasures, including the letters of the alphabet. Some consider her a muse figure and occasionally confuse her with the stepmother of Fionnuala.
 
-### Attributes
+## Attributes
 
 - **Aífe**: magically transformed into a Crane (sometimes, Heron) by a jealous rival, Iuchra
 - **Aífe**: after spending a lifetime on the sea
@@ -15,7 +16,7 @@ Irish heroine Aífe, also known as Eefa, Eva, Aoife, Aife, or Aeife, is a name t
 - **Aífe**: sometimes described as a muse figure
 - **Aífe**: occasionally conflated with the stepmother of Fionnuala
 
-### Entities
+## Entities
 
 - **Aífe**: person
 - **crane bag**: object

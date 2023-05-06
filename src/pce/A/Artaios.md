@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: Artaios
 icon: file-lines
-order: 154
+order: 153
+contributors: [ 'Christopher Godwin' ]
 ---
 Artaios See Mercury.
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 - **entities**: Mercury
 

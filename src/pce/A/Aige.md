@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Aige
 icon: file-lines
-order: 56
+order: 55
+contributors: [ 'Christopher Godwin' ]
 ---
 Irish heroine Aige became the victim of a wicked Fairy's spell, instigated by jealous neighbors who envied Aige's elegance and appeal. The spell resulted in her transformation into a wild doe, compelling her to roam the island, evading hunters, until a warrior named Meilge hunted and killed her. Faifne, Aige's brother and a satirist, attempted to avenge her death, but to his misfortune, lost his own life in this pursuit.
 
-### Attributes
+## Attributes
 
 - **Aige**: Irish heroine
 - **Fairy**: malicious
@@ -18,7 +19,7 @@ Irish heroine Aige became the victim of a wicked Fairy's spell, instigated by je
 - **brother Faifne**: satirist
 - **death**: None
 
-### Entities
+## Entities
 
 - **Aige**: Irish heroine
 - **Fairy**: malicious

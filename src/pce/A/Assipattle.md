@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Assipattle
 icon: file-lines
-order: 169
+order: 168
+contributors: [ 'Christopher Godwin' ]
 ---
 Scottish legend Assipattle is a character found in various folktales and bears similarity to the Irish Amadán. Contrary to the story of Cinderella, who is usually a privileged girl forced into servitude, Assipattle was born poor with little ambition, leading a lazy life. However, when faced with a crisis, such as the presence of a terrifying dragon, Assipattle transforms into a heroic figure.
 
-### Attributes
+## Attributes
 
 - **Assipattle**: Scottish
 - **Assipattle**: lazy and unambitious
@@ -15,7 +16,7 @@ Scottish legend Assipattle is a character found in various folktales and bears s
 - **dragon**: threatening
 - **Assipattle**: performs heroically
 
-### Entities
+## Entities
 
 - **Assipattle**: Scottish hero
 - **Cinderella**: fictional character

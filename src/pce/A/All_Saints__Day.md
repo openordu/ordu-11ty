@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: All Saints’ Day
 icon: file-lines
-order: 98
+order: 97
+contributors: [ 'Christopher Godwin' ]
 ---
 All Saints’ Day See Samhain.
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 
 ### Sources

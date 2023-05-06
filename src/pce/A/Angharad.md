@@ -2,17 +2,18 @@
 layout: layouts/default.njk
 title: Angharad
 icon: file-lines
-order: 119
+order: 118
+contributors: [ 'Christopher Godwin' ]
 ---
 Arthurian heroine Angharad, also known as Angharad Law Eurawc and Angharad of the Golden Hand, was courted by the knight Peredur. Although obscure, Angharad may have had roots as a goddess representing the land's Sovereignty.
 
-### Attributes
+## Attributes
 
 - **Angharad**: otherwise obscure maiden
 - **Angharad**: goddess of the land's Sovereignty
 - **Peredur**: courted
 
-### Entities
+## Entities
 
 - **Angharad**: Arthurian heroine
 - **Angharad Law Eurawc**: Arthurian heroine

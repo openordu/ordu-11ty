@@ -14,10 +14,10 @@ index: 6
 
 ## Image
 
-![Logo](/logo.png)
+![Logo](/assets/green_logo.png)
 
 ```md
-![Logo](/logo.png)
+![Logo](/assets/green_logo.png)
 ```
 
 ## Emoji

@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Accalon
 icon: file-lines
-order: 6
+order: 5
+contributors: [ 'Christopher Godwin' ]
 ---
 Accalon, an Arthurian hero who hailed from Gaul and was the lover of Morgan, was among King Arthur's final opponents in battle. When Morgan took the scabbard from Excalibur, which removed Arthur's magical protection against any deadly harm, Accalon aimed to triumph over the king. Nevertheless, Merlin the sorcerer strengthened Arthur's hand, and Accalon was defeated by him.
 
-### Attributes
+## Attributes
 
 - **Accalon**: Arthurian hero
 - **Morgan**: lover of Accalon
@@ -15,7 +16,7 @@ Accalon, an Arthurian hero who hailed from Gaul and was the lover of Morgan, was
 - **Excalibur**: scabbard stolen by Morgan
 - **magician Merlin**: strengthened Arthur’s hand
 
-### Entities
+## Entities
 
 - **Accalon**: Arthurian hero
 - **Morgan**: person

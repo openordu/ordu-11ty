@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Agravaine
 icon: file-lines
-order: 42
+order: 41
+contributors: [ 'Christopher Godwin' ]
 ---
 Agravaine was one of the members of the Knights of the Round Table, which also included his brothers Gawain, Gaheris and Gareth, and was a minor character in the legends of King Arthur. Unfortunately, Agravaine met his demise when he plotted with the wicked Mordred and was killed by Lancelot.
 
-### Attributes
+## Attributes
 
 - **Agravaine**: Arthurian hero
 - **Arthur**: king
@@ -20,7 +21,7 @@ Agravaine was one of the members of the Knights of the Round Table, which also i
 - **Lancelot**: killed Agravaine
 - **Agravaine**: plotted with Mordred
 
-### Entities
+## Entities
 
 - **Agravaine**: Arthurian hero
 - **Arthur**: king

@@ -5,20 +5,24 @@ icon: list-check
 ---
 
 ## Content
-- [ ] Move documentation to the git repository
+- [x] Move documentation to the git repository
 - [x] Build decent home page
-- [ ] Refine home page
+- [x] Refine home page
 - [x] About page port
 - [ ] Blog port
-- [ ] Docs port
+- [x] Docs port
+  - [ ] fix all the icons
 - [x] Add contributors element
-- [ ] Regen MD files with tags, icons, contributors
+- [ ] Regen MD files with tags
+- [ ] See if you can find icons for some of the entity types
 - [x] Remove the h1
-- [ ] Change the footer
-- [ ] Honestly revisit the credits section on the homepage
-- [ ] entity icons
-- [ ] pce letter list
-- [ ] letter page entry list
+- [x] Change the footer
+- [x] Honestly revisit the credits section on the homepage
+- [x] pce letter list
+- [x] letter page entry list
+- [ ] pronunciations
+- [ ] maps
+- [ ] images
 
 ## Markdown
 - [ ] Style icons into all the custom containers

@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Albion
 icon: file-lines
-order: 89
+order: 88
+contributors: [ 'Christopher Godwin' ]
 ---
 The medieval writer Geoffrey of Monmouth narrates the story of Albion, the British hero whose father was a sea god and who happened to be a giant. The name Albion is believed to be cognate with that of Albiorix, the continental Celtic god.
 
-### Attributes
+## Attributes
 
 - **Albion**: name
 - **Albion**: father's name
@@ -15,7 +16,7 @@ The medieval writer Geoffrey of Monmouth narrates the story of Albion, the Briti
 - **Geoffrey of Monmouth**: description
 - **Albiorix**: description
 
-### Entities
+## Entities
 
 - **Albion**: British hero
 - **Geoffrey of Monmouth**: medieval writer

@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Aglovale
 icon: file-lines
-order: 40
+order: 39
+contributors: [ 'Christopher Godwin' ]
 ---
 An Arthurian hero named Aglovale was slain by Lancelot during his valiant rescue of Guinevere from execution. Though not as prominent in the legend, Aglovale's fate is a tragic reminder of the cost of chivalry and honor in King Arthur's court.
 
-### Attributes
+## Attributes
 
 - **Aglovale**: minor figure in Arthurian legend
 - **Aglovale**: killed by Lancelot
@@ -15,7 +16,7 @@ An Arthurian hero named Aglovale was slain by Lancelot during his valiant rescue
 - **Guinevere**: sentenced to death at the stake
 - **Guinevere**: rescued by Lancelot
 
-### Entities
+## Entities
 
 - **Aglovale**: Arthurian hero
 - **Lancelot**: Arthurian knight

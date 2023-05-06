@@ -2,14 +2,15 @@
 layout: layouts/default.njk
 title: Agallamh na Seanóarch
 icon: file-lines
-order: 39
+order: 38
+contributors: [ 'Christopher Godwin' ]
 ---
 Agallamh na Seanóarch See Colloquy Of The Elders.
 
-### Attributes
+## Attributes
 
 
-### Entities
+## Entities
 
 - **entities**: Agallamh
 - **entities**: Seanóarch See Colloquy Of The Elders

@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Adra
 icon: file-lines
-order: 15
+order: 14
+contributors: [ 'Christopher Godwin' ]
 ---
 Irish hero Adra features in the Book of Invasions, which chronicles Ireland's mythical history. According to the book, Adra, who was also known as "the ancient," was married to Cesair, the land's first settler. It was an incestuous union since both Adra and Cesair were children of Bith. However, the various texts that reference Adra and his relationship with Cesair are often conflicting, making it challenging to determine whether he is the same person as Ladra, who is also believed to be Cesair's partner.
 
-### Attributes
+## Attributes
 
 - **Adra**: husband of Cesair
 - **Adra**: the ancient
@@ -14,7 +15,7 @@ Irish hero Adra features in the Book of Invasions, which chronicles Ireland's my
 - **Bith**: father of both Adra and Cesair
 - **Ladra**: otherwise said to be Cesair's mate
 
-### Entities
+## Entities
 
 - **Adra**: Irish hero
 - **Book Of Invasions**: mythic history of Ireland

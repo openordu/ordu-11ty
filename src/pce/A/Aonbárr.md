@@ -2,16 +2,17 @@
 layout: layouts/default.njk
 title: Aonbárr
 icon: file-lines
-order: 133
+order: 132
+contributors: [ 'Christopher Godwin' ]
 ---
 Irish sea god Manannán Mac Lir has a mythological beast named Aonbárr, also known as the enchanted steed. Its name hints towards the seafoam, which is Manannán Mac Lir's domain.
 
-### Attributes
+## Attributes
 
 - **Aonbárr**: enchanted steed
 - **Manannán Mac Lir**: name suggests the seafoam
 
-### Entities
+## Entities
 
 - **Aonbárr**: Irish mythological beast
 - **Manannán Mac Lir**: Irish sea god

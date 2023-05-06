@@ -2,18 +2,19 @@
 layout: layouts/default.njk
 title: Amangons
 icon: file-lines
-order: 108
+order: 107
+contributors: [ 'Christopher Godwin' ]
 ---
 Arthurian legend features Amangons as a villainous figure who instigated the Grail quest by ordering his troops to assault the virgins guarding the sanctified Wells, located in the heart of the forests of ancient Britain.
 
-### Attributes
+## Attributes
 
 - **Amangons**: evil king
 - **Grail**: quest
 - **maidens**: protected the sacred Wells
 - **Britain**: forests
 
-### Entities
+## Entities
 
 - **Amangons**: Arthurian hero
 - **Grail**: object

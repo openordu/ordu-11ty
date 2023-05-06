@@ -2,11 +2,12 @@
 layout: layouts/default.njk
 title: Arawn
 icon: file-lines
-order: 142
+order: 141
+contributors: [ 'Christopher Godwin' ]
 ---
 A Welsh god named Arawn was considered the lord of Annwn, the Welsh Otherworld. In possession of a magical Cauldron, Arawn shared similarities with the Irish father god, the Dagda. Additionally, Arawn had magical Pigs, which is another theme associated with the Dagda. Arawn bestowed these Pigs as a gift to the mortal king Pryderi; when the bard Gwydion took them, he was captured and confined in Annwn. The obscure divinity Amaethon stole three magical beasts belonging to Arawn; this motif possibly indicates a belief that domesticated creatures initially belonged to the gods and had to be taken by force or deception to our world. According to one story, Arawn exchanged identities with the mortal king Pwyll for a year, and while staying in the Otherworld, Pwyll killed Hafgan, Arawn's adversary and competitor for power in Annwn. Arawn's world was akin to a typical Celtic Otherworld - a serene, unchanging, and beautiful place that lacked the suffering, death, mutilation, or illness found in our world. Its inhabitants spent their time engaging in revelry and pastimes.
 
-### Attributes
+## Attributes
 
 - **Arawn**: exchanged identities with Pwyll
 - **Pwyll**: exchanged identities with Arawn
@@ -15,7 +16,7 @@ A Welsh god named Arawn was considered the lord of Annwn, the Welsh Otherworld. 
 - **Otherworld**: without any pain, death, disfigurement, or disease
 - **Otherworld**: residents spend their time in merrymaking and games
 
-### Entities
+## Entities
 
 - **Arawn**: person
 - **Pwyll**: person

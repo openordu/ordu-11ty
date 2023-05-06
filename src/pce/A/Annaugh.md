@@ -2,17 +2,18 @@
 layout: layouts/default.njk
 title: Annaugh
 icon: file-lines
-order: 127
+order: 126
+contributors: [ 'Christopher Godwin' ]
 ---
 An elusive deity named Annaugh, also known as Anna, was worshipped exclusively in a solitary location known as Collins Wood in the region of Connemara, as she was believed to be the guiding spirit of that place, commonly known as Genius Loci.
 
-### Attributes
+## Attributes
 
 - **Annaugh**: obscure
 - **Annaugh**: known in only one place
 - **Collins Wood**: location of Annaugh
 
-### Entities
+## Entities
 
 - **Annaugh**: Irish goddess
 - **Collins Wood**: place
