@@ -25,10 +25,12 @@
     <footer class="container">
       {% include 'snippets/footer.njk' %}
     </footer>
-    <script src="/js/mermaid.js"></script>
+    {% if "```mermaid" in content %}
+    <script src="/js/mermaid.min.js"></script>
     <script type="module">
       import '/js/mermaid-setup.js';
     </script>
+    {% endif %}
   </body>
 
 </html>

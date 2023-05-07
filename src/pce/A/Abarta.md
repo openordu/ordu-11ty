@@ -21,4 +21,3 @@ An Irish god known as Abarta (also known as Ábartach or Ábhartach) is a minor 
 
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997, 223+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
-

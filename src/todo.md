@@ -13,20 +13,17 @@ icon: list-check
 - [x] Docs port
   - [x] fix all the icons
 - [x] Add contributors element
-- [ ] Regen MD files with tags
-- [ ] See if you can find icons for some of the entity types
+- [x] Regen MD files with tags
 - [x] Remove the h1
 - [x] Change the footer
 - [x] Honestly revisit the credits section on the homepage
 - [x] pce letter list
 - [x] letter page entry list
-- [ ] pronunciations
-- [ ] maps
 - [ ] images
 
 ## Markdown
 - [x] Style icons into all the custom containers
-- [ ] Test and rework collapse info blocks
+- [x] Test and rework collapse info blocks
 - [x] See if the title can avoid being links
 - [ ] Use some tabs markdown plugin
 - [ ] markdown it attrs
@@ -40,3 +37,8 @@ icon: list-check
 ## Search
 - [ ] Build site map
 - [ ] Deploy job will call Google crawl sitemap
+
+## Wishlist
+- [ ] See if you can find icons for some of the entity types
+- [ ] pronunciations
+- [ ] maps

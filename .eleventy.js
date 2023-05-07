@@ -25,7 +25,7 @@ const fileModifiedDate = require('./src/_11ty/filters/fileModifiedDate');
 const timeAgo = require('./src/_11ty/filters/timeAgo');
 const date = require('./src/_11ty/filters/date');
 const readingTime = require('./src/_11ty/filters/readingTime');
-const markdownItMermaid = require("markdown-it-mermaid-plugin");
+// const markdownItMermaid = require("markdown-it-mermaid-plugin");
 const markdownExternalLinks = require('markdown-it-external-links');
 
 module.exports = function(eleventyConfig) {

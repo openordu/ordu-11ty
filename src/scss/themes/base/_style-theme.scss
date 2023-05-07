@@ -306,14 +306,25 @@ i.fa-angle-right[aria-expanded=true] {
   transition: transform 0.3s ease-in-out;
 }
 
-i.fa-angle-down[aria-expanded="true"] {
+i.fa-angle-down[aria-expanded="true"], button[aria-expanded=true] i.fa-angle-down,
+a[aria-expanded=true] i.fa-angle-down  {
   transform: rotate(0deg);
   transition: transform 0.3s ease-in-out;
 }
 
-i.fa-angle-down[aria-expanded="false"] {
+i.fa-angle-down[aria-expanded="false"], button[aria-expanded=false] i.fa-angle-down,
+a[aria-expanded=false] i.fa-angle-down {
   transform: rotate(-90deg);
   transition: transform 0.3s ease-in-out;
+}
+a.btn-link {
+  text-decoration: none !important;
+}
+a[aria-expanded=true] span.show-text::after {
+  content: " Show less";
+}
+a[aria-expanded=false] span.show-text::after {
+  content: " Show more";
 }
 aside a {
   color: #2c3e50 !important;
