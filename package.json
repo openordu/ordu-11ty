@@ -52,6 +52,7 @@
     "markdown-it-align": "^0.1.0",
     "markdown-it-anchor": "^8.6.4",
     "markdown-it-attrs": "^4.1.4",
+    "markdown-it-codetabs": "^1.2.0",
     "markdown-it-container": "^3.0.0",
     "markdown-it-emoji": "^2.0.2",
     "markdown-it-external-links": "^0.0.6",

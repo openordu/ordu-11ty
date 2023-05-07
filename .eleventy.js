@@ -11,6 +11,7 @@ const markdownItAttrs                 = require("markdown-it-attrs");
 const markdownItVideo                 = require("markdown-it-video");
 const markdownItEmoji                 = require("markdown-it-emoji");
 const markdownItAlign                 = require("markdown-it-align");
+const markdownItCodeTabs              = require("markdown-it-codetabs");
 const markdownItKatex                 = require("markdown-it-texmath");
 const markdownItAnchor                = require("markdown-it-anchor");
 const markdownItFootnote              = require("markdown-it-footnote");
@@ -71,6 +72,7 @@ module.exports = function(eleventyConfig) {
   markdownLibrary.use(markdownItSub);
   // //markdownLibrary.use(doMarkdownIT);
   markdownLibrary.use(markdownItSup);
+  markdownLibrary.use(markdownItCodeTabs);
   markdownLibrary.use(markdownItTableOfContents);
   markdownLibrary.use(markdownItTaskLists);
   markdownLibrary.use(markdownItMark);

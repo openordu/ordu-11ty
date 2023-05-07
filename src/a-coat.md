@@ -48,8 +48,7 @@ Safely use \{\{ variable \}\} in Markdown.
 
 :::
 
-::: info
-### Custom Title
+::: info Custom Title
 
 A custom information container with `code`, [link](#custom-container).
 
@@ -60,28 +59,29 @@ const a = 1;
 :::
 
 ::: tip
-### Custom Title
 
-A custom tip container
+This is a tip.
+:::
+
+::: tip Custom Title
+
+This is also a tip with a custom title.
 
 :::
 
-::: warning
-### Custom Title
+::: warning Custom Title
 
 A custom warning container
 
 :::
 
-::: danger
-### Custom Title
+::: danger Custom Title
 
 A custom danger container
 
 :::
 
-::: details
-### Custom Title
+::: details Custom Title
 
 A custom details container
 
@@ -192,9 +192,9 @@ Support setting color scheme and size
 
 #### Chart
 
-::: chart A Scatter Chart
+::: details A Scatter Chart
 
-```json
+```chart
 {
   "type": "scatter",
   "data": {
@@ -228,9 +228,9 @@ Support setting color scheme and size
 
 #### Echarts
 
-::: echarts A line chart
+::: details A line chart
 
-```json
+```echart
 {
   "xAxis": {
     "type": "category",
