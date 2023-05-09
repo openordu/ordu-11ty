@@ -120,7 +120,7 @@ down here
 
 #### Code Tabs
 ```tab [code:pnpm]
-~~~
+~~~pnpm
 pnpm add -D vuepress-theme-hope
 ~~~
 ```
