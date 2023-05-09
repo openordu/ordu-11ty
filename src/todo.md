@@ -29,7 +29,7 @@ icon: list-check
 - [ ] markdown it attrs
 - [x] mark / highlight important words
 - [ ] images and image Enhancement
-- [x] charts, echarts, mermaid, and flowcharts
+- [x] charts, e-charts, mermaid, and flowcharts
 - [ ] Style code blocks
 - [ ] Add code pen potentially
 - [x] custom titles in alert boxes

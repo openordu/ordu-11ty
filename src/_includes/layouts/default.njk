@@ -25,22 +25,16 @@
     <footer class="container">
       {% include 'snippets/footer.njk' %}
     </footer>
-    {% if "mermaid" in content %}
-    <script src="/js/mermaid.min.js"></script>
-    <script type="module">
-      import '/js/mermaid-setup.js';
-    </script>
-    {% endif %}
-
-    {% if "chart" in content %}
-    <script src="/js/chart.min.js"></script>
-    {% endif %}
     
-    {% if "echart" in content %}
-    <script src="/js/echarts.min.js"></script>
-    {% endif %}
-    
-    {% if "echart" in content or "chart" in content %}
+    {% if "echart" in content or "chart" in content
+    or "mermaid" in content %}
+      <script src="/js/echarts.min.js"></script>
+      <script src="/js/chart.min.js"></script>
+      <script src="/js/mermaid.min.js"></script>
+      <script src="/js/raphael.min.js"></script>
+      <script src="/js/flowchart.min.js"></script>
+      <script src="/js/flow-setup.js" defer></script>
+      <script src="/js/mermaid-setup.js" defer></script>
       <script src="/js/chart-setup.js" defer></script>
       <script src="/js/echarts-setup.js" defer></script>
       <script src="/js/allchart-setup.js" defer></script>

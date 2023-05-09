@@ -4,6 +4,8 @@ async function initialize() {
   await Promise.all([
     window.initializeChartJs(),
     window.initializeECharts(),
+    window.initializeMermaid(),
+    window.initializeFlowJs(),
   ]);
 }
 

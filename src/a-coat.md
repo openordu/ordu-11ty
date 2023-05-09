@@ -91,47 +91,49 @@ down here
 
 #### Tabs
 
-::: tabs#fruit
+```  [group1:Home]
+...content for Home tab...
+```
+``` tab [group1:Profile]
+...content for Profile tab...
+```
+``` tab [group1:Contact]
+...content for Contact tab...
+```
+``` tab [group1:Disabled]
+...content for Disabled tab...
+```
 
-@tab apple
-
-Apple
-
-@tab banana
-
-Banana
-
-@tab orange
-
-Orange
-
-:::
 
 - [View Detail](https://theme-hope.vuejs.press/guide/markdown/tabs.html)
 
+#### Command Tabs
+```bash [install:pnpm]
+`pnpm add -D vuepress-theme-hope`
+```
+```bash [install:yarn]
+`yarn add -D vuepress-theme-hope`
+```
+```bash [install:npm]
+`npm i -D vuepress-theme-hope`
+```
+
 #### Code Tabs
-
-::: code-tabs#shell
-
-@tab pnpm
-
-```bash
+```tab [code:pnpm]
+~~~
 pnpm add -D vuepress-theme-hope
+~~~
 ```
-
-@tab yarn
-
-```bash
+```tab [code:yarn]
+~~~yarn
 yarn add -D vuepress-theme-hope
+~~~
 ```
-
-@tab:active npm
-
-```bash
+```tab [code:npm]
+~~~bash
 npm i -D vuepress-theme-hope
+~~~
 ```
-
-:::
 
 - [View Detail](https://theme-hope.vuejs.press/guide/markdown/code-tabs.html)
 
@@ -332,20 +334,35 @@ Donate Mr.Hope a cup of coffee. _Recommended_
 
 #### Presentation
 
-@slidestart
+:::: carousel
+::: slide Slide text 1
+stuff
+:::
+::: slide Slide text 2
+stuff2
+:::
+::: slide Slide text 3
+stuff3
+:::
+::::
 
+
+:::: carousel
+
+::: slide Caption|3
 ## Slide 1
 
 A paragraph with some text and a [link](https://mrhope.site)
 
----
-
+:::
+::: slide Caption 2|3
 ## Slide 2
 
 - Item 1
 - Item 2
 
----
+:::
+::: slide Caption 3|3
 
 ## Slide 3.1
 
@@ -353,7 +370,8 @@ A paragraph with some text and a [link](https://mrhope.site)
 const a = 1;
 ```
 
---
+:::
+::: slide Caption 4|3
 
 ## Slide 3.2
 
@@ -361,7 +379,8 @@ $$
 J(\theta_0,\theta_1) = \sum_{i=0}
 $$
 
-@slideend
+:::
+::::
 
 - [View Detail](https://theme-hope.vuejs.press/guide/markdown/presentation.html)
 
