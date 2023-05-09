@@ -8,3 +8,4 @@ yarn-error.log
 *.swp
 *.save
 .history
+public
