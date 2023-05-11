@@ -32,15 +32,15 @@ Classic:
 
 Shortcuts:
 
-8-) :) :\* :( :-) :-( ;)
+8-) :) :* :( :-) :-( ;)
 
 ```md
-8-) :) :\* :( :-) :-( ;)
+8-) :) :* :( :-) :-( ;)
 ```
 
 ::: tip
 
-Though we have these, it is better to paste the emoji characther directly into your text.
+Though we have these, it is better to paste the emoji character directly into your text.
 For all of them see the [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 :::
