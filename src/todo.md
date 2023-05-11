@@ -5,16 +5,23 @@ icon: list-check
 ---
 
 ## Content
-- [ ] Create docs > editiing > slides and tabs
+- [ ] Create docs > editing > slides and tabs
 - [ ] Blog port
 - [ ] cringe checks
 - [ ] pce images
+- [ ] license out of sidebar
+- [ ] set package license
+- [ ] make letter lists dual column
+- [ ] Make a decent footer
+- [ ] make a decent support page and footer link
+- [ ] move the quiz js include from njk to the module
 
 
 ## Markdown
-- [ ] pce previous and nextgit 
+- [ ] pce previous and next
 - [ ] pce categories and tags
 - [ ] edit this page link
+- [ ] take all the hrs on a page and put them into a floating list
 
 ## Search
 - [ ] Build site map

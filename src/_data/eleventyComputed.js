@@ -28,7 +28,7 @@ module.exports = {
         return data.parent || parent;
       },
       order: (data) => data.order,
-      index: (data) => data.index || true,
+      index: (data) => data.index,
       icon: (data) => {
         if (typeof data.title === 'string') {
           if(data.title.startsWith("Tagged")) {

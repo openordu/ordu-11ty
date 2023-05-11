@@ -89,57 +89,6 @@ A custom details container
 
 down here
 
-#### Tabs
-
-```  [group1:Home]
-...content for Home tab...
-::: tip
-This is a tip in a tab
-:::
-```
-``` tab [group1:Profile]
-...content for Profile tab...
-```
-``` tab [group1:Contact]
-...content for Contact tab...
-```
-``` tab [group1:Disabled]
-...content for Disabled tab...
-```
-
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/tabs.html)
-
-#### Command Tabs
-```bash [install:pnpm]
-`pnpm add -D vuepress-theme-hope`
-```
-```bash [install:yarn]
-`yarn add -D vuepress-theme-hope`
-```
-```bash [install:npm]
-`npm i -D vuepress-theme-hope`
-```
-
-#### Code Tabs
-```tab [code:pnpm]
-~~~pnpm
-pnpm add -D vuepress-theme-hope
-~~~
-```
-```tab [code:yarn]
-~~~yarn
-yarn add -D vuepress-theme-hope
-~~~
-```
-```tab [code:npm]
-~~~bash
-npm i -D vuepress-theme-hope
-~~~
-```
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/code-tabs.html)
-
 #### Superscript and Subscript
 
 19^th^ H~2~O

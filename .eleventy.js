@@ -20,6 +20,8 @@ const markdownItTaskLists             = require("markdown-it-task-lists");
 const eleventyNavigationPlugin        = require("@11ty/eleventy-navigation");
 const markdownItTableOfContents       = require("markdown-it-table-of-contents");
 const markdownItMark                  = require("markdown-it-mark");
+const markdownItQuiz                  = require('markdown-it-quiz');
+
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
 const fileModifiedDate = require('./src/_11ty/filters/fileModifiedDate');
@@ -68,6 +70,7 @@ module.exports = function(eleventyConfig) {
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItOrdu);
+  markdownLibrary.use(markdownItQuiz);
   markdownLibrary.use(markdownItAlign);
   markdownLibrary.use(markdownItSub);
   // //markdownLibrary.use(doMarkdownIT);

@@ -59,6 +59,7 @@
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-mark": "^3.0.1",
     "markdown-it-ordu": "https://github.com/openordu/markdown-it-ordu.git",
+    "markdown-it-quiz": "https://github.com/openordu/markdown-it-quiz.git",
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-it-table-of-contents": "^0.6.0",
