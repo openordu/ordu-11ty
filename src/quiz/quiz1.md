@@ -1,6 +1,6 @@
 ---
 title: QuizMD
-layout: layouts/default.njk
+layout: layouts/quiz.njk
 ---
 :::: quiz 0|What is the capital of France?
 ::: option
