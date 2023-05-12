@@ -14,8 +14,8 @@ body {
 
 #quiz .btn-danger.list-group-item,
 #quiz .btn-primary.list-group-item,
-#quiz .list-group-item-action,
-#quiz .list-group-item-action:active {
+#quiz .btn-danger.list-group-item-action,
+#quiz .btn-danger.list-group-item-action:active {
   color: #fff;
   background-color: unset!important;
 }
