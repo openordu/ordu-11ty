@@ -2,6 +2,26 @@ body {
   letter-spacing:-.02rem;
 }
 
+.list-group-item-action:active {
+  color: #494949;
+  background-color: #e9ecef;
+}
+
+.list-group-item-action:active {
+  color: #494949;
+  background-color: #e9ecef;
+}
+
+#quiz .btn-danger.list-group-item, #quiz .btn-danger.list-group-item:hover, #quiz .btn-danger.list-group-item:focus,
+#quiz .btn-primary.list-group-item, #quiz .btn-primary.list-group-item:hover, #quiz .btn-primary.list-group-item:focus {
+  color: #fff;
+  background-color: unset!important;
+}
+#quiz .list-group-item-action:active {
+  color: #494949;
+  background-color: unset!important;
+}
+
 table {
   width: 100%;
   max-width: 100%;
