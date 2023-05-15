@@ -2,26 +2,15 @@ body {
   letter-spacing:-.02rem;
 }
 
-.list-group-item-action:active {
-  color: #494949;
-  background-color: #e9ecef;
-}
-
-.list-group-item-action:active {
-  color: #494949;
-  background-color: #e9ecef;
-}
-
-#quiz .btn-danger.list-group-item,
-#quiz .btn-primary.list-group-item,
-#quiz .btn-danger.list-group-item-action,
-#quiz .btn-danger.list-group-item-action:active {
-  color: #fff;
-  background-color: unset!important;
-}
-#quiz .list-group-item-action:active {
-  color: #494949;
-  background-color: unset!important;
+#quiz {
+  .list-group-item-danger, .list-group-item-danger:active {
+    background-color: rgb(181, 47, 13)!important;
+    color: #fff!important;
+  }
+  .list-group-item-primary, .list-group-item-primary:active {
+    background-color: $primary!important;
+    color: #fff!important;
+  }
 }
 
 .fixed-footer {
