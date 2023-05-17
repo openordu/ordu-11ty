@@ -2,6 +2,21 @@
 title: QuizMD
 layout: layouts/quiz.njk
 ---
+:::: question 0,3|Fill in the blank: ______ is the capital of _____?
+::: option
+Paris
+:::
+::: option
+Spain
+:::
+::: option
+Germany
+:::
+::: option
+France
+:::
+::::
+
 :::: question 0,2|What is the capital of France and Italy?
 ::: option
 Paris
@@ -44,20 +59,5 @@ Germany
 :::
 ::: option
 Italy
-:::
-::::
-
-:::: question 0,3|Fill in the blank: ______ is the capital of _____?
-::: option
-Paris
-:::
-::: option
-Spain
-:::
-::: option
-Germany
-:::
-::: option
-France
 :::
 ::::

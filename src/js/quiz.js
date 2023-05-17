@@ -52,17 +52,27 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       }
       if (target.classList.contains("btn")) {
-        const blankInput = target.closest(".question").querySelector(".blank");
-        const correctAnswers = blankInput.getAttribute("data-answers").split(",");
+        const blankInputs = Array.from(target.closest(".question").querySelectorAll(".blank"));
         const selectedOption = target.textContent;
-        blankInput.value = selectedOption;
-  
-        if (correctAnswers.includes(selectedOption)) {
-          correctAnswersSelected.add(selectedOption);
-          checkProgress();
-        } else {
-          blankInput.classList.add("is-invalid");
+        let blankInput = blankInputs.find(input => input.value === "");
+    
+        if (blankInput) {
+          blankInput.value = selectedOption;
+          blankInput.classList.remove("blank");
+    
+          const correctAnswers = blankInput.getAttribute("data-answers").split(",");
+          if (correctAnswers.includes(selectedOption)) {
+            correctAnswersSelected.add(selectedOption);
+            checkProgress();
+          } else {
+            blankInput.classList.add("is-invalid");
+          }
         }
+      }
+    
+      if (target.classList.contains("form-control-inline")) {
+        target.value = "";
+        target.classList.add("blank");
       }
     });
   
