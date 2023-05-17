@@ -14,23 +14,35 @@ document.addEventListener("DOMContentLoaded", function () {
       correctAnswersSelected.clear();
     }
   
+    let currentCorrectIndex = 0; // Track the next expected correct answer
+
     function checkProgress() {
       const correctAnswers = questions[currentQuestion]
         .getAttribute("data-answers")
         .split(",")
         .map(Number);
-  
-      if (correctAnswers.length === correctAnswersSelected.size) {
-        score ++;
-        result.innerHTML = `${score}`;
-        setTimeout(() => {
-          currentQuestion++;
-          if (currentQuestion < questions.length) {
-            showQuestion();
-          } else {
-            quizContainer.innerHTML = "";
-          }
-        }, 1000);
+    
+      // Only increment score if the next expected correct answer was selected
+      if (correctAnswers[currentCorrectIndex] === correctAnswersSelected.size - 1) {
+        currentCorrectIndex++;
+    
+        if (currentCorrectIndex === correctAnswers.length) {
+          score++;
+          result.innerHTML = `${score}`;
+          setTimeout(() => {
+            currentQuestion++;
+            currentCorrectIndex = 0; // Reset for the next question
+            if (currentQuestion < questions.length) {
+              showQuestion();
+            } else {
+              quizContainer.innerHTML = "";
+            }
+          }, 1000);
+        }
+      } else {
+        // If an incorrect answer was selected, clear the set and reset the expected correct answer index
+        correctAnswersSelected.clear();
+        currentCorrectIndex = 0;
       }
     }
   
