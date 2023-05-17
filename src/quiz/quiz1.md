@@ -46,3 +46,18 @@ Germany
 Italy
 :::
 ::::
+
+:::: question 0,3|Fill in the blank: ______ is the capital of _____?
+::: option
+Paris
+:::
+::: option
+Spain
+:::
+::: option
+Germany
+:::
+::: option
+France
+:::
+::::
