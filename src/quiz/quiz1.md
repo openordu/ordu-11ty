@@ -2,6 +2,36 @@
 title: QuizMD
 layout: layouts/quiz.njk
 ---
+:::: question 0|Fill in the blank: Paris is the capital of _____?
+::: option
+France
+:::
+::: option
+Spain
+:::
+::: option
+Germany
+:::
+::: option
+Italy
+:::
+::::
+
+
+:::: question 0,1,2,3|Match the country to its capital
+::: option
+France
+:::
+::: option
+Paris
+:::
+::: option
+Germany
+:::
+::: option
+Berlin
+::::
+
 :::: question 0,3|Fill in the blank: ______ is the capital of _____?
 ::: option
 Paris
@@ -44,20 +74,5 @@ Euro
 :::
 ::: option
 Pound
-:::
-::::
-
-:::: question 0|Fill in the blank: Paris is the capital of _____?
-::: option
-France
-:::
-::: option
-Spain
-:::
-::: option
-Germany
-:::
-::: option
-Italy
 :::
 ::::
