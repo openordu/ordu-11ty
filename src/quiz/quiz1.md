@@ -3,6 +3,21 @@ title: QuizMD
 layout: layouts/quiz.njk
 ---
 
+:::: question 0,2|What is the capital of France and Italy?
+::: option
+Paris
+:::
+::: option
+Berlin
+:::
+::: option
+Rome
+:::
+::: option
+Madrid
+:::
+::::
+
 :::: question 0,1,2,3|Match the country to its capital
 ::: option
 France
@@ -44,21 +59,6 @@ Germany
 :::
 ::: option
 France
-:::
-::::
-
-:::: question 0,2|What is the capital of France and Italy?
-::: option
-Paris
-:::
-::: option
-Berlin
-:::
-::: option
-Rome
-:::
-::: option
-Madrid
 :::
 ::::
 
