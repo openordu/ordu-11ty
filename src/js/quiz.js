@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   let currentQuestion = 0;
   let score = 0;
+  let matched = [];
   const parentContainer = document.getElementById("parentContainer");
   const quizContainer = parentContainer.querySelector("#quiz");
   const result = parentContainer.querySelector("#score");
@@ -17,6 +18,47 @@ document.addEventListener("DOMContentLoaded", function () {
     const qtype = question.getAttribute("data-qtype");
 
     switch (qtype) {
+      case "match":
+        matched.push(target);
+        if (matched.length === 2) {
+          const firstIndex = Array.from(matched[0].parentNode.children).indexOf(matched[0]);
+          const secondIndex = Array.from(matched[1].parentNode.children).indexOf(matched[1]);
+          const correctAnswers = question.getAttribute("data-answers").split(",").map(Number);
+          const firstIsCorrect = correctAnswers.indexOf(firstIndex) !== -1 && correctAnswers.indexOf(firstIndex) + 1 === correctAnswers.indexOf(secondIndex);
+          const secondIsCorrect = correctAnswers.indexOf(secondIndex) !== -1 && correctAnswers.indexOf(secondIndex) - 1 === correctAnswers.indexOf(firstIndex);
+          if (firstIsCorrect || secondIsCorrect) {
+            matched[0].classList.add("list-group-item-primary");
+            matched[1].classList.add("list-group-item-primary");
+            matched[0].disabled = true;
+            matched[1].disabled = true;
+          } else {
+            matched[0].classList.add("list-group-item-danger");
+            matched[1].classList.add("list-group-item-danger");
+            setTimeout(() => {
+              matched[0].classList.remove("list-group-item-danger");
+              matched[1].classList.remove("list-group-item-danger");
+              matched[0].classList.remove("btn-selected");
+              matched[1].classList.remove("btn-selected");
+              matched = [];
+            }, 3000);
+            return;
+          }
+          matched = [];
+        }
+        const allMatched = Array.from(question.querySelectorAll('.btn')).every(btn => btn.disabled);
+        if (allMatched) {
+          score++;
+          result.innerHTML = `${score}`;
+          setTimeout(() => {
+            currentQuestion++;
+            if (currentQuestion < questions.length) {
+              showQuestion();
+            } else {
+              quizContainer.innerHTML = "";
+            }
+          }, 1000);
+        }
+        break;
       case "multiple-choice":
         if (target) {
             const selectedIndex = Array.from(target.parentNode.children).indexOf(target);
@@ -74,6 +116,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
     switch (qtype) {
+      case "match":
+          target.classList.add("btn-selected");
+          checkProgress(target);
+          break;
       case "multiple-choice":
         if (target.tagName === "BUTTON") {
           const selectedIndex = Array.from(target.parentNode.children).indexOf(target);
