@@ -31,11 +31,23 @@ document.addEventListener("DOMContentLoaded", function () {
         if (matched.length === 2) {
           const firstIndex = Array.from(matched[0].parentNode.children).indexOf(matched[0]);
           const secondIndex = Array.from(matched[1].parentNode.children).indexOf(matched[1]);
-          quizContainer.classList.add(`${firstIndex}-${secondIndex}`)
-          const correctAnswers = question.getAttribute("data-answers").split(",").map(Number);
-          const firstIsCorrect = correctAnswers.indexOf(firstIndex) !== -1 && correctAnswers.indexOf(firstIndex) + 1 === correctAnswers.indexOf(secondIndex);
-          const secondIsCorrect = correctAnswers.indexOf(secondIndex) !== -1 && correctAnswers.indexOf(secondIndex) - 1 === correctAnswers.indexOf(firstIndex);
-          if (firstIsCorrect || secondIsCorrect) {
+          quizContainer.classList.add(`${firstIndex}-${secondIndex}`);
+
+          let correctAnswers = question.getAttribute("data-answers").split(",").map(Number);
+          if (correctAnswers.length % 2 !== 0) {
+            correctAnswers.pop();
+          }
+          let correctAnswersPairs = [];
+          for (let i = 0; i < correctAnswers.length; i += 2) {
+            correctAnswersPairs.push(correctAnswers.slice(i, i + 2));
+          }
+          const selectedPair = [firstIndex, secondIndex];
+          const isCorrect = correctAnswersPairs.some(pair =>
+            (pair[0] === selectedPair[0] && pair[1] === selectedPair[1]) ||
+            (pair[0] === selectedPair[1] && pair[1] === selectedPair[0])
+          );
+
+          if (isCorrect) {
             matched[0].classList.add("list-group-item-primary");
             matched[1].classList.add("list-group-item-primary");
             matched[0].disabled = true;
@@ -89,26 +101,57 @@ document.addEventListener("DOMContentLoaded", function () {
           }
         }
         break;
-      case "fill-in-the-blank":
-        const userAnswers = Array.from(question.querySelectorAll(".blank"))
-          .map(input => input.value.trim());
-        const correctAnswers = Array.from(question.querySelectorAll(".blank"))
-          .map(input => input.getAttribute("data-answer").trim());
-        if (JSON.stringify(userAnswers) === JSON.stringify(correctAnswers)) {
-          target.classList.add("list-group-item-primary");
-          setTimeout(() => {
-              currentQuestion++;
-              if (currentQuestion < questions.length) {
-                  showQuestion();
+        case "fill-in-the-blank":
+          if (target.tagName === "BUTTON") {
+            // Apply selected option to the first blank field
+            const inlineInputs = Array.from(question.querySelectorAll(".form-control-inline"));
+            const selectedOption = target.textContent;
+            let blankInput = inlineInputs.find(input => input.value === "");
+            if (blankInput) {
+              blankInput.value = selectedOption;
+              blankInput.setAttribute("readonly", true);
+              const correctAnswer = blankInput.getAttribute("data-answer");
+              if (selectedOption === correctAnswer) {
+                target.classList.add("list-group-item-primary");
               } else {
-                  result.innerHTML = `${questions.length}`;
-                  quizContainer.innerHTML = "";
+                target.classList.add("list-group-item-danger");
               }
-          }, 1000);
-        } else {
-          target.classList.add("list-group-item-danger");
-        }
-        break;
+            }
+        
+            // Check if all inputs are filled
+            const allFilled = inlineInputs.every(input => input.value !== "");
+        
+            if (allFilled) {
+              const userAnswers = inlineInputs.map(input => input.value.trim());
+              const correctAnswers = inlineInputs.map(input => input.getAttribute("data-answer").trim());
+              const allCorrect = userAnswers.every((answer, index) => answer === correctAnswers[index]);
+        
+              // If all answers are correct
+              if (allCorrect) {
+                setTimeout(() => {
+                  currentQuestion++;
+                  if (currentQuestion < questions.length) {
+                    showQuestion();
+                  } else {
+                    result.innerHTML = `${questions.length}`;
+                    quizContainer.innerHTML = "";
+                  }
+                }, 1000);
+              } else { // If some answers are incorrect
+                setTimeout(() => {
+                  inlineInputs.forEach(input => {
+                    input.value = "";
+                  });
+                  Array.from(question.querySelectorAll(".btn")).forEach(btn => {
+                    btn.classList.remove("list-group-item-primary");
+                    btn.classList.remove("list-group-item-danger");
+                  });
+                }, 3000);
+              }
+            }
+          }
+          break;
+        
     }
 }
 
@@ -139,20 +182,19 @@ document.addEventListener("DOMContentLoaded", function () {
         break;
       case "fill-in-the-blank":
         if (target.classList.contains("btn")) {
-          const blankInputs = Array.from(question.querySelectorAll(".blank"));
+          const inlineInputs = Array.from(question.querySelectorAll(".form-control-inline"));
           const selectedOption = target.textContent;
-          let blankInput = blankInputs.find(input => input.value === "");
+          let blankInput = inlineInputs.find(input => input.value === "");
           if (blankInput) {
-            blankInput.value = selectedOption;
-            blankInput.classList.remove("blank");
+            // blankInput.value = selectedOption;
+            // blankInput.classList.remove("blank");
             const correctAnswer = blankInput.getAttribute("data-answer");
             if (selectedOption === correctAnswer) {
               target.classList.add("list-group-item-primary");
-              blankInput.classList.remove("is-invalid");
-              break;
+              // blankInput.classList.remove("is-invalid");
             } else {
               target.classList.add("list-group-item-danger");
-              blankInput.classList.add("is-invalid");
+              // blankInput.classList.add("is-invalid");
             }
           }
         }
