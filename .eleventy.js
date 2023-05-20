@@ -21,6 +21,9 @@ const eleventyNavigationPlugin        = require("@11ty/eleventy-navigation");
 const markdownItTableOfContents       = require("markdown-it-table-of-contents");
 const markdownItMark                  = require("markdown-it-mark");
 const markdownItQuiz                  = require('markdown-it-quiz');
+const frontmatter = require('frontmatter');
+const fs = require('fs');
+const markdownItNew = require('markdown-it');
 
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
@@ -70,7 +73,30 @@ module.exports = function(eleventyConfig) {
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItOrdu);
-  markdownLibrary.use(markdownItQuiz);
+  // inside the eleventyConfig block:
+  // eleventyConfig.addTransform('markdown-it-conditional-plugins', (content, outputPath) => {
+  //   // only apply this to markdown files
+  //   if (outputPath && outputPath.endsWith('.md')) {
+  //     let doc = frontmatter(content);
+  //     let markdown = markdownItNew({
+  //       html: true,
+  //       // other options
+  //     });
+
+  //     // apply markdown-it plugins based on frontmatter
+  //     if (doc.data.quiz) {
+  //       markdown.use(markdownItQuiz);
+  //     }
+
+  //     // other markdown-it plugins
+      
+  //     doc.content = markdown.render(doc.content);
+  //     return frontmatter.stringify(doc);
+  //   }
+
+  //   // don't transform other files
+  //   return content;
+  // });
   markdownLibrary.use(markdownItAlign);
   markdownLibrary.use(markdownItSub);
   // //markdownLibrary.use(doMarkdownIT);
@@ -89,6 +115,7 @@ module.exports = function(eleventyConfig) {
     })
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
+  markdownLibrary.use(markdownItQuiz);
 
   // for mermaid
   // eleventyConfig.addPlugin(pluginMermaid, {
@@ -130,7 +157,6 @@ module.exports = function(eleventyConfig) {
       tagList.push({ tagName: tag, tagCount: tagsObject[tag] })
     })
     return tagList.sort((a, b) => b.tagCount - a.tagCount)
-
   });
 
 

@@ -1,37 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <title>Quiz</title>
-</head>
-<body>
-    <div class="container">
-        <div id="quiz" class="mt-5">
-            <div class="question" data-answer="0">
-                <h2>What is the capital of France?</h2>
-                <div class="list-group">
-                    <button type="button" class="list-group-item list-group-item-action">Paris</button>
-                    <button type="button" class="list-group-item list-group-item-action">Berlin</button>
-                    <button type="button" class="list-group-item list-group-item-action">Rome</button>
-                    <button type="button" class="list-group-item list-group-item-action">Madrid</button>
-                </div>
-            </div>
-            <div class="question" data-answer="0" style="display: none;">
-                <h2>What is the currency of Japan?</h2>
-                <div class="list-group">
-                    <button type="button" class="list-group-item list-group-item-action">Yen</button>
-                    <button type="button" class="list-group-item list-group-item-action">Dollar</button>
-                    <button type="button" class="list-group-item list-group-item-action">Euro</button>
-                    <button type="button" class="list-group-item list-group-item-action">Pound</button>
-                </div>
-            </div>
-        </div>
-        <button id="nextBtn" class="btn btn-primary mt-3">Next</button>
-        <div id="result" class="mt-5"></div>
-    </div>
-    <script src="/js/quiz.js"></script>
-</body>
-</html>     
+---
+title: QuizMD
+layout: layouts/quiz.njk
+quiz: true
+---
+:::: question 0,3|Fill in the blank: ______ is the capital of _____?
+::: option
+Paris
+:::
+::: option
+Spain
+:::
+::: option
+Germany
+:::
+::: option
+France
+:::
+::::
+
+:::: question 0,3,1,2|Match the country to its capital
+::: option
+Berlin
+:::
+::: option
+France
+:::
+::: option
+Paris
+:::
+::: option
+Germany
+:::
+::::
+
+:::: question 0,2|What is the capital of France and Italy?
+::: option
+Paris
+:::
+::: option
+Berlin
+:::
+::: option
+Rome
+:::
+::: option
+Madrid
+:::
+::::
+
+:::: question 0|Fill in the blank: Paris is the capital of _____?
+::: option
+France
+:::
+::: option
+Spain
+:::
+::: option
+Germany
+:::
+::: option
+Italy
+:::
+::::
+
+:::: question 0|What is the currency of Japan?
+::: option
+Yen
+:::
+::: option
+Dollar
+:::
+::: option
+Euro
+:::
+::: option
+Pound
+:::
+::::
