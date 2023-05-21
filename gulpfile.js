@@ -41,7 +41,7 @@ gulp.task('minify-css', () => {
 
 // minifies HTML
 gulp.task('minify-html', () => {
-  return gulp.src('public/*.html')
+  return gulp.src('public/**/*.html')
     .pipe(htmlmin({ collapseWhitespace: true, removeComments: true }))
     .pipe(gulp.dest('public'));
 });
@@ -52,7 +52,7 @@ gulp.task('purgecss', () => {
     return gulp.src('public/css/theme.min.css')
         .pipe(purgecss({
             content: ['public/**/*.html'],
-            safelist: ['quiz','list-group-item-danger','list-group-item-primary','collapsed', 'collapse', 'active', 'show', 'collapsing' ]
+            safelist: ['search-suggestions', 'quiz','list-group-item-danger','list-group-item-primary','collapsed', 'collapse', 'active', 'show', 'collapsing' ]
         }))
         .pipe(gulp.dest('public/css'))
 })

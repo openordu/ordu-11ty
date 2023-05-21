@@ -24,6 +24,7 @@ const markdownItQuiz                  = require('markdown-it-quiz');
 const frontmatter = require('frontmatter');
 const fs = require('fs');
 const markdownItNew = require('markdown-it');
+const searchFilter = require("./src/_11ty/filters/searchFilter");
 
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
@@ -49,7 +50,9 @@ module.exports = function(eleventyConfig) {
     "startsWith",
     require("./src/_11ty/filters/startsWith")
   );
-    
+
+  eleventyConfig.addFilter("search", searchFilter);
+
   eleventyConfig.addPassthroughCopy('./src/main.css');
   eleventyConfig.addPassthroughCopy('./src/lib/main.js');
   eleventyConfig.addPassthroughCopy('./src/assets');
