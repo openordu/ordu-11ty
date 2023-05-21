@@ -1,6 +1,7 @@
 ---
 title: quizmap
 layout: layouts/default.njk
+index: false
 ---
 
 ```mermaid

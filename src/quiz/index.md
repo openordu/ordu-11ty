@@ -1,8 +1,12 @@
 ---
 title: QuizMD
 layout: layouts/quiz.njk
-quiz: true
+index: false
 ---
+::: tip
+This is a tip
+:::
+
 :::: question 0,3|Fill in the blank: ______ is the capital of _____?
 ::: option
 Paris

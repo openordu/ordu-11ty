@@ -14,7 +14,7 @@ icon: list-check
 - [ ] make letter lists dual column
 - [ ] Make a decent footer
 - [ ] make a decent support page and footer link
-- [ ] move the quiz js include from njk to the module
+- [ ] Change all docs to remove references to vuepress-theme-hope
 
 
 ## Markdown
@@ -22,6 +22,10 @@ icon: list-check
 - [ ] pce categories and tags
 - [ ] edit this page link
 - [ ] take all the hrs on a page and put them into a floating list
+
+## Javascript
+- [x] move the quiz js include from njk to the module
+- [ ] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
 
 ## Search
 - [ ] Build site map
