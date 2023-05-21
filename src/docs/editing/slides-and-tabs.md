@@ -64,7 +64,7 @@ $$
 
 #### Tabs
 
-```  [group1:Home]
+``` tab [group1:Home]
 ...content for Home tab...
 ::: tip
 This is a tip in a tab

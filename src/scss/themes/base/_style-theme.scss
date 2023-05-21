@@ -376,6 +376,24 @@ h1:hover a.header-anchor, h2:hover a.header-anchor, h3:hover a.header-anchor, h4
   }
 }
 
+div.tab-content {
+  padding: 10px;
+  border: 1px solid rgb(240, 240, 240);
+  border-top: none;
+  border-radius: 0 0 3px 3px;
+ }
+div.tab-content ul {
+    font-size: $font-size-base !important;
+    padding: 10px !important;
+    white-space: wrap !important;
+    border-bottom: 0px solid rgb(240, 240, 240) !important;
+}
+div.tab-content  li {
+      list-style: none;
+      display: block !important;
+      position: relative;
+}
+
 span.katex-mathml math {
   max-width: fit-content;
 }

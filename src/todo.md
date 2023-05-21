@@ -25,22 +25,21 @@ icon: list-check
 
 ## Javascript
 - [x] move the quiz js include from njk to the module
-- [ ] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
+- [x] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
 
 ## Search
-- [ ] Build site map
-- [ ] Deploy job will call Google crawl sitemap
-
-## Unplanned Wishlist
-- [ ] pronunciations
-- [ ] maps
+- [x] Build site map
 
 ## Next phase
 - [ ] See if you can find icons for some of the entity types
 
+## Unplanned Wishlist
+- [ ] pronunciations
+- [ ] maps
+- [ ] Deploy job will call Google crawl sitemap
+
 ## Decided not to doc
 - [ ] Style code blocks
-
 
 ## Done
 

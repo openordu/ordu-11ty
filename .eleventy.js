@@ -73,6 +73,7 @@ module.exports = function(eleventyConfig) {
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItOrdu);
+  markdownLibrary.use(markdownItQuiz);
   // inside the eleventyConfig block:
   // eleventyConfig.addTransform('markdown-it-conditional-plugins', (content, outputPath) => {
   //   // only apply this to markdown files
@@ -115,7 +116,6 @@ module.exports = function(eleventyConfig) {
     })
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
-  markdownLibrary.use(markdownItQuiz);
 
   // for mermaid
   // eleventyConfig.addPlugin(pluginMermaid, {
@@ -157,6 +157,7 @@ module.exports = function(eleventyConfig) {
       tagList.push({ tagName: tag, tagCount: tagsObject[tag] })
     })
     return tagList.sort((a, b) => b.tagCount - a.tagCount)
+
   });
 
 
@@ -179,6 +180,9 @@ module.exports = function(eleventyConfig) {
     }).toFormat('yyyy-LL-dd');
   });
   return {
+    metadata: {
+      url: "https://celticpaganism.org", // Your website URL
+    },
     dir: {
       input: "src",
       output: "dev"
