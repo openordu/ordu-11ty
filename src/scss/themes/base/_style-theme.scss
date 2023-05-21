@@ -2,43 +2,25 @@ body {
   letter-spacing:-.02rem;
 }
 
-@media screen and (min-width: 1024px) {
-  ul#search-suggestions.dropdown-menu {
-    position: absolute !important;
-    min-width: 12.7rem;
-    padding: 0.5rem 0;
-    margin: 0;
-    font-size: 1rem;
-    color: #494949;
-    text-align: left;
-    list-style: none;
-    background-color: #fff;
-    background-clip: padding-box;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: 0.25rem;
-    z-index: 5000;
-    top: 2.8em !important;
-    right: 0.9em !important;
-    display: block;
-    max-width: 11.9em;
-  }
-  ul#search-suggestions.dropdown-menu a {
-    // display: block;
-    // padding: 10px;
-    // text-decoration: none;
-    // color: #333;
-  }
-  ul#search-suggestions.dropdown-menu a:hover {
-    background-color: $primary;
-    color: #FFF;  
-  }
+.search-container {
+  position: relative;
+  width: auto; /* set this to the width you want your input field to be */
+}
+
+#search-input {
+  width: 100%;
+  /* other styles */
+}
+
+a.link-fancy {
+  position: unset;
 }
 
 #search-suggestions {
-  position: relative!important;
-  width: 100%!important;
-  right: 0em !important;
-  top: 0em !important;
+  position: absolute;
+  top: 100%; /* this positions the suggestions right below the input field */
+  width: 100%;
+  /* other styles */
   display: block;
 }
 
