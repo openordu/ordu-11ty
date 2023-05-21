@@ -9,7 +9,9 @@ searchInput.addEventListener('focus', function() {
 
       // Add event listener to the search field for input changes
       searchInput.addEventListener('input', function() {
+
         var searchTerm = this.value;
+
         var suggestionContainer = document.querySelector('#search-suggestions');
 
         // If input is empty, clear suggestions and hide container
@@ -50,12 +52,9 @@ searchInput.addEventListener('focus', function() {
 
         // Add new suggestions
         results.forEach(function(result) {
-          var link = document.createElement('a');
-          link.innerText = result.doc.title;
-          link.href = result.doc.id;
-          var div = document.createElement("div");
-          div.innerHTML = `<a href="${link}">${result.doc.title}</a>`;
-          suggestionContainer.appendChild(div);
+          var listItem = document.createElement("li");
+          listItem.innerHTML = `<a class="dropdown-item" href="${result.doc.id}">${result.doc.title}</a>`;
+          suggestionContainer.appendChild(listItem);
           suggestionContainer.classList.remove("d-none");
         });
       });

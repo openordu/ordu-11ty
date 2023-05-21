@@ -2,26 +2,44 @@ body {
   letter-spacing:-.02rem;
 }
 
+@media screen and (min-width: 1024px) {
+  ul#search-suggestions.dropdown-menu {
+    position: absolute !important;
+    min-width: 12.7rem;
+    padding: 0.5rem 0;
+    margin: 0;
+    font-size: 1rem;
+    color: #494949;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+    z-index: 5000;
+    top: 2.8em !important;
+    right: 0.9em !important;
+    display: block;
+    max-width: 11.9em;
+  }
+  ul#search-suggestions.dropdown-menu a {
+    // display: block;
+    // padding: 10px;
+    // text-decoration: none;
+    // color: #333;
+  }
+  ul#search-suggestions.dropdown-menu a:hover {
+    background-color: $primary;
+    color: #FFF;  
+  }
+}
+
 #search-suggestions {
-  position: absolute!important;
+  position: relative!important;
   width: 100%!important;
-  right: 0.9em;
-  z-index: 100!important;
-  background-color: #fff!important;
-  border: 1px solid #ccc!important;
-  border-radius: 4px!important;
-  box-shadow: 0 2px 8px rgba(0,0,0,.1)!important;
-  margin-top: 8em !important;
-  max-width: 12.8em;
-}
-#search-suggestions a {
+  right: 0em !important;
+  top: 0em !important;
   display: block;
-  padding: 10px;
-  text-decoration: none;
-  color: #333;
-}
-#search-suggestions a:hover {
-  background-color: #f0f0f0;
 }
 
 #quiz {

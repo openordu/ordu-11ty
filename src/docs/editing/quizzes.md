@@ -6,9 +6,7 @@ time: 2021-01-01
 copyright:
   minLength: 1
 title: Quizzes
-icon: test
-
-
+icon: feather-pointed
 index: 94
 ---
 
