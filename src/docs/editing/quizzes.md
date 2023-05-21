@@ -91,7 +91,7 @@ Pound
 ::::
 :::::
 
-The formula above was created with the text below.
+The quiz above was created with the text below.
 
 ```md
 ::::: quiz
