@@ -6,14 +6,15 @@
       {% if icon %}
       <i class="display-1 fa-{{ site.fatheme }} fa-{{ icon }} float-start ps-0 ms-0"></i>
       {% endif %}
-      <a name="{{ page.fileSlug }}" class="link-fancy"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
+      <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
 <p class="mt-1"><span>
 {% if contributors %}<span data-bs-toggle="tooltip" data-bs-placement="top" title="Contributors"><i class="icon fa-solid fa-user-plus"></i>{% for contributor in contributors %}{% if loop.index > 1 %}, {% endif %}{{ contributor }}{% endfor %}</span>{% endif %}
-<span><i class="icon fa-solid fa-clock" data-bs-toggle="tooltip" data-bs-placement="top" title="Last modified"></i><span data-bs-toggle="tooltip" data-bs-placement="top" title="{{ page.inputPath | fileModifiedDate | date('yyyy-MM-dd HH:mm:ss') }}">{{ page.inputPath | fileModifiedDate | timeAgo }}</span></span>
+<span><i class="icon fa-solid fa-clock" data-bs-toggle="tooltip" data-bs-placement="top" title="Last modified"></i><span data-bs-toggle="tooltip" data-bs-placement="top" id="last-modified" title="{{ page.inputPath | fileModifiedDate | date('yyyy-MM-dd HH:mm:ss') }}">{{ page.inputPath | fileModifiedDate }}</span></span>
 <span class="reading-time" data-bs-toggle="tooltip" data-bs-placement="top" title="Reading time"><i class="icon fa-solid fa-hourglass-start"></i> about {{ content | readingTime }} minutes</span>
 </span></p>
+<script src="/js/timeAgo.js"></script>
 
 <hr class="border border-primary border-1 opacity-75">
 

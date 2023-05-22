@@ -25,7 +25,21 @@
     <footer class="container">
       {% include 'snippets/footer.njk' %}
     </footer>
-
+    {% if "echart" in content or "chart" in content
+    or "mermaid" in content %}
+      <script src="/js/echarts.min.js"></script>
+      <script src="/js/chart.min.js"></script>
+      <script src="/js/mermaid.min.js"></script>
+      <script src="/js/raphael.min.js"></script>
+      <script src="/js/flowchart.min.js"></script>
+      <script src="/js/flow-setup.js" defer></script>
+      <script src="/js/mermaid-setup.js" defer></script>
+      <script src="/js/chart-setup.js" defer></script>
+      <script src="/js/echarts-setup.js" defer></script>
+      <script src="/js/allchart-setup.js" defer></script>
+    {% endif %}
+    <script src="/js/elasticlunr.min.js"></script>
+    <script src="/js/elasticlunr.js"></script>
   </body>
 
 </html>

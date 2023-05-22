@@ -2,6 +2,30 @@ body {
   letter-spacing:-.02rem;
 }
 
+#splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999; /* Make sure the splash screen is on top of everything else */
+  transition: opacity 0.5s ease-in-out; /* fade out effect */
+  opacity: 1;
+}
+
+#splashlogo {
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
 .search-container {
   position: relative;
   width: auto; /* set this to the width you want your input field to be */
@@ -12,16 +36,15 @@ body {
   /* other styles */
 }
 
-a.link-fancy {
-  position: unset;
-}
-
 #search-suggestions {
   position: absolute;
   top: 100%; /* this positions the suggestions right below the input field */
   width: 100%;
   /* other styles */
   display: block;
+}
+table {
+  border: 1px solid;
 }
 
 #quiz {
@@ -189,9 +212,9 @@ a.external-link::after {
   content: "\f35d"; /* Unicode character for the 'external-link-alt' Font Awesome icon */
   font-family: "Font Awesome 6 Pro"; /* Font family for Font Awesome icons */
   font-weight: 600; /* Adjust the font-weight based on your Font Awesome version */
-  position: absolute;
-  top: 7px;
-  right: 7px;
+  position: relative;
+  top: -3px;
+  right: -5px;
   font-size: x-small;
 }
 

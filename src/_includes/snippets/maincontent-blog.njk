@@ -1,0 +1,8 @@
+
+{% include 'snippets/breadcrumbs.njk' %}
+
+<header class="mt-4">
+      <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
+</header>
+
+{{ content | safe }}

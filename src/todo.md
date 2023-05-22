@@ -5,16 +5,16 @@ icon: list-check
 ---
 
 ## Content
-- [ ] Create docs > editing > slides and tabs
 - [ ] Blog port
 - [ ] cringe checks
 - [ ] pce images
-- [ ] license out of sidebar
 - [ ] set package license
-- [ ] make letter lists dual column
 - [ ] Make a decent footer
-- [ ] make a decent support page and footer link
+- [ ] make a decent support us page and footer link
 - [ ] Change all docs to remove references to vuepress-theme-hope
+- [x] Create docs > editing > slides and tabs
+- [x] license out of sidebar
+- [x] make letter lists dual column
 
 
 ## Markdown
@@ -29,6 +29,8 @@ icon: list-check
 
 ## Search
 - [x] Build site map
+- [x] Search field
+- [ ] Index Excerpts
 
 ## Next phase
 - [ ] See if you can find icons for some of the entity types

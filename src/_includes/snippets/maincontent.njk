@@ -6,7 +6,7 @@
       {% if icon %}
       <i class="display-1 fa-{{ site.fatheme }} fa-{{ icon }} float-start ps-0 ms-0"></i>
       {% endif %}
-      <a name="{{ page.fileSlug }}" class="link-fancy"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
+      <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
 {{ content | safe }}
