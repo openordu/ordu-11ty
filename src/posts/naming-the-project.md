@@ -4,6 +4,8 @@ category: Planning
 title: Naming the project
 tag: naming
 date: 2022-04-23
+contributors:
+  - Christopher Godwin
 ---
 I chose the name `openordú` because it means to me: an open order, an open
 priesthood. I'm not going to get a new domain name just yet. Cporg has not yet
@@ -12,15 +14,15 @@ might be most appropriate to appearances, but the domain name
 _celticpaganism.org_ is most appropriate to the [goals](../goals.md) of the
 project.
 
-I often question the extent to which I want to link the open clan, the Ó Déisí,
-and the bushiness of clan dynamics to all of this but each time I try to think
-about how it may be separate, feel like I'm embarking on an exercise in super
-colonial gymnastics. A culture cannot be separated from its people. So this
-project, while it can be use by clanless people or even other clans, groves, or
-covens, this work cannot be separated from [Ó Déisí](/posts/letter-mission.html)
-people because this open source effort represents the building of a culture
-which is always done naturally within a clan context, within the context of the
-people who are drawn together by its shared practice.
+I often reflect on the connection between the open clan, the Ó Déisí, and the
+dynamics of clan life in relation to this project. Considering any attempt to
+separate them feels like engaging in colonial gymnastics. It is important to
+acknowledge that culture cannot be separated from its people. While this project
+is open for use by individuals, groves, covens, and other clans, it is deeply
+intertwined with the [Ó Déisí](/posts/letter-mission.html) people. The
+open-source effort of this project represents the organic development of a
+culture that naturally emerges within the context of a clan, with individuals
+who are drawn together by a shared practice.
 
 > A culture cannot be separated from its people.
 

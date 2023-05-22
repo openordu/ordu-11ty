@@ -4,10 +4,10 @@ category: Planning
 tag: approach
 title: My Approach
 date: 2022-05-30
+contributors:
+  - Christopher Godwin
 summary: 'This post explores optimal strategies for guide creation in a project: Bottom-Up, Top-Down, and Straddle (Hybrid). It weighs the pros and cons of each, considering factors like attention capture, recruitment timelines, and potential project completion. The conclusion suggests the Straddle approach, balancing laity attraction and priest recruitment, as the method with least risk and most benefits.'
 ---
-# Bottom Up or Top Down Approach. Which is Better?
-
 This is a layout to explore which method is best to determine the proper order
 of the creation of the guides section of this project.
 

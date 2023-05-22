@@ -2,7 +2,7 @@
   "name": "11straps",
   "version": "0.2.0",
   "description": "simple 11ty and Bootstrap5 boilerplate",
-  "license": "MIT",
+  "license": "CCASAIP",
   "private": "true",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"

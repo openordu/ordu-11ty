@@ -4,9 +4,10 @@ category: Interface
 title: Site url volume and static site generators
 tag: architecture
 date: 2022-04-23
+contributors:
+  - Christopher Godwin
 summary: This post details volume issues during static site build using Node.js, causing an 11-hour build time due to sidebar regeneration for each page. Switching to alphabetical indexes in the sidebar drastically reduced the build time to 30 minutes. The transition to vuepress2 helped address previous memory issues with webpack, improving performance, networking, and lighthouse metrics.
 ---
-# Site url volume and static site generators
 ## Troubles
 
 I have been having issues with volume. It was taking 11 hours to build the static site using `nodejs` with the PCE files added. I was trying to make the sidebar contain all the pce elements thinking that'd make one tree for the app to traverse. Instead of that, what happens is the sidebar object is regenerated per page so when I told it to have 3000 elements on 3000 pages it took 11 hours to generate 9 million sidebar links. It was fixed by switching to alphabetical indexes in the sidebar instead of every item. The build went down to 30 minutes, went down by 10.5 hours.

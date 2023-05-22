@@ -4,9 +4,11 @@ category: Planning
 title: An Open Letter to Celtic Pagans
 tag: mission
 date: 2021-12-31
+contributors:
+  - Christopher Godwin
 summary: Experience an intimate exploration of Celtic Paganism through the eyes of an ADF clergy postulant. With an intriguing mix of mystical experiences and a profound understanding of Neodruidism and Animism, this compelling journey investigates the problems and solutions within the community. Join in the unveiling of a new project designed to redefine and revitalize Celtic Pagan practices. Learn about the rich, inclusive clan it aims to establish, connecting past and future Celtic enthusiasts.
 ---
-# An Open Letter to Celtic Pagans
+
 Many folks know I've been a clergy postulant with ADF for a while and an
  official member since 2003. I've led groves in Austin and Houston, and helped
  contribute to others elsewhere, published blogs, both druidic and on general
@@ -64,9 +66,9 @@ I've invested in this idea of a high liturgy within polytheist practice as
  to them. I want a liturgy that recognizes the particular nature of the soul,
  particular being literal here for 'having parts'.
  
-Often though, druidry and druid groups execute their rites in the most bland and
- not very Celtic way. I long for hearth rites and hill rites that recognize what
- is going on in folklore.
+I have noticed variations in the execution of rites among different Neodruid
+groups, and I personally seek a more vibrant and folklore-inspired approach,
+such as hearth rites and hill rites that align with Celtic traditions.
 
 ## The Solution
 
@@ -87,16 +89,14 @@ So this sense of a ritual order, the core of some groups' identities, that invol
  Indian Nayakan have, and what the ancestors who worshiped our gods probably
  had. I can feel what that is, though it isn't drawn out of the waters yet.
 
-I need a set of offices of rites which conceive of the full spectrum of animism
- and polytheist scholarship, some of which consists of a dismemberment of
- primordial sacrifice and the magico-alchemical preparation of that into a
- blessing mostly in metered charm and sometimes unmetered charms, that pair with
- myth as the Christian rites do. When the bread is broken and one half is
- submerged into the chalice in the Celtic Rite, it is a mimicking action of the
- crucifixion, and then the two halves are put back together it is a mimicking of
- the resurrection. That is specifically a different thing than what existing
- neodruid groups present as required to represent their identities. The
- Christians are doing pagan better than than neopagans.
+I am exploring the concept of developing a comprehensive set of rites that
+ encompass the spectrum of animism and polytheist scholarship. This would
+ involve incorporating elements like primordial sacrifice, magico-alchemical
+ preparations, and poetic charms, which could be paired with myths. For example,
+ in the Celtic Rite, the breaking of bread and its subsequent rejoining could
+ symbolize significant moments, similar to how Christian rites draw upon
+ symbolism. However, it is important to recognize that different Neodruid groups
+ may have their own distinct practices that represent their unique identities.
 
 ## More of the Problem
 

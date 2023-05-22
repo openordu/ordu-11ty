@@ -4,11 +4,11 @@ category: Culture
 title: What is OpenSource? Why is it Good or Needed
 tag: vision
 date: 2022-05-16
+contributors:
+  - Christopher Godwin
 summary: Open Source Religion applies the principles of open-source software to religious practice, promoting a responsive, inclusive, and transparent approach to cultural traditions like Celtic Paganism. It creates a future-proof, scalable, and community-driven platform that offers financial advantages and ensures constant accessibility. This transformative concept enhances cultural evolution, fosters freedom, and encourages anthropological experimentation while safeguarding against potential abuses.
 
 ---
-# What is OpenSource Religion? Why is it Good or Needed
-
 ## What is Open Source?
 'Open source', 'Opensource', and 'Free and Open Source Software'(FOSS) are terms
 for an idea that sets of computer instructions are better off free to be used
@@ -23,7 +23,6 @@ launches, go-lives or developed at a more rapid pace than private software.
 
 > "Culture is your operating system."
 > - Terrance Mckenna
-
 
 ## What does this have to do with Celtic Paganism?
 Culture isn't different from software in that sets of instructions are analogous

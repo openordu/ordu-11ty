@@ -5,13 +5,13 @@ icon: list-check
 ---
 
 ## Content
-- [ ] Blog port
-- [ ] cringe checks
 - [ ] pce images
-- [ ] set package license
 - [ ] Make a decent footer
 - [ ] make a decent support us page and footer link
 - [ ] Change all docs to remove references to vuepress-theme-hope
+- [x] set package license
+- [x] cringe checks
+- [x] Blog port
 - [x] Create docs > editing > slides and tabs
 - [x] license out of sidebar
 - [x] make letter lists dual column
