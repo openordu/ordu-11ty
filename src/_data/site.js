@@ -1,4 +1,5 @@
 module.exports = {
     name: "thisnthat",
-    fatheme: "solid"
+    fatheme: "solid",
+    currentYear: new Date().getFullYear(),
 }

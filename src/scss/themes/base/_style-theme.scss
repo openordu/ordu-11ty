@@ -374,6 +374,12 @@ h1:hover a.header-anchor, h2:hover a.header-anchor, h3:hover a.header-anchor, h4
   color: #fff !important;
 }
 
+ul:has(li > a.custom-internal-link[href^="/pce/"]) {
+  /* Add your custom styles to target the <ul> element */
+  columns: 2; /* Divide the content into two columns */
+  column-gap: 20px; /* Set the gap between the columns */
+}
+
 .code-tabs {
   border: 1px solid rgb(240, 240, 240);
   border-radius: 3px;

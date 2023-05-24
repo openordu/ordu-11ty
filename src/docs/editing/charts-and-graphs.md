@@ -29,8 +29,7 @@ sequenceDiagram
     Alice-)John: See you later!
 ```
 ````
-Go [here](https://vuepress-theme-hope.github.io/md-enhance/guide/flowchart/) and also see the [flowchart.js](https://github.com/adrai/flowchart.js) reference to master
- this type of formatting.
+Go [here](https://github.com/adrai/flowchart.js) reference to master this type of formatting.
 
 # Who is your favorite Smith God?
 ```mermaid

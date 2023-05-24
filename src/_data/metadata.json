@@ -2,6 +2,11 @@
   "title": "OpenOrdú",
   "logotitle": "CelticPaganism.org",
   "author": "Christopher Godwin",
-  "description": "Project Description Goes Here",
+  "description": "OpenOrdú is an open-source, collaborative platform dedicated to the promotion and preservation of Celtic Paganism, offering resources and tools for personalization, community engagement, and cultural development, all while fostering pluralism and historical awareness.",
+  "url": "https://www.celticpaganism.org",
+  "baseurl": "/",
+  "twitter_username": "openordu",
+  "github_username": "openordu",
+  "email": "b3Blbm9yZHVAZ21haWwuY29tCg==",
   "language": "en"
 }

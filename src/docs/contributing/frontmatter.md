@@ -26,10 +26,10 @@ icon: sample
 ```
 
 ## First Heading
-The first heading after the body of frontmatter on a Markdown file is ignored
-because it is assumed that this is the title of the page. So it is a standard of
-ours to assign the value of the title: tag in frontmatter to the value of the
-first H1 after the frontmatter body.
+The first heading after the body of frontmatter on a Markdown file should be an
+h2 to avoid having double h1s. So it is a standard of ours to assign the value
+of the title: tag in frontmatter to the value of the first H1 after the
+frontmatter body.
 
 Here is the example:
 
@@ -40,19 +40,18 @@ title: Title of the Content
 icon: sample
 description: Description of this page
 ---
-# Title of the Content <-- this value is ignored but required.
+## Title of the Content <-- this has two pound signs creating an H2
 ```
 
 ## Required Frontmatter options:
 
-* `article: false`
+* `layout: layouts/default.njk`
 * `date: YYYY-MM-DD or YYYY/MM/DD hh:mm:ss`
-* `author: you`
-* `contributors: somebody, somebodyelse, andnowyou`
-* `isOriginal: true or false`
-* `description: A brief description of the content`
+* `author: your name`
+* `contributors: [somebody, somebodyelse, andnowyou] (this is a yaml array)`
+* `summary: A brief description of the content`
 
-## Prefered Frontmatter options:
+## Preferred Frontmatter options:
 
 * `title: sometitle`
 * `category: reasonablecategory`
@@ -61,16 +60,16 @@ description: Description of this page
     - tag1
     - tag2
     ```
-* `icon: oneofthefeaturedicons`
+* `icon: <an icon from font icon>`
 * `image: http://somepath.com/to/an/image/for/the/page.jpg or /assets/some/public/image/in/the/project.jpg`
 * `prev: location/to/previous/content.md`
 * `next: location/of/what/to/read/nexd.md`
 
-## All Frontmatter options:
+<!-- ## All Frontmatter options:
 
 You can control quite a great deal about the display of a single page using the
 following references:
 
 [Informational Frontmatter](https://vuepress-theme-hope.github.io/v2/config/frontmatter/info.html)
 [Layout Frontmatter](https://vuepress-theme-hope.github.io/v2/config/frontmatter/layout.html)
-[Plugin Frontmatter](https://vuepress-theme-hope.github.io/v2/config/frontmatter/plugins.html)
+[Plugin Frontmatter](https://vuepress-theme-hope.github.io/v2/config/frontmatter/plugins.html) -->

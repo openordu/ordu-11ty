@@ -5,43 +5,34 @@ icon: list-check
 ---
 
 ## Content
-- [ ] pce images
-- [ ] Make a decent footer
 - [ ] make a decent support us page and footer link
-- [ ] Change all docs to remove references to vuepress-theme-hope
-- [x] set package license
-- [x] cringe checks
-- [x] Blog port
-- [x] Create docs > editing > slides and tabs
-- [x] license out of sidebar
-- [x] make letter lists dual column
-
+- [ ] relink submodules and recursive pulls
 
 ## Markdown
 - [ ] pce previous and next
-- [ ] pce categories and tags
+- [ ] page categories and tags
 - [ ] edit this page link
-- [ ] take all the hrs on a page and put them into a floating list
-
-## Javascript
-- [x] move the quiz js include from njk to the module
-- [x] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
+- [ ] take all the H1, H2... on a page and put them into a floating list in the right sidebar
+- [ ] pce back button, same link as bread crumb
 
 ## Search
-- [x] Build site map
-- [x] Search field
 - [ ] Index Excerpts
+
+## Encyclopedia
+- [ ] pce images
+- [ ] move json files into a pce collection
+- [ ] make all entities link to one another
 
 ## Next phase
 - [ ] See if you can find icons for some of the entity types
+- [ ] port this ui as a software named eleventy-press
+- [ ] Create eleventy-press documentation
+- [ ] Create links to eleventy-press documentation
 
 ## Unplanned Wishlist
 - [ ] pronunciations
 - [ ] maps
 - [ ] Deploy job will call Google crawl sitemap
-
-## Decided not to doc
-- [ ] Style code blocks
 
 ## Done
 
@@ -66,3 +57,15 @@ icon: list-check
 - [x] mark / highlight important words
 - [x] charts, e-charts, mermaid, and flowcharts
 - [x] custom titles in alert boxes
+- [x] create a full frontmatter docs page
+- [x] Make a decent footer
+- [x] set package license
+- [x] cringe checks
+- [x] Blog port
+- [x] Create docs > editing > slides and tabs
+- [x] license out of sidebar
+- [x] make letter lists dual column
+- [x] move the quiz js include from njk to the module
+- [x] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
+- [x] Build site map
+- [x] Search field

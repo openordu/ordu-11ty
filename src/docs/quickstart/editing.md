@@ -89,6 +89,9 @@ Unordered list
 ## Heading2
 ### Heading3 and so forth
 :::
-To see the full docs on formatting, go to the [Content Demo](/docs/editing) page. This is
- just a demo. You can also visit a [Markdown introduction](https://vuepress-theme-hope.github.io/v2/guide/get-started/markdown.html#markdown-introduction) and a referenced to the
+To see the full docs on formatting or go to the [Content Demo](/docs/editing) page.
+
+This is just a demo.
+
+You can also visit a [Markdown introduction](https://theme-hope.vuejs.press/guide/get-started/markdown.html#markdown-introduction) and a referenced to the
  [Enhanced Markdown Demo](https://vuepress-theme-hope.github.io/v2/cookbook/markdown/demo.html) we use on this site.

@@ -14,7 +14,7 @@ index: 80
 # Code of Conduct
 ## Preamble
 
-As an organization, Clan Ó Déisi emphasizes the importance of building
+As an organization, Clan Ó Déisi(Déisianna) emphasizes the importance of building
 relationships. We seek to create relationships with the Déithe and with each
 other. We also strive to express virtue and honor our words and actions. Of
 these virtues, hospitality and integrity have the most obvious impact on our
@@ -23,20 +23,20 @@ interpersonal relationships.
 ## Summary
 Hospitality is a virtue that includes responsibilities for both the guest and
 host to be considerate, and to work together to create a safe space for each
-other. Within The Déisi Clan, part of that responsibility includes an intolerance for
+other. Within The Déisianna, part of that responsibility includes an intolerance for
 behaviors that show abuse, hate, discrimination, or racism in any form. This
 means that we are considerate of others and respect their right to define what
 happens to themselves. This also means that we do not act without consent.
 
 Integrity reflects in how we treat each other. It is expected that Clan members keep their word, treat everyone with kindness and respect, do not tell falsehoods, and do not spread gossip. This does not mean that we should not have difficult or corrective conversations, but that those should be done with integrity.
 
-Members and guests of The Déisi Clan are expected to follow this Code of Conduct in
+Members and guests of The Déisianna are expected to follow this Code of Conduct in
 all our spaces, both in-person and online, and at any time that they are
-representing The Déisi Clan. Failure to follow this code will result in corrective
-action that may include suspension or removal from The Déisi Clan.
+representing The Déisianna. Failure to follow this code will result in corrective
+action that may include suspension or removal from The Déisianna.
 
 ## Definitions
-“The Déisi Clan” is a confederation of septs that take the work Openordú produces and
+“The Déisianna” is a confederation of septs that take the work Openordú produces and
 practice it. The name of The Déisi Clan is the Ó Déisi clan, an artificial clan from
 the 4th century which became a real one. We redefine this artificail clan as a
 designation for the group which forms around this project as a culture.
@@ -77,7 +77,7 @@ similar situations would agree that something is harmful, then it is.
 
 ## Behavioral Expectations
 Clan Members and guests at Clan events are expected to behave in a way that is
-acceptable to The Déisi Clan.
+acceptable to The Déisianna.
 
 Unacceptable behavior includes but is not limited to:
 
@@ -117,7 +117,7 @@ Required behaviors include:
 * any minors in one’s charge,
 * and fellow adults/minors
 
-Sexual offenders do not belong to The Déisi Clan and legal conviction or
+Sexual offenders do not belong to The Déisianna and legal conviction or
 confession of sexual crimes means the convicted belong to the Na hEasonóracha,
 The Dishonored.
 
@@ -170,15 +170,14 @@ If a member fails to follow any corrective action, they may be expelled from The
 severity, and frequency of the action.
 
 ## Changes to this document
-This document may be changed by a 2/3 vote from the Maintainers with each
-Maintainer having one vote.
+This document may be changed by a 2/3 vote from the Maintainers with each Maintainer having one vote.
 
 Clan Members will be given at least two weeks to comment on changes before any vote is started. In emergency situations, the feedback time may be reduced to one week.
 
-All commentary emailed to openordu@gmail.com will be considered. Each request for feedback may include additional locations for commentary.
+All commentary emailed to <a class="email-encode" href="mailto:{{ metadata.email }}">{{ metadata.email}}</a> will be considered. Each request for feedback may include additional locations for commentary.
 
-###Inspiration
-Ár nDraíocht Féin Code of Conduct
-Heathen Pagan Federation Code of Conduct
-Pagan Federation Code of Conduct
-Boy Scouts of America
+### Inspiration
+* Ár nDraíocht Féin Code of Conduct
+* Heathen Pagan Federation Code of Conduct
+* Pagan Federation Code of Conduct
+* Boy Scouts of America

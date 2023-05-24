@@ -28,7 +28,7 @@ stuff3
 ::: slide Caption|3
 ## Slide 1
 
-A paragraph with some text and a [link](https://mrhope.site)
+A paragraph with some text and a [link](https://cgodwin.io)
 
 :::
 ::: slide Caption 2|3
@@ -58,9 +58,7 @@ $$
 :::
 ::::
 
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/presentation.html)
-
-[md-enhance]: https://theme-hope.vuejs.press/md-enhance/
+- [View Details](https://github.com/openordu/markdown-it-ordu)
 
 #### Tabs
 
@@ -80,35 +78,36 @@ This is a tip in a tab
 ...content for Disabled tab...
 ```
 
-
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/tabs.html)
+- [View Details](https://github.com/openordu/markdown-it-ordu)
 
 #### Command Tabs
 ```bash [install:pnpm]
-`pnpm add -D vuepress-theme-hope`
+`pnpm add -D onchange`
 ```
 ```bash [install:yarn]
-`yarn add -D vuepress-theme-hope`
+`yarn add -D onchange`
 ```
 ```bash [install:npm]
-`npm i -D vuepress-theme-hope`
+`npm i -D onchange`
 ```
 
 #### Code Tabs
 ```tab [code:pnpm]
 ~~~pnpm
-pnpm add -D vuepress-theme-hope
+pnpm add -D onchange
 ~~~
 ```
 ```tab [code:yarn]
 ~~~yarn
-yarn add -D vuepress-theme-hope
+yarn add -D onchange
 ~~~
 ```
 ```tab [code:npm]
 ~~~bash
-npm i -D vuepress-theme-hope
+npm i -D onchange
 ~~~
 ```
 
-- [View Detail](https://theme-hope.vuejs.press/guide/markdown/code-tabs.html)
+- [View Details](https://github.com/openordu/markdown-it-ordu)
+
+<!-- - [View Detail](https://theme-hope.vuejs.press/guide/markdown/code-tabs.html) -->
