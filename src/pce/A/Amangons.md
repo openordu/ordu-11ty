@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Amangons
 icon: file-lines
 order: 107

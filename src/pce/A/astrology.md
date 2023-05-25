@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: astrology
 icon: file-lines
 order: 169

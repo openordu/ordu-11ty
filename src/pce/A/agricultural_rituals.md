@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: agricultural rituals
 icon: file-lines
 order: 43

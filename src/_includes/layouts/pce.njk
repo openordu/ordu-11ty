@@ -1,0 +1,33 @@
+<!doctype html>
+<html class="h-100" lang="{{ metadata.language }}">
+
+  <head>
+    {% include 'snippets/head.njk' %}
+  </head>
+
+  <body class="h-100">
+    <div id="splash-screen">
+      <img id="splashlogo" src="/assets/green_logo.png" />
+    </div>
+
+    {% include 'snippets/navbar.njk' %}
+
+    <main class="container">
+      <div class="row d-flex align-items-start">
+        <div class="row d-flex justify-content-center">
+            <div class="aside order-md-1 order-2 col col-12 col-sm-3 flex-shrink-0 p-2 bg-white">
+              {% include 'snippets/sidebar.njk' %}
+            </div>
+            <div class="main order-md-2 order-1 col col-12 col-sm-9 pb-5">
+              {% include 'snippets/maincontent-pce.njk' %}
+            </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="text-center text-lg-start bg-light text-muted pt-1">
+      {% include 'snippets/footer.njk' %}
+    </footer>
+  </body>
+
+</html>

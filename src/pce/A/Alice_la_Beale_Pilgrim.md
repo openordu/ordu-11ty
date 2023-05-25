@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Alice la Beale Pilgrim
 icon: file-lines
 order: 95

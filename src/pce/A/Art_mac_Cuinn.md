@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Art mac Cuinn
 icon: file-lines
 order: 158

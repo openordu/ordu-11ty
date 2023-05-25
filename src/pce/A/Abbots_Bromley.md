@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Abbots Bromley
 icon: file-lines
 order: 2

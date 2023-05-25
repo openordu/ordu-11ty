@@ -40,6 +40,12 @@ module.exports = function(eleventyConfig) {
   // eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
   // eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
   eleventyConfig.addNunjucksAsyncFilter('fileModifiedDate', fileModifiedDate());
+  eleventyConfig.addNunjucksFilter('keyBy', function(array, key) {
+    return array.reduce(function(result, item) {
+      result[item.data[key]] = item;
+      return result;
+    }, {});
+  });
   eleventyConfig.addNunjucksFilter('timeAgo', timeAgo());
   eleventyConfig.addNunjucksFilter('date', date());
   eleventyConfig.addNunjucksFilter('readingTime', readingTime());
@@ -52,7 +58,9 @@ module.exports = function(eleventyConfig) {
   );
 
   eleventyConfig.addFilter("search", searchFilter);
-
+  eleventyConfig.addFilter("findIndex", function(array, url) {
+    return array.findIndex(item => item.url === url);
+  });
   eleventyConfig.addPassthroughCopy('./src/main.css');
   eleventyConfig.addPassthroughCopy('./src/lib/main.js');
   eleventyConfig.addPassthroughCopy('./src/assets');
@@ -67,43 +75,16 @@ module.exports = function(eleventyConfig) {
     externalTarget: "_external",
     internalClassName: "custom-internal-link",
   });
-
   markdownLibrary.use(markdownItContainer, {
     validate: function(params) {
         return params.trim().split(' ')[0];
     }});
-  
   markdownLibrary.use(markdownItFootnote);
   markdownLibrary.use(markdownItKatex);
   markdownLibrary.use(markdownItOrdu);
   markdownLibrary.use(markdownItQuiz);
-  // inside the eleventyConfig block:
-  // eleventyConfig.addTransform('markdown-it-conditional-plugins', (content, outputPath) => {
-  //   // only apply this to markdown files
-  //   if (outputPath && outputPath.endsWith('.md')) {
-  //     let doc = frontmatter(content);
-  //     let markdown = markdownItNew({
-  //       html: true,
-  //       // other options
-  //     });
-
-  //     // apply markdown-it plugins based on frontmatter
-  //     if (doc.data.quiz) {
-  //       markdown.use(markdownItQuiz);
-  //     }
-
-  //     // other markdown-it plugins
-      
-  //     doc.content = markdown.render(doc.content);
-  //     return frontmatter.stringify(doc);
-  //   }
-
-  //   // don't transform other files
-  //   return content;
-  // });
   markdownLibrary.use(markdownItAlign);
   markdownLibrary.use(markdownItSub);
-  // //markdownLibrary.use(doMarkdownIT);
   markdownLibrary.use(markdownItSup);
   markdownLibrary.use(markdownItTabs);
   markdownLibrary.use(markdownItTableOfContents);
@@ -120,15 +101,6 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
-  // for mermaid
-  // eleventyConfig.addPlugin(pluginMermaid, {
-  //   // load mermaid from local assets directory
-  //   mermaid_js_src: '/assets/mermaid.min.js',
-  //   html_tag: 'div',
-  //   extra_classes: 'graph'
-  // });
-
-
   function filterTagList(tags) {
     return (tags || []).filter(tag => ["all", "nav"].indexOf(tag) === -1);
   }
@@ -139,7 +111,16 @@ module.exports = function(eleventyConfig) {
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
+  eleventyConfig.addCollection("sortedPosts", function(collection) {
+    return collection.getFilteredByGlob("**/posts/*.md").sort(function(a, b) {
+      // use fileModifiedDate if date is not available
+      const aDate = a.data.date || a.template.inputContent.fileModifiedDate;
+      const bDate = b.data.date || b.template.inputContent.fileModifiedDate;
 
+      return aDate - bDate;
+    });
+  });
+  
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {

@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Agallamh na Seanóarch
 icon: file-lines
 order: 38

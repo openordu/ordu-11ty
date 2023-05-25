@@ -1,6 +1,6 @@
 ---
 title: A
-layout: layouts/default.njk
+layout: layouts/pce.njk
 icon: rectangle-list
 ---
 ### Index of A

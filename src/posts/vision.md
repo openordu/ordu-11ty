@@ -3,7 +3,7 @@ author: Chris Godwin
 category: Planning
 title: Vision
 tag: vision
-time: 2022-01-07
+date: 2022-01-07
 contributors:
   - Christopher Godwin
 summary: Emerging as a groundbreaking digital platform, our initiative is focused on preserving and disseminating knowledge about Celtic Paganism, Celtic Reconstructionism, Celtic Post-reconstructionism, and Neodruidism. We are committed to upholding open-source principles, with the intention of fostering user engagement, ensuring quality assurance, and promoting adaptability for preserving knowledge for future generations. Functioning as a decentralized repository, we aim to guarantee longevity and accessibility of the shared wisdom. This community-driven platform invites a broad spectrum of customs, rites, songs, prose, and poetry, envisioning to evolve paganism beyond the limitations of fading literature. As the Ó Déisí Clan Society, we are also nurturing a global network that fosters community and shared identity among its members. With an emphasis on empowering contributors and preserving lore, irrespective of organizational shifts, this initiative is offering a comprehensive and resilient resource for the realm of paganism, aspiring to be an academic-quality publication that encourages practice and serves as a foundation for countless guides and resources.

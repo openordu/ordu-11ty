@@ -13,7 +13,49 @@
       <div class="row d-flex justify-content-between">
         <div class="col-12 col-md-7">
           {% include 'snippets/postcontent.njk' %}
+        
+          {# {% set postPages = collections.sortedPosts %} #}
+
+          {% macro nextprevnav(prevUrl, nextUrl, currentIndex) %}
+            <div class="container mt-5">
+              <div class="d-flex justify-content-between">
+                {% if prevUrl %}
+                  {% set prevItem = pagesByUrl[prevUrl] %}
+                {% else %}
+                  {% set prevItem = collections.post[currentIndex - 1] if currentIndex > 0 else null %}
+                {% endif %}
+                {% if prevItem != null %}
+                <a href="{{ prevItem.url | url }}" class="btn btn-outline-primary" role="button">
+                  <i class="fas fa-arrow-left"></i> Prev: {{ prevItem.data.title if prevItem }}
+                </a>
+                {% else %}
+                <button class="btn btn-outline-primary" role="button" disabled>
+                  <i class="fas fa-arrow-left"></i> Prev: {{ prevItem.data.title if prevItem }}
+                </button>
+                {% endif %}
+
+                {% if nextUrl %}
+                  {% set nextItem = pagesByUrl[nextUrl] %}
+                {% else %}
+                  {% set nextItem = collections.post[currentIndex + 1] if currentIndex < collections.post.length - 1 else null %}
+                {% endif %}
+                {% if nextItem != null %}
+                <a href="{{ nextItem.url | url }}" class="btn btn-outline-primary" role="button">
+                  Next: {{ nextItem.data.title if nextItem }} <i class="fas fa-arrow-right"></i>
+                </a>
+                {% else %}
+                <button class="btn btn-outline-primary" role="button" disabled>
+                  Next: {{ nextItem.data.title if nextItem }} <i class="fas fa-arrow-right"></i>
+                </button>
+                {% endif %}
+              </div>
+            </div>
+          {% endmacro %}
+
+          {% set currentIndex = collections.sortedPosts | findIndex(page.url) %}
+          {{ nextprevnav(page.data.prev, page.data.next, currentIndex) }}
         </div>
+
 
         <div class="col-12 col-md-4">
           {% include 'snippets/blogsidebar.njk' %}

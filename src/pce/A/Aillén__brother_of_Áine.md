@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: Aillén, brother of Áine
 icon: file-lines
 order: 68

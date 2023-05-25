@@ -1,6 +1,6 @@
 ---
 title: PCE
-layout: layouts/default.njk
+layout: layouts/pce.njk
 icon: book
 ---
 ### Volumes

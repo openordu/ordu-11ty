@@ -1,0 +1,68 @@
+
+{% include 'snippets/breadcrumbs.njk' %}
+
+<header class="mt-4">
+      {# <a name="{{ title | slugify }}" href="#{{ title | slugify }}"><h1 class="display-1 link-fancy">{{ title }}</h1></a> #}
+      {% if icon %}
+      <i class="display-1 fa-{{ site.fatheme }} fa-{{ icon }} float-start ps-0 ms-0"></i>
+      {% endif %}
+      <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
+</header>
+
+<p class="mt-1"><span>
+{% if contributors %}<span data-bs-toggle="tooltip" data-bs-placement="top" title="Contributors"><i class="icon fa-solid fa-user-plus"></i>{% for contributor in contributors %}{% if loop.index > 1 %}, {% endif %}{{ contributor }}{% endfor %}</span>{% endif %}
+<span>
+  <i class="icon fa-solid fa-clock" data-bs-toggle="tooltip" data-bs-placement="top" title="Last modified"></i>
+  <span data-bs-toggle="tooltip" data-bs-placement="top" id="last-modified" 
+        title="{{ (page.data.date or (page.inputPath | fileModifiedDate)) | date('yyyy-MM-dd HH:mm:ss') }}">
+    {{ (page.data.date or (page.inputPath | fileModifiedDate)) | date('yyyy-MM-dd HH:mm:ss') }}
+  </span>
+</span>
+<span class="reading-time" data-bs-toggle="tooltip" data-bs-placement="top" title="Reading time"><i class="icon fa-solid fa-hourglass-start"></i> about {{ content | readingTime }} minutes</span>
+</span></p>
+<script src="/js/timeAgo.js"></script>
+
+<hr class="border border-primary border-1 opacity-75">
+
+{{ content | safe }}
+
+{% set pagesByUrl = collections.pce | keyBy('url') %}
+
+{% macro nextprevnav(prevUrl, nextUrl, currentIndex) -%}
+  <div class="container mt-5">
+    <div class="d-flex justify-content-between">
+      {% if prevUrl %}
+        {% set prevItem = pagesByUrl[prevUrl] %}
+      {% else %}
+        {% set prevItem = collections.pce[currentIndex - 1] if currentIndex > 0 else null %}
+      {% endif %}
+      {% if prevItem != null %}
+      <a href="{{ prevItem.url | url }}" class="btn btn-outline-primary" role="button">
+        <i class="fas fa-arrow-left"></i> Prev: {{ prevItem.data.title if prevItem }}
+      </a>
+      {% else %}
+      <button class="btn btn-outline-primary" role="button" disabled>
+        <i class="fas fa-arrow-left"></i> Prev: {{ prevItem.data.title if prevItem }}
+      </button>
+      {% endif %}
+
+      {% if nextUrl %}
+        {% set nextItem = pagesByUrl[nextUrl] %}
+      {% else %}
+        {% set nextItem = collections.pce[currentIndex + 1] if currentIndex < collections.pce.length - 1 else null %}
+      {% endif %}
+      {% if nextItem != null %}
+      <a href="{{ nextItem.url | url }}" class="btn btn-outline-primary" role="button">
+        Next: {{ nextItem.data.title if nextItem }} <i class="fas fa-arrow-right"></i>
+      </a>
+      {% else %}
+      <button class="btn btn-outline-primary" role="button" disabled>
+        Next: {{ nextItem.data.title if nextItem }} <i class="fas fa-arrow-right"></i>
+      </button>
+      {% endif %}
+    </div>
+  </div>
+{% endmacro -%}
+
+{% set currentIndex = collections.pce | findIndex(page.url) %}
+{{ nextprevnav(page.data.prev, page.data.next, currentIndex) }}

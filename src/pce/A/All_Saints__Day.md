@@ -1,5 +1,5 @@
 ---
-layout: layouts/default.njk
+layout: layouts/pce.njk
 title: All Saints’ Day
 icon: file-lines
 order: 97
