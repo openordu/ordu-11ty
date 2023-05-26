@@ -4,10 +4,20 @@ layout: layouts/default.njk
 icon: list-check
 ---
 
-## Content
+## Main
 - [ ] make a decent support us page and footer link
 - [ ] relink submodules and recursive pulls
-
+- [ ] sort tags list to the Bottom
+- [ ] Use 11ty navigation for the automatic next and prev navigation
+- [ ] edit faq and support pages
+- [ ] Virtual Pilgrimages to Cahercalla
+- [ ] Define routes for contact
+- [ ] Support icon
+- [ ] Font Awesome served locally
+- [ ] Page to display all icons and their classes
+- [ ] Disable search field submissions
+- [ ] Link to Mastodon
+- [ ] 
 ## Markdown
 - [ ] pce previous and next
 - [ ] page categories and tags
@@ -34,6 +44,8 @@ icon: list-check
 - [ ] maps
 - [ ] Deploy job will call Google crawl sitemap
 
+## Build
+- [ ] pre-commit hook to update page.data.date for changed files
 ## Done
 
 - [x] Move documentation to the git repository
