@@ -4,26 +4,28 @@ layout: layouts/default.njk
 icon: list-check
 ---
 
+
 ## Main
-- [ ] make a decent support us page and footer link
+- [x] make a decent support us page and footer link
 - [ ] relink submodules and recursive pulls
-- [ ] sort tags list to the Bottom
-- [ ] Use 11ty navigation for the automatic next and prev navigation
+- [x] sort tags list to the Bottom
+- [x] Use 11ty navigation for the automatic next and prev navigation
 - [ ] edit faq and support pages
 - [ ] Virtual Pilgrimages to Cahercalla
 - [ ] Define routes for contact
-- [ ] Support icon
+- [x] Support icon
 - [ ] Font Awesome served locally
 - [ ] Page to display all icons and their classes
 - [ ] Disable search field submissions
 - [ ] Link to Mastodon
 - [ ] 
 ## Markdown
-- [ ] pce previous and next
+- [x] pce previous and next
 - [ ] page categories and tags
 - [ ] edit this page link
 - [ ] take all the H1, H2... on a page and put them into a floating list in the right sidebar
 - [ ] pce back button, same link as bread crumb
+- [ ] sidebar link has no children button click link activate
 
 ## Search
 - [ ] Index Excerpts
