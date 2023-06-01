@@ -3,24 +3,7 @@ title: Todos
 layout: layouts/default.njk
 icon: list-check
 ---
-
-
-## Main
-- [x] make a decent support us page and footer link
-- [ ] relink submodules and recursive pulls
-- [x] sort tags list to the Bottom
-- [x] Use 11ty navigation for the automatic next and prev navigation
-- [ ] edit faq and support pages
-- [ ] Virtual Pilgrimages to Cahercalla
-- [ ] Define routes for contact
-- [x] Support icon
-- [ ] Font Awesome served locally
-- [ ] Page to display all icons and their classes
-- [ ] Disable search field submissions
-- [ ] Link to Mastodon
-- [ ] 
 ## Markdown
-- [x] pce previous and next
 - [ ] page categories and tags
 - [ ] edit this page link
 - [ ] take all the H1, H2... on a page and put them into a floating list in the right sidebar
@@ -35,12 +18,33 @@ icon: list-check
 - [ ] move json files into a pce collection
 - [ ] make all entities link to one another
 
-## Next phase
+## Blog
+- [ ] prev / next by date sortedPosts
+- [ ] 
+
+## Phase II
 - [ ] See if you can find icons for some of the entity types
 - [ ] port this ui as a software named eleventy-press
 - [ ] Create eleventy-press documentation
 - [ ] Create links to eleventy-press documentation
+- [ ] Virtual Pilgrimages to Cahercalla
+- [ ] Define routes for contact
+- [ ] Font Awesome served locally
+- [ ] Page to display all icons and their classes
 
+
+## Git
+- [ ] Relink submodules and recursive pulls
+
+## Phase III
+- [ ] Overhaul Celtibot Content
+- [ ] Celtibot on
+  - [ ] Twitter
+  - [ ] FB Page
+  - [ ] FB Group
+  - [ ] Instagram Reels
+  - [ ] TikTok Reels
+  - [ ] Youtube Reels
 ## Unplanned Wishlist
 - [ ] pronunciations
 - [ ] maps
@@ -82,4 +86,12 @@ icon: list-check
 - [x] move the quiz js include from njk to the module
 - [x] change the js so instead of acting on #quiz, it'll act on ::::: quiz\n:::::(i.e. #quiz-container)
 - [x] Build site map
-- [x] Search field
+- [x] Search
+- [x] make a decent support us page and footer link
+- [x] sort tags list to the Bottom
+- [x] Use 11ty navigation for the automatic next and prev navigation
+- [x] edit faq and support pages
+- [x] Support icon
+- [x] Disable search field submissions
+- [x] Link to Mastodon
+- [x] pce previous and next
