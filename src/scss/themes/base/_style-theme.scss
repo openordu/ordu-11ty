@@ -426,6 +426,18 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
       transform: translate(-50%, -50%);
   }
 }
+.magazinestyle > p:first-child::first-letter {
+  color: white;
+  background-color: $primary;
+  border-radius: 2px;
+  box-shadow: 1px 1px 5px $gray-800;
+  text-shadow: 2px 2px 5px $gray-700;
+  font-size: 250%;
+  padding: 6px 3px;
+  margin: 0 6px 3px 0;
+  float: left;
+  font-family: Bunchlo;
+}
 .magazinestyle {
   column-count: 1;
   column-gap: 40px;
@@ -434,16 +446,17 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
 }
 .magazineStyle {
   column-count: 1;
+  text-align: justify;
 }
 
 @media screen and (min-width: 600px) {
-  .magazineStyle {
+  .magazinestyle {
       column-count: 2;
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .magazineStyle {
+  .magazinestyle {
       column-count: 3;
   }
 }
