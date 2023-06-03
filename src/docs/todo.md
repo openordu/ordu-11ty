@@ -53,7 +53,7 @@ icon: list-check
 ## Build
 - [ ] pre-commit hook to update page.data.date for changed files
 ## Done
-
+- [x] make a decent support us page and footer link
 - [x] Move documentation to the git repository
 - [x] Build decent home page
 - [x] Refine home page

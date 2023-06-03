@@ -457,7 +457,40 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
       transform: translate(-50%, -50%);
   }
 }
+.magazinestyle > p:first-child::first-letter {
+  color: white;
+  background-color: $primary;
+  border-radius: 2px;
+  box-shadow: 1px 1px 5px $gray-800;
+  text-shadow: 2px 2px 5px $gray-700;
+  font-size: 250%;
+  padding: 6px 3px;
+  margin: 0 6px 3px 0;
+  float: left;
+  font-family: Bunchlo;
+}
+.magazinestyle {
+  column-count: 1;
+  column-gap: 40px;
+  /* And a line to visually separate them */
+  column-rule: 0px solid #fff;
+}
+.magazineStyle {
+  column-count: 1;
+  text-align: justify;
+}
 
+@media screen and (min-width: 600px) {
+  .magazinestyle {
+      column-count: 2;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .magazinestyle {
+      column-count: 3;
+  }
+}
 div.tab-content {
   padding: 10px;
   border: 1px solid rgb(240, 240, 240);
