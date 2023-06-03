@@ -4,23 +4,24 @@ layout: layouts/default.njk
 icon: list-check
 ---
 ## Markdown
-- [ ] page categories and tags
+- [ ] better page categories and tags
 - [ ] edit this page link
 - [ ] take all the H1, H2... on a page and put them into a floating list in the right sidebar
 - [ ] pce back button, same link as bread crumb
-- [ ] sidebar link has no children button click link activate
+- [ ] if sidebar link has no children button click should link activate
 
 ## Search
-- [ ] Index Excerpts
+- [ ] Index Excerpts by summary
 
 ## Encyclopedia
 - [ ] pce images
 - [ ] move json files into a pce collection
 - [ ] make all entities link to one another
+- [ ] `magazinestyle` containers
+- [ ] implement tabs
 
 ## Blog
-- [ ] prev / next by date sortedPosts
-- [ ] 
+- [x] prev / next by date sortedPosts
 
 ## Phase II
 - [ ] See if you can find icons for some of the entity types
