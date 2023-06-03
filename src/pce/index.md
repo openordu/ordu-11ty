@@ -2,6 +2,7 @@
 title: PCE
 layout: layouts/pce.njk
 icon: book
+order: 2
 ---
 ### Volumes
 <ul class="listwrap">

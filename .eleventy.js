@@ -37,7 +37,7 @@ const markdownExternalLinks = require('markdown-it-external-links');
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  // eleventyConfig.addFilter("debug", (content) => `\`\`\`json\n${inspect(content)}\n\`\`\``);
+  eleventyConfig.addFilter("debug", (content) => `${inspect(content)}`);
   // eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
   eleventyConfig.addNunjucksAsyncFilter('fileModifiedDate', fileModifiedDate());
   eleventyConfig.addNunjucksFilter('keyBy', function(array, key) {
@@ -45,6 +45,12 @@ module.exports = function(eleventyConfig) {
       result[item.data[key]] = item;
       return result;
     }, {});
+  });
+  eleventyConfig.addFilter("getIndexByKey", function(array, key) {
+    return array.findIndex(item => item.key === key);
+  });
+  eleventyConfig.addFilter("findItemByKey", function(array, key) {
+    return array.find(item => item.key === key);
   });
   eleventyConfig.addNunjucksFilter('timeAgo', timeAgo());
   eleventyConfig.addNunjucksFilter('date', date());
@@ -109,7 +115,12 @@ module.exports = function(eleventyConfig) {
   function filterTagList(tags) {
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
-
+  eleventyConfig.addFilter("getAdjacentItems", function(array, currentIndex) {
+    return {
+      previous: array[currentIndex - 1],
+      next: array[currentIndex + 1]
+    };
+  });
   eleventyConfig.addFilter("filterTagList", filterTagList)
   eleventyConfig.addCollection("sortedPosts", function(collection) {
     return collection.getFilteredByGlob("**/posts/*.md").sort(function(a, b) {
@@ -120,7 +131,27 @@ module.exports = function(eleventyConfig) {
       return aDate - bDate;
     });
   });
-  
+  eleventyConfig.addFilter("findItemByUrl", function(array, url) {
+    if (!array) {
+      return;
+    }
+    // Recursive function to search through the array and its children
+    function search(array) {
+      for (let i = 0; i < array.length; i++) {
+        const item = array[i];
+        if (item.url === url) {
+          return { index: i, subPages: array };
+        } else if (item.children) {
+          const found = search(item.children);
+          if (found) {
+            return found;
+          }
+        }
+      }
+    }
+
+    return search(array);
+  });
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {

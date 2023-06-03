@@ -5,40 +5,77 @@ contributors:
 index: 199
 layout: layouts/default.njk
 ---
-
+::: warning Coming Soon!
+We can have actual FAQs once we get asked questions.
+:::
 ## What is the Openordú Project?
-The Openordú Project is an initiative that aims to redefine and revitalize Celtic Pagan practices. It draws inspiration from scholars such as Barry Cunlife, James Mackillop, Daithi O hOgain, John Rhŷs, Marie-Louise Sjoestedt, Proinsias Mac Cana, Thomas Charles-Edwards, Kuno Meyer, Whitley Stokes, Nora K. Chadwick, Julius Pokorny, Rachel Bromwich, D. A. Binchy, Tomás de Bhaldraithe, and Rudolf Thurneysen. Through academic research and the collaborative effort of contributors, the project seeks to develop a comprehensive understanding of Celtic Paganism.
+Please see [About](/about).
 
 ## What is the purpose of the project?
-The project's purpose is to create a culture, religion, and community for those interested in practicing Celtic Paganism. It aims to provide a well-thought-out worldview and practice based on the principles of animism, comparative polytheism, tri-functional theory, and extensive research conducted by scholars in the field. The project intends to redefine rituals, liturgy, legal structures, art, music, calendars, and customs within the context of Celtic Paganism.
+Please see the [Vision](/posts/vision/).
 
 ## How can I contribute to the project?
-Contributions to the Openordú Project are welcome, particularly from individuals with expertise in academic-level study, research, and scholastic writing. If you are interested in participating, you can fill out the interest form available on our website. This form will help us keep you updated on the project's progress and provide opportunities for collaboration and contribution.
+Currently only through forking our project in github and submitting a pull
+request back to our project. If you send us a communication, we can add your
+github account to a list of contributors who have access to work within our own
+project.
 
 ## What are the technical components used in the project?
-The project is built on Node.js, 11ty, Bootstrap, Nunjucks, and Markdown. These technologies form the foundation for the development of a high-quality hyper-accessible website and associated tools. Additionally, there are supporting custom Node.js modules utilized to enhance the functionalities of the project.
+The project is built on **Nodejs**, [11ty](http://11ty.dev), **Bootstrap**, **Nunjucks**,
+and **Markdown**. These technologies form the foundation for the development of a
+high-quality hyper-accessible website and associated tools. Additionally, there
+are supporting custom **Nodejs** modules, components and filters utilized to
+enhance the functionalities of the project.
 
 ## What is the Public Celtic Encyclopedia?
-The Public Celtic Encyclopedia is an integral part of the Openordú Project. It serves as a comprehensive resource that covers various aspects of Celtic Paganism, including history, polytheology, liturgy, legal structures, art, music, calendars, and customs. The encyclopedia aims to provide accurate, culturally responsible, and complete information that contributes to a deeper understanding and practice of Celtic Paganism.
+The Public Celtic Encyclopedia is an integral part of the Openordú Project. It
+serves as a comprehensive list of growing topics that cover various aspects of
+Celtic Paganism. The encyclopedia aims to provide accurate, culturally
+responsible, and complete information that contributes to a deeper understanding
+and practice of Celtic Paganism.
 
 ## How can I join the clan and practice Celtic Paganism?
-Membership in the clan is open to anyone interested in practicing Celtic Paganism, regardless of their Celtic background. The clan, known as the Ó Déisi, Mac Déisi, Déiseanna, or Ap Deiliad depending on the Celtic language, is designed to connect individuals who share a love for Celtic Paganism and wish to actively participate in its culture and rituals. To join, you can express your interest by filling out the provided interest form, and you will receive updates and information on how to become a member.
+Membership in the clan is open to anyone interested in practicing Celtic
+Paganism, regardless of their Celtic background. The clan, known as the Ó Déisi,
+Mac Déisi, Déiseanna, or Ap Deiliad depending on the Celtic language, is
+designed to connect individuals who share a love for Celtic Paganism and wish to
+actively participate in its culture and rituals. To join, you can express your
+interest by filling out the provided interest form, and you will receive updates
+and information on how to become a member.
 
 ## What is the significance of the Déisi tribe and its connection to the project?
-The Déisi tribe holds historical significance in Celtic culture. By claiming descendancy from *Dyeus, the deity associated with tillage and agriculture, the tribe establishes a connection to the agricultural practices of the past. The project draws inspiration from the Déisi tribe and recognizes the Dagda, the Good God, as the first ancestor (dies pater). This ancestral connection serves as a guiding principle in the development of Celtic Paganism within the project.
+We believe that you cannot divorce a culture from its people. And so we've
+created an affinity kinship as a group that practices the culture tied to these
+texts. I have direct Déisi cultural connections. The Déisi tribe holds
+historical significance in Celtic culture and by claiming descendance from
+*Dyeus, the deity associated with tillage and agriculture, our new tribe
+establishes a connection to the agricultural practices of the past. The project
+draws inspiration from the original Déisi tribe and recognizes the Dagda, the
+Good God, as the first ancestor (dies pater) and the Hag of Caheracalla as our
+Beansí. This ancestral connection serves as a guiding principle in the
+development of Celtic Paganism within the project.
 
-## How can I participate in virtual pilgrimages and engage with the local land goddess?
-The project emphasizes the importance of engaging with the local land goddess and participating in virtual pilgrimages. One notable pilgrimage is to the fort of the Hag, known as Cahercalla, near Magh Adhair in Clare. By exploring the website, you can find resources and guidance on how to participate in these virtual pilgrimages and connect with the local land goddess.
+## What's this I hear about virtual pilgrimages and engaging with the local land goddess?
+You only have to do this if you want to consider yourself one of the
+Déiseanna. Otherwise, take what you will from the licensed material and use it
+as you will. We have a non-Christian influenced conception of the soul which
+is required to be considered part of the Déiseanna, [Learn More](/guides/beginner).
 
 ## What is the role of the Public Celtic Encyclopedia, and how can I contribute to it?
-The Public Celtic Encyclopedia is a collaborative effort to create a comprehensive repository of knowledge on Celtic Paganism. It covers a wide range of topics, including myths, history, practices, and more. Contributions to the encyclopedia are welcome, and you can participate by submitting articles, research papers, translations, or other relevant content. Guidelines for contributions will be provided to ensure accuracy, academic rigor, and cultural sensitivity.
-
-## What topics does the encyclopedia cover, and how is it organized?
-The encyclopedia covers a broad spectrum of subjects related to Celtic Paganism, including myths, history, polytheology, rituals, liturgy, legal structures, art, music, calendars, and customs. It is organized in a way that facilitates intuitive navigation and ease of access for those seeking specific information on particular topics, events, or practices.
+The PCE's role within this project is to provide a basis of knowledge per topic,
+to have something over which the project can iterate, improve and release. Folks
+searching these topics will be able to find them.
 
 ## What is the long-term strategy for the project?
-The long-term strategy of the Openordú Project involves ongoing research, writing, and collaboration to continuously refine and expand the understanding and practice of Celtic Paganism. The project aims to evolve into a comprehensive system that embraces the rich cultural heritage while adapting to contemporary needs and perspectives.
+To exist, to be used, to be edited and improved. As a culture repository we
+would like to grow our secondary goals into more than what is stated here as any
+need for it might come.
 
 ## How can I stay updated on the progress and development of the project?
-To stay updated on the progress and development of the Openordú Project, you can visit our website and fill out the interest form. By doing so, you will receive regular updates, announcements, and opportunities for engagement, such as workshops, events, and community gatherings.
+We use an open protocol called ActivityPub to publish all updates. In order to
+subscribe to our Activity, you must have an account on a service which
+understands Activity pub. Once you are, you can subscribe to any Activity Pub
+stream, including ours. To get started, visit out [Mastodon](/mastodon) server.
+During the sign up process, you'll be presented with an opportunity to subscribe
+to [@Celtibot](http://mastodon.celticpaganism.org/@Celtibot) who publishes the updates.
 

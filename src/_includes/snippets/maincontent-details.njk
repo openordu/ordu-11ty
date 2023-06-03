@@ -9,7 +9,7 @@
       <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
-<p class="mt-1"><span>
+{# <p class="mt-1"><span>
 {% if contributors %}<span data-bs-toggle="tooltip" data-bs-placement="top" title="Contributors"><i class="icon fa-solid fa-user-plus"></i>{% for contributor in contributors %}{% if loop.index > 1 %}, {% endif %}{{ contributor }}{% endfor %}</span>{% endif %}
 <span>
   <i class="icon fa-solid fa-clock" data-bs-toggle="tooltip" data-bs-placement="top" title="Last modified"></i>
@@ -20,7 +20,7 @@
 </span>
 <span class="reading-time" data-bs-toggle="tooltip" data-bs-placement="top" title="Reading time"><i class="icon fa-solid fa-hourglass-start"></i> about {{ content | readingTime }} minutes</span>
 </span></p>
-<script src="/js/timeAgo.js"></script>
+<script src="/js/timeAgo.js"></script> #}
 
 <hr class="border border-primary border-1 opacity-75">
 

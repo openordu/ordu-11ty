@@ -1,0 +1,49 @@
+{% set pagesByUrl = collections.sortedPosts | keyBy("url") %}
+{% set result = collections.sortedPosts | eleventyNavigation | findItemByUrl(page.url) %}
+{% set currentIndex = result.index %}
+{% set subPages = result.subPages %}
+{% macro nextprevnav(prevUrl, nextUrl, currentIndex, subPages) -%}
+  <div class="container mt-5">
+    <div class="d-flex justify-content-between">
+      {% if prevUrl %}
+        {% set prevItem = pagesByUrl[prevUrl] %}
+      {% else %}
+        {% if subPages and currentIndex > 0 %}
+          {% set prevItem = subPages[currentIndex - 1] %}
+        {% else %}
+          {% set prevItem = null %}
+        {% endif %}
+      {% endif %}
+      {% if prevItem != null %}
+      <a href="{{ prevItem.url | url }}" class="btn btn-outline-primary" role="button">
+        <i class="fas fa-arrow-left"></i> Prev: {{ prevItem.title if prevItem }}
+      </a>
+      {% else %}
+      <button class="btn btn-outline-primary" role="button" disabled>
+        <i class="fas fa-arrow-left"></i> Prev
+      </button>
+      {% endif %}
+
+      {% if nextUrl %}
+        {% set nextItem = pagesByUrl[nextUrl] %}
+      {% else %}
+        {% if subPages and currentIndex < (subPages.length or 0) %}
+          {% set nextItem = subPages[currentIndex + 1] %}
+        {% else %}
+          {% set nextItem = null %}
+        {% endif %}
+      {% endif %}
+      {% if nextItem != null %}
+      <a href="{{ nextItem.url | url }}" class="btn btn-outline-primary" role="button">
+        Next: {{ nextItem.title if nextItem }} <i class="fas fa-arrow-right"></i>
+      </a>
+      {% else %}
+      <button class="btn btn-outline-primary" role="button" disabled>
+        Next <i class="fas fa-arrow-right"></i>
+      </button>
+      {% endif %}
+    </div>
+  </div>
+{% endmacro -%}
+
+{{ nextprevnav(page.data.prev, page.data.next, currentIndex, subPages) }}
