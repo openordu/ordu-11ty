@@ -2,19 +2,18 @@
 pagination:
   data: collections
   size: 1
-  alias: tag
+  alias: category
   filter:
     - all
     - nav
     - post
     - posts
-    - tagList
+    - catList
   addAllPagesToCollections: true
 layout: layouts/default.njk
 eleventyComputed:
-  title: Tagged `{{ tag }}`
-  shorttitle: '{{ tag }}'
-permalink: /tags/{{ tag | slug }}/
+  title: Classed “{{ category }}”
+permalink: /category/{{ category | slug }}/
 ---
 
 

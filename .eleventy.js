@@ -152,6 +152,27 @@ module.exports = function(eleventyConfig) {
 
     return search(array);
   });
+  eleventyConfig.addCollection("catList", collection => {
+    const catsObject = {}
+    collection.getAll().forEach(item => {
+      if (!item.data.categories) return;
+      item.data.categories.filter(category => !['post', 'all'].includes(category))
+        .forEach(category => {
+          if(typeof catsObject[category] === 'undefined') {
+            catsObject[category] = 1
+          } else {
+            catsObject[category] += 1
+          }
+        });
+    });
+
+    const catList = []
+    Object.keys(catsObject).forEach(category => {
+      catList.push({ catName: category, catCount: catsObject[category] })
+    })
+    return catList.sort((a, b) => b.catCount - a.catCount)
+
+  });
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {
@@ -175,7 +196,11 @@ module.exports = function(eleventyConfig) {
 
   });
 
-
+  eleventyConfig.setTemplateFormats([
+    "md", // markdown files
+    "njk", // nunjucks templates
+    // include other file types as needed
+  ]);
   // Add a filter using the Config API
   eleventyConfig.addWatchTarget("./src/scss/");
   eleventyConfig.setBrowserSyncConfig({

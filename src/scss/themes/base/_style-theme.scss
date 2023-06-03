@@ -1,7 +1,38 @@
 body {
   letter-spacing:-.02rem;
 }
+.category-button, .tag-pill {
+  visibility: hidden;
+  transform: scale(0);
+  transition: transform 2s;
+}
 
+.animate {
+  visibility: visible;
+  transform: scale(1);
+}
+.floating-buttons {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+.floating-buttons.show {
+  display: block;
+}
+.floating-buttons .btn {
+  display: block;
+  margin-bottom: 10px;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.5s;
+}
+
+.floating-buttons.show .btn {
+  display: block;
+  opacity: 1;
+  transform: translateY(0);
+}
 #splash-screen {
   position: fixed;
   top: 0;

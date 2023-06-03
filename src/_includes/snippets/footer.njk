@@ -103,3 +103,7 @@ or "mermaid" in content %}
 <script src="/js/elasticlunr.js"></script>
 <script src="/js/splash.js"></script>
 <script src="/js/emailDecode.js"></script>
+
+{% set variable1 = 0 %}
+{% set variable2 = "hello" %}
+{{ variable1 or variable2 }} {# This will output "hello", even though variable1 is defined, because 0 is a falsy value. #}

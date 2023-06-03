@@ -2,6 +2,7 @@
 title: B
 layout: layouts/pce.njk
 icon: rectangle-list
+order: 2
 ---
 ### Index of B
 

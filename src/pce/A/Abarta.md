@@ -2,7 +2,7 @@
 layout: layouts/pce.njk
 title: Abarta
 icon: file-lines
-order: 0
+order: 1
 contributors: [ 'Christopher Godwin' ]
 ---
 

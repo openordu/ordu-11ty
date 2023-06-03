@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /home/cgodwin/.yarn/bin/yarn.js add elasiclunr
+  /usr/local/bin/node /home/cgodwin/.yarn/bin/yarn.js build
 
 PATH: 
   /home/cgodwin/.local/share/pnpm:/home/cgodwin/.yarn/bin:/home/cgodwin/.config/yarn/global/node_modules/.bin:/home/cgodwin/.vscode-server/bin/704ed70d4fd1c6bd6342c436f1ede30d1cff4710/bin/remote-cli:/home/cgodwin/.local/bin:/home/cgodwin/.cargo/bin:/home/cgodwin/.local/share/pnpm:/home/cgodwin/.yarn/bin:/home/cgodwin/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/patch/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/patch/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/patch/AppData/Local/Programs/Rancher Desktop/resources/resources/win32/bin:/mnt/c/Users/patch/AppData/Local/Programs/Rancher Desktop/resources/resources/linux/bin:/snap/bin
@@ -14,24 +14,19 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/elasiclunr: Not found
-      at params.callback [as _callback] (/home/cgodwin/.yarn/lib/cli.js:66138:18)
-      at self.callback (/home/cgodwin/.yarn/lib/cli.js:140883:22)
-      at Request.emit (node:events:513:28)
-      at Request.<anonymous> (/home/cgodwin/.yarn/lib/cli.js:141855:10)
-      at Request.emit (node:events:513:28)
-      at IncomingMessage.<anonymous> (/home/cgodwin/.yarn/lib/cli.js:141777:12)
-      at Object.onceWrapper (node:events:627:28)
-      at IncomingMessage.emit (node:events:525:35)
-      at endReadableNT (node:internal/streams/readable:1359:12)
-      at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+  SyntaxError: /home/cgodwin/code/openordu/ordu-eleventy/package.json: Unexpected string in JSON at position 625
+      at JSON.parse (<anonymous>)
+      at /home/cgodwin/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/home/cgodwin/.yarn/lib/cli.js:310:30)
+      at /home/cgodwin/.yarn/lib/cli.js:321:13
 
 npm manifest: 
   {
     "name": "11straps",
     "version": "0.2.0",
     "description": "simple 11ty and Bootstrap5 boilerplate",
-    "license": "MIT",
+    "license": "CCASAIP",
     "private": "true",
     "publishConfig": {
       "registry": "https://npm.pkg.github.com/"
@@ -39,6 +34,7 @@ npm manifest:
     "main": "index.html",
     "scripts": {
       "build": "npm run clean && npm run clean-prod  && node --max-old-space-size=6144 node_modules/.bin/eleventy && gulp sass && gulp dist-assets && gulp minify-css && gulp prod-copy && gulp inject-min-css && gulp purgecss && gulp minify-html",
+      "quickbuild": "node --max-old-space-size=6144 node_modules/.bin/eleventy && gulp dist-assets && gulp prod-copy"
       "build-dev": "node --max-old-space-size=6144 node_modules/.bin/eleventy && gulp dist-assets && gulp sass",
       "11ty": "eleventy && gulp inject-css",
       "sync": "gulp browser-sync",
@@ -64,6 +60,7 @@ npm manifest:
       "bootstrap-icons": "1.8.1",
       "clean-css": "^5.3.0",
       "date-fns": "^2.30.0",
+      "elasticlunr": "^0.9.5",
       "flowchart.js": "^1.17.1",
       "front-matter": "^4.0.2",
       "frontmatter": "^0.0.3",
@@ -2166,6 +2163,11 @@ Lockfile:
     integrity sha512-rC+QVNMJWv+MtPgkt0y+0rVEIdbtxVADApW9JXrUVlzHetgcyczP/E7DJmWJ4fJCZF2cPcBk0laWO9ZHMG3DmQ==
     dependencies:
       jake "^10.8.5"
+  
+  elasticlunr@^0.9.5:
+    version "0.9.5"
+    resolved "https://registry.yarnpkg.com/elasticlunr/-/elasticlunr-0.9.5.tgz#65541bb309dddd0cf94f2d1c8861b2be651bb0d5"
+    integrity sha512-5YM9LFQgVYfuLNEoqMqVWIBuF2UNCA+xu/jz1TyryLN/wmBcQSb+GNAwvLKvEpGESwgGN8XA1nbLAt6rKlyHYQ==
   
   emoji-regex@^8.0.0:
     version "8.0.0"
@@ -4819,8 +4821,8 @@ Lockfile:
       markdown-it-container "^2.0.0"
   
   "markdown-it-quiz@https://github.com/openordu/markdown-it-quiz.git":
-    version "1.0.11"
-    resolved "https://github.com/openordu/markdown-it-quiz.git#cba9acbc078b6579dfbaf0047b46cb572dc078fd"
+    version "1.0.12"
+    resolved "https://github.com/openordu/markdown-it-quiz.git#ca08e1c9eef3a8a2e851d14eef5c7d650641589a"
     dependencies:
       markdown-it-container "^2.0.0"
   

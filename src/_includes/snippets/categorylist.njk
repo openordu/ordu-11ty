@@ -1,0 +1,8 @@
+{% for category in collections.catList %}
+  {% set catUrl %}/tags/{{ category.catName | slug }}/{% endset %}
+  <a href="{{ '/category/' | url }}{{ category.catName | slug }}" class="btn btn-outline-dark btn-sm me-2 my-2">{{ category.catName }}
+    <span class="ms-1 badge bg-dark">
+    {{ category.catCount }}
+    </span>
+  </a>
+{% endfor %}

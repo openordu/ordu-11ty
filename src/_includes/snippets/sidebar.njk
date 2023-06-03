@@ -10,7 +10,7 @@
       {% if hasChildren and not isActive %}
         <a href="{{ entry.url | url }}" class="dropdown-item overflow-hidden text-start mb-0 ps-1 w-100 py-2 {% if sub %}sub{% else %}top{% endif %} {% if isHomepage and entry.url == page.url %}active{% endif %} {% if sub and not hasChildren %}subject{% else %}parentsubject{% endif %} rounded text-decoration-none">
           <i class="fa-solid fa-{{ entry.icon }} {% if sub %}ps-{{ sub }}{% endif %}"></i>
-          {{ entry.title }}
+          {{ entry.shorttitle or entry.title }}
         </a>
       {% else %}
         <button {% if hasChildren %}data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2
@@ -25,7 +25,7 @@
         aria-expanded="{% if hasChildren and entry.url == page.url and isActive %}true{% endif %}" style="text-overflow: ellipsis; margin: -2px 0px">
           <i {% if hasChildren %}type="button" data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="fa-solid {% if hasChildren and isActive %}fa-angle-down{% endif %}{% if hasChildren and not isActive %}fa-angle-right{% endif %}{% if not hasChildren %}fa-{{ entry.icon }}{% endif %} {% if sub %}ps-{{ sub }}{% endif %}">
             </i><a href="{{ entry.url | url }}" class="text-decoration-none">
-            {{ entry.title }}
+            {{ entry.shorttitle or entry.title }}
             </a>
           </button>
       {% endif %}
