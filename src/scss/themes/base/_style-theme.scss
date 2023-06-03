@@ -426,7 +426,27 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
       transform: translate(-50%, -50%);
   }
 }
+.magazinestyle {
+  column-count: 1;
+  column-gap: 40px;
+  /* And a line to visually separate them */
+  column-rule: 0px solid #fff;
+}
+.magazineStyle {
+  column-count: 1;
+}
 
+@media screen and (min-width: 600px) {
+  .magazineStyle {
+      column-count: 2;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .magazineStyle {
+      column-count: 3;
+  }
+}
 div.tab-content {
   padding: 10px;
   border: 1px solid rgb(240, 240, 240);

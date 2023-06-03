@@ -5,7 +5,6 @@ icon: list-check
 ---
 
 ## Content
-- [ ] make a decent support us page and footer link
 - [ ] relink submodules and recursive pulls
 
 ## Markdown
@@ -35,7 +34,7 @@ icon: list-check
 - [ ] Deploy job will call Google crawl sitemap
 
 ## Done
-
+- [x] make a decent support us page and footer link
 - [x] Move documentation to the git repository
 - [x] Build decent home page
 - [x] Refine home page
