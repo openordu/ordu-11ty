@@ -110,12 +110,12 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
-  function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav"].indexOf(tag) === -1);
-  }
+  // function filterTagList(tags) {
+  //   return (tags || []).filter(tag => ["all", "nav"].indexOf(tag) === -1);
+  // }
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["categorylist", "sortedposts", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["categoryList", "sortedPosts", "docs", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter("getAdjacentItems", function(array, currentIndex) {
@@ -137,26 +137,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksFilter("replaceString", function(value, search, replacement) {
     return value.split(search).join(replacement);
   });
-  // eleventyConfig.addNunjucksShortcode("toc", content => {
-  //   console.log('TOC shortcode is being called');
-  //   console.log('Content is:', content);
 
-  //   const $ = cheerio.load(content);
-  //   let toc = "<ul>";
-  //   $("h1, h2, h3, h4, h5, h6").each(function(i, heading) {
-  //     const text = $(this).text();
-  //     const id = $(this).attr('id');
-  //     console.log('Found heading:', text, 'with ID:', id);
-  //     if (text && id) {
-  //       toc += `<li><a href="#${id}">${text}</a></li>`;
-  //     }
-  //   });
-  //   toc += '</ul>';
-  //   console.log('returning:', toc);
-  //   return toc;
-  // });
   eleventyConfig.addNunjucksFilter("extractHeadings", function(value) {
-    const regex = /<h[1-6][^>]*>(.*?)</g;
+    const regex = /<h[1-6][^>]*id="[^"]+"[^>]*>(.*?)</g;
     let match;
     let toc = '';
 
@@ -218,7 +201,7 @@ module.exports = function(eleventyConfig) {
     collection.getAll().forEach(item => {
       if (!item.data.tags) return;
       item.data.tags
-        .filter(tag => !['post', 'all'].includes(tag))
+        .filter(tag => !['pce','docs','post', 'all'].includes(tag))
         .forEach(tag => {
           if(typeof tagsObject[tag] === 'undefined') {
             tagsObject[tag] = 1
