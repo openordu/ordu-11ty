@@ -113,8 +113,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["sortedPosts", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
+
   eleventyConfig.addFilter("getAdjacentItems", function(array, currentIndex) {
     return {
       previous: array[currentIndex - 1],
@@ -152,27 +153,48 @@ module.exports = function(eleventyConfig) {
 
     return search(array);
   });
-  eleventyConfig.addCollection("catList", collection => {
-    const catsObject = {}
-    collection.getAll().forEach(item => {
-      if (!item.data.categories) return;
-      item.data.categories.filter(category => !['post', 'all'].includes(category))
-        .forEach(category => {
-          if(typeof catsObject[category] === 'undefined') {
-            catsObject[category] = 1
-          } else {
-            catsObject[category] += 1
-          }
+  eleventyConfig.addCollection("all", function(collection) {
+    return collection.getAllSorted();
+  });
+
+  eleventyConfig.addCollection("allCategories", function(collection) {
+    let allCategories = new Set();
+    collection.getAllSorted().forEach(function(item) {
+      if ('categories' in item.data) {
+        let categories = item.data.categories;
+        categories.forEach(category => {
+          allCategories.add(category);
         });
+      }
     });
 
-    const catList = []
-    Object.keys(catsObject).forEach(category => {
-      catList.push({ catName: category, catCount: catsObject[category] })
-    })
-    return catList.sort((a, b) => b.catCount - a.catCount)
-
+    return [...allCategories];
   });
+
+  return {
+    eleventyComputed: {
+      permalink: (data) => {
+        if (data.categories) {
+          return `/category/${data.categories[0]}/index.html`;
+        }
+      },
+    },
+  };
+  // eleventyConfig.addCollection("allCategories", function(collection) {
+  //   let allCategories = new Set();
+
+  //   collection.getAllSorted().forEach(function(item) {
+  //     if ('categories' in item.data) {
+  //       let categories = item.data.categories;
+
+  //       categories.forEach(category => {
+  //         allCategories.add(category);
+  //       });
+  //     }
+  //   });
+
+  //   return Array.from(allCategories);
+  // });
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {

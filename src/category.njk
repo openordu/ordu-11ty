@@ -1,24 +1,19 @@
 ---
 pagination:
-  data: collections
+  data: allCategories
   size: 1
   alias: category
-  filter:
-    - all
-    - nav
-    - post
-    - posts
-    - catList
   addAllPagesToCollections: true
 layout: layouts/default.njk
 eleventyComputed:
   title: Classed “{{ category }}”
-permalink: /category/{{ category | slug }}/
+permalink: "/category/{{ category | slug }}/"
 ---
 
-
 {% block content %}
-  {% set posts = collections[tag] %}
+  {% set posts = collections.all | filter(post => 'categories' in post.data && post.data.categories.includes(category)) %}
   {% include 'snippets/postloop.njk' %}
-  <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+  <p>See <a href="{{ '/category/' | url }}">all categories</a>.</p>
 {% endblock %}
+
+

@@ -23,7 +23,7 @@
 
 <!-- Categories -->
   {% for category in categories %}
-    <a class="btn btn-primary category-button text-light" href="/categories/{{category}}">
+    <a class="btn btn-primary category-button text-light me-1" href="/category/{{category}}">
         <i class="fas fa-sitemap text-light"></i>
         {{category}}
     </a>
@@ -31,7 +31,7 @@
 
 <!-- Tags -->
 {% for tag in tags %}
-<a class="badge bg-primary rounded-pill text-light" href="/tags/{{tag}}">
+<a class="badge bg-primary rounded-pill text-light me-1" href="/tags/{{tag}}">
     <i class="fas fa-tags text-light"></i>
     {{tag}}
 </a>
