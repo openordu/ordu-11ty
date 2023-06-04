@@ -9,12 +9,12 @@
       <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
-{% include 'snippets/toc.njk' %}
+{# {% include 'snippets/toc.njk' %} #}
 
 {{ content | safe }}
-
+{# 
 {% include 'snippets/breadcrumbs.njk' %}
 
 {% include 'snippets/editthispage.njk' %}
 
-{% include 'snippets/prevnext-alpha.njk' %}
+{% include 'snippets/prevnext-alpha.njk' %} #}

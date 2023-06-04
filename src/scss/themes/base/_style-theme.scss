@@ -1,9 +1,35 @@
 body {
   letter-spacing:-.02rem;
 }
-.category-button, .rounded-pill {
-  visibility: hidden;
-  transform: scale(0);
+@keyframes pulsate {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+@keyframes shine {
+  0% {
+    background-size: 200% auto;
+    background-position: -100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.76), transparent);
+  }
+  50% {
+    background-size: 200% auto;
+    background-position: 200%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.745), transparent);
+  }
+  100% {
+    background-size: unset;
+    background-position: unset;
+    background: unset;
+  }
+}
+.shine {
+  animation: shine 2s linear 1;
+  transition: transform 2s;
+}
+.pulsate {
+  animation: pulsate 1s ease-in-out;
+  animation-iteration-count: 1;
   transition: transform 2s;
 }
 .animate {
@@ -437,16 +463,16 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
   }
 }
 .magazinestyle > p:first-child::first-letter {
-  color: white;
-  background-color: $primary;
+  color: $body-color;
+  // background-color: $primary;
   border-radius: 2px;
-  box-shadow: 1px 1px 5px $gray-800;
+  // box-shadow: 1px 1px 5px $gray-800;
   text-shadow: 2px 2px 5px $gray-700;
   font-size: 250%;
-  padding: 6px 3px;
-  margin: 0 6px 3px 0;
+  padding: 0px 3px 6px;
+  margin: -7px 6px 0 0;
   float: left;
-  font-family: Bunchlo;
+  // font-family: Bunchlo;
 }
 #headings {
   transition: top 0.3s ease-in-out;

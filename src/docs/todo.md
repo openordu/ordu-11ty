@@ -3,18 +3,17 @@ title: Todos
 layout: layouts/default.njk
 icon: list-check
 ---
-## Markdown
-- [ ] display cats and tags better
-
 ## Search
 - [ ] Index Excerpts by summary
 
 ## Encyclopedia
+- [ ] write / generate summaries
 - [ ] pce images
 - [ ] move json files into a pce collection
 - [ ] make all entities link to one another
 - [ ] ensure all text is entered as `magazinestyle` containers
 - [ ] implement tabs
+- [ ] write a script to reorder the pages when a new one is added
 
 ## Git
 - [ ] Relink submodules and recursive pulls
@@ -97,3 +96,5 @@ icon: list-check
 - [x] pce back button, same link as bread crumb
 - [x] take all the H1, H2... on a page and put them into an aside list on the right
 - [x] if sidebar link has no children button click should link activate
+- [x] display cats and tags better
+

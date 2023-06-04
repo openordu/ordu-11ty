@@ -9,12 +9,15 @@ pagination:
     - nav
     - post
     - posts
+    - docs
+    - sortedPosts
+    - categoryList
     - tagList
   addAllPagesToCollections: true
 layout: layouts/default.njk
 eleventyComputed:
-  title: Tagged `{{ tag }}`
-  shorttitle: '{{ tag }}'
+  title: Tagged `{{ tag.toLowerCase() }}`
+  shorttitle: '{{ tag.toLowerCase() }}'
 permalink: /tags/{{ tag | slug }}/
 ---
 
