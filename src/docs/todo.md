@@ -4,11 +4,7 @@ layout: layouts/default.njk
 icon: list-check
 ---
 ## Markdown
-- [ ] better page categories and tags
-- [ ] edit this page link
-- [ ] take all the H1, H2... on a page and put them into a floating list in the right sidebar
-- [ ] pce back button, same link as bread crumb
-- [ ] if sidebar link has no children button click should link activate
+- [ ] display cats and tags better
 
 ## Search
 - [ ] Index Excerpts by summary
@@ -17,8 +13,11 @@ icon: list-check
 - [ ] pce images
 - [ ] move json files into a pce collection
 - [ ] make all entities link to one another
-- [ ] `magazinestyle` containers
+- [ ] ensure all text is entered as `magazinestyle` containers
 - [ ] implement tabs
+
+## Git
+- [ ] Relink submodules and recursive pulls
 
 ## Blog
 - [x] prev / next by date sortedPosts
@@ -32,10 +31,6 @@ icon: list-check
 - [ ] Define routes for contact
 - [ ] Font Awesome served locally
 - [ ] Page to display all icons and their classes
-
-
-## Git
-- [ ] Relink submodules and recursive pulls
 
 ## Phase III
 - [ ] Overhaul Celtibot Content
@@ -53,6 +48,7 @@ icon: list-check
 
 ## Build
 - [ ] pre-commit hook to update page.data.date for changed files
+
 ## Done
 - [x] make a decent support us page and footer link
 - [x] Move documentation to the git repository
@@ -96,3 +92,8 @@ icon: list-check
 - [x] Disable search field submissions
 - [x] Link to Mastodon
 - [x] pce previous and next
+- [x] page categories and tags
+- [x] edit this page link
+- [x] pce back button, same link as bread crumb
+- [x] take all the H1, H2... on a page and put them into an aside list on the right
+- [x] if sidebar link has no children button click should link activate

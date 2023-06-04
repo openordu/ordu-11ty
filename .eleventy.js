@@ -25,6 +25,8 @@ const frontmatter = require('frontmatter');
 const fs = require('fs');
 const markdownItNew = require('markdown-it');
 const searchFilter = require("./src/_11ty/filters/searchFilter");
+const htmlToText = require('html-to-text');
+const cheerio = require('cheerio');
 
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
@@ -36,6 +38,7 @@ const readingTime = require('./src/_11ty/filters/readingTime');
 const markdownExternalLinks = require('markdown-it-external-links');
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addFilter("debug", (content) => `${inspect(content)}`);
   // eleventyConfig.addPlugin(eleventyPluginSyntaxHighlighter);
@@ -110,10 +113,9 @@ module.exports = function(eleventyConfig) {
   function filterTagList(tags) {
     return (tags || []).filter(tag => ["all", "nav"].indexOf(tag) === -1);
   }
-  eleventyConfig.setDataDeepMerge(true);
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["sortedPosts", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["categorylist", "sortedposts", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter("getAdjacentItems", function(array, currentIndex) {
@@ -132,6 +134,46 @@ module.exports = function(eleventyConfig) {
       return aDate - bDate;
     });
   });
+  eleventyConfig.addNunjucksFilter("replaceString", function(value, search, replacement) {
+    return value.split(search).join(replacement);
+  });
+  // eleventyConfig.addNunjucksShortcode("toc", content => {
+  //   console.log('TOC shortcode is being called');
+  //   console.log('Content is:', content);
+
+  //   const $ = cheerio.load(content);
+  //   let toc = "<ul>";
+  //   $("h1, h2, h3, h4, h5, h6").each(function(i, heading) {
+  //     const text = $(this).text();
+  //     const id = $(this).attr('id');
+  //     console.log('Found heading:', text, 'with ID:', id);
+  //     if (text && id) {
+  //       toc += `<li><a href="#${id}">${text}</a></li>`;
+  //     }
+  //   });
+  //   toc += '</ul>';
+  //   console.log('returning:', toc);
+  //   return toc;
+  // });
+  eleventyConfig.addNunjucksFilter("extractHeadings", function(value) {
+    const regex = /<h[1-6][^>]*>(.*?)</g;
+    let match;
+    let toc = '';
+
+  
+    while ((match = regex.exec(value)) !== null) {
+      const [, text, id] = match;
+      const href = encodeURIComponent(text.trim().toLowerCase().replace(/\s+/g, "-"));
+      const tooltip = text.trim();
+      toc += `<li class="text-truncate"><a href="#${href}" title="${tooltip}" class="text-primary">${tooltip}</a></li>`;
+    }
+  
+    if (toc !== '') {
+      toc = `<ul class="ms-2 px-2 text-truncate">${toc}</ul>`;
+    }
+  
+    return toc;
+  });  
   eleventyConfig.addFilter("findItemByUrl", function(array, url) {
     if (!array) {
       return;
@@ -153,48 +195,24 @@ module.exports = function(eleventyConfig) {
 
     return search(array);
   });
-  eleventyConfig.addCollection("all", function(collection) {
-    return collection.getAllSorted();
-  });
 
-  eleventyConfig.addCollection("allCategories", function(collection) {
-    let allCategories = new Set();
-    collection.getAllSorted().forEach(function(item) {
+  // Create a collection for each category
+  eleventyConfig.addCollection("categoryList", function(collection) {
+    let categorySet = new Set();
+    collection.getAll().forEach(function(item) {
       if ('categories' in item.data) {
         let categories = item.data.categories;
+
         categories.forEach(category => {
-          allCategories.add(category);
+          categorySet.add(category);
         });
       }
     });
 
-    return [...allCategories];
+    // Convert Set to Array
+    return [...categorySet];
   });
 
-  return {
-    eleventyComputed: {
-      permalink: (data) => {
-        if (data.categories) {
-          return `/category/${data.categories[0]}/index.html`;
-        }
-      },
-    },
-  };
-  // eleventyConfig.addCollection("allCategories", function(collection) {
-  //   let allCategories = new Set();
-
-  //   collection.getAllSorted().forEach(function(item) {
-  //     if ('categories' in item.data) {
-  //       let categories = item.data.categories;
-
-  //       categories.forEach(category => {
-  //         allCategories.add(category);
-  //       });
-  //     }
-  //   });
-
-  //   return Array.from(allCategories);
-  // });
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {

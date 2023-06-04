@@ -9,19 +9,16 @@
       <a name="{{ page.fileSlug }}"><h1 class="pagetitle">{{ title or page.fileSlug | slugify({separator:' ', lowercase: false}) | title }}</h1></a>
 </header>
 
-{# <p class="mt-1"><span>
-{% if contributors %}<span data-bs-toggle="tooltip" data-bs-placement="top" title="Contributors"><i class="icon fa-solid fa-user-plus"></i>{% for contributor in contributors %}{% if loop.index > 1 %}, {% endif %}{{ contributor }}{% endfor %}</span>{% endif %}
-<span>
-  <i class="icon fa-solid fa-clock" data-bs-toggle="tooltip" data-bs-placement="top" title="Last modified"></i>
-  <span data-bs-toggle="tooltip" data-bs-placement="top" id="last-modified" 
-        title="{{ (page.data.date or (page.inputPath | fileModifiedDate)) | date('yyyy-MM-dd HH:mm:ss') }}">
-    {{ (page.data.date or (page.inputPath | fileModifiedDate)) | date('yyyy-MM-dd HH:mm:ss') }}
-  </span>
-</span>
-<span class="reading-time" data-bs-toggle="tooltip" data-bs-placement="top" title="Reading time"><i class="icon fa-solid fa-hourglass-start"></i> about {{ content | readingTime }} minutes</span>
-</span></p>
-<script src="/js/timeAgo.js"></script> #}
+{% include 'snippets/categories.njk' %}
 
 <hr class="border border-primary border-1 opacity-75">
 
+{% include 'snippets/toc.njk' %}
+
 {{ content | safe }}
+
+{% include 'snippets/breadcrumbs.njk' %}
+
+{% include 'snippets/editthispage.njk' %}
+
+{% include 'snippets/prevnext-alpha.njk' %}

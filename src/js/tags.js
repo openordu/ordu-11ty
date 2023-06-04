@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function(){
     const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => {
             if (!entry.isIntersecting) {
-                const aside = document.querySelector('aside');
+                const aside = document.querySelector('aside#classification');
                 aside.appendChild(entry.target);
             }
         });

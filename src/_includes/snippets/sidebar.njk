@@ -13,7 +13,7 @@
           {{ entry.shorttitle or entry.title }}
         </a>
       {% else %}
-        <button {% if hasChildren %}data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% endif %} class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2
+        <button {% if hasChildren %}data-bs-toggle="collapse" data-bs-target="#{{ entry.title | slugify }}-collapse"{% else %}onclick="location.href='{{ entry.url | url }}';" type="button" {% endif %} class="dropdown-item overflow-hidden btn text-start mb-0 ps-1 w-100 py-2
         {% if sub %}sub{% else %}top{% endif %}
         {% if isSame and not isHomepage %}active{% endif %}
         {% if hasChildren %}parent btn-toggle{% endif %}

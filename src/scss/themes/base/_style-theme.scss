@@ -1,37 +1,14 @@
 body {
   letter-spacing:-.02rem;
 }
-.category-button, .tag-pill {
+.category-button, .rounded-pill {
   visibility: hidden;
   transform: scale(0);
   transition: transform 2s;
 }
-
 .animate {
   visibility: visible;
   transform: scale(1);
-}
-.floating-buttons {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  display: none;
-}
-.floating-buttons.show {
-  display: block;
-}
-.floating-buttons .btn {
-  display: block;
-  margin-bottom: 10px;
-  opacity: 0;
-  transform: translateY(20px);
-  transition: all 0.5s;
-}
-
-.floating-buttons.show .btn {
-  display: block;
-  opacity: 1;
-  transform: translateY(0);
 }
 #splash-screen {
   position: fixed;
@@ -149,7 +126,9 @@ th {
 .listwrap {
   columns: 2 auto;
 }
-
+div.alert {
+  clear: both;
+}
 .alert-tip {
   background-color: $teal;
   color: white;
@@ -469,6 +448,18 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
   float: left;
   font-family: Bunchlo;
 }
+#headings {
+  transition: top 0.3s ease-in-out;
+  position: relative;
+  z-index: 1000;
+}
+.sticky {
+  position: fixed;
+  top: 20px;
+  right: -1px;
+  max-height: calc(100vh - 40px);
+  z-index: 800;
+}
 .magazinestyle {
   column-count: 1;
   column-gap: 40px;
@@ -486,7 +477,7 @@ ul:has(li > a.custom-internal-link[href^="/pce/"]) {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1600px) {
   .magazinestyle {
       column-count: 3;
   }

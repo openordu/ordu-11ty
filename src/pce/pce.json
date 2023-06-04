@@ -2,5 +2,7 @@
     "layout": "layouts/default.njk",
     "tags": [
       "pce"
-    ]
+    ],
+    "vcsurl": "https://github.com/openordu/pce",
+    "vcsbranch": "main"
 }
