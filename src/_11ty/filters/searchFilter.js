@@ -9,6 +9,8 @@ module.exports = function (collection) {
     this.addField('attributes');
     this.addField('sources');
     this.addField('tags');
+    this.addField('categories');
+    this.addField('summary');
     this.pipeline.remove(elasticlunr.stopWordFilter);
     this.pipeline.remove(elasticlunr.stemmer);
     // this.pipeline.addConditionally(elasticlunr.trimmer, elasticlunr.stopWordFilter, elasticlunr.stemmer);
@@ -19,7 +21,9 @@ module.exports = function (collection) {
       entities: {boost: 2},
       attributes: {boost: 1},
       sources: {boost: 1},
-      tags: {boost: 1}
+      tags: {boost: 1},
+      categories: {boost: 1},
+      summary: {boost: 1}
     },
     bool: "OR",
     expand: true,
@@ -35,6 +39,8 @@ module.exports = function (collection) {
       attributes: page.template.frontMatter.data.attributes,
       sources: page.template.frontMatter.data.sources,
       tags: page.template.frontMatter.data.tags,
+      categories: page.template.frontMatter.data.categories,
+      summary: page.template.frontMatter.data.summary,
     });
   });
 

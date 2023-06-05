@@ -28,7 +28,9 @@ searchInput.addEventListener('focus', function() {
             entities: {boost: 1},
             attributes: {boost: 1},
             sources: {boost: 1},
-            tags: {boost: 1}
+            tags: {boost: 1},
+            categories: {boost: 1},
+            summary: {boost: 1},
           }
         });
 
@@ -53,6 +55,7 @@ searchInput.addEventListener('focus', function() {
         // Add new suggestions
         results.forEach(function(result) {
           var listItem = document.createElement("li");
+          listItem.classList.add("text-truncate");
           listItem.innerHTML = `<a class="dropdown-item" href="${result.doc.id}">${result.doc.title}</a>`;
           suggestionContainer.appendChild(listItem);
           suggestionContainer.classList.remove("d-none");
