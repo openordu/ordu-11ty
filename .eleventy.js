@@ -25,8 +25,6 @@ const frontmatter = require('frontmatter');
 const fs = require('fs');
 const markdownItNew = require('markdown-it');
 const searchFilter = require("./src/_11ty/filters/searchFilter");
-const htmlToText = require('html-to-text');
-const cheerio = require('cheerio');
 
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
@@ -139,7 +137,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addNunjucksFilter("extractHeadings", function(value) {
-    const regex = /<h[1-6][^>]*id="[^"]+"[^>]*>(.*?)</g;
+    const regex = /<h[1-6]\b[^>]*\bid="[^"]*"[^>]*>([^<]*)(?=\s*<a)/g;
     let match;
     let toc = '';
 

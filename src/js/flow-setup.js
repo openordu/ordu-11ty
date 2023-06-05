@@ -21,11 +21,11 @@
         const diagramContainer = document.createElement('div');
         const chart = flowchart.parse(element.textContent);
         element.parentNode.insertBefore(diagramContainer, element.nextSibling);
+        element.style.display = 'none';
         element.remove()
 
         chart.drawSVG(diagramContainer);
 
-        element.style.display = 'none';
       });
     } catch (error) {
       console.error('Error initializing Flow.js:', error);
