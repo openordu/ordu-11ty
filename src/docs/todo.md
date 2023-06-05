@@ -3,24 +3,8 @@ title: Todos
 layout: layouts/default.njk
 icon: list-check
 ---
-## Search
-- [ ] Index Excerpts by summary
-
-## Encyclopedia
-- [ ] write / generate summaries
-- [ ] pce images
-- [ ] move json files into a pce collection
-- [ ] make all entities link to one another
-- [ ] ensure all text is entered as `magazinestyle` containers
-- [ ] implement tabs
-- [ ] write a script to reorder the pages when a new one is added
-
 ## Git
 - [ ] Relink submodules and recursive pulls
-
-## Blog
-- [x] prev / next by date sortedPosts
-
 ## Phase II
 - [ ] See if you can find icons for some of the entity types
 - [ ] port this ui as a software named eleventy-press
@@ -97,4 +81,5 @@ icon: list-check
 - [x] take all the H1, H2... on a page and put them into an aside list on the right
 - [x] if sidebar link has no children button click should link activate
 - [x] display cats and tags better
-
+- [x] Index Excerpts by summary
+- [x] prev / next by date sortedPosts

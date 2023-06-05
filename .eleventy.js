@@ -137,6 +137,7 @@ module.exports = function(eleventyConfig) {
   });
 
   eleventyConfig.addNunjucksFilter("extractHeadings", function(value) {
+    // We only want headings with ids, which means markdown-it-anchor processed them
     const regex = /<h[1-6]\b[^>]*\bid="[^"]*"[^>]*>([^<]*)(?=\s*<a)/g;
     let match;
     let toc = '';
