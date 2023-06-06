@@ -35,6 +35,10 @@ const readingTime = require('./src/_11ty/filters/readingTime');
 // const markdownItMermaid = require("markdown-it-mermaid-plugin");
 const markdownExternalLinks = require('markdown-it-external-links');
 
+const removeAccents = (str) => {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
 module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -184,10 +188,14 @@ module.exports = function(eleventyConfig) {
     collection.getAll().forEach(function(item) {
       if ('categories' in item.data) {
         let categories = item.data.categories;
-
-        categories.forEach(category => {
-          categorySet.add(category);
-        });
+        if (Array.isArray(categories)) {
+          categories.forEach(category => {
+            if (typeof category === 'string') {
+              // Trim and convert category to lower case
+              categorySet.add(category.trim().toLowerCase());
+            }
+          });
+        }
       }
     });
 
@@ -195,28 +203,34 @@ module.exports = function(eleventyConfig) {
     return [...categorySet];
   });
 
+
   eleventyConfig.addCollection("tagList", collection => {
     const tagsObject = {}
     collection.getAll().forEach(item => {
-      if (!item.data.tags) return;
-      item.data.tags
-        .filter(tag => !['pce','docs','post', 'all'].includes(tag))
-        .forEach(tag => {
-          if(typeof tagsObject[tag] === 'undefined') {
-            tagsObject[tag] = 1
-          } else {
-            tagsObject[tag] += 1
-          }
-        });
+        if (!item.data.tags) return;
+        item.data.tags
+          .filter(tag => typeof tag === 'string') // Ignore non-string tags
+          .map(tag => removeAccents(tag.trim()).toLowerCase()) // Normalize tag
+          .filter(tag => !['nav', 'sortedposts', 'categorylist', 'taglist','sortedPosts', 'categoryList', 'tagList', 'pce', 'docs', 'post', 'all'].includes(tag))
+          .forEach(tag => {
+              if(typeof tagsObject[tag] === 'undefined') {
+                  tagsObject[tag] = 1
+              } else {
+                  tagsObject[tag] += 1
+              }
+          });
     });
 
     const tagList = []
     Object.keys(tagsObject).forEach(tag => {
-      tagList.push({ tagName: tag, tagCount: tagsObject[tag] })
+        tagList.push({ tagName: tag, tagCount: tagsObject[tag] })
     })
-    return tagList.sort((a, b) => b.tagCount - a.tagCount)
 
+    return tagList.sort((a, b) => b.tagCount - a.tagCount)
   });
+
+
+
 
   eleventyConfig.setTemplateFormats([
     "md", // markdown files
