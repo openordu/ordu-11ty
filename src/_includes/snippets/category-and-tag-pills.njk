@@ -1,0 +1,25 @@
+<div><!-- Categories -->
+{% if categories %}
+  {% for category in categories %}
+    {% if category %}
+      <a class="badge outlined-pill bg-white rounded-pill text-dark me-1 my-1" href="/category/{{category | slugit }}">
+          <i class="fas fa-sitemap text-primary"></i>
+          {{category}}
+      </a>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<!-- Tags -->
+{% if tags %}
+  {% for tag in tags %}
+    {% if tag and tag not in ['pce', 'post', 'posts', 'sortedposts', 'taglist', 'categorylist', 'all'] %}
+      <a class="badge outlined-pill bg-white rounded-pill text-dark me-1 my-1" href="/tags/{{tag | slugit }}">
+          <i class="fas fa-tags text-primary"></i>
+          {{tag}}
+      </a>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+</div>
+<script src="/js/tags.js"></script>

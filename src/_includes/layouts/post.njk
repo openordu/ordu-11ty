@@ -7,7 +7,7 @@
 
   <body>
 
-    {% include 'snippets/navbar.njk' %}
+    {% include 'snippets/navbar-with-side.njk' %}
     
     <main class="container py-vh-5">
       <div class="row d-flex justify-content-between">
@@ -37,7 +37,7 @@
                 {% if nextUrl %}
                   {% set nextItem = pagesByUrl[nextUrl] %}
                 {% else %}
-                  {% set nextItem = collections.post[currentIndex + 1] if currentIndex < collections.post.length - 1 else null %}
+                  {% set nextItem = collections.post[currentIndex + 1] if currentIndex < (collections.post.length or 0) - 1 else null %}
                 {% endif %}
                 {% if nextItem != null %}
                 <a href="{{ nextItem.url | url }}" class="btn btn-outline-primary" role="button">

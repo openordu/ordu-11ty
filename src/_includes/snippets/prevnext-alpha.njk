@@ -3,7 +3,7 @@
 {% set currentIndex = result.index %}
 {% set subPages = result.subPages %}
 {% macro nextprevnav(prevUrl, nextUrl, currentIndex, subPages) -%}
-  <div class="container mt-5">
+  <div class="container-fluid">
     <div class="d-flex justify-content-between">
       {% if prevUrl %}
         {% set prevItem = pagesByUrl[prevUrl] %}
@@ -27,7 +27,7 @@
       {% if nextUrl %}
         {% set nextItem = pagesByUrl[nextUrl] %}
       {% else %}
-        {% if subPages and currentIndex < (subPages.length or 0) %}
+        {% if subPages and currentIndex < subPages.length %}
           {% set nextItem = subPages[currentIndex + 1] %}
         {% else %}
           {% set nextItem = null %}

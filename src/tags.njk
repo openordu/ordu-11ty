@@ -13,15 +13,15 @@ pagination:
     - sortedPosts
     - categoryList
     - tagList
-layout: layouts/default.njk
+layout: layouts/topic.njk
 eleventyComputed:
-  title: Tagged `{{ tag.tagName }}`
-  shorttitle: '{{ tag.tagName }}'
-permalink: /tags/{{ tag.tagName | slug }}-{{ tag.tagCount }}/
+  title: Tagged `{{ tag.tagName | safe }}`
+  shorttitle: '{{ tag.tagName | safe }}'
+permalink: /tags/{{ tag.slug }}/
 ---
 
 {% block content %}
   {% set posts = collections[tag.tagName] %}
-  {% include 'snippets/postloop.njk' %}
-  <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+  {% include 'snippets/tagncatsloop.njk' %}
+  <p>See <a href="{{ '/tags/' | url }}" class="badge badge-primary">all tags</a>.</p>
 {% endblock %}

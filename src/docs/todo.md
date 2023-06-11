@@ -5,6 +5,7 @@ icon: list-check
 ---
 ## Git
 - [ ] Relink submodules and recursive pulls
+
 ## Phase II
 - [ ] See if you can find icons for some of the entity types
 - [ ] port this ui as a software named eleventy-press
@@ -24,6 +25,7 @@ icon: list-check
   - [ ] Instagram Reels
   - [ ] TikTok Reels
   - [ ] Youtube Reels
+
 ## Unplanned Wishlist
 - [ ] pronunciations
 - [ ] maps

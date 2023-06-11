@@ -1,1 +1,1 @@
-{% if entry.fileSlug.length and not entry.title %}{{ entry.fileSlug | slugify({separator:' ', lowercase: false}) | title }}{% else %}{{ entry.title | truncate(64) }}{% endif %}
+{% if (entry.fileSlug.length or 0) and not entry.title %}{{ entry.fileSlug | slugify({separator:' ', lowercase: false}) | title }}{% else %}{{ entry.title | truncate(64) }}{% endif %}

@@ -4,11 +4,11 @@ pagination:
   size: 1
   alias: category
   addAllPagesToCollections: true
-permalink: "/category/{{ category | lower }}/"
+permalink: "/category/{{ category | slugit }}/"
 eleventyComputed:
-  title: Category `{{ category }}`
-  shorttitle: '{{ category }}'
-layout: layouts/default.njk
+  title: Category `{{ category | safe }}`
+  shorttitle: '{{ category | safe }}'
+layout: layouts/topic.njk
 ---
 
 <ul>

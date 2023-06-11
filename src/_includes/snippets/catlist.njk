@@ -1,6 +1,6 @@
 {% for category in collections.categoryList %}
-  {% set catURL %}/category/{{ category | slug }}/{% endset %}
-  <a href="{{ '/category/' | url }}{{ category | slug }}" class="btn btn-outline-dark btn-sm me-2 my-2">{{ category }}
+  {% set catURL %}/category/{{ category | slugit }}/{% endset %}
+  <a href="{{ '/category/' | url }}{{ category | slugit }}" class="btn btn-outline-dark btn-sm me-2 my-2">{{ category }}
   </a>
 {% endfor %}
 <div class="clearfix"></div>

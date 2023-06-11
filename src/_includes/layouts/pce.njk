@@ -10,7 +10,7 @@
       <img id="splashlogo" src="/assets/green_logo.png" />
     </div>
 
-    {% include 'snippets/navbar.njk' %}
+    {% include 'snippets/navbar-with-side.njk' %}
 
     <main class="container">
       <div class="row d-flex align-items-start">
@@ -18,7 +18,7 @@
             <div class="aside order-md-1 order-2 col col-12 col-sm-3 flex-shrink-0 p-2 bg-white">
               {% include 'snippets/sidebar.njk' %}
             </div>
-            <div class="main order-md-2 order-1 col col-12 col-sm-9 pb-5">
+            <div id="main" class="main order-md-2 order-1 col col-12 col-sm-9 pb-5">
               {% include 'snippets/maincontent-pce.njk' %}
             </div>
         </div>

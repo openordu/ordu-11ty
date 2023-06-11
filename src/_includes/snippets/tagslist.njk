@@ -1,7 +1,7 @@
 {% for tag in collections.tagList %}
-  {% set tagUrl %}/tags/{{ tag.tagName | slug }}/{% endset %}
-  <a href="{{ '/tags/' | url }}{{ tag.tagName | slug }}" class="btn btn-outline-dark btn-sm me-2 my-2">{{ tag.tagName | lower }}
-    <span class="ms-1 badge bg-dark">
+  {% set tagUrl %}/tags/{{ tag.tagName | slugit }}/{% endset %}
+  <a href="{{ '/tags/' | url }}{{ tag.tagName | slugit }}" class="btn btn-outline-primary btn-sm me-2 my-2 text-dark">{{ tag.tagName | safe }}
+    <span class="ms-1 badge bg-primary">
     {{ tag.tagCount }}
     </span>
   </a>
