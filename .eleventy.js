@@ -25,6 +25,14 @@ const frontmatter = require('frontmatter');
 const fs = require('fs');
 const markdownItNew = require('markdown-it');
 const searchFilter = require("./src/_11ty/filters/searchFilter");
+const slugify = require('slugify');
+
+slugify.extend({
+  'é': 'é', 'á': 'á', 'ó': 'ó', 'í': 'í', 'ú': 'ú', 
+  'è': 'è', 'à': 'à', 'ù': 'ù', 'ì': 'ì', 'ô': 'ô', 
+  'ê': 'ê', 'â': 'â', 'î': 'î', 'û': 'û', 'ë': 'ë', 
+  'ï': 'ï', 'ÿ': 'ÿ', 'ç': 'ç'
+});
 
 // const eleventyPluginSyntaxHighlighter = require("@11ty/eleventy-plugin-syntaxhighlight");
 const inspect = require("util").inspect;
@@ -50,6 +58,14 @@ module.exports = function(eleventyConfig) {
       result[item.data[key]] = item;
       return result;
     }, {});
+  });
+  eleventyConfig.addFilter("slugit", function(value) {
+    return slugify(String(value), {
+      lower: false,
+      replacement: "-",
+      remove: /[&”,+()$~%.’'":*?<>{}]/g,
+      strict: false,
+    });
   });
   eleventyConfig.addFilter("getIndexByKey", function(array, key) {
     return array.findIndex(item => item.key === key);
@@ -117,7 +133,8 @@ module.exports = function(eleventyConfig) {
   // }
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["categoryList", "sortedPosts", "docs", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
+    // console.log(tags);
+    return (tags || []).filter(tag => ["categoryList", "tagList", "sortedPosts", "docs", "pce", "all", "nav", "post", "posts"].indexOf(tag) === -1);
   }
 
   eleventyConfig.addFilter("getAdjacentItems", function(array, currentIndex) {
@@ -192,7 +209,7 @@ module.exports = function(eleventyConfig) {
           categories.forEach(category => {
             if (typeof category === 'string') {
               // Trim and convert category to lower case
-              categorySet.add(category.trim().toLowerCase());
+              categorySet.add(String(category).replace('-', ' ').trim());
             }
           });
         }
@@ -209,9 +226,13 @@ module.exports = function(eleventyConfig) {
     collection.getAll().forEach(item => {
         if (!item.data.tags) return;
         item.data.tags
-          .filter(tag => typeof tag === 'string') // Ignore non-string tags
-          .map(tag => removeAccents(tag.trim()).toLowerCase()) // Normalize tag
-          .filter(tag => !['nav', 'sortedposts', 'categorylist', 'taglist','sortedPosts', 'categoryList', 'tagList', 'pce', 'docs', 'post', 'all'].includes(tag))
+          .map(tag => slugify(String(tag).trim(), {
+            lower: false,
+            replacement: " ",
+            remove: /[-&”,+()$~%.’'":*?<>{}]/g,
+            strict: false,
+          }))
+          .filter(tag => !['  ', 'sortedPosts', 'categoryList', 'tagList', 'pce', 'docs', 'post', 'posts', 'all'].includes(tag))
           .forEach(tag => {
               if(typeof tagsObject[tag] === 'undefined') {
                   tagsObject[tag] = 1
@@ -223,9 +244,9 @@ module.exports = function(eleventyConfig) {
 
     const tagList = []
     Object.keys(tagsObject).forEach(tag => {
-        tagList.push({ tagName: tag, tagCount: tagsObject[tag] })
+        tagList.push({ tagName: tag, tagCount: tagsObject[tag]})
     })
-
+    console.log(tagList.filter(tag => tag.tagName === 'Dubhlinn'));
     return tagList.sort((a, b) => b.tagCount - a.tagCount)
   });
 
