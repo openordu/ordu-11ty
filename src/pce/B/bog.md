@@ -11,8 +11,8 @@ attributes:
   - bog discoveries archaeological riches
   - National Museum of Ireland viewable today
 categories:
-  - objects lost or sacrificed
   - museum
+  - objects lost or sacrificed
   - archaeological importance
 entities:
   - Bogs(archaeological importance)
@@ -44,4 +44,4 @@ A site of symbolic significance, the bog is essentially a collection of sphagnum
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bog Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lauhanvuori_suo.jpg/1200px-Lauhanvuori_suo.jpg'])
+![bog Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lauhanvuori_suo.jpg/1200px-Lauhanvuori_suo.jpg)

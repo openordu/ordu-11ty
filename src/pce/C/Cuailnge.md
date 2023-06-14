@@ -28,4 +28,4 @@ Cooley, the lush peninsula on the east coast of Ireland, sits just below Carling
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cuailnge Image](['https://upload.wikimedia.org/wikipedia/commons/1/1e/Cooley_Peninsula_in_Ireland.png'])
+![Cuailnge Image](https://upload.wikimedia.org/wikipedia/commons/1/1e/Cooley_Peninsula_in_Ireland.png)

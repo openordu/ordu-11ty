@@ -10,8 +10,8 @@ attributes:
   - Avebury large site
   - Avebury village within boundaries
 categories:
-  - Ancient civilization
   - Monument
+  - Ancient civilization
 entities:
   - Celts(Ancient civilization)
   - Stonehenge(Monument)
@@ -48,4 +48,3 @@ A mysterious site in Britain known as Avebury is steeped in mythological signifi
 - Malone, Caroline. English Heritage Book of Avebury. London: B. T. Batsford, Ltd./English Heritage, 1989.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Avebur Image]([None])

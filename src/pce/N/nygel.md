@@ -17,13 +17,13 @@ attributes:
   - nygel wreaked havoc on its machinery
   - Nuckelavee neighboring Monster
 categories:
-  - Scottish folkloric figure
+  - Location
+  - Streams
   - Mythical creature
   - Variant of Water Horse
   - Equipment
-  - Streams
+  - Scottish folkloric figure
   - Monster
-  - Location
 entities:
   - nygel(Scottish folkloric figure)
   - Shetland Islands(Location)
@@ -75,4 +75,3 @@ A Scottish folkloric figure known as Nygel, also spelled as Noggle or Nuggle, ha
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![nygel Image]([None])

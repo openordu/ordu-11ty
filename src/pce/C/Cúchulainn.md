@@ -12,10 +12,10 @@ attributes:
   - Morgan Llywelyn’s historical novel Red Branch details the Cúchulainn saga
 categories:
   - Novel
-  - Mythical character
   - Author
-  - Play
   - Heroic figure
+  - Mythical character
+  - Play
 entities:
   - Cúchulainn(Heroic figure)
   - Yeats(Author)
@@ -60,4 +60,4 @@ Irish legend boasts a mighty hero named Cúchulainn (also Cuhullin, Cú Chulainn
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 15, 253.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cúchulainn Image](['https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg'])
+![Cúchulainn Image](https://upload.wikimedia.org/wikipedia/commons/6/60/Cuslayshound.jpg)

@@ -9,9 +9,9 @@ attributes:
   - Gawain niece
   - Aleine lover of Percival
 categories:
-  - legendary figure
   - Arthurian knight
   - Arthurian heroine
+  - legendary figure
 entities:
   - Aleine(Arthurian heroine)
   - Gawain(legendary figure)
@@ -40,4 +40,3 @@ An Arthurian heroine by the name of Aleine was a lesser-known character in the s
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aleine Image]([None])

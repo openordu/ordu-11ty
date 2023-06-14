@@ -22,4 +22,4 @@ City of Ys See Ys.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![City of Ys Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg/1200px-Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg'])
+![City of Ys Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg/1200px-Evariste-Vital_Luminais_-_Fuite_de_Gradlon.jpg)

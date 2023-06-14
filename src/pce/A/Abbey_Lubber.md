@@ -11,9 +11,9 @@ attributes:
   - monasteries corruption
   - public dismay
 categories:
-  - historical period
   - mythological
   - religious institutions
+  - historical period
 entities:
   - creature(mythological)
   - Middle Ages(historical period)
@@ -44,4 +44,3 @@ A mysterious figure in British folklore is the Abbey Lubber, said to haunt the w
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Abbey Lubber Image]([None])

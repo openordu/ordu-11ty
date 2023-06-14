@@ -11,9 +11,9 @@ attributes:
   - Patrick kingly adversary
   - Crom Cruach humanized version of an ancient god
 categories:
+  - Location
   - Title
   - Person
-  - Location
 entities:
   - Crom Dubh(Title)
   - Croagh Patrick(Location)
@@ -50,4 +50,3 @@ The Irish deity or hero Crom Dubh appears in tales of St. Patrick. According to 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crom Dubh Image]([None])

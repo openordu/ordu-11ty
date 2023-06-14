@@ -15,9 +15,9 @@ attributes:
   - boys participated in the procession
   - girls participated in the procession
 categories:
+  - person
   - location
   - event
-  - person
 entities:
   - Brigit(person)
   - Imbolc(event)
@@ -53,4 +53,3 @@ A puppet claiming to represent St. Bridget, the Christian figure who adopted man
 - Danaher, Kevin. *The Year in Ireland*. Cork: Mercier Press, 1922, 24.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![brídeóg Image]([None])

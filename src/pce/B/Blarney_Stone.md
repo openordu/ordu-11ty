@@ -10,10 +10,10 @@ attributes:
   - Cormac MacCarthy local ruler
   - stone installed in an inaccessible part of the castle wall
 categories:
-  - location
   - castle
-  - local ruler
   - folkloric site
+  - local ruler
+  - location
   - Fairy Queen
 entities:
   - Blarney Stone(folkloric site)
@@ -50,4 +50,4 @@ In Co. Cork lies the Blarney Stone, a stone located in the 15th-century Blarney 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blarney Stone Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Blarney_Stone.jpg/1200px-The_Blarney_Stone.jpg'])
+![Blarney Stone Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Blarney_Stone.jpg/1200px-The_Blarney_Stone.jpg)

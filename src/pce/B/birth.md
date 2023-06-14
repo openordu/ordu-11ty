@@ -8,12 +8,12 @@ attributes:
   - fertility increase
   - childbirth safe
 categories:
-  - protective rituals
   - mythic theme
-  - oracular functions
-  - fertility
-  - safe childbirth
   - expected child
+  - safe childbirth
+  - fertility
+  - oracular functions
+  - protective rituals
 entities:
   - fertility(mythic theme)
   - fields(fertility)
@@ -62,4 +62,4 @@ Mythic theme: Birth. The Celts did not assume fertility in nature, be it in the 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![birth Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lambing_in_England_-10March2012_%282%29.jpg/1200px-Lambing_in_England_-10March2012_%282%29.jpg'])
+![birth Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lambing_in_England_-10March2012_%282%29.jpg/1200px-Lambing_in_England_-10March2012_%282%29.jpg)

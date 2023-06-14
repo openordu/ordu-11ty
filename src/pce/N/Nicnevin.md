@@ -10,10 +10,10 @@ attributes:
   - Wild Hunt steals people from their homes to become entertainments for the fairies
   - fairies entertainments for the fairies
 categories:
-  - Scottish folkloric figure
-  - mythical creatures
   - Fairy Queen
+  - Scottish folkloric figure
   - mythical event
+  - mythical creatures
 entities:
   - Nicnevin(Scottish folkloric figure)
   - Habetrot(Fairy Queen)
@@ -46,4 +46,3 @@ A Scottish folkloric figure that goes by the name of Nicnevin is sometimes refer
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nicnevin Image]([None])

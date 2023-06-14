@@ -10,8 +10,8 @@ attributes:
   - Crandelmass early opponent to Arthur's rule
 categories:
   - king
-  - Arthurian hero
   - legend
+  - Arthurian hero
 entities:
   - Crandelmass(Arthurian hero)
   - Arthur(king)
@@ -40,4 +40,3 @@ Arthur Crandelmass, a figure in the Arthurian legend of Camelot, played a small 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crandelmass Image]([None])

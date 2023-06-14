@@ -9,8 +9,8 @@ attributes:
   - Lugaidh mac Con Ró enemy
   - Cúchulainn death
 categories:
-  - group of people
   - person
+  - group of people
 entities:
   - one-eyed daughters(group of people)
   - Cúchulainn(person)
@@ -39,4 +39,3 @@ The Irish hero known as Cailitin, sometimes spelled as Calatin or Calatín, was 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cailitin Image]([None])

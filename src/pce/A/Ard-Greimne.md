@@ -8,9 +8,9 @@ attributes:
   - Ard-Greimne father of Scáthach and Aífe
   - Scáthach sister/rival of Aífe
 categories:
+  - Irish hero
   - Warrior Women
   - Isle of Skye
-  - Irish hero
 entities:
   - Ard-Greimne(Irish hero)
   - Warrior Women(Isle of Skye)
@@ -41,4 +41,3 @@ Irish hero Ard-Greimne was the parent of Scáthach and Aífe, the renowned Warri
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ard-Greimne Image]([None])

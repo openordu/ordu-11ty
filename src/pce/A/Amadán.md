@@ -39,4 +39,3 @@ Amadán, also known as Amadáin or Amadáin Mhóir, is an Irish hero or spirit. 
 - Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 11.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Amadán Image]([None])

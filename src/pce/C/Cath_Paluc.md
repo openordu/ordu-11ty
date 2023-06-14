@@ -9,10 +9,10 @@ attributes:
   - Celtic mythology has led some to argue for an ancient cult of the Cat
   - Cath Paluc is believed to be a vestige
 categories:
-  - monster
-  - mythological figure
-  - mythology
   - culture
+  - mythological figure
+  - monster
+  - mythology
 entities:
   - Cath Paluc(mythological figure)
   - Welsh(culture)
@@ -44,4 +44,3 @@ A legendary character from Welsh mythology is Cath Paluc, also known as "Paluc's
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cath Paluc Image]([None])

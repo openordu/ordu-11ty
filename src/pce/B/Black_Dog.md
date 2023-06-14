@@ -12,12 +12,12 @@ attributes:
   - Black Dog familiar to Irish folklore and sighted at Irish sacred sites
   - ghostly creature inspired Sir Arthur Conan Doyle’s “The Hound of the Baskervilles”
 categories:
-  - Nationality
-  - Date
-  - Person
-  - Animal
-  - Book
   - Location
+  - Date
+  - Animal
+  - Nationality
+  - Book
+  - Person
 entities:
   - East Anglia(Location)
   - Black Shuck(Animal)
@@ -83,4 +83,3 @@ A spectral creature known as the Black Dog played a significant role in the myth
 - Spence, Lewis. The Minor Traditions of British Mythology. (New York: Benjamin Blom, Inc., 1972), 90.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Black Dog Image]([None])

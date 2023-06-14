@@ -9,8 +9,8 @@ attributes:
   - Condwiramur mother of Lohenergrain
 categories:
   - Welsh heroine
-  - son
   - heroic king
+  - son
 entities:
   - Condwiramur(Welsh heroine)
   - Peredur(heroic king)
@@ -38,4 +38,3 @@ Welsh heroine Condwiramur features in various legends as the spouse of the valia
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Condwiramur Image]([None])

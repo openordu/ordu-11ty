@@ -8,11 +8,11 @@ attributes:
   - goddess of Sovereignty betrayed and alone
   - Ireland searching for a hero
 categories:
-  - mythical being
-  - place
-  - poem
-  - person
   - book
+  - place
+  - person
+  - poem
+  - mythical being
 entities:
   - aislings(poem)
   - poet(person)
@@ -52,4 +52,4 @@ A literary form originating in Ireland is the aisling (or ashling, or aislinge) 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![aisling Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg/1200px-Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg'])
+![aisling Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg/1200px-Pierre-C%C3%A9cile_Puvis_de_Chavannes_003.jpg)

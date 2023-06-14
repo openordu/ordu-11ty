@@ -22,10 +22,10 @@ attributes:
   - Guinevere None
   - king Arthur None
 categories:
-  - title
-  - organization
-  - concept
   - person
+  - title
+  - concept
+  - organization
 entities:
   - Eleanor(person)
   - Marie of Champagne(person)
@@ -110,4 +110,4 @@ A literary and historical movement emerged during the Middle Ages in the lands o
 - Markale, Jean. Courtly Love: The Path of Sexual Initiation. Rochester, Vt.: Inner Traditions, 2000.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![courtly love Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leighton-God_Speed%21.jpg/1200px-Leighton-God_Speed%21.jpg'])
+![courtly love Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Leighton-God_Speed%21.jpg/1200px-Leighton-God_Speed%21.jpg)

@@ -11,13 +11,13 @@ attributes:
   - shrine in Britain
   - sculptures of hooked fish
 categories:
-  - concept
   - deity
-  - plant
-  - person
+  - concept
   - animal
-  - body of water
+  - person
   - country
+  - plant
+  - body of water
 entities:
   - salmon(animal)
   - Wisdom(concept)
@@ -60,4 +60,3 @@ Nechtan, also known as Elcmar, was a god or hero in Irish mythology. He played a
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nechtan Image]([None])

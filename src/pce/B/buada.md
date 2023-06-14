@@ -28,4 +28,3 @@ Irish ritual called buada (or buadha) subjected the king, in ancient Ireland, to
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![buada Image]([None])

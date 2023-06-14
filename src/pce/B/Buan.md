@@ -12,11 +12,11 @@ attributes:
   - Hazel Coll Buana used as divination tools
   - Buan descend from the early goddess Búanann
 categories:
-  - early goddess
   - Irish heroine
-  - magical hazel bushes
   - hero
   - famous head
+  - early goddess
+  - magical hazel bushes
 entities:
   - Buan(Irish heroine)
   - Mac Dathó(hero)
@@ -54,4 +54,3 @@ An Irish figure, Buan, acted as a heroine. After the hero, Mac Dathó, met his d
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Buan Image]([None])

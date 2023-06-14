@@ -10,10 +10,10 @@ attributes:
   - Clarisant lived in an enchanted castle
   - Clarisant lover of Guireomelant
 categories:
-  - halfsister of king Arthur
   - Arthurian heroine
-  - king
+  - halfsister of king Arthur
   - knight of the Round Table
+  - king
   - lover
   - remote northern island
 entities:
@@ -54,4 +54,3 @@ Arthurian heroine Clarisant, also known as Clarisse, was the daughter of Morgaus
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clarisant Image]([None])

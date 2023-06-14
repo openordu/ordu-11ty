@@ -11,13 +11,13 @@ attributes:
   - Ailill mac Máta husband of Medb
   - Cattle Raid on Ulster event launched by Medb and Ailill
 categories:
-  - event
-  - swineherd reincarnated as Bull Donn Cuailnge
-  - queen
-  - husband of Medb
-  - great bull
-  - Irish hero
   - western province
+  - Irish hero
+  - queen
+  - great bull
+  - swineherd reincarnated as Bull Donn Cuailnge
+  - husband of Medb
+  - event
 entities:
   - Nár Thúathcaech(Irish hero)
   - Friuch(swineherd reincarnated as Bull Donn Cuailnge)
@@ -60,4 +60,3 @@ Nár Thúathcaech is an Irish hero known by the name "Shame," which is also the 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nár Thúathcaech Image]([None])

@@ -11,9 +11,9 @@ attributes:
   - Alesia important settlement
   - meaning stone, alder, or rowan
 categories:
+  - Continental Celtic god
   - obscure
   - settlement
-  - Continental Celtic god
 entities:
   - Alisanos(Continental Celtic god)
   - Gaulish god(obscure)
@@ -44,4 +44,3 @@ A little-known deity from the Gaulish pantheon, Alisanos (also known as Alisanus
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alisanos Image]([None])

@@ -11,10 +11,10 @@ attributes:
   - Clan Baíscne served Fionn Mac Cumhaill
   - Fianna formed by joining rival clans
 categories:
-  - tribe
-  - group
-  - hero
   - warrior
+  - group
+  - tribe
+  - hero
 entities:
   - Clan Morna(tribe)
   - Goll Mac Morna(warrior)
@@ -51,4 +51,3 @@ In Irish lore, there exist Clan Morna heroes who are the loyalists or the commun
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clan Morna Image]([None])

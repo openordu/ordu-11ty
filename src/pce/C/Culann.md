@@ -7,8 +7,8 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Cú Chulainn hound of Culann
 categories:
-  - Location
   - Irish hero
+  - Location
 entities:
   - Culann(Irish hero)
   - Cú Chulainn(Irish hero)
@@ -44,4 +44,3 @@ A significant Irish hero was Culann, a smith who created weapons for Concobar Ma
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Culann Image]([None])

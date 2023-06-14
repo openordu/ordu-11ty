@@ -12,9 +12,9 @@ attributes:
   - toothache Ailment treated by well water
   - eye diseases Ailment commonly treated by wells
 categories:
+  - Location
   - Irish goddess
   - Irish divinity or fairy
-  - Location
 entities:
   - Aibheaeg(Irish divinity or fairy)
   - Donegal(Location)
@@ -48,4 +48,3 @@ Irish mythology recounts the story of Aibheaeg, a divine being or fairy. In Done
 - Monaghan, Patricia. O Mother Sun: A New View of the Cosmic Feminine. Freedom, Calif.: The Crossing Press, 1994, 70.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aibheaeg Image]([None])

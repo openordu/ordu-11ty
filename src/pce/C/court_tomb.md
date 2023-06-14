@@ -15,12 +15,12 @@ attributes:
   - entrance faces east
   - funerary ceremonies used for
 categories:
-  - Mythological site
-  - location
-  - ceremony
-  - pre-Celtic
   - early
+  - Mythological site
   - structure
+  - pre-Celtic
+  - ceremony
+  - location
 entities:
   - court tomb(Mythological site)
   - Megalithic Civilization(pre-Celtic)
@@ -80,4 +80,4 @@ Megalithic relics from the pre-Celtic civilization can be found among the Celtic
 - Harbison, Peter. *Pre-Christian Ireland: From the First Settlers to the Early Celts*. London: Thames and Hudson, 1988, 47.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![court tomb Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg/1200px-County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg'])
+![court tomb Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg/1200px-County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg)

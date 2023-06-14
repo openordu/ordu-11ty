@@ -12,10 +12,10 @@ attributes:
   - Otherworld called by euphemisms such as ad-hene Manx spirits.
   - Names For The Fairies See
 categories:
-  - Spirit
-  - Mythical place
-  - Book
   - Location
+  - Book
+  - Mythical place
+  - Spirit
 entities:
   - Manx spirits(Spirit)
   - Celtic lands(Location)
@@ -53,4 +53,3 @@ Manx spirits, much like their counterparts in other Celtic territories, were ref
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ad-hene Image]([None])

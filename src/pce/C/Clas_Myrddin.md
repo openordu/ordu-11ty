@@ -10,9 +10,9 @@ attributes:
   - Britain palace of Merlin
   - Merlin guardian of Britain
 categories:
-  - Arthurian site
   - magician
   - island
+  - Arthurian site
 entities:
   - Clas Myrddin(Arthurian site)
   - Britain(island)
@@ -42,4 +42,3 @@ Arthurian legend mentions a site known as Clas Myrddin, which can also be referr
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clas Myrddin Image]([None])

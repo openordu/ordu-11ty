@@ -10,8 +10,8 @@ attributes:
   - Gogmagog monstrous
   - Gogmagog defeated by Corineaus
 categories:
-  - monstrous Giant
   - British hero
+  - monstrous Giant
 entities:
   - Corineaus(British hero)
   - Gog(monstrous Giant)
@@ -41,4 +41,3 @@ A legendary figure highly esteemed by the British, Corineaus is credited with th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corineaus Image]([None])

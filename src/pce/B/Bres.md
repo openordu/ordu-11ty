@@ -10,12 +10,12 @@ attributes:
   - Bres lord of Hy-Brâzil, an Island of the Otherworld that floats in the western ocean
   - Bres halfFomorian
 categories:
-  - location
-  - son
   - unknown
-  - goddess
+  - location
   - member of the Tuatha Dé Danann
+  - son
   - Island of the Otherworld
+  - goddess
 entities:
   - Bres(member of the Tuatha Dé Danann)
   - Brigit(goddess)
@@ -60,4 +60,3 @@ A prominent figure in Irish mythology is the deity Bres (Breaseal), who exists i
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bres Image]([None])

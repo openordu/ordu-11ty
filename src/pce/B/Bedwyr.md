@@ -15,12 +15,12 @@ attributes:
   - Lady Of The Lake magical
   - Avalon mythical place
 categories:
-  - Welsh hero
-  - magical
-  - mythical place
   - great sword
-  - hero
   - Welsh mythological text
+  - hero
+  - Welsh hero
+  - mythical place
+  - magical
 entities:
   - Bedwyr(Welsh hero)
   - Bedivere(Welsh hero)
@@ -73,4 +73,4 @@ Welsh hero Bedwyr (also known as Bedivere, Bedwyr fab Bedrawg) was highly respec
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bedwyr Image](['https://upload.wikimedia.org/wikipedia/commons/3/35/King_Arthur_Sir_Bedivere_throwing_Excalibur_into_the_lake_by_Walter_Crane.jpg'])
+![Bedwyr Image](https://upload.wikimedia.org/wikipedia/commons/3/35/King_Arthur_Sir_Bedivere_throwing_Excalibur_into_the_lake_by_Walter_Crane.jpg)

@@ -18,12 +18,12 @@ attributes:
   - Nodens sometimes said to be parallel to the similarly named Irish god Nuadu
   - Nodens linked as well to the Welsh god Lludd, whose alternative name is Nudd
 categories:
-  - Culture
-  - Animal
-  - Deity
-  - Country
-  - Celtic god
   - Location
+  - Country
+  - Animal
+  - Culture
+  - Deity
+  - Celtic god
 entities:
   - Nodens(Celtic god)
   - Dog(Animal)
@@ -76,4 +76,4 @@ British god Nodens (Nodons) remains relatively enigmatic. According to the invad
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nodens Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roman_Temple_-_geograph.org.uk_-_1318760.jpg/1200px-Roman_Temple_-_geograph.org.uk_-_1318760.jpg'])
+![Nodens Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Roman_Temple_-_geograph.org.uk_-_1318760.jpg/1200px-Roman_Temple_-_geograph.org.uk_-_1318760.jpg)

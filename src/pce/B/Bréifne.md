@@ -9,9 +9,9 @@ attributes:
   - Bréifne may have been the goddess of the region’s Sovereignty
   - Warrior Woman died defending her land and its people from evil invaders
 categories:
-  - Territory
-  - Poetry
   - Person
+  - Poetry
+  - Territory
 entities:
   - Bréifne(Territory)
   - Ireland(Territory)
@@ -43,4 +43,4 @@ Territory of Ireland known as Bréifne (Breffni) owes its name to a seldomly men
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bréifne Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kingdom_of_Breifne-900.svg/1200px-Kingdom_of_Breifne-900.svg.png'])
+![Bréifne Image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kingdom_of_Breifne-900.svg/1200px-Kingdom_of_Breifne-900.svg.png)

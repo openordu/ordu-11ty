@@ -37,4 +37,3 @@ Afagddu, also known as Avagddu or Morfran, was a Welsh god. According to legend,
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Afagddu Image]([None])

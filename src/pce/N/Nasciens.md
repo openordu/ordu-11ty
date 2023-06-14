@@ -9,8 +9,8 @@ attributes:
   - Nasciens hermit monk
   - Nasciens advised the knights who rode out in the quest of the sacred object
 categories:
-  - sacred object
   - pagan ruler
+  - sacred object
   - Arthurian hero
 entities:
   - Nasciens(Arthurian hero)
@@ -40,4 +40,3 @@ Arthurian hero Nasciens, formerly known as Seraphe, was a pagan ruler who change
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nasciens Image]([None])

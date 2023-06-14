@@ -24,13 +24,13 @@ attributes:
   - Medionemeton settlement
   - Scotland location
 categories:
-  - location
-  - group
   - object
   - region
-  - word
   - building
+  - group
   - settlement
+  - word
+  - location
 entities:
   - nemeton(word)
   - stone Temple(building)
@@ -121,4 +121,4 @@ The Celts were known for conducting their religious ceremonies outdoors in sacre
 - Lonigan, Paul R. The Druids: Priests of the Ancient Celts. Contributions to the Study of Religion, No. 45. Westport, Conn.: Greenwood Press, 1996, 3.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![nemeton Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nemeton2escorial.jpg/1200px-Nemeton2escorial.jpg'])
+![nemeton Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nemeton2escorial.jpg/1200px-Nemeton2escorial.jpg)

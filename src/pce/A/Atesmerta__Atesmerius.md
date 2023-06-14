@@ -10,8 +10,8 @@ attributes:
   - Gaul Location of inscriptions
 categories:
   - Location
-  - Continental Celtic goddess
   - Continental Celtic god
+  - Continental Celtic goddess
 entities:
   - Atesmerta(Continental Celtic goddess)
   - Atesmerius(Continental Celtic god)
@@ -40,4 +40,3 @@ Atesmerta and Atesmerius are two Celtic deities worshiped on the continent. Thei
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Atesmerta, Atesmerius Image]([None])

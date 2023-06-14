@@ -11,9 +11,9 @@ attributes:
   - Cormac stepped down from the throne
   - Cairbre Lifechair succeeded Cormac as king
 categories:
+  - Place
   - King
   - Person
-  - Place
 entities:
   - Cormac(King)
   - Tara(Place)
@@ -49,4 +49,3 @@ Cormac mac Airt, a notable Irish hero, was the king of Tara during the time when
 - O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 132.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cormac mac Airt Image]([None])

@@ -8,9 +8,9 @@ attributes:
   - Loathy Lady name
   - goddess form
 categories:
-  - Sovereignty
   - Arthurian heroine
   - Arthurian texts
+  - Sovereignty
 entities:
   - Cunrie(Arthurian heroine)
   - Kundrie(Arthurian heroine)
@@ -44,4 +44,3 @@ Arthurian literature features an important heroine, Cunrie (also known as Kundri
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cunrie Image]([None])

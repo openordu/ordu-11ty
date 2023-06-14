@@ -13,10 +13,10 @@ attributes:
   - Tristan Fated lover of Iseult
   - Bull-Sleep Animal divination
 categories:
+  - Location
   - Arthurian character
   - Arthurian hero
   - Animal divination
-  - Location
 entities:
   - Angwish(Arthurian hero)
   - Ireland(Location)
@@ -61,4 +61,3 @@ Angwish, an Arthurian hero, was a ruler of Ireland and the father of Iseult, the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Angwish Image]([None])

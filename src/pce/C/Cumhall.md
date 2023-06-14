@@ -14,11 +14,11 @@ attributes:
   - Conn of the Hundred Battles ally of Tadg
   - Tara kingdom ruled by Conn
 categories:
-  - family
-  - kingdom
-  - king
-  - person
   - Irish hero
+  - family
+  - king
+  - kingdom
+  - person
   - great hero
 entities:
   - Cumhall(Irish hero)
@@ -68,4 +68,3 @@ Irish hero Cumhall (Camall, Camhall) is widely known as the father of the great 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cumhall Image]([None])

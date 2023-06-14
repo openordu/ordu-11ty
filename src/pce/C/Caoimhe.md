@@ -9,8 +9,8 @@ attributes:
   - Caoimhe wife of Goll Mac Morna
 categories:
   - great enemy
-  - great hero
   - Irish heroine
+  - great hero
 entities:
   - Caoimhe(Irish heroine)
   - Keeva(Irish heroine)
@@ -41,4 +41,3 @@ Irish legend tells of a heroine named Caoimhe, also known as Keeva or Keeva of t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caoimhe Image]([None])

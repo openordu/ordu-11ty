@@ -14,8 +14,8 @@ attributes:
   - Lough Ennell suddenly flooded forth
   - ancient divinity presence with creative powers
 categories:
-  - place
   - person
+  - place
 entities:
   - Anind(person)
   - Nemed(person)
@@ -52,4 +52,3 @@ Early invader Nemed had a son, Anind, who is recognized as an Irish hero. Anind 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Anind Image]([None])

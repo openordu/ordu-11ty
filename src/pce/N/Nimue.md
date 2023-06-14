@@ -47,4 +47,4 @@ Nimue, an Arthurian heroine with a Welsh name, is a mysterious figure known as t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nimue Image](['https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Lady_of_the_Lake_by_Speed_Lancelot.jpg'])
+![Nimue Image](https://upload.wikimedia.org/wikipedia/commons/e/e2/The_Lady_of_the_Lake_by_Speed_Lancelot.jpg)

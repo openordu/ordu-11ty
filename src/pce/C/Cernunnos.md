@@ -54,4 +54,4 @@ Cernunnos, a Celtic god, was among the most prominent and ancient deities of the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cernunnos Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg/1200px-Gundestrupkedlen-_00054_%28cropped%29.jpg'])
+![Cernunnos Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gundestrupkedlen-_00054_%28cropped%29.jpg/1200px-Gundestrupkedlen-_00054_%28cropped%29.jpg)

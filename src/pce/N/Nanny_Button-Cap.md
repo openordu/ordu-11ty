@@ -8,9 +8,9 @@ attributes:
   - Nanny Button-Cap Good Fairy
   - Nanny Button-Cap Helpful sprite
 categories:
+  - Location
   - British folkloric figure
   - Mythical creature
-  - Location
 entities:
   - Nanny Button-Cap(British folkloric figure)
   - Yorkshire(Location)
@@ -41,4 +41,3 @@ British folklore goes to great lengths when it comes to mythical characters like
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nanny Button-Cap Image]([None])

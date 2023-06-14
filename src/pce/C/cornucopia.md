@@ -17,13 +17,13 @@ attributes:
   - gods sometimes depicted on the cornucopia
   - Cernunnos god
 categories:
-  - mythic symbol
-  - concept
-  - mythical beings
-  - goddess
-  - place
-  - people
   - god
+  - concept
+  - place
+  - mythical beings
+  - mythic symbol
+  - people
+  - goddess
 entities:
   - cornucopia(mythic symbol)
   - Mediterranean(place)
@@ -81,4 +81,4 @@ Mythic symbol of abundance, the cornucopia originated from the Mediterranean and
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cornucopia Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Peter_Paul_Rubens_-_Abundance_%28Abundantia%29_-_Google_Art_Project.jpg/1200px-Peter_Paul_Rubens_-_Abundance_%28Abundantia%29_-_Google_Art_Project.jpg'])
+![cornucopia Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Peter_Paul_Rubens_-_Abundance_%28Abundantia%29_-_Google_Art_Project.jpg/1200px-Peter_Paul_Rubens_-_Abundance_%28Abundantia%29_-_Google_Art_Project.jpg)

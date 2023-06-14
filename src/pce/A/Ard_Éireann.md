@@ -10,8 +10,8 @@ attributes:
   - Ireland mythical birthplace
 categories:
   - mountains
-  - mythological site
   - land
+  - mythological site
 entities:
   - Ard Éireann(mythological site)
   - Slieve Bloom(mountains)
@@ -40,4 +40,3 @@ Irish mythological site, Ard Éireann, is located in the mountains of central Ir
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ard Éireann Image]([None])

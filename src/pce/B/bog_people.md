@@ -9,10 +9,10 @@ attributes:
   - Lindow Man fed pollen of the sacred plant Mistletoe
   - Lindow Man analyzed as evidence of HUMan Sacrifice and of the Threefold Death
 categories:
-  - Plant
-  - Concept
-  - Person
   - Location
+  - Concept
+  - Plant
+  - Person
 entities:
   - European bogs(Location)
   - Denmark(Location)
@@ -57,4 +57,4 @@ Unearthed in bogs across Europe during peat harvesting are the bog people, ancie
 - Ross, Anne. “Lindow Man and the Celtic Tradition.” In The Lindow Man: The Body in the Bog, edited by I. M. Stead, J. B. Bourke, and Don Brothwell, 162–169. Ithaca, N.Y.: Cornell University Press, 1986.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bog people Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tollundmannen.jpg/1200px-Tollundmannen.jpg'])
+![bog people Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tollundmannen.jpg/1200px-Tollundmannen.jpg)

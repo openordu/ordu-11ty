@@ -8,10 +8,10 @@ attributes:
   - Sun goddess ancient
   - black sun mythical
 categories:
-  - mythical place
-  - attribute
   - ancient deity
   - mythical object
+  - mythical place
+  - attribute
   - legendary form
 entities:
   - Brunissen(legendary form)
@@ -47,4 +47,3 @@ In Provence, France, there are tales of a Fairy Queen or goddess named Brunissen
 - Markale, Jean. Women of the Celts. Rochester, Vt.: Inner Traditions, 1986, 74-75, 111.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brunissen Image]([None])

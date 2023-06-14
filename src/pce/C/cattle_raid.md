@@ -9,8 +9,8 @@ attributes:
   - Medb mother of Finnabair
   - Finnabair daughter of Medb
 categories:
-  - event
   - person
+  - event
 entities:
   - Fráech(person)
   - Medb(person)
@@ -42,4 +42,4 @@ The stealing of cattle from neighboring kingdoms was an ongoing and dangerous sp
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cattle raid Image](['https://upload.wikimedia.org/wikipedia/commons/9/93/Schw%C3%A4bischer_Bund_Luzerner_Schilling.jpg'])
+![cattle raid Image](https://upload.wikimedia.org/wikipedia/commons/9/93/Schw%C3%A4bischer_Bund_Luzerner_Schilling.jpg)

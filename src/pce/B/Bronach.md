@@ -12,11 +12,11 @@ attributes:
   - Bronach Irish heroine or goddess associated with the area
   - Mal mythological creature some researchers claim is the Cailleach of the area
 categories:
-  - location
-  - Irish heroine or goddess
   - rocky place
   - cliff
+  - location
   - mythological creature
+  - Irish heroine or goddess
 entities:
   - Bronach(Irish heroine or goddess)
   - west of Ireland(location)
@@ -63,4 +63,4 @@ Bronach, an Irish heroine or goddess, is associated with the line of cliffs mark
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bronach Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg/1200px-Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg'])
+![Bronach Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg/1200px-Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg)

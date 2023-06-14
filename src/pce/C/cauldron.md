@@ -8,9 +8,9 @@ attributes:
   - cauldron of rebirth origin: Irish
   - soldiers' bodies purpose: to come back alive yet soulless to fight again
 categories:
-  - mythical object
-  - nationality
   - literary work
+  - nationality
+  - mythical object
 entities:
   - Welsh Mabinogion(literary work)
   - cauldron of rebirth(mythical object)
@@ -38,4 +38,4 @@ The cauldron was a symbolic object in Celtic culture. It served as both a househ
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cauldron Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/1200px-Gulyas080.jpg'])
+![cauldron Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gulyas080.jpg/1200px-Gulyas080.jpg)

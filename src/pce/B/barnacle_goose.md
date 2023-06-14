@@ -9,8 +9,8 @@ attributes:
   - barnacle goose annual arrival
   - barnacle goose cyclic disappearance and reappearance
 categories:
-  - location
   - bird
+  - location
   - wildfowl
 entities:
   - barnacle goose(wildfowl)
@@ -40,4 +40,4 @@ A waterbird with a fascinating folklore backstory is the barnacle goose, conside
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![barnacle goose Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Barnacle-Goose.jpg/1200px-Barnacle-Goose.jpg'])
+![barnacle goose Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Barnacle-Goose.jpg/1200px-Barnacle-Goose.jpg)

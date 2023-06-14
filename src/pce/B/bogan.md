@@ -10,8 +10,8 @@ attributes:
   - bogan was wrestled to the ground
   - bogan promised to leave the land
 categories:
-  - creature
   - person
+  - creature
 entities:
   - man(person)
   - John Macleod(person)
@@ -43,4 +43,4 @@ The bogan, also known as buckawn, bòcan or bauchan, is a Scottish (sometimes Ir
 - Douglas, George. Scottish Fairy and Folk Tales. West Yorkshire: Ep Publishing, 1977, 143+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bogan Image](['https://upload.wikimedia.org/wikipedia/commons/c/cf/Stereotypical_Bogan.jpg'])
+![bogan Image](https://upload.wikimedia.org/wikipedia/commons/c/cf/Stereotypical_Bogan.jpg)

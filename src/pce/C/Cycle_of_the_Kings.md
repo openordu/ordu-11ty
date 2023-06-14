@@ -14,9 +14,9 @@ attributes:
   - Irish mythological texts reveal something of the past
 categories:
   - Cycle
+  - Location
   - King
   - Culture
-  - Location
 entities:
   - Historical Cycle(Cycle)
   - Cycle of the Kings(Cycle)
@@ -64,4 +64,4 @@ Mythic story sequence, the Cycle of the Kings (Historical Cycle), is one of the 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cycle of the Kings Image](['https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg'])
+![Cycle of the Kings Image](https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg)

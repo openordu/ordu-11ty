@@ -9,12 +9,12 @@ attributes:
   - Almu surrounded by the bog and hill
   - Alend obscure
 categories:
-  - province
-  - region
-  - mythological site
-  - goddess or heroine
   - ancient capital
+  - province
+  - mythological site
   - country
+  - region
+  - goddess or heroine
 entities:
   - Bog of Allen(mythological site)
   - Ireland(country)
@@ -52,4 +52,4 @@ An obscure goddess or heroine named Alend is the namesake of both the bog and hi
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bog of Allen Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bog_of_Allen_-_Croghan_Hill.jpg/1200px-Bog_of_Allen_-_Croghan_Hill.jpg'])
+![Bog of Allen Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bog_of_Allen_-_Croghan_Hill.jpg/1200px-Bog_of_Allen_-_Croghan_Hill.jpg)

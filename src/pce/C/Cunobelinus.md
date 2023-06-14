@@ -11,11 +11,11 @@ attributes:
   - Romans invaders
 categories:
   - region
-  - tragic hero
-  - British hero
+  - tribe
   - playwright
   - invaders
-  - tribe
+  - tragic hero
+  - British hero
 entities:
   - Cunobelinus(British hero)
   - Shakespeare(playwright)
@@ -54,4 +54,4 @@ British hero Cunobelinus, who was a southern warrior leading the Catuvallaunians
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cunobelinus Image](['https://upload.wikimedia.org/wikipedia/commons/8/82/Cunobelin.jpg'])
+![Cunobelinus Image](https://upload.wikimedia.org/wikipedia/commons/8/82/Cunobelin.jpg)

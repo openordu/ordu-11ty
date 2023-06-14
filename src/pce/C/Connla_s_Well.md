@@ -14,12 +14,12 @@ attributes:
   - life sacrificed
   - quest successful
 categories:
-  - mythical being
   - object
+  - drink
   - concept
   - activity
   - food
-  - drink
+  - mythical being
 entities:
   - well(object)
   - nuts(food)
@@ -71,4 +71,3 @@ Located somewhere in Tipperary is Connla's Well, also known as Cóelrind's well,
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Connla’s Well Image]([None])

@@ -8,9 +8,9 @@ attributes:
   - Necthan Scéne mother of several heroes
   - heroes lost their lives to Cúchulainn
 categories:
+  - Irish heroine
   - superhero
   - hero
-  - Irish heroine
 entities:
   - Necthan Scéne(Irish heroine)
   - Ulster(superhero)
@@ -38,4 +38,3 @@ Irish heroine Necthan Scéne is a little known character who is mentioned as the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Necthan Scéne Image]([None])

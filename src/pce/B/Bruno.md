@@ -11,10 +11,10 @@ attributes:
   - Bruno became a landowner
   - Bruno rose
 categories:
-  - place
-  - Arthurian hero
   - person
+  - place
   - occupation
+  - Arthurian hero
 entities:
   - Bruno(Arthurian hero)
   - Bruno le Noir(Arthurian hero)
@@ -57,4 +57,3 @@ Arthurian hero Bruno, also known as Bruno le Noir and La Cote Male-Taile, exempl
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bruno Image]([None])

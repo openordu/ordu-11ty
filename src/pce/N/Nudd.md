@@ -11,9 +11,9 @@ attributes:
   - magician gigantic
   - Nudd conquer all of the plagues
 categories:
+  - Location
   - Creature
   - Person
-  - Location
 entities:
   - London(Location)
   - demons(Creature)
@@ -50,4 +50,3 @@ British god Nudd (also known as Lludd) was associated with a great temple belong
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nudd Image]([None])

@@ -9,12 +9,12 @@ attributes:
   - Fisher King crippling wound
   - Balin responsible for the Fisher King's crippling wound
 categories:
-  - event
-  - Arthurian hero
-  - occupation
-  - title
-  - brother
   - legend
+  - occupation
+  - Arthurian hero
+  - brother
+  - title
+  - event
 entities:
   - Balin(Arthurian hero)
   - Arthurian legend(legend)
@@ -52,4 +52,3 @@ Arthurian hero, Balin, also known as Balin le Sauvage, is notable for his minor 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Balin Image]([None])

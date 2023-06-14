@@ -38,4 +38,3 @@ British folklore tradition depicts Chimes Child as a figure who had the ability 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Chimes Child Image]([None])

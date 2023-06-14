@@ -10,8 +10,8 @@ attributes:
   - Arvernus may have been the tribal divinity of the Arverni
   - two spellings represent different gods or the same one
 categories:
-  - tribe
   - Continental Celtic god
+  - tribe
 entities:
   - Arvernorix(Continental Celtic god)
   - Arvernus(Continental Celtic god)
@@ -41,4 +41,3 @@ An unknown Continental Celtic deity named Arvernorix, who is known from a limite
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arvernorix Image]([None])

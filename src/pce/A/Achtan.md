@@ -11,10 +11,10 @@ attributes:
   - Cormac mac Airt reigned
   - Achtan married the hunter
 categories:
-  - occupation
-  - location
-  - animal
   - person
+  - location
+  - occupation
+  - animal
 entities:
   - hunter(occupation)
   - young man(person)
@@ -60,4 +60,3 @@ Irish hero Cormac Mac Airt was born to Achtan, a notable heroine, under very unu
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Achtan Image]([None])

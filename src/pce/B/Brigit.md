@@ -47,4 +47,4 @@ An Irish goddess by the name of Brigit (also known as Bride, Brigid, Brighid, Br
 - Ó hÓgain, Dáithí. The Hero in Irish Folk History. Dublin: Gill & Macmillan, 1985.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brigit Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thecomingofbrideduncan1917.jpg/1200px-Thecomingofbrideduncan1917.jpg'])
+![Brigit Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thecomingofbrideduncan1917.jpg/1200px-Thecomingofbrideduncan1917.jpg)

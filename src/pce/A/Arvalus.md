@@ -10,9 +10,9 @@ attributes:
   - thermal Springs divinities associated with the name Apollo
   - shrine a place where Arvalus may have once ruled
 categories:
+  - invading force
   - culture
   - Roman divinity
-  - invading force
   - Celtic god
 entities:
   - Arvalus(Celtic god)
@@ -46,4 +46,3 @@ Continental Celtic deity Arvalus was associated with healing and was identified 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arvalus Image]([None])

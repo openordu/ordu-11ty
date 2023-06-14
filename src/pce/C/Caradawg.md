@@ -44,4 +44,3 @@ Caradawg, also known as Carradoc or Caradog, is a hero of Welsh mythology. Accor
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caradawg Image]([None])

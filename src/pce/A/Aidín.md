@@ -12,10 +12,10 @@ attributes:
   - Benn Étair hill called Benn Étair
 categories:
   - Irish heroine
-  - elite group of warriors in Irish lore
-  - Bard
-  - hill
   - warrior of the elite Fianna
+  - elite group of warriors in Irish lore
+  - hill
+  - Bard
 entities:
   - Aidín(Irish heroine)
   - Oscar(warrior of the elite Fianna)
@@ -52,4 +52,3 @@ Irish heroine Aidín (also known as Aideen) is a figure in Irish lore who was ma
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aidín Image]([None])

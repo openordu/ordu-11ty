@@ -21,14 +21,14 @@ attributes:
   - dynasty established by Corc
 categories:
   - language
-  - location
+  - Irish hero
+  - kingdom
   - throne location
   - province location
-  - kingdom
-  - Fairy mother
   - person
-  - Irish hero
   - establishment
+  - location
+  - Fairy mother
 entities:
   - Corc mac Luigthic(Irish hero)
   - Cashel(throne location)
@@ -92,4 +92,3 @@ Conall Corc, also known as Corc mac Luigthic or Conall mac Luigthig, was an exem
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corc mac Luigthic Image]([None])

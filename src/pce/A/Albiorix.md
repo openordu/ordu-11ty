@@ -10,8 +10,8 @@ attributes:
   - Albiorix found in several inscriptions from Gaul
   - Romans identified this deity with their own god of war, Mars
 categories:
-  - location
   - deity
+  - location
   - culture
 entities:
   - Albiorix(deity)
@@ -45,4 +45,3 @@ Continental Celtic god Albiorix appears in several inscriptions from Gaul and is
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Albiorix Image]([None])

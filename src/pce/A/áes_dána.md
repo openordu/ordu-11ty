@@ -77,4 +77,4 @@ A group of acclaimed artists in Ireland are known as áes dána (aos dana, aes d
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![áes dána Image](['https://upload.wikimedia.org/wikipedia/commons/8/87/%22The_Riders_of_the_Sidhe%22_John_Duncan_1911_McManus_Galleries%2C_Dundee.jpg'])
+![áes dána Image](https://upload.wikimedia.org/wikipedia/commons/8/87/%22The_Riders_of_the_Sidhe%22_John_Duncan_1911_McManus_Galleries%2C_Dundee.jpg)

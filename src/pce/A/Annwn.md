@@ -8,8 +8,8 @@ attributes:
   - Arawn more prominent in legend
   - Arawn and Hafgan perpetually at war
 categories:
-  - Person
   - Place
+  - Person
 entities:
   - Annwn(Place)
   - Arawn(Person)
@@ -37,4 +37,3 @@ Annwn, also referred to as Annwyn or Annwfn, is a location of great significance
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Annwn Image]([None])

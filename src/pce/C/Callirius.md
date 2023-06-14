@@ -10,12 +10,12 @@ attributes:
   - temple near Colchester
   - region Genius Loci
 categories:
-  - city
-  - woodland god
   - geographical area
   - religious building
   - British god
   - people
+  - city
+  - woodland god
 entities:
   - Callirius(British god)
   - Romans(people)
@@ -54,4 +54,3 @@ British god Callirius, who may have been the Genius Loci of the region, was wors
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Callirius Image]([None])

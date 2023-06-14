@@ -8,8 +8,8 @@ attributes:
   - Celtchair honor intact
   - poisonous blood ended Celtchair's life
 categories:
-  - substance
   - person
+  - substance
 entities:
   - Celtchair(person)
   - poisonous blood(substance)
@@ -34,4 +34,3 @@ An Irish hero named Celtchair is the subject of this tale. The Celts believed in
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Celtchair Image]([None])

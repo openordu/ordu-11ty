@@ -10,8 +10,8 @@ attributes:
   - Sídhe Irish name
 categories:
   - place
-  - mythical creature
   - folkloric figure
+  - mythical creature
   - language
 entities:
   - Ny Shee(folkloric figure)
@@ -47,4 +47,3 @@ Manx folklore features a character known as Ny Shee, which is the Island languag
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ny Shee Image]([None])

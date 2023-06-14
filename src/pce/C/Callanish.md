@@ -10,10 +10,10 @@ attributes:
   - Giants turned to stone
   - Giants refused to convert to Christianity
 categories:
-  - Mythical Creature
+  - Location
   - Artifact
   - Religion
-  - Location
+  - Mythical Creature
 entities:
   - Callanish(Location)
   - stone circles(Artifact)
@@ -48,4 +48,4 @@ The mythological site of Callanish (Callernish) is found on the isle of Lewis an
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 18.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Callanish Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/View_to_Callanish_village_from_Callanish_Stones_in_summer_2012_%283%29.JPG/1200px-View_to_Callanish_village_from_Callanish_Stones_in_summer_2012_%283%29.JPG'])
+![Callanish Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/View_to_Callanish_village_from_Callanish_Stones_in_summer_2012_%283%29.JPG/1200px-View_to_Callanish_village_from_Callanish_Stones_in_summer_2012_%283%29.JPG)

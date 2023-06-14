@@ -29,4 +29,3 @@ Noínden Ulad See Debility Of The Ulstermen.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Noínden Ulad Image]([None])

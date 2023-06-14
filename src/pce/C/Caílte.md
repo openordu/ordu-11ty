@@ -10,8 +10,8 @@ attributes:
   - St. Patrick preached for Christianity
   - Christianity worldview that eventually won out against that of the Fianna
 categories:
-  - Book
   - Religion
+  - Book
   - Group
   - Person
 entities:
@@ -49,4 +49,3 @@ An Irish hero named Caílte, also known as Cailte or Caoilte, was a member of th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caílte Image]([None])

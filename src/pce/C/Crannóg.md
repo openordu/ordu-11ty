@@ -10,10 +10,10 @@ attributes:
   - Cragganowen near Ennis
   - Co. Clare in Ireland
 categories:
-  - place
-  - state
   - city
+  - place
   - country
+  - state
 entities:
   - crannógs(place)
   - historical parks(place)
@@ -53,4 +53,4 @@ An archaeological site called Crannóg was home to early settlements in Celtic t
 - Aalen, F. H. A. Man and the Landscape in Ireland. London: Academic Press, 1978, 87.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crannóg Image](['https://upload.wikimedia.org/wikipedia/commons/5/54/Crannog_Centre_-_geograph.org.uk_-_1049899.jpg'])
+![Crannóg Image](https://upload.wikimedia.org/wikipedia/commons/5/54/Crannog_Centre_-_geograph.org.uk_-_1049899.jpg)

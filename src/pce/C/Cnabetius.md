@@ -10,10 +10,10 @@ attributes:
   - Cnabetius linked by scholars with such wounded kingly figures as the Irish Nuada
   - Mars connected with Cnabetius by the Romans
 categories:
-  - wounded kingly figures
+  - Continental Celtic god
   - protective warrior god
   - Celtic regions
-  - Continental Celtic god
+  - wounded kingly figures
 entities:
   - Cnabetius(Continental Celtic god)
   - Mars(protective warrior god)
@@ -49,4 +49,3 @@ Cnabetius is a Continental Celtic deity who is referred to as “the crippled on
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cnabetius Image]([None])

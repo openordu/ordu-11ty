@@ -16,10 +16,10 @@ attributes:
   - grave location of Cáel's burial
   - grief cause of Créd's death
 categories:
-  - group of warriors
-  - maiden
-  - group of poets
   - Irish hero
+  - group of poets
+  - maiden
+  - group of warriors
 entities:
   - Cáel(Irish hero)
   - Fianna(group of warriors)
@@ -58,4 +58,3 @@ A hero of the Fianna in Ireland was Cáel (or Caol), who became known for his le
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cáel Image]([None])

@@ -10,10 +10,10 @@ attributes:
   - king Arthur taken to be cured
   - king Arthur not yet returned
 categories:
-  - British heroine or goddess
-  - Otherworld island
-  - person
   - form of
+  - Otherworld island
+  - British heroine or goddess
+  - person
 entities:
   - Argante(British heroine or goddess)
   - Avalon(Otherworld island)
@@ -49,4 +49,3 @@ A British heroine or goddess named Argante is believed to be the Queen of the my
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Argante Image]([None])

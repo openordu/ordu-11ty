@@ -10,12 +10,12 @@ attributes:
   - belief in Fairy Kidnapping survived into recent times
   - Fairy Lover None
 categories:
-  - Mythical Creature
-  - Mythical Event
-  - Event
-  - Person
-  - Plant
   - Location
+  - Mythical Creature
+  - Event
+  - Mythical Event
+  - Plant
+  - Person
 entities:
   - Ireland(Location)
   - four-leafed clovers(Plant)
@@ -66,4 +66,4 @@ The Continental Celtic goddess named Aveta was associated with the healing Sprin
 - OhEochaidh, Séan. Fairy Legends of Donegal. Translated by Máire MacNeill. Dublin: Comhairle Bhéaloideas Éireann, 1977. Page 231.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aveta Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aveta_ou_autre_d%C3%A9esse-m%C3%A8re.jpg/1200px-Aveta_ou_autre_d%C3%A9esse-m%C3%A8re.jpg'])
+![Aveta Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aveta_ou_autre_d%C3%A9esse-m%C3%A8re.jpg/1200px-Aveta_ou_autre_d%C3%A9esse-m%C3%A8re.jpg)

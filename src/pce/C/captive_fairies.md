@@ -12,9 +12,9 @@ attributes:
   - famous families of Ireland descended from such captured seal-wives
   - Fairy Kidnapping None
 categories:
-  - group
-  - mythical creature
   - person
+  - mythical creature
+  - group
   - clothing
 entities:
   - robe(clothing)
@@ -62,4 +62,3 @@ There exists an Irish mythological theme surrounding captive fairies. Though it 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![captive fairies Image]([None])

@@ -15,15 +15,15 @@ attributes:
   - storage vessels no indication found
   - drinking may have been a seasonal event in ancient Ireland
 categories:
-  - festival
-  - event
+  - science
   - concept
+  - place
+  - activity
+  - festival
+  - beverage
   - artifact
   - literature
-  - place
-  - science
-  - beverage
-  - activity
+  - event
 entities:
   - Irish epics(literature)
   - The Drunkenness of the Ulstermen(literature)
@@ -91,4 +91,4 @@ A significant sacred object in ancient Irish culture was a type of alcoholic dri
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ale Image](['https://upload.wikimedia.org/wikipedia/commons/6/6b/Real_Ale_2004-05-09_cropped.jpg'])
+![ale Image](https://upload.wikimedia.org/wikipedia/commons/6/6b/Real_Ale_2004-05-09_cropped.jpg)

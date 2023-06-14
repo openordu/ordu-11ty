@@ -11,11 +11,11 @@ attributes:
   - fight deadly results
   - Briccriu troublemaking
 categories:
-  - Nationality
-  - Culture
-  - Time period
   - Body part
+  - Time period
   - Traditional practice
+  - Culture
+  - Nationality
 entities:
   - Irish(Nationality)
   - Celtic(Culture)
@@ -52,4 +52,3 @@ Irish mythology is replete with the champion's portion theme. A customary Celtic
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![champion’s portion Image]([None])

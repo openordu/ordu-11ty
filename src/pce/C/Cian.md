@@ -15,10 +15,10 @@ attributes:
   - the brothers only permitting him to return to human form just before death
   - the Black Pig’s Dyke said to be Cian's petrified body or to have been dug by him while in pig form
 categories:
-  - group
   - concept
-  - place
   - animal
+  - group
+  - place
   - person
 entities:
   - Cian(person)
@@ -63,4 +63,3 @@ Cian, also known as Kian or Cian mac Cainte, was an Irish hero involved in a cur
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cian Image]([None])

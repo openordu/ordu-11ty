@@ -8,8 +8,8 @@ attributes:
   - Aonbárr enchanted steed
   - Manannán Mac Lir name suggests the seafoam
 categories:
-  - Irish mythological beast
   - Irish sea god
+  - Irish mythological beast
 entities:
   - Aonbárr(Irish mythological beast)
   - Manannán Mac Lir(Irish sea god)
@@ -34,4 +34,3 @@ Irish sea god Manannán Mac Lir has a mythological beast named Aonbárr, also kn
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aonbárr Image]([None])

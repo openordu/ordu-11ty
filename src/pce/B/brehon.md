@@ -12,13 +12,13 @@ attributes:
   - Case of Tanistry brought Ireland under British common law
   - Case of Tanistry caused “barbarism and desolation”
 categories:
-  - legal case
-  - legal system
   - negative consequences
   - cultural practice
+  - country
+  - legal case
   - time period
   - legal professionals
-  - country
+  - legal system
 entities:
   - brehon laws(legal system)
   - ancient times(time period)
@@ -71,4 +71,3 @@ The brehon, or Irish judge, was a member of the Druid class in ancient Ireland. 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![brehon Image]([None])

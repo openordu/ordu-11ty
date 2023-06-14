@@ -14,10 +14,10 @@ attributes:
   - Coventina emphasize her importance
   - Coventina may have had a Healing aspect
 categories:
-  - British goddess
-  - Deity
-  - River
   - Location
+  - British goddess
+  - River
+  - Deity
 entities:
   - Coventina(British goddess)
   - Northumberland(Location)
@@ -61,4 +61,4 @@ A goddess of British origin, Coventina, is well-known mostly thanks to sculpture
 - Allason-Jones, Lindsay. “Coventina’s Well.” In Sandra Billington and Miranda Green, eds., The Concept of the Goddess, 107–119. London and New York: Routledge, 1996.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Coventina Image](['https://upload.wikimedia.org/wikipedia/commons/5/55/Hope-coventina02.jpg'])
+![Coventina Image](https://upload.wikimedia.org/wikipedia/commons/5/55/Hope-coventina02.jpg)

@@ -8,8 +8,8 @@ attributes:
   - Flann took the protagonist away
   - time the protagonist lived in fairy time
 categories:
-  - Person
   - Location
+  - Person
 entities:
   - Tara(Location)
   - Flann(Person)
@@ -35,4 +35,3 @@ Becfhola, known also as Beagfhola is an Irish goddess or heroine. The protagonis
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 533.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Becfhola Image]([None])

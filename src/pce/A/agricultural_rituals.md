@@ -12,13 +12,13 @@ attributes:
   - the most unlikely wastelands able to make bloom
   - rituals offered to him were not recorded
 categories:
-  - mythical being
-  - region
-  - belief
-  - concept
   - practice
-  - literary work
+  - concept
+  - belief
   - person
+  - region
+  - literary work
+  - mythical being
 entities:
   - Irish myths and rituals(belief)
   - king(person)
@@ -69,4 +69,3 @@ The Celts, initially known as nomadic tribes, eventually developed agriculture w
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 57, 80.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![agricultural rituals Image]([None])

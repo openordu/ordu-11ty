@@ -15,8 +15,8 @@ categories:
   - Event
   - Practice
   - Animal
-  - Body of water
   - Deity
+  - Body of water
 entities:
   - Peg's Night(Event)
   - small birds(Animal)
@@ -59,4 +59,3 @@ A goddess named Belisama (alternatively Belesama or Belisma) was worshipped in v
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 141.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Belisama Image]([None])

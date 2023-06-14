@@ -31,4 +31,3 @@ Shamanism is a widespread religion that is particularly found in the Arctic regi
 - Matthews, John, and Caitlín Matthews. Encyclopedia of Celtic Wisdom: A Celtic Shaman Sourcebook. Rockport, Mass.: Element, 1994.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Celtic shamanism Image]([None])

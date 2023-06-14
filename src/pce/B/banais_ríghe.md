@@ -22,4 +22,3 @@ banais ríghe See Inauguration, Horse Sacrifice.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![banais ríghe Image]([None])

@@ -11,8 +11,8 @@ attributes:
   - crane bag is the object of desire in hero tales
   - hero tales are centered on Fionn Mac Cumhaill
 categories:
-  - animal
   - person
+  - animal
   - story
 entities:
   - Aífe(person)
@@ -53,4 +53,3 @@ The crane bag is a mythical symbol in Irish folklore. Various texts present conf
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![crane bag Image]([None])

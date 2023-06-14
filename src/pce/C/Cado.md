@@ -14,9 +14,9 @@ attributes:
   - princess Blondine mythological character
   - magician father mythological character
 categories:
-  - mythological creature
-  - mythological figure
   - location
+  - mythological figure
+  - mythological creature
   - mythological character
 entities:
   - Cado Breton(mythological figure)
@@ -66,4 +66,3 @@ Mythological figure Cado, known as a sea god or sea monster from Brittany, force
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cado Image]([None])

@@ -8,8 +8,8 @@ attributes:
   - word sometimes found in Ireland
   - figure referring to the same figure
 categories:
-  - Object
   - Location
+  - Object
 entities:
   - Ireland(Location)
   - figure(Object)
@@ -35,4 +35,3 @@ A Scottish figure believed to exist in folklore is the bodach (carle). In the Hi
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 489.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bodach Image]([None])

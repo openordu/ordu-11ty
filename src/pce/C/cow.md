@@ -17,12 +17,12 @@ attributes:
   - women activity: tended the cows
   - cows association: with women
 categories:
-  - mythical animal
-  - religion
-  - occupation
-  - plant
   - animal
+  - occupation
+  - religion
+  - mythical animal
   - gender
+  - plant
   - geography
 entities:
   - grass(plant)
@@ -89,4 +89,4 @@ The cow is a powerful symbol in Celtic culture, representing both feminine and m
 - O’Sullivan, Patrick V. Irish Superstitions and Legends of Animals and Birds. Cork: Mercier, 1991, 10.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cow Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg'])
+![cow Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)

@@ -9,10 +9,10 @@ attributes:
   - Irish Mermaids wore this little cap
   - the mermaid forced to remain landbound
 categories:
-  - body of water
-  - object
-  - clothing
   - creature
+  - object
+  - body of water
+  - clothing
 entities:
   - cohuleen druith(object)
   - Irish Mermaids(creature)
@@ -50,4 +50,4 @@ A particular item of Irish folklore is the cohuleen druith. This small cap was w
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cohuleen druith Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/1200px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg'])
+![cohuleen druith Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Clonfert_Cathedral_Mermaid_2009_09_17.jpg/1200px-Clonfert_Cathedral_Mermaid_2009_09_17.jpg)

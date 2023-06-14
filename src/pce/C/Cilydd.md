@@ -11,8 +11,8 @@ attributes:
   - Arthur king
   - Camelot court
 categories:
-  - Person
   - Location
+  - Person
 entities:
   - Cilydd(Person)
   - Kulhwch(Person)
@@ -49,4 +49,4 @@ Welsh legend speaks of a hero named Cilydd who played an important role in the s
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cilydd Image](['https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg'])
+![Cilydd Image](https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg)

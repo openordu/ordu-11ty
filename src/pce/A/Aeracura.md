@@ -17,14 +17,14 @@ attributes:
   - Otherworld attribute
   - Deae Matres related entity
 categories:
-  - location
-  - group
-  - emblem
-  - partner
   - attribute
+  - group
+  - partner
+  - emblem
   - goddess
-  - Celtic goddess
   - related entity
+  - Celtic goddess
+  - location
 entities:
   - Aeracura(Celtic goddess)
   - Switzerland(location)
@@ -85,4 +85,4 @@ Celtic goddess Aeracura, also known as Aericura and Heracura, was often associat
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aeracura Image](['https://upload.wikimedia.org/wikipedia/commons/7/74/Erecura_distribution.png'])
+![Aeracura Image](https://upload.wikimedia.org/wikipedia/commons/7/74/Erecura_distribution.png)

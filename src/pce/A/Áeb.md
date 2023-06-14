@@ -17,12 +17,12 @@ attributes:
   - Aífe evil fostersister
   - Áeb's children turned into singing swans
 categories:
-  - magician
+  - household
   - Irish heroine
   - heroine
-  - fostersister
-  - household
+  - magician
   - singing swans
+  - fostersister
   - Irish story
 entities:
   - Áeb(Irish heroine)
@@ -72,4 +72,3 @@ tags:
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Áeb Image]([None])

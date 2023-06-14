@@ -14,11 +14,11 @@ attributes:
   - Celtic sacred trees one of
   - Maypoles used in Beltane dances
 categories:
-  - event
-  - species
   - object
-  - symbolic
+  - species
   - alphabet
+  - symbolic
+  - event
 entities:
   - birch(species)
   - Celtic sacred trees(symbolic)
@@ -58,4 +58,4 @@ Symbolic of the birch tree holds significant value as it is considered one of th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![birch tree Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/1200px-Betula_pendula_001.jpg'])
+![birch tree Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Betula_pendula_001.jpg/1200px-Betula_pendula_001.jpg)

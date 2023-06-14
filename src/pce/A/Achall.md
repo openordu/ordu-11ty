@@ -10,9 +10,9 @@ attributes:
   - Achall considered one of the six noblest women in Ireland because of her sisterly love
   - Tara just east of Tara
 categories:
-  - group
-  - Irish heroine
   - ancient center of royal power in Ireland
+  - Irish heroine
+  - group
   - person
   - region in Ireland
 entities:
@@ -53,4 +53,3 @@ An Ulster princess named Achall is renowned as an Irish heroine. Situated just e
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Achall Image]([None])

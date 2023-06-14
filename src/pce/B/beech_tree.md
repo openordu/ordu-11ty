@@ -12,11 +12,11 @@ attributes:
   - Pyrenees mountains location of the Celts who honored the beech tree
   - Tree Alphabet symbolic system associated with the beech tree
 categories:
-  - mountain range
-  - Symbolic tree
-  - symbolic system
-  - tree species
   - culture
+  - tree species
+  - symbolic system
+  - Symbolic tree
+  - mountain range
 entities:
   - beech tree(Symbolic tree)
   - Celtic(culture)
@@ -57,4 +57,4 @@ A tree of symbolism, the beech tree was regarded as one of the sacred trees of t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![beech tree Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fagus_sylvatica_Purpurea_JPG4a.jpg/1200px-Fagus_sylvatica_Purpurea_JPG4a.jpg'])
+![beech tree Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Fagus_sylvatica_Purpurea_JPG4a.jpg/1200px-Fagus_sylvatica_Purpurea_JPG4a.jpg)

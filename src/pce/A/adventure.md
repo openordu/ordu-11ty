@@ -16,12 +16,12 @@ attributes:
   - Adventure of Cormac that king is lured by Fairy Music to seek an Otherworld lover
   - Adventure of Laoghaire (Mac Crimthann) the titular king helps an Otherworldly peer gain the release of his wife from captivity in the surface world
 categories:
+  - Character
+  - Place
+  - Fairy woman
   - Nationality
   - Literary form
-  - Fairy woman
   - Mythological place
-  - Place
-  - Character
 entities:
   - Irish(Nationality)
   - Adventure(Literary form)
@@ -87,4 +87,4 @@ One type of Irish literature, known as Adventure (echtra), often contains mythol
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![adventure Image](['https://upload.wikimedia.org/wikipedia/commons/a/ab/Whitewater_Rafting_-_geograph.org.uk_-_1530594.jpg'])
+![adventure Image](https://upload.wikimedia.org/wikipedia/commons/a/ab/Whitewater_Rafting_-_geograph.org.uk_-_1530594.jpg)

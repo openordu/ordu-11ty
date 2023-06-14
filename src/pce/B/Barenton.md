@@ -15,9 +15,9 @@ attributes:
   - Arthurian hero Owein
   - Legendary site Reflects a folk memory of a Nemeton or Celtic sacred wood
 categories:
+  - Location
   - Culture
   - Person
-  - Location
 entities:
   - Barenton(Location)
   - Belenton(Location)
@@ -73,4 +73,4 @@ Breton mythology features the site of Barenton (Belenton). Known for hoarding th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Barenton Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FranceNormandieBarentonEglise.jpg/1200px-FranceNormandieBarentonEglise.jpg'])
+![Barenton Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FranceNormandieBarentonEglise.jpg/1200px-FranceNormandieBarentonEglise.jpg)

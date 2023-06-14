@@ -7,9 +7,9 @@ contributors: [ 'Christopher Godwin' ]
 attributes:
   - Christian legend describes her as converting and entering the convent rather than being killed
 categories:
-  - place
   - person
   - legend
+  - place
 entities:
   - Christian legend(legend)
   - she(person)
@@ -38,4 +38,3 @@ The Irish goddess known as Bláthnat, also referred to as Blanaid, Blathait, and
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bláthnat Image]([None])

@@ -25,4 +25,3 @@ A female figure known as Caolainn is associated with a healing well in Co. Rosco
 - MacNeill, Máire. The Festival of Lughnasa, Parts I and II. Dublin: Comhairle Bhéaloideas Éireann, 1982, 503.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caolainn Image]([None])

@@ -49,4 +49,3 @@ Conn of the Hundred Battles, known in Irish as Con Cétchathach, was revered as 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conn of the Hundred Battles Image]([None])

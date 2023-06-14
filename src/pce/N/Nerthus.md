@@ -8,10 +8,10 @@ attributes:
   - goddess image drawn upon a Cart
   - Celts practice of Human Sacrifice
 categories:
-  - ethnic group
-  - ritual
   - mythological figure
   - vehicle
+  - ritual
+  - ethnic group
 entities:
   - goddess(mythological figure)
   - Cart(vehicle)
@@ -43,4 +43,4 @@ Nerthus is a well-known Germanic goddess with a cult that had a profound influen
 - Tacitus. The Agricola and the Germania. Translated by H. Mattingly. New York: Penguin Books, 1948. Pp. 134-135.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nerthus Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nerthus_by_Emil_Doepler.jpg/1200px-Nerthus_by_Emil_Doepler.jpg'])
+![Nerthus Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nerthus_by_Emil_Doepler.jpg/1200px-Nerthus_by_Emil_Doepler.jpg)

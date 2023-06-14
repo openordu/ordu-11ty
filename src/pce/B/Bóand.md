@@ -50,4 +50,4 @@ An Irish goddess known as Bóand (Boann, Bónn, Boinn, Bóinn, Boadan; possibly 
 - Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co. Ltd., 1906–1924, 27–39.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bóand Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Newgrange-bank.jpg/1200px-Newgrange-bank.jpg'])
+![Bóand Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Newgrange-bank.jpg/1200px-Newgrange-bank.jpg)

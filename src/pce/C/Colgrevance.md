@@ -16,8 +16,8 @@ attributes:
   - tale which spurred Owein to attempt to win over the Black Knight
 categories:
   - place
-  - character
   - knight
+  - character
   - Arthurian hero
 entities:
   - Colgrevance(Arthurian hero)
@@ -62,4 +62,4 @@ Arthurian hero Colgrevance, known for his minor role in the Owein and the Lady O
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Colgrevance Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg'])
+![Colgrevance Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg)

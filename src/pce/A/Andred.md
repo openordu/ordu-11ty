@@ -13,10 +13,10 @@ attributes:
   - Andred murdered Tristan
   - Andred curry favor with the king
 categories:
-  - lover
   - king
-  - Arthurian hero
+  - lover
   - romantic hero
+  - Arthurian hero
 entities:
   - Andred(Arthurian hero)
   - Tristan(romantic hero)
@@ -52,4 +52,3 @@ Arthurian hero Andred was a cousin of the romantic hero Tristan and acted as a s
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Andred Image]([None])

@@ -35,4 +35,3 @@ Irish heroine Aíbgréne or Abgrenia, as mentioned in various texts, appears as 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aíbgréne Image]([None])

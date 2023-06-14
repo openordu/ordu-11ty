@@ -11,11 +11,11 @@ attributes:
   - Billy Blind helped around the house like a Brownie
   - Brownie household helper
 categories:
-  - household spirit
-  - location
-  - mythical creature
   - Fairy
+  - mythical creature
+  - household spirit
   - folkloric figure
+  - location
 entities:
   - Billy Blind(folkloric figure)
   - England(location)
@@ -52,4 +52,4 @@ A British folkloric character popularly known as Billy Blind was often referred 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Billy Blind Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg/1200px-Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg'])
+![Billy Blind Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg/1200px-Illustration_to_the_ballad_Young_Beckie_from_%22Some_British_Ballads%22.jpg)

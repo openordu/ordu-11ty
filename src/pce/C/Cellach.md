@@ -11,9 +11,9 @@ attributes:
   - Tara the throne that Cormac Mac Airt stepped down from
   - Cormac Mac Airt Blemished King
 categories:
+  - Irish hero
   - throne
   - good king
-  - Irish hero
 entities:
   - Cellach(Irish hero)
   - Cormac Mac Airt(good king)
@@ -44,4 +44,3 @@ Irish hero Cellach was known to be the rapist son of the good king Cormac Mac Ai
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cellach Image]([None])

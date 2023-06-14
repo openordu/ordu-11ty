@@ -10,9 +10,9 @@ attributes:
   - Otherworld piper transformed into a handsome man
   - Otherworld piper could pass for a king
 categories:
-  - character
-  - mythology
   - Irish hero
+  - mythology
+  - character
 entities:
   - Crónánach(Irish hero)
   - Otherworld piper(character)
@@ -42,4 +42,3 @@ An Irish hero known as Crónánach is described as having an unattractive appear
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crónánach Image]([None])

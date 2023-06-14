@@ -12,8 +12,8 @@ attributes:
   - Cúchulainn great ULSTER hero
   - Concobar Mac Nessa king
 categories:
-  - group
   - person
+  - group
 entities:
   - Oisín(person)
   - St. Patrick(person)
@@ -54,4 +54,3 @@ Irish mythology holds Niamh as a strikingly beautiful fairy queen who was also k
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Niamh Image]([None])

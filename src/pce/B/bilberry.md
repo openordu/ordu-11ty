@@ -15,11 +15,11 @@ attributes:
   - omens many omens were sought from the berry bushes at this time
   - berry bushes for crops were expected to be good when berries were plentiful, but hunger threatened when the berries were scarce
 categories:
-  - festival
-  - berry
-  - plant
   - culture
   - country
+  - festival
+  - plant
+  - berry
 entities:
   - bilberry(plant)
   - Vaccinium myrtillus(berry)
@@ -61,4 +61,4 @@ Vaccinium myrtillus, commonly known as bilberry, mulberry or whortleberry, holds
 - MacNeil, Máire. The Festival of Lughnasa, Parts 1 and Ii. Dublin: Comhairle Bhéaloideas Éireann, 1982.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bilberry Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg/1200px-Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg'])
+![bilberry Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg/1200px-Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg)

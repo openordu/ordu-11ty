@@ -12,13 +12,13 @@ attributes:
   - Brân hero
   - Gwydion able to ascertain Brân’s identity because of the alder branch he carried
 categories:
-  - mythical creature
   - human
+  - animal
+  - mythical creature
   - place
-  - poet
   - hero
   - plant
-  - animal
+  - poet
 entities:
   - alders(plant)
   - Fairy folk(mythical creature)
@@ -62,4 +62,4 @@ A slender, graceful tree known as the alder (genus Alnus) holds tiny cones and d
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![alder tree Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alnus_distribution.svg/1200px-Alnus_distribution.svg.png'])
+![alder tree Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Alnus_distribution.svg/1200px-Alnus_distribution.svg.png)

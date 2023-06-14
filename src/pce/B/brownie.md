@@ -10,8 +10,8 @@ attributes:
   - Manx fenodyree Equivalent creature in other Celtic areas
   - Glastig Related creature
 categories:
-  - Creature
   - Location
+  - Creature
 entities:
   - Celtic areas(Location)
   - Bucca of Wales(Creature)
@@ -50,4 +50,3 @@ A Scottish and British mythical figure, known as the brownie, has been a source 
 - MacGregor, Alasdair Alpin. The Peat-Fire Flame: Folk-Tales and Traditions of the Highlands & Islands. Edinburgh: The Moray Press, 1937, 44+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![brownie Image]([None])

@@ -26,4 +26,3 @@ Baile See Ailinn.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Baile Image]([None])

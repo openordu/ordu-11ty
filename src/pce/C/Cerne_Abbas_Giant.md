@@ -44,4 +44,4 @@ On a hill by the village of Cerne Abbas in Dorset, England lies the Cerne Abbas 
 - Newman, Paul. Gods and Graven Images: The Chalk Hill-Figures of Britain. London: Robert Hale, 1987, 72–101.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cerne Abbas Giant Image](['https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg'])
+![Cerne Abbas Giant Image](https://upload.wikimedia.org/wikipedia/commons/0/02/Cerne-abbas-giant-2001-cropped.jpg)

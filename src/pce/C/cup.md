@@ -26,4 +26,4 @@ cup See Grail.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cup Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg/1200px-Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg'])
+![cup Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg/1200px-Cup_and_Saucer_LACMA_47.35.6a-b_%281_of_3%29.jpg)

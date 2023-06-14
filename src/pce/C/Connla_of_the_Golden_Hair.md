@@ -12,10 +12,10 @@ attributes:
   - Connla of the Golden Hair was offered eternal life and pleasure
   - Connla of the Golden Hair was never seen again on this earth
 categories:
+  - Location
   - Concept
   - Group
   - Person
-  - Location
 entities:
   - Connla of the Golden Hair(Person)
   - Conn of the Hundred Battles(Person)
@@ -65,4 +65,3 @@ Connla, the son of Conn of the Hundred Battles and also known as Connla of the G
 - Joyce, P. W. Ancient Celtic Romances. London: Parkgate Books, 1997, 106+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Connla of the Golden Hair Image]([None])

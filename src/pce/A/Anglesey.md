@@ -9,9 +9,9 @@ attributes:
   - Diana Paxon author
   - Arthurian trilogy book series
 categories:
+  - Location
   - Book
   - Person
-  - Location
 entities:
   - Anglesey(Location)
   - Diana Paxon(Person)
@@ -41,4 +41,4 @@ A British and Welsh sacred site called Anglesey or Mona was believed to have ser
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Anglesey Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg/1200px-View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg'])
+![Anglesey Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg/1200px-View_from_the_Anglesey_Coastal_Path_%28geograph_6222502%29.jpg)

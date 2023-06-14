@@ -43,4 +43,3 @@ An obscure ancestral goddess of Wales called Bronwen has been linked by some wri
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bronwen Image]([None])

@@ -11,9 +11,9 @@ attributes:
   - men Stared at by fish from Dee
   - women Suggestively winked at by fish from Dee
 categories:
-  - River
-  - Continental Celtic goddess
   - Location
+  - Continental Celtic goddess
+  - River
 entities:
   - Alauna(Continental Celtic goddess)
   - Brittany(Location)
@@ -59,4 +59,3 @@ Continental Celtic goddess Alauna was a river divinity discovered in Wales, spec
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alauna Image]([None])

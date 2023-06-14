@@ -11,10 +11,10 @@ attributes:
   - magical Fish keeper of wisdom
   - Hazel trees enchanted
 categories:
-  - Irish goddess
   - location
-  - being
   - plant
+  - Irish goddess
+  - being
 entities:
   - Ceibhfhionn(Irish goddess)
   - Well of wisdom(location)
@@ -48,4 +48,3 @@ Ceibhfhionn (Cabfin), the Irish goddess of inspiration, was often seen next to t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ceibhfhionn Image]([None])

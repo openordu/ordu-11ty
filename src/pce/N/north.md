@@ -13,10 +13,10 @@ attributes:
   - northern province most associated with war in ancient epics
   - Ulster most associated with war in ancient epics
 categories:
-  - province
-  - literature
   - direction
+  - province
   - conflict
+  - literature
 entities:
   - north(direction)
   - Ulster(province)
@@ -53,4 +53,4 @@ The direction known as north or tuasiceart held the most negative connotations f
 - Dames, Michael. Mythic Ireland. London: Thames and Hudson, 1992, 46.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![north Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Compass_Rose_English_North.svg/1200px-Compass_Rose_English_North.svg.png'])
+![north Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Compass_Rose_English_North.svg/1200px-Compass_Rose_English_North.svg.png)

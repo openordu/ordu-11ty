@@ -14,11 +14,11 @@ attributes:
   - pharaohs several by the name of Nechtanebus
   - Nechtan hero or god derived from the name Nechtanebus
 categories:
-  - group of people
-  - hero or god
-  - place
-  - person
   - book
+  - place
+  - group of people
+  - person
+  - hero or god
   - Egyptian pharaoh
 entities:
   - Nechtanebus(Egyptian pharaoh)
@@ -65,4 +65,3 @@ Irish lineage traces back to Nechtanebus, who supposedly ruled over Egypt and th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nechtanebus Image]([None])

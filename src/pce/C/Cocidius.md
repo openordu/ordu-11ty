@@ -12,12 +12,12 @@ attributes:
   - Silvanus alternative identification
   - Vernostonus obscure Celtic god
 categories:
+  - god
   - war god
-  - written record
   - place
   - British god
   - people
-  - god
+  - written record
   - Celtic god
 entities:
   - Cocidius(British god)
@@ -68,4 +68,3 @@ British deity Cocidius was linked to the Roman god of war, Mars, by the Romans. 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cocidius Image]([None])

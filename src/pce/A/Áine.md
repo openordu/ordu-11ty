@@ -14,9 +14,9 @@ attributes:
   - Fionn Mac Cumhail married neither of the sisters
 categories:
   - mythical cycle
+  - historical character
   - character
   - mythical character
-  - historical character
 entities:
   - Áine(character)
   - Fenian Cycle(mythical cycle)
@@ -64,4 +64,3 @@ tags:
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 36.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Áine Image]([None])

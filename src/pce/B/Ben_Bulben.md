@@ -10,8 +10,8 @@ attributes:
   - Diarmait taunted
   - William Butler Yeats buried near the mountain
 categories:
-  - place
   - person
+  - place
 entities:
   - Fionn(person)
   - young man(person)
@@ -47,4 +47,4 @@ On the coast above the Irish town of Sligo in the western province of Connacht, 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ben Bulben Image](['https://upload.wikimedia.org/wikipedia/commons/a/ab/Benbulbenmount.jpg'])
+![Ben Bulben Image](https://upload.wikimedia.org/wikipedia/commons/a/ab/Benbulbenmount.jpg)

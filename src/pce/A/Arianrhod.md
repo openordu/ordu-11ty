@@ -11,12 +11,12 @@ attributes:
   - white ladies Welsh Triads name
   - isle of Britain location
 categories:
-  - location
+  - culture
   - group
   - mythical character
-  - literary work
   - person
-  - culture
+  - literary work
+  - location
 entities:
   - seagirt(location)
   - starry(location)
@@ -69,4 +69,3 @@ Arianrhod, also known as Arianrod or Aranrhod, is a Welsh heroine or goddess. In
 - Straffon, Cheryl. *The Earth Goddess: Celtic and Pagan Legacy of the Landscape.* London: Blandford, 1997, 41.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arianrhod Image]([None])

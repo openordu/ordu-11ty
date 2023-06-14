@@ -12,10 +12,10 @@ attributes:
   - unnamed Neolithic goddess frequently depicted in bird form
   - New Stone Age goddess frequently depicted in bird form
 categories:
+  - culture
+  - deity
   - physical form
   - war goddess
-  - deity
-  - culture
 entities:
   - Badb(war goddess)
   - Celtic(culture)
@@ -58,4 +58,4 @@ A goddess of Irish origin, Badb (also known as Bave, Badhbh, and Baobh, among ot
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 26.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Badb Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Corvus_cornix_in_Locarno.jpg/1200px-Corvus_cornix_in_Locarno.jpg'])
+![Badb Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Corvus_cornix_in_Locarno.jpg/1200px-Corvus_cornix_in_Locarno.jpg)

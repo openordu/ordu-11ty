@@ -13,8 +13,8 @@ attributes:
   - Dún Ailinne residence
   - kings of Leinster
 categories:
-  - location
   - person
+  - location
 entities:
   - Fionn(person)
   - hill(location)
@@ -58,4 +58,3 @@ This text concerns an Irish goddess named Almu who was honored in the eastern Pr
 - O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 280.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Almu Image]([None])

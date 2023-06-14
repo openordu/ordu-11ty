@@ -12,12 +12,12 @@ attributes:
   - Liath lover of Brí
   - Tara place where Brí and Liath were killed
 categories:
-  - father of Brí
-  - mythologically important place
   - Irish heroine
   - place
-  - warrior
   - palace
+  - mythologically important place
+  - warrior
+  - father of Brí
 entities:
   - Brí(Irish heroine)
   - Fairy Mound of Brí Léith(mythologically important place)
@@ -58,4 +58,3 @@ Irish mythology recounts the tale of Brí, a heroine whose name was incorporated
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brí Image]([None])

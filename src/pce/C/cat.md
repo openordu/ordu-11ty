@@ -10,9 +10,9 @@ attributes:
   - saints doing metalwork
   - metal rods thrown like javelins
 categories:
-  - animal
-  - location
   - person
+  - location
+  - animal
   - activity
 entities:
   - land(location)
@@ -60,4 +60,4 @@ The animal known as the cat holds a place within folklore. During ancient times 
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. New York: Benjamin Blom, 1969, 14-15.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cat Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg'])
+![cat Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/1200px-Cat_August_2010-4.jpg)

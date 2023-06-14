@@ -10,9 +10,9 @@ attributes:
   - Percival pure
   - Aguigrenons vanquished
 categories:
+  - legendary knights
   - knight
   - Arthurian hero
-  - legendary knights
 entities:
   - Aguigrenons(Arthurian hero)
   - Round Table knights(legendary knights)
@@ -42,4 +42,3 @@ Arthurian hero Aguigrenons, though a minor figure among the great knights of the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aguigrenons Image]([None])

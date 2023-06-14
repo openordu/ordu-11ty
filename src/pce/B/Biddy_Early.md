@@ -13,13 +13,13 @@ attributes:
   - Biddy tossed her blue bottle in a stream
   - Biddy blue bottle reportedly still rests today
 categories:
-  - location
-  - group
   - object
-  - ability
   - animal
+  - group
+  - ability
   - person
   - relationship
+  - location
 entities:
   - Biddy(person)
   - local clergy(group)
@@ -68,4 +68,3 @@ The “White Witch of Clare,” Biddy Early, was a renowned and historical Irish
 - Lenihan, Edmund. *In Search of Biddy Early.* Cork: Mercier Press, 1987.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Biddy Early Image]([None])

@@ -12,9 +12,9 @@ attributes:
   - Cymri people
   - Cymric language
 categories:
-  - Nationality
-  - Language
   - Location
+  - Language
+  - Nationality
 entities:
   - Wales(Location)
   - Welsh(Language)
@@ -55,4 +55,4 @@ Scholarly writing in the style of Nora Chadwick commonly avoids introducing topi
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cymru Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png'])
+![Cymru Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png)

@@ -22,13 +22,13 @@ attributes:
   - Prophecy connected skill
   - spell-casting connected skill
 categories:
-  - location
-  - requirement
   - skill
-  - connected skill
   - social role
   - requirement for social role
+  - connected skill
   - gender
+  - location
+  - requirement
 entities:
   - Gaul(location)
   - Ireland(location)
@@ -115,4 +115,4 @@ The Celtic world held the role of the poet in high esteem due to their supposed 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bard Image](['https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg'])
+![bard Image](https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg)

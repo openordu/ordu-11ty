@@ -16,13 +16,13 @@ attributes:
   - nuckelavee related to the more commonly known Water Horse
   - nuckelavee possibly to the Nygel of Shetland
 categories:
-  - location
-  - Scottish folkloric figure
+  - habitat
   - possibly related entity
   - body type
-  - islands
-  - habitat
   - related entity
+  - location
+  - islands
+  - Scottish folkloric figure
 entities:
   - nuckelavee(Scottish folkloric figure)
   - Orkney(islands)
@@ -71,4 +71,4 @@ A Scottish folklore tale that has been passed down over time is that of the nuck
 - Douglas, George. Scottish Fairy and Folk Tales. West Yorkshire: Ep Publishing, 1977, 160 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![nuckelavee Image](['https://upload.wikimedia.org/wikipedia/commons/0/0a/Douglas-Scottish_FFT%281901%29-p162-Nuckalavee-illustr-J_Torrance_%28cropped%29.jpg'])
+![nuckelavee Image](https://upload.wikimedia.org/wikipedia/commons/0/0a/Douglas-Scottish_FFT%281901%29-p162-Nuckalavee-illustr-J_Torrance_%28cropped%29.jpg)

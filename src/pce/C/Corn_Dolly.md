@@ -14,17 +14,17 @@ attributes:
   - Cailleach associated with the Corn Dolly
   - Brigit associated with the Corn Dolly
 categories:
-  - material
-  - nationality
-  - folkloric symbol
+  - structure
   - concept
   - ritual
-  - season
-  - figure
-  - structure
-  - agricultural product
   - characteristic
+  - figure
+  - folkloric symbol
+  - nationality
+  - material
+  - season
   - time period
+  - agricultural product
 entities:
   - Corn Dolly(folkloric symbol)
   - Scottish(nationality)
@@ -107,4 +107,3 @@ The Corn Dolly, also known as the Corn Maiden, is a Scottish and Irish folkloric
 - Meaden, George Terrence. The Goddess of the Stones: The Language of the Megaliths. London: Souvenir Press, 1991, 204-205.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corn Dolly Image]([None])

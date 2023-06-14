@@ -9,8 +9,8 @@ attributes:
   - Grianán Aileach a great stone fortress in the far north of the island
   - mythological importance unarguable although interpretations of its meaning vary
 categories:
-  - Nationality
   - Location
+  - Nationality
   - Unknown
 entities:
   - Nét(Unknown)
@@ -40,4 +40,3 @@ Obscure to the contemporary world, Nét (also known as Néit) was an Irish deity
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nét Image]([None])

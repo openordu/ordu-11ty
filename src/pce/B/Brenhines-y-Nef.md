@@ -11,8 +11,8 @@ attributes:
   - Brenhines-y-Nef maternal force
   - Brenhines-y-Nef ancestral mother of humanity
 categories:
-  - language
   - Welsh goddess
+  - language
 entities:
   - Brenhines-y-Nef(Welsh goddess)
   - Welsh(language)
@@ -40,4 +40,3 @@ Ancient Welsh sky goddess and maternal force, Brenhines-y-Nef is regarded as the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brenhines-y-Nef Image]([None])

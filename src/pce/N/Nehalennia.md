@@ -15,10 +15,10 @@ attributes:
   - prosperity prosperity in this world and the Otherworld
 categories:
   - concept
-  - cosmic symbol
-  - goddess
-  - agricultural imagery
   - nautical imagery
+  - cosmic symbol
+  - agricultural imagery
+  - goddess
 entities:
   - Nehalennia(goddess)
   - ships(nautical imagery)
@@ -72,4 +72,4 @@ Nehalennia was a Continental Celtic goddess who held a significant place among t
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989, 10.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nehalennia Image](['https://upload.wikimedia.org/wikipedia/commons/3/32/Nehalennia.jpg'])
+![Nehalennia Image](https://upload.wikimedia.org/wikipedia/commons/3/32/Nehalennia.jpg)

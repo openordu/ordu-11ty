@@ -9,9 +9,9 @@ attributes:
   - region near NÃ®mes in France location
   - Romans viewed Britovius as similar to their own warrior god Mars
 categories:
+  - god
   - location
   - people
-  - god
   - warrior god
 entities:
   - Britovius(god)
@@ -44,4 +44,3 @@ A deity named Britovius was worshipped in the Continental Celtic regions near NÃ
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Britovius Image]([None])

@@ -50,4 +50,3 @@ An Irish hero named Ailill (also spelled Aleel, Aileel, or Allil) was present in
 - Kinsella, Thomas, trans. *The Tain*. Dublin: The Dolmen Press, 1969, 52+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ailill Image]([None])

@@ -12,9 +12,9 @@ attributes:
   - Smith confronted the wizard
   - Smith destroyed him
 categories:
-  - Scottish folkloric figure
   - Weaver
   - Magical being
+  - Scottish folkloric figure
   - Animal
 entities:
   - Casan Buidhe(Scottish folkloric figure)
@@ -51,4 +51,3 @@ Scottish folklore tells of Casan Buidhe, also known as Yellow Legs or Weaver of 
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 461.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Casan Buidhe Image]([None])

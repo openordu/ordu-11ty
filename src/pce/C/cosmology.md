@@ -15,10 +15,10 @@ attributes:
   - goddess of Sovereignty also had a dark aspect
   - goddess of Sovereignty brought death and destruction
 categories:
+  - Location
   - Deity
   - Occupation
   - Culture
-  - Location
 entities:
   - Otherworld(Location)
   - Bards and musicians(Occupation)
@@ -56,4 +56,4 @@ Celtic philosophy and spirituality were not written down or confined by text. In
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cosmology Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_Hubble_eXtreme_Deep_Field.jpg/1200px-The_Hubble_eXtreme_Deep_Field.jpg'])
+![cosmology Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_Hubble_eXtreme_Deep_Field.jpg/1200px-The_Hubble_eXtreme_Deep_Field.jpg)

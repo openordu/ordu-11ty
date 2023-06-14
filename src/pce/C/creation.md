@@ -15,11 +15,11 @@ attributes:
   - Hag created the earth by dropping things (pebbles that became boulders, and the like) from her apron
   - Cailleach although absorbed into the lore of the Celts, appears to have been pre-Celtic
 categories:
+  - Concept
+  - Country
   - Cosmological concept
   - Culture
   - Person
-  - Concept
-  - Country
 entities:
   - creation(Cosmological concept)
   - myth(Concept)
@@ -108,4 +108,3 @@ In the realm of cosmological concepts, creation myths are a widespread occurrenc
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![creation Image]([None])

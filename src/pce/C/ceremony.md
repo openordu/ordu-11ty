@@ -9,11 +9,11 @@ attributes:
   - threefold division of society reflected in aspects of their religion
   - panCeltic ritual or ceremony none
 categories:
+  - position
   - paired
   - none
-  - threefold division
   - aspect
-  - position
+  - threefold division
 entities:
   - divinities(paired)
   - society(threefold division)
@@ -54,4 +54,4 @@ Celtic religion had a decentralized structure, resulting in no apparent rituals 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ceremony Image](['https://upload.wikimedia.org/wikipedia/commons/3/3c/Koninklijk_Koetsier_2013_74.JPG'])
+![ceremony Image](https://upload.wikimedia.org/wikipedia/commons/3/3c/Koninklijk_Koetsier_2013_74.JPG)

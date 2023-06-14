@@ -38,4 +38,4 @@ Symbolic fruit, the apple, holds great mystical power for the Celts and has appe
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![apple Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Malus_domestica_a1.jpg/1200px-Malus_domestica_a1.jpg'])
+![apple Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Malus_domestica_a1.jpg/1200px-Malus_domestica_a1.jpg)

@@ -26,4 +26,4 @@ Culhwch ac Olwen See Kulhwch And Olwen.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Culhwch ac Olwen Image](['https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg'])
+![Culhwch ac Olwen Image](https://upload.wikimedia.org/wikipedia/commons/1/10/Jesus-College-MS-111_00400_200v_%28cropped%29_Culhwch_ac_Olwen.jpg)

@@ -11,9 +11,9 @@ attributes:
   - Wrens associated with death
   - death sign of being blessed
 categories:
+  - Location
   - Nationality
   - Animal
-  - Location
 entities:
   - Ireland(Location)
   - Wrens(Animal)
@@ -47,4 +47,3 @@ Nollaig, also known as Nadolig in Welsh, is a traditional festival rooted in fol
 - Hyde, Douglas. Abhráin atá Leaghta ar an Rechtúire: Songs Ascribed to Raftery. New York: Barnes & Noble Books, n.d., pp. 28, 53.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nollaig Image]([None])

@@ -9,10 +9,10 @@ attributes:
   - southeast Britain chalky soil
   - Alps ancient term for height
 categories:
-  - Mountain Range
-  - Color
-  - Name
   - Location
+  - Mountain Range
+  - Name
+  - Color
 entities:
   - Albina(Name)
   - white(Color)
@@ -44,4 +44,3 @@ A goddess named Albinal (Albu, Alba) was worshipped in ancient Britain. Pliny, t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Albinal Image]([None])

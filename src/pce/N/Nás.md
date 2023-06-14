@@ -10,8 +10,8 @@ attributes:
   - Nás festival organized to honor Nás
   - Tailtiu foster mother of Lugh
 categories:
-  - location
   - deity
+  - location
   - event
 entities:
   - Lugh(deity)
@@ -51,4 +51,3 @@ Nás (Naas) was an Irish goddess or heroine who was only known as the wife of Lu
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nás Image]([None])

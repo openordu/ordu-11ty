@@ -45,4 +45,3 @@ A heroine of Arthurian legend, Alice la Beale Pilgrim was a distant relative of 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alice la Beale Pilgrim Image]([None])

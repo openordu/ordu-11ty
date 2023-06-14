@@ -11,9 +11,9 @@ attributes:
   - Clothra married to each of the kings of her land
   - Richis fierce foster mother
 categories:
-  - concept
-  - goddess
   - person
+  - goddess
+  - concept
 entities:
   - Crimthann Nia Náir(person)
   - Lugaidh Riab nDerg(person)
@@ -50,4 +50,3 @@ Crimthann Nia Náir, son of Lugaidh Riab nDerg who was known as the striped man,
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crimthann Nia Náir Image]([None])

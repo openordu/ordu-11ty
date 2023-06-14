@@ -12,9 +12,9 @@ attributes:
   - Fionn Mac Cumhaill heroic friend of Conán mac Morna
   - Caoranach great monster that swallowed Conan Muil
 categories:
-  - monster
-  - mythology
   - Irish hero
+  - mythology
+  - monster
 entities:
   - Conán(Irish hero)
   - Irish mythology(mythology)
@@ -55,4 +55,3 @@ Conán is a name common in Irish mythology, borne by many minor figures in the h
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conán Image]([None])

@@ -53,4 +53,3 @@ This account is of the Welsh mythical character, Nevyn, a captivating Mermaid fr
 - Spence, Lewis. The Minor Traditions of British Mythology. (New York: Benjamin Blom, Inc., 1972), 42.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nevyn Image]([None])

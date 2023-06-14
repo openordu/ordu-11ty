@@ -8,10 +8,10 @@ attributes:
   - Baudwin survived the brutal battle of Camlan
   - Baudwin became a hermit thereafter
 categories:
-  - occupation
   - location
-  - Arthurian hero
+  - occupation
   - monarch
+  - Arthurian hero
 entities:
   - Baudwin(Arthurian hero)
   - Baudwin of Brittany(Arthurian hero)
@@ -48,4 +48,3 @@ Baudwin of Brittany, an Arthurian hero, managed to survive the harsh battle at C
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Baudwin Image]([None])

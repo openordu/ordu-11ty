@@ -8,8 +8,8 @@ attributes:
   - goddesses associated with wild lands
   - goddesses imagined as occupying with a company of untamed maidens
 categories:
-  - natural environment
   - mythological figure
+  - natural environment
   - young women
 entities:
   - goddesses(mythological figure)
@@ -38,4 +38,4 @@ A Greek goddess known as Artemis was both paradoxically linked to both fertility
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Artemis Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Diana_of_Versailles.jpg/1200px-Diana_of_Versailles.jpg'])
+![Artemis Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Diana_of_Versailles.jpg/1200px-Diana_of_Versailles.jpg)

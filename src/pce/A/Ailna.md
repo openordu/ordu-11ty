@@ -42,4 +42,3 @@ Ailna is an Irish heroine known for her quest for vengeance after the Fianna, a 
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997, 362+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ailna Image]([None])

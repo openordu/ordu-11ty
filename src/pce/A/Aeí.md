@@ -11,8 +11,8 @@ attributes:
   - Ulster opposing region
 categories:
   - region
-  - mythological site
   - Irish epic
+  - mythological site
 entities:
   - Aeí(mythological site)
   - Táin Bó Cuailnge(Irish epic)
@@ -45,4 +45,3 @@ Located in the actual Irish landscape is the Plain of Aeí, an Irish mythologica
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aeí Image]([None])

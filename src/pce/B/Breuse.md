@@ -8,8 +8,8 @@ attributes:
   - Breuse nickname
   - king Arthur relationship
 categories:
-  - place
   - attribute
+  - place
   - Arthurian hero
 entities:
   - Breuse(Arthurian hero)
@@ -41,4 +41,3 @@ Arthurian figure Breuse, commonly known as Breuse sans Pitie, was notorious for 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Breuse Image]([None])

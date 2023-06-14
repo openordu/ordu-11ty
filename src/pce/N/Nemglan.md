@@ -9,10 +9,10 @@ attributes:
   - Nemglan appeared as a bird
   - Conaire revealed secret requirements for his selection and success
 categories:
+  - heroine
   - place
   - king
   - Irish god
-  - heroine
 entities:
   - Nemglan(Irish god)
   - Mess Buachalla(heroine)
@@ -44,4 +44,3 @@ A god called Nemglan features in just one Irish myth. This is the tale of Mess B
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nemglan Image]([None])

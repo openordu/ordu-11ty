@@ -10,8 +10,8 @@ attributes:
   - province historical times
   - island mystical connotations of the island's provincial divisions were never lost
 categories:
-  - Province
   - Country
+  - Province
 entities:
   - Meath(Province)
   - Ireland(Country)
@@ -38,4 +38,3 @@ The ancient Provinces of Ireland were called Cóiced Mythic theme or “a fifth.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cóiced Image]([None])

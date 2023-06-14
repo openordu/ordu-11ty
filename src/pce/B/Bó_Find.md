@@ -8,8 +8,8 @@ attributes:
   - Inis Bó Find sacred island
   - Galway coast
 categories:
-  - place
   - word
+  - place
   - island
 entities:
   - Bó(word)
@@ -42,4 +42,3 @@ A magical white Cow named Bó Find emerged with her sisters, Bó Ruadh and Bó D
 - Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 22.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bó Find Image]([None])

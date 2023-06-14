@@ -12,8 +12,8 @@ attributes:
   - Lancelot cousin of Bors de Ganis
 categories:
   - object
-  - Arthurian hero
   - knight
+  - Arthurian hero
 entities:
   - Bors de Ganis(Arthurian hero)
   - Round Table(object)
@@ -50,4 +50,4 @@ An Arthurian hero comes in the form of Bors de Ganis. Among the knights of the R
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bors de Ganis Image](['https://upload.wikimedia.org/wikipedia/commons/1/12/Sir_Bors_de_Ganis.png'])
+![Bors de Ganis Image](https://upload.wikimedia.org/wikipedia/commons/1/12/Sir_Bors_de_Ganis.png)

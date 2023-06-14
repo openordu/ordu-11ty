@@ -15,10 +15,10 @@ attributes:
   - Scotland location
   - ribbons deck the surrounding trees and shrubs
 categories:
-  - ritual object
-  - material
   - object
   - location
+  - ritual object
+  - material
 entities:
   - clootie(ritual object)
   - rag(material)
@@ -76,4 +76,4 @@ Clootie is a ritual object used in Ireland and Scotland. It is a piece of cloth,
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 201.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![clootie Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clootie_dumpling.jpg/1200px-Clootie_dumpling.jpg'])
+![clootie Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Clootie_dumpling.jpg/1200px-Clootie_dumpling.jpg)

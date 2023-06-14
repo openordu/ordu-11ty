@@ -15,8 +15,8 @@ attributes:
   - Assa was assaulted by Cathbad
   - Nessa became the warrior after the assaults
 categories:
-  - place
   - person
+  - place
 entities:
   - Deirdre(person)
   - Noísiu(person)
@@ -63,4 +63,3 @@ Noísiu or Naeshe, Naisii, Naoise, Noise, Noaise was a remarkable Irish hero. Th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Noísiu Image]([None])

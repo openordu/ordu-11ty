@@ -8,10 +8,10 @@ attributes:
   - banshee found occasionally in the New World
   - O'Gradys traveled to Canada
 categories:
-  - place
-  - group
-  - family
   - creature
+  - place
+  - family
+  - group
 entities:
   - families(group)
   - banshees(creature)
@@ -52,4 +52,4 @@ A possible explanation for this connection may lie in the continuation of ancien
 - Wilde, Lady. Ancient Legends, Mystic Charms and Superstitions of Ireland. London: Chatto and Windus, 1902, 136.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![banshee Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg'])
+![banshee Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Banshee.jpg/1200px-Banshee.jpg)

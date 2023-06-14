@@ -46,4 +46,3 @@ Abcán was a god from the Irish mythology who was associated with the Tuatha Dé
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Abcán Image]([None])

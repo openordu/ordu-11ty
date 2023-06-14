@@ -10,11 +10,11 @@ attributes:
   - hunters welcome in her forests only if they left money as payment for the animals they killed
   - Arduinna name may incorporate ard, the syllable for “height” or “highland”
 categories:
-  - Greek goddess
-  - Roman goddess
-  - forest
-  - people
   - Continental Celtic goddess
+  - forest
+  - Greek goddess
+  - people
+  - Roman goddess
 entities:
   - Arduinna(Continental Celtic goddess)
   - Ardwinna(Continental Celtic goddess)
@@ -62,4 +62,3 @@ Continental Celtic goddess, Arduinna, also known as Ardwinna, Arduenna, or Ardua
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arduinna Image]([None])

@@ -9,9 +9,9 @@ attributes:
   - harbor at its mouth
   - singing fruit tree the king himself
 categories:
+  - person
   - place
   - object
-  - person
 entities:
   - Cathaír(person)
   - woman(person)
@@ -55,4 +55,3 @@ In Irish mythology, Cathaír Mór (also spelled Cathaoir Mór) was a former king
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cathaír Mór Image]([None])

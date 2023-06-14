@@ -10,8 +10,8 @@ attributes:
   - British buttery spirits
   - Scottish mythological beings
 categories:
-  - mythological beings
   - nationality
+  - mythological beings
 entities:
   - Fairies(mythological beings)
   - British(nationality)
@@ -41,4 +41,3 @@ Mythical creatures from British and Scottish folklore were known for their fondn
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![buttery spirits Image]([None])

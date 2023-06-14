@@ -15,13 +15,13 @@ attributes:
   - Nera protagonist of the Adventure of Nera
   - Táin Bó Cuailnge famous epic set at Cruachan
 categories:
-  - Mythological figure
+  - Location
+  - Mythological creature
   - Epic
+  - Mythological figure
+  - Mythological realm
   - Mythological object
   - Festival
-  - Mythological creature
-  - Mythological realm
-  - Location
 entities:
   - Roscommon(Location)
   - Mórrígan(Mythological figure)
@@ -77,4 +77,4 @@ Symbolic site, the cave held a significant place in Celtic imagery, particularly
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cave Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lechuguilla_Cave_Pearlsian_Gulf.jpg/1200px-Lechuguilla_Cave_Pearlsian_Gulf.jpg'])
+![cave Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lechuguilla_Cave_Pearlsian_Gulf.jpg/1200px-Lechuguilla_Cave_Pearlsian_Gulf.jpg)

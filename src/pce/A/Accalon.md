@@ -12,10 +12,10 @@ attributes:
   - Excalibur scabbard stolen by Morgan
   - magician Merlin strengthened Arthur’s hand
 categories:
+  - person
   - place
   - weapon
   - Arthurian hero
-  - person
 entities:
   - Accalon(Arthurian hero)
   - Morgan(person)
@@ -56,4 +56,3 @@ Accalon, an Arthurian hero who hailed from Gaul and was the lover of Morgan, was
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Accalon Image]([None])

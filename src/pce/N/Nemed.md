@@ -32,4 +32,4 @@ An Irish god known as Nemed (Neimheadh) is described in the Book Of Invasions, a
 - O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 76.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nemed Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg'])
+![Nemed Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg)

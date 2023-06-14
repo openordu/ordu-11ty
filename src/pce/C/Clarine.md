@@ -40,4 +40,3 @@ A certain Arthurian protagonist is Clarine, who is identified as King Arthur's s
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clarine Image]([None])

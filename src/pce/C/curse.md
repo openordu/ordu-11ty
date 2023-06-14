@@ -12,11 +12,11 @@ attributes:
   - Cornwall pins caused harm to the intended victim
   - verbal curses became ineffective if spoken aloud rather than muttered in a low tone
 categories:
-  - group of people
   - vegetable
+  - group of people
+  - country
   - person
   - fruit
-  - country
 entities:
   - Children of Lir(group of people)
   - Ireland(country)
@@ -54,4 +54,4 @@ The power of language was highly regarded by the Celts, who took both blessings 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![curse Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/A_woman_makes_a_cursing_ritual_ceremony.jpg/1200px-A_woman_makes_a_cursing_ritual_ceremony.jpg'])
+![curse Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/A_woman_makes_a_cursing_ritual_ceremony.jpg/1200px-A_woman_makes_a_cursing_ritual_ceremony.jpg)

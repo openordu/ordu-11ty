@@ -13,13 +13,13 @@ attributes:
   - loaf of bread putting a loaf of bread upon each one of the stones in turn
   - the stones the stones remain uncounted
 categories:
-  - folklore
-  - stone circle
   - shape
   - ethnic group
-  - Scottish and British folkloric motif
-  - bread
+  - folklore
   - country
+  - Scottish and British folkloric motif
+  - stone circle
+  - bread
 entities:
   - Stone Circles(Scottish and British folkloric motif)
   - pre-Celtic peoples of Britain(ethnic group)
@@ -68,4 +68,4 @@ A motif prevalent in Scottish and British folklore involves countless stones. A 
 - Grinsell, Leslie V. Folklore of Prehistoric Sites in Britain. London: David & Charles, 1976, 63.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![countless stones Image](['https://upload.wikimedia.org/wikipedia/commons/e/ed/Swinside_%28p4160146%29.jpg'])
+![countless stones Image](https://upload.wikimedia.org/wikipedia/commons/e/ed/Swinside_%28p4160146%29.jpg)

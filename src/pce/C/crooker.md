@@ -9,9 +9,9 @@ attributes:
   - Derwent River location
   - English Peaklands location
 categories:
-  - British folkloric spirit
   - River
   - Mountain range
+  - British folkloric spirit
 entities:
   - crooker(British folkloric spirit)
   - Derwent River(River)
@@ -40,4 +40,3 @@ A British folkloric sprite known as the crooker was believed to haunt the Derwen
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![crooker Image]([None])

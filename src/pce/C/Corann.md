@@ -40,4 +40,3 @@ Obscure as she may be, Corann is a name that resonates in the wooded area of Co.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corann Image]([None])

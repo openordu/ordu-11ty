@@ -22,4 +22,4 @@ Aileach See Grianán Aileach.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aileach Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1200px-Ireland900.png'])
+![Aileach Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1200px-Ireland900.png)

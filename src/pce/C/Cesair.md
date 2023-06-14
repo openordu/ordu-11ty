@@ -13,10 +13,10 @@ attributes:
   - Fódla trio of divinities
   - Ériu trio of divinities
 categories:
-  - trio
-  - woman
-  - divinity
   - man
+  - trio
+  - divinity
+  - woman
 entities:
   - Cesair(divinity)
   - Fintan(man)
@@ -62,4 +62,4 @@ An Irish goddess or heroine known as Cesair (also spelled Cessair, Cesara, Kesai
 - MacAlister, R. A. Stewart. Lebor Gabála Érenn: The Book of the Taking of Ireland, Part 1. Dublin: Irish Texts Society, 1941, pp. 166–248.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cesair Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Monique_van_Deursen_%28Cesair%29.jpg/1200px-Monique_van_Deursen_%28Cesair%29.jpg'])
+![Cesair Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Monique_van_Deursen_%28Cesair%29.jpg/1200px-Monique_van_Deursen_%28Cesair%29.jpg)

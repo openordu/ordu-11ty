@@ -12,11 +12,11 @@ attributes:
   - nuts hung around the necks of children as amulets against the evil Eye
   - Serpent Stone most famous Celtic amulet
 categories:
-  - material
+  - amulet
   - belief
   - place
-  - amulet
   - person
+  - material
 entities:
   - coral(amulet)
   - Pliny(person)
@@ -75,4 +75,4 @@ Object of ritual significance, amulets are worn or carried for good fortune or p
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![amulet Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cheshm-Nazar.JPG/1200px-Cheshm-Nazar.JPG'])
+![amulet Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cheshm-Nazar.JPG/1200px-Cheshm-Nazar.JPG)

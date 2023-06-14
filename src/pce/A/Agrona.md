@@ -8,9 +8,9 @@ attributes:
   - Agrona goddess of war
   - Mórrígan Irish
 categories:
+  - Location
   - British goddess
   - Irish death queen
-  - Location
 entities:
   - Agrona(British goddess)
   - Britain(Location)
@@ -41,4 +41,3 @@ British and perhaps Welsh deity Agrona, is a little known goddess of war. She ha
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Agrona Image]([None])

@@ -11,10 +11,10 @@ attributes:
   - Étain Midir’s lover through several lifetimes
   - Brí obscure heroine named Brí
 categories:
-  - location
-  - fairy king
-  - mythological site
   - heroine
+  - location
+  - mythological site
+  - fairy king
 entities:
   - Brí Léith(mythological site)
   - Ireland(location)
@@ -52,4 +52,3 @@ Irish mythology has a site called Brí Léith, noted for its great Fairy Mound l
 - Gwynn, Edward. The Metrical Dindshenchas. Part II. Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co. Ltd., 1906. Pp. 3, 299-301.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brí Léith Image]([None])

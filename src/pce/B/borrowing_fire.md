@@ -9,10 +9,10 @@ attributes:
   - borrower power over the Cattle
   - wealth of the lender
 categories:
-  - animal
-  - location
-  - property
   - person
+  - location
+  - animal
+  - property
 entities:
   - neighbors(location)
   - borrower(person)
@@ -47,4 +47,3 @@ In ancient times, it was crucial to keep the hearth fire burning. Creating a new
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![borrowing fire Image]([None])

@@ -11,9 +11,9 @@ attributes:
 categories:
   - Nationality
   - British mythological figure
-  - Geographic location
   - Mythological figure
   - Culture
+  - Geographic location
 entities:
   - brounger(British mythological figure)
   - British(Nationality)
@@ -51,4 +51,3 @@ A British mythological character known as the 'brounger' is said to frequent the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![brounger Image]([None])

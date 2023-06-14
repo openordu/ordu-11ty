@@ -12,9 +12,9 @@ attributes:
   - Guinevere sentenced to death at the stake
   - Guinevere rescued by Lancelot
 categories:
-  - Arthurian hero
   - Arthurian knight
   - Arthurian character
+  - Arthurian hero
 entities:
   - Aglovale(Arthurian hero)
   - Lancelot(Arthurian knight)
@@ -46,4 +46,4 @@ An Arthurian hero named Aglovale was slain by Lancelot during his valiant rescue
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aglovale Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg'])
+![Aglovale Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg)

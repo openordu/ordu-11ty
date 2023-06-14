@@ -11,9 +11,9 @@ attributes:
   - Cunedda founded the Celtic kingdoms there
   - Gwynedd named for him
 categories:
+  - Location
   - Organization
   - Person
-  - Location
 entities:
   - Cunedda(Person)
   - Wales(Location)
@@ -47,4 +47,4 @@ Welsh hero Cunedda is believed to be one of the pioneer colonizers who arrived i
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cunedda Image](['https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg'])
+![Cunedda Image](https://upload.wikimedia.org/wikipedia/commons/9/9f/Crop_Cunedda_from_File_History_of_the_Kings.jpg)

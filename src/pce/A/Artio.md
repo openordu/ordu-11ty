@@ -28,4 +28,3 @@ The deity Artio (Dea Artio, Andarta) was a Celtic goddess worshipped in both Gre
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Artio Image]([None])

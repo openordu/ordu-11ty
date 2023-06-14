@@ -10,8 +10,8 @@ attributes:
   - boat capsize
 categories:
   - Vehicle
-  - Fictional Character
   - Occupation
+  - Fictional Character
 entities:
   - Skippers(Occupation)
   - Blue Men(Fictional Character)
@@ -40,4 +40,4 @@ Fir Gorm, or Fir Ghorma, are Scottish folkloric figures. Along Scotland's coasta
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blue Men of the Minch Image](['https://upload.wikimedia.org/wikipedia/commons/d/d7/Little_Minch.jpg'])
+![Blue Men of the Minch Image](https://upload.wikimedia.org/wikipedia/commons/d/d7/Little_Minch.jpg)

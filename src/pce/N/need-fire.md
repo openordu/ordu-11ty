@@ -14,12 +14,12 @@ attributes:
   - great folklorist Jacob Grimm
   - rite began with Germanic tribes and spread to nearby Celts, or the reverse
 categories:
-  - location
-  - ceremony
   - ethnicity
-  - condition
-  - person
   - animal
+  - person
+  - condition
+  - ceremony
+  - location
 entities:
   - heifer(animal)
   - disease(condition)
@@ -70,4 +70,4 @@ Fire played a significant role in Celtic culture as it was seen as the essence o
 - MacGregor, Alasdair Alpin. *The Peat-Fire Flame: Folk-Tales and Traditions of the Highlands & Islands.* Edinburgh: The Moray Press, 1937, 21.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![need-fire Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%94%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B3%D0%BD%D1%8F.png/1200px-%D0%94%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B3%D0%BD%D1%8F.png'])
+![need-fire Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%94%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B3%D0%BD%D1%8F.png/1200px-%D0%94%D0%BE%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B6%D0%B8%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B3%D0%BD%D1%8F.png)

@@ -10,10 +10,10 @@ attributes:
   - Barrax likened by the occupying Roman armies to their warrior god Mars
   - Barrax Celtic name seems to mean “supreme” or “lordly.”
 categories:
-  - language
-  - warrior god
   - occupying army
   - British god
+  - warrior god
+  - language
 entities:
   - Barrax(British god)
   - Barrecis(British god)
@@ -52,4 +52,4 @@ Obscure and known from a single dedication only, Barrax (Barrecis, Barrex) is a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Barrax Image](['https://upload.wikimedia.org/wikipedia/commons/6/69/Plaza_barrax.jpg'])
+![Barrax Image](https://upload.wikimedia.org/wikipedia/commons/6/69/Plaza_barrax.jpg)

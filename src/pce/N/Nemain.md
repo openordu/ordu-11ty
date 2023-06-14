@@ -10,10 +10,10 @@ attributes:
   - her name may be connected to the Celtic word for an outdoor shrine, Nemeton
   - warriors duty to protect sacred sites
 categories:
-  - occupation
   - outdoor shrine
-  - bird
   - deity
+  - occupation
+  - bird
 entities:
   - warriors(occupation)
   - Nemeton(outdoor shrine)
@@ -46,4 +46,3 @@ An Irish goddess named Nemain, also called Neman or Neamhan, was one of the thre
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nemain Image]([None])

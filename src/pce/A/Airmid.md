@@ -9,9 +9,9 @@ attributes:
   - Airmid's medical knowledge lost after her father scattered all the herbs
   - pain greatly increased due to the loss of Airmid's medical knowledge
 categories:
+  - person
   - nationality
   - plant
-  - person
 entities:
   - Dian Cécht(person)
   - Miach(person)
@@ -51,4 +51,3 @@ However, Dian Cécht became envious and killed Miach. Airmid tended her brother'
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Airmid Image]([None])

@@ -9,9 +9,9 @@ attributes:
   - Lancelot unnamed first wife
   - Lancelot does not become the lover of queen Guinevere
 categories:
-  - knight of the Round Table
   - Arthurian heroine
   - queen
+  - knight of the Round Table
 entities:
   - Ade(Arthurian heroine)
   - Lancelot(knight of the Round Table)
@@ -40,4 +40,3 @@ An Arthurian heroine named Ade is mentioned in certain texts as the second spous
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ade Image]([None])

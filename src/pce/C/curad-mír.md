@@ -26,4 +26,3 @@ curad-mír (curadmir) See Champion’S Portion.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![curad-mír Image]([None])

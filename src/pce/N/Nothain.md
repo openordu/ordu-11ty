@@ -8,9 +8,9 @@ attributes:
   - family dead
   - Nothain died of sorrow
 categories:
-  - group
   - person
   - condition
+  - group
 entities:
   - family(group)
   - Nothain(person)
@@ -39,4 +39,3 @@ A Warrior Woman of Irish legend named Nothain, shares similarities with other ma
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 29–31.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nothain Image]([None])

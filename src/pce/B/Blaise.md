@@ -8,8 +8,8 @@ attributes:
   - Blaise obscure figure
   - Blaise taught magic to Merlin
 categories:
-  - Arthurian hero
   - great
+  - Arthurian hero
 entities:
   - Blaise(Arthurian hero)
   - Merlin(great)
@@ -34,4 +34,3 @@ Arthurian hero Blaise is known for his teaching of magic to the prominent Merlin
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blaise Image]([None])

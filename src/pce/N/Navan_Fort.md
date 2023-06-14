@@ -26,4 +26,4 @@ Navan Fort See Emain Macha.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Navan Fort Image](['https://upload.wikimedia.org/wikipedia/commons/5/58/Navan_Fort%2C_County_Armagh_-_geograph.org.uk_-_43871.jpg'])
+![Navan Fort Image](https://upload.wikimedia.org/wikipedia/commons/5/58/Navan_Fort%2C_County_Armagh_-_geograph.org.uk_-_43871.jpg)

@@ -11,12 +11,12 @@ attributes:
   - Caoranach perhaps the one also known as Caoranach
   - Crón said to live in an enchanted valley called Crón’s Glen
 categories:
-  - Nationality
   - Religious entity
   - Irish goddess or god
   - Animal
-  - Unknown
+  - Nationality
   - Place
+  - Unknown
 entities:
   - Crón(Irish goddess or god)
   - Irish(Nationality)
@@ -59,4 +59,3 @@ An unknown deity mentioned in various texts as “the dark one” or “the swar
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crón Image]([None])

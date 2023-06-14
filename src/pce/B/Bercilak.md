@@ -29,4 +29,4 @@ Bercilak See Gawain.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bercilak Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1200px-Gawain_and_the_Green_Knight.jpg'])
+![Bercilak Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1200px-Gawain_and_the_Green_Knight.jpg)

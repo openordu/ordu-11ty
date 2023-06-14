@@ -11,13 +11,13 @@ attributes:
   - Irish ancient
   - taboo on eating crane's meat
 categories:
-  - bird
+  - human
   - concept
   - king
-  - physical action
-  - human
-  - goddess
   - place
+  - bird
+  - goddess
+  - physical action
   - body part
 entities:
   - crane-like stance(physical action)
@@ -72,4 +72,3 @@ The Celts considered birds to be symbolic animals as they believed that like tre
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 38.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![crane Image]([None])

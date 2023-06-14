@@ -14,12 +14,12 @@ attributes:
   - Cauld Lad disappeared after receiving a cloak
   - Fairy laid by giving Cauld Lad a cloak
 categories:
-  - mythical creature
-  - garment
-  - British folkloric figure
   - building
-  - person
+  - mythical creature
   - country
+  - British folkloric figure
+  - person
+  - garment
 entities:
   - Cauld Lad(British folkloric figure)
   - Brownie(mythical creature)
@@ -65,4 +65,3 @@ The Cauld Lad is a figure in British folklore. This Brownie variant was sometime
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cauld Lad Image]([None])

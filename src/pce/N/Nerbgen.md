@@ -10,9 +10,9 @@ attributes:
   - the Book Of Invasions book
 categories:
   - book
+  - Irish heroine
   - wife
   - hero
-  - Irish heroine
 entities:
   - Nerbgen(Irish heroine)
   - the Book Of Invasions(book)
@@ -56,4 +56,3 @@ An Irish heroine named Nerbgen, also referred to as "the vehement," appears in t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nerbgen Image]([None])

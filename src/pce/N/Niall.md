@@ -42,4 +42,3 @@ A prominent figure in Irish history, Niall of the Nine Hostages (also known as N
 - O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 208.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Niall Image]([None])

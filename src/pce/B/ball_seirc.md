@@ -12,10 +12,10 @@ attributes:
   - Gráinne fell in love with Diarmait after seeing the ball seirc
   - Gráinne tricked Diarmait into escaping with her
 categories:
+  - heroine
+  - active
   - Irish mythological motif
   - handsome hero
-  - active
-  - heroine
 entities:
   - ball seirc(Irish mythological motif)
   - Gráinne(heroine)
@@ -50,4 +50,3 @@ A striking feature in Irish mythology is the ball seirc motif. It was a charming
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ball seirc Image]([None])

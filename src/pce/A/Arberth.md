@@ -12,11 +12,11 @@ attributes:
   - Dyfed region in southwestern Wales
 categories:
   - language
-  - region
-  - mythological site
   - kingdom
-  - magical object
   - town
+  - mythological site
+  - magical object
+  - region
 entities:
   - Arberth(mythological site)
   - Welsh(language)
@@ -56,4 +56,4 @@ A mythical site in Welsh mythology is referred to as Arberth, which is described
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arberth Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Narberth_town_view_%282009%29.jpg/1200px-Narberth_town_view_%282009%29.jpg'])
+![Arberth Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Narberth_town_view_%282009%29.jpg/1200px-Narberth_town_view_%282009%29.jpg)

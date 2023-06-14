@@ -9,8 +9,8 @@ attributes:
   - ancient goddess weather-controlling
   - Cailleach unknown
 categories:
-  - mythological being
   - person
+  - mythological being
 entities:
   - nun(person)
   - ancient goddess(mythological being)
@@ -41,4 +41,3 @@ The legendary Black Annis is a figure of British mythology. Located outside of L
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 124.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Black Annis Image]([None])

@@ -14,9 +14,9 @@ attributes:
   - Rhiannon enslaved by husband's people
   - Branwen connected with Branwen's Seat
 categories:
+  - person
   - place
   - mythological figure
-  - person
 entities:
   - Brân(person)
   - Branwen(person)
@@ -60,4 +60,4 @@ Branwen, a Welsh heroine or goddess, appears in the second branch of the Mabinog
 - Gantz, Jeffrey, trans. *The Mabinogion*. (New York: Barnes & Noble Books, 1976), 68-82.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Branwen Image](['https://upload.wikimedia.org/wikipedia/commons/2/22/Branwen.jpg'])
+![Branwen Image](https://upload.wikimedia.org/wikipedia/commons/2/22/Branwen.jpg)

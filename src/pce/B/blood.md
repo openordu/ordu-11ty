@@ -48,4 +48,4 @@ Sacred blood holds a prominent place in the myths of the Celts. Ancient Roman wr
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![blood Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venous_and_arterial_blood.jpg/1200px-Venous_and_arterial_blood.jpg'])
+![blood Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venous_and_arterial_blood.jpg/1200px-Venous_and_arterial_blood.jpg)

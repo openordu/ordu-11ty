@@ -10,10 +10,10 @@ attributes:
   - Romans occupying
   - Mars warrior god
 categories:
+  - Continental Celtic god
   - occupying force
   - warrior god
   - ethnicity
-  - Continental Celtic god
 entities:
   - Buxenus(Continental Celtic god)
   - Gaulish(ethnicity)
@@ -46,4 +46,3 @@ Continental Celtic deity Buxenus was recognized as a deity of Gaulish origin. Th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Buxenus Image]([None])

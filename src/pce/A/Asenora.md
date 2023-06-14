@@ -42,4 +42,3 @@ A renowned heroine of Cornwall is Asenora, also known as Senara or Senora. Accor
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 85.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Asenora Image]([None])

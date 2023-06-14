@@ -14,11 +14,11 @@ attributes:
   - Black Chanter predicts death by cracking the evening before a death in the family
   - Black Chanter covered with silver rings
 categories:
-  - location
-  - group
   - object
+  - group
   - person
   - musical instrument
+  - location
   - mythological creature
 entities:
   - Black Chanter(musical instrument)
@@ -66,4 +66,3 @@ The Black Chanter is an intriguing part of Scottish mythology, which refers to a
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, pp. 57 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Black Chanter Image]([None])

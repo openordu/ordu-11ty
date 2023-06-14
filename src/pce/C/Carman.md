@@ -11,10 +11,10 @@ attributes:
   - Tailtiu Similar festivals were also staged in honor of the goddesses Tailtiu
   - Tlachtga Similar festivals were also staged in honor of the goddesses Tlachtga
 categories:
+  - person
   - location
   - group
   - event
-  - person
 entities:
   - Carman(person)
   - Tuatha Dé(group)
@@ -63,4 +63,3 @@ Carman is a striking character of Irish mythology who was considered an Irish go
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 82.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Carman Image]([None])

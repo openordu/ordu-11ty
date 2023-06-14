@@ -10,9 +10,9 @@ attributes:
   - Cornwall charms written out on bits of paper and kept in pockets and purses
   - untranslatable word nalgah above a picture of a four-winged bird
 categories:
+  - Location
   - Object
   - Animal
-  - Location
 entities:
   - Ireland(Location)
   - Dead Hand(Object)
@@ -66,4 +66,4 @@ The Celts are known for being early horse domesticators and charioteers. Highly 
 - Kavanagh, Peter. Irish Mythology: A Dictionary. (Newbridge, Co. Kildare: The Goldsmith Press, Ltd., 1988), 30-33.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![chariot Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg/1200px-Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg'])
+![chariot Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg/1200px-Biga._Festa_do_esquecemento._Xinzo_de_Limia%2C_Ourense%2C_Galicia.jpg)

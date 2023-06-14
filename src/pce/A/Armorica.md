@@ -22,4 +22,4 @@ Armorica See Brittany.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Armorica Image](['https://upload.wikimedia.org/wikipedia/commons/7/73/Armorica.png'])
+![Armorica Image](https://upload.wikimedia.org/wikipedia/commons/7/73/Armorica.png)

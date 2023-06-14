@@ -15,14 +15,14 @@ attributes:
   - Cano refused to consummate their affair until he had regained his kingdom
   - Cano gave his External Soul to Créd in the form of a stone
 categories:
-  - location
   - object
-  - political entity
-  - princess of Connacht
   - concept
   - warrior Bard
-  - legendary king
   - Irish hero
+  - political entity
+  - princess of Connacht
+  - legendary king
+  - location
 entities:
   - Cano mac Gartnáin(Irish hero)
   - Cáel(warrior Bard)
@@ -72,4 +72,3 @@ A remarkable figure in Irish mythology is Cano mac Gartnáin, who is often compa
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cano mac Gartnáin Image]([None])

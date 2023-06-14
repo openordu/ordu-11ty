@@ -8,10 +8,10 @@ attributes:
   - Bé Chuille magical daughter of Flidais
   - Bé Chuille only member of the Tuatha Dé Danann able to combat Carman
 categories:
-  - wicked sorceress
-  - Irish goddess
-  - woodland goddess
   - group of Irish gods and goddesses
+  - Irish goddess
+  - wicked sorceress
+  - woodland goddess
 entities:
   - Bé Chuille(Irish goddess)
   - Flidais(woodland goddess)
@@ -42,4 +42,3 @@ Irish mythology has a goddess named Bé Chuille (Becuille). She is known to be t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bé Chuille Image]([None])

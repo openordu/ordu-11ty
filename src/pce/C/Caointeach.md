@@ -9,8 +9,8 @@ attributes:
   - Fairies doing their jobs
   - Cyhyreath cries were said to imitate the sighs and groans of the dying
 categories:
-  - Creature
   - Language
+  - Creature
 entities:
   - Fairies(Creature)
   - Welsh(Language)
@@ -39,4 +39,3 @@ The Scottish Banshee was known by the Highland names of Caointeach (or Caoineag)
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caointeach Image]([None])

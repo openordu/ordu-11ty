@@ -9,8 +9,8 @@ attributes:
   - Angharad goddess of the land's Sovereignty
   - Peredur courted
 categories:
-  - knight
   - Arthurian heroine
+  - knight
 entities:
   - Angharad(Arthurian heroine)
   - Angharad Law Eurawc(Arthurian heroine)
@@ -42,4 +42,3 @@ Arthurian heroine Angharad, also known as Angharad Law Eurawc and Angharad of th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Angharad Image]([None])

@@ -8,8 +8,8 @@ attributes:
   - Aimend obscure
   - Aimend early
 categories:
-  - Irish goddess
   - divinity
+  - Irish goddess
 entities:
   - Aimend(Irish goddess)
   - solar divinity(divinity)
@@ -34,4 +34,3 @@ Obscure and enigmatic, Aimend is a goddess from Irish mythology who holds her pl
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aimend Image]([None])

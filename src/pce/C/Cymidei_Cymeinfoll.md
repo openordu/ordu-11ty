@@ -11,10 +11,10 @@ attributes:
   - Cymidei Cymeinfoll gave birth to innumerable armored warriors, once every six weeks
   - Cymidei Cymeinfoll translated as “big bellied battler”
 categories:
-  - magical object
+  - part of Mabinogion
   - Welsh heroine
   - Welsh giant
-  - part of Mabinogion
+  - magical object
 entities:
   - Cymidei Cymeinfoll(Welsh heroine)
   - Llassar Llaesgyfnewid(Welsh giant)
@@ -49,4 +49,3 @@ Welsh legend tells of the valiant Cymidei Cymeinfoll, a woman of great strength 
 - Gantz, Jeffrey, trans. *The Mabinogion*. New York: Barnes & Noble Books, 1976, pp. 72, 75, 87.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cymidei Cymeinfoll Image]([None])

@@ -8,9 +8,9 @@ attributes:
   - Cathubodua name means "Battle Raven"
   - Badb also known as Cauth Bova
 categories:
-  - language
   - Celtic goddess
   - Continental Celtic goddess
+  - language
 entities:
   - Cathubodua(Continental Celtic goddess)
   - Gaulish(language)
@@ -38,4 +38,3 @@ Continental Celtic deity Cathubodua, also known by the names Cauth Bova and Badb
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cathubodua Image]([None])

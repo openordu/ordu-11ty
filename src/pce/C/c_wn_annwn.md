@@ -14,9 +14,9 @@ attributes:
   - Black Dog None
   - Gabriel Hounds None
 categories:
-  - mythological beings
   - mythology
   - animals
+  - mythological beings
   - mythological place
 entities:
   - c’wn annwn(mythological beings)
@@ -57,4 +57,3 @@ Mythological creatures called c’wn annwn (also known as cwn annwfn) were belie
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![c’wn annwn Image]([None])

@@ -18,16 +18,16 @@ attributes:
   - Beltane visited on
   - Cattle driven there for purification
 categories:
+  - god
   - location
-  - festival
   - animals
-  - saint
   - holy site
+  - saint
+  - Province
+  - dess
+  - festival
   - goddess
   - Irish goddess
-  - dess
-  - Province
-  - god
 entities:
   - Crobh Dearg(Irish goddess)
   - Munster(Province)
@@ -93,4 +93,3 @@ Crobh Dearg, also known as Crove Derg, was an Irish goddess hailing from the sou
 - MacNeill, Máire. The Festival of Lughnasa. Parts I and II. Dublin: Comhairle Bhéaloideas Éireann, 1982. Pp. 272-274.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crobh Dearg Image]([None])

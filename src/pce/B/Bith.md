@@ -21,8 +21,8 @@ categories:
   - Irish hero or god
   - biblical figure
   - original settler of Ireland
-  - geographic location
   - text
+  - geographic location
 entities:
   - Bith(Irish hero or god)
   - Noah(biblical figure)
@@ -81,4 +81,3 @@ Offspring of Noah in the Bible, Bith is regarded as an Irish god or hero, and a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bith Image]([None])

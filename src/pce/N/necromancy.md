@@ -10,9 +10,9 @@ attributes:
   - poets an assembly of other poets
   - effort dying of the effort
 categories:
+  - literary work
   - occupation
   - group
-  - literary work
 entities:
   - poet(occupation)
   - verses(literary work)
@@ -43,4 +43,4 @@ The Celts may have practiced necromancy, which involves communicating with or re
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 151+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![necromancy Image](['https://upload.wikimedia.org/wikipedia/commons/1/1f/Endor.jpg'])
+![necromancy Image](https://upload.wikimedia.org/wikipedia/commons/1/1f/Endor.jpg)

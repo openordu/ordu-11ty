@@ -11,8 +11,8 @@ attributes:
   - seagoing siren also capable of capturing humans
   - humans usually lost their lives upon entering her watery domain
 categories:
-  - species
   - Scottish mythological being
+  - species
   - mythological being
 entities:
   - Ceasg(Scottish mythological being)
@@ -53,4 +53,3 @@ In Scottish folklore, there exists a mythological creature known as the Ceasg. T
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ceasg Image]([None])

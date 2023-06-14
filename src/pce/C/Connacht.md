@@ -14,8 +14,8 @@ attributes:
   - Americans heritage from region
   - Connacht poverty led to massive emigration during 19th-century famine years
 categories:
-  - province
   - association
+  - province
   - county
 entities:
   - Connacht(province)
@@ -77,4 +77,4 @@ A site of Irish mythology is Connacht (also spelled Connaught or Connachta). In 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Connacht Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/1200px-Flag_of_Connacht.svg.png'])
+![Connacht Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Connacht.svg/1200px-Flag_of_Connacht.svg.png)

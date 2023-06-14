@@ -11,10 +11,10 @@ attributes:
   - Brennius ultimately agreed to share power
   - Belinus similar name to the continental Belinus
 categories:
+  - Location
+  - Historian
   - Twin
   - Hero
-  - Historian
-  - Location
 entities:
   - Belinus(Hero)
   - Britain(Location)
@@ -49,4 +49,3 @@ Belenus, also known as Bel or Belinus, was a god in the Continental Celtic panth
 - Geoffrey of Monmouth. Histories of the Kings of Britain. London: J. M. Dent and Sons, 1912, 38+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Belenus Image]([None])

@@ -8,12 +8,12 @@ attributes:
   - Nemetius honored at one site on the west bank of the Rhine
   - Nemetius connected to Celtic words for “sacred grove,” found also in Nemeton and NemetonA
 categories:
+  - culture
+  - grammatical form
+  - river
   - sacred grove
   - Celtic words
   - Continental Celtic god
-  - river
-  - grammatical form
-  - culture
 entities:
   - Nemetius(Continental Celtic god)
   - Latinized name(grammatical form)
@@ -53,4 +53,3 @@ Continental Celtic deity known as Nemetius. Scholars have inferred his divinity 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nemetius Image]([None])

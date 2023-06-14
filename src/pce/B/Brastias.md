@@ -12,11 +12,11 @@ attributes:
   - Uther disguised as Gorlois
   - Arthur future king
 categories:
+  - future king
   - magician
-  - Arthurian hero
   - duke of Cornwall
   - person
-  - future king
+  - Arthurian hero
 entities:
   - Brastias(Arthurian hero)
   - Gorlois(duke of Cornwall)
@@ -60,4 +60,3 @@ A knight named Brastias was a hero of Arthurian legend. Brastias was previously 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brastias Image]([None])

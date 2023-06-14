@@ -10,9 +10,9 @@ attributes:
   - goddess riding her cart
   - fields crops protection
 categories:
+  - Location
   - Goddess
   - Event
-  - Location
 entities:
   - Celtic Gaul(Location)
   - Berecynthia(Goddess)
@@ -46,4 +46,4 @@ In various regions of the continental Celtic world, models of what is believed t
 - Berger, Pamela. The Goddess Obscured: Transformation of the Grain Protectress from Goddess to Saint. Boston: Beacon Press, 1985, 31.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cart Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dockworkers_in_Cap-Haitien.jpg/1200px-Dockworkers_in_Cap-Haitien.jpg'])
+![cart Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Dockworkers_in_Cap-Haitien.jpg/1200px-Dockworkers_in_Cap-Haitien.jpg)

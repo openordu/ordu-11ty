@@ -11,8 +11,8 @@ attributes:
   - died Event
   - mustering Activity
 categories:
-  - Nationality
   - Location
+  - Nationality
 entities:
   - Irish(Nationality)
   - Vikings(Nationality)
@@ -43,4 +43,4 @@ An ancient god of the Tuatha Dé Danann called Brian is the origin of this popul
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brian Image](['https://upload.wikimedia.org/wikipedia/commons/c/cd/Brian_Boru_Front_Piece_1723.jpg'])
+![Brian Image](https://upload.wikimedia.org/wikipedia/commons/c/cd/Brian_Boru_Front_Piece_1723.jpg)

@@ -34,4 +34,4 @@ Continental Celtic deity Ancamna is believed to have been a goddess of prosperit
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ancamna Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg/1200px-Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg'])
+![Ancamna Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg/1200px-Ancamna_MarsSmertrius_HistMusPfalz_3477.jpg)

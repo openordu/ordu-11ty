@@ -9,9 +9,9 @@ attributes:
   - Crimthann Name of a Christian saint
   - Colum Cille Missionary scholar
 categories:
+  - Location
   - Religion
   - Name
-  - Location
 entities:
   - Crimthann(Name)
   - Ireland(Location)
@@ -43,4 +43,3 @@ Named after Christian saint Colum Cille, who was a missionary scholar, several k
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crimthann Image]([None])

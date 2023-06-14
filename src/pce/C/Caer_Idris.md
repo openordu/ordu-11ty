@@ -11,12 +11,12 @@ attributes:
   - night spent sitting in the stone chair
   - dawn greeted either insane or inspired with poetry
 categories:
+  - time
   - location
   - object
   - mythological site
-  - attribute
   - formation
-  - time
+  - attribute
 entities:
   - Caer Idris(mythological site)
   - mountain(location)
@@ -68,4 +68,3 @@ Located atop a mountain in Merionethshire, the Caer Idris is a significant site 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caer Idris Image]([None])

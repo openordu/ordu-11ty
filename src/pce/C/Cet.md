@@ -36,4 +36,3 @@ Cet, also known as Cet mac Mágach, was an Irish hero who was known for his brav
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cet Image]([None])

@@ -15,12 +15,12 @@ attributes:
   - Warrior Woman named as
   - Fionn Mac Cumhaill great hero trained by
 categories:
-  - legendary Irish hero
-  - female warrior
-  - early Irish scholar
-  - Irish heroine or goddess
   - mother of the gods
+  - female warrior
   - collection of tales from Irish mythology
+  - early Irish scholar
+  - legendary Irish hero
+  - Irish heroine or goddess
 entities:
   - Búanann(Irish heroine or goddess)
   - Cormac(early Irish scholar)
@@ -64,4 +64,3 @@ An obscure figure in Irish mythology is Búanann, potentially a heroine or godde
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Búanann Image]([None])

@@ -13,13 +13,13 @@ attributes:
   - Amairgin Dispatched Aillén Trechenn
   - Tara Freed from Aillén Trechenn's stranglehold
 categories:
-  - Mythological Figure
-  - Regional Capital
-  - Poet
-  - Cave
-  - Monster
-  - Capital
   - Location
+  - Mythological Figure
+  - Poet
+  - Regional Capital
+  - Cave
+  - Capital
+  - Monster
 entities:
   - Aillén Trechenn(Monster)
   - Ireland(Location)
@@ -76,4 +76,4 @@ A creature named Aillén Trechenn, also known as "Triple-headed Aillen," regular
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aillén Trechenn Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png'])
+![Aillén Trechenn Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png)

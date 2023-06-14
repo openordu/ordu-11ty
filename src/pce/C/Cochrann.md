@@ -39,4 +39,3 @@ Daughter of Tara's king Cathaír Mór, Cochrann was an Irish heroine who bore ro
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cochrann Image]([None])

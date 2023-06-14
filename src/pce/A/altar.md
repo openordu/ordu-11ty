@@ -29,4 +29,4 @@ Stone altars inscribed with dedications to Celtic gods have been unearthed in Br
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 283.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![altar Image](['https://upload.wikimedia.org/wikipedia/commons/7/77/RD_alter.jpg'])
+![altar Image](https://upload.wikimedia.org/wikipedia/commons/7/77/RD_alter.jpg)

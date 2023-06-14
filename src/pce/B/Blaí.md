@@ -8,10 +8,10 @@ attributes:
   - Oisín small furry patch on forehead
   - Blaí turned into a deer
 categories:
-  - name
   - Irish heroine
-  - band of heroes
+  - name
   - father
+  - band of heroes
   - poet
 entities:
   - Blaí(Irish heroine)
@@ -46,4 +46,3 @@ Irish mythology features Blaí as a significant figure, a heroine who bore Oisí
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blaí Image]([None])

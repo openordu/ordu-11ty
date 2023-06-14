@@ -10,8 +10,8 @@ attributes:
   - Iseult fair
   - Brittany romantic
 categories:
-  - Person
   - Location
+  - Person
 entities:
   - Cornouaille Breton mythological site(Location)
   - princess Dahut(Person)
@@ -47,4 +47,4 @@ A site of Cornouaille Breton mythology is renowned for being the homeland of the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cornouaille Image](['https://upload.wikimedia.org/wikipedia/commons/8/8e/Map-Bro-Gernev.png'])
+![Cornouaille Image](https://upload.wikimedia.org/wikipedia/commons/8/8e/Map-Bro-Gernev.png)

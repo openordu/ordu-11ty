@@ -9,9 +9,9 @@ attributes:
   - folktales theme
   - hero role
 categories:
-  - character
   - person
   - genre
+  - character
 entities:
   - Fionn Mac Cumhaill(person)
   - folktales(genre)
@@ -41,4 +41,3 @@ This piece is about the name Conall which, meaning "wolf," is associated with a 
 - Gardner, Alexander. Popular Tales of the West Highlands. Vol III. London: J. F. Campbell, 1892, 98.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conall Image]([None])

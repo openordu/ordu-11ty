@@ -50,4 +50,4 @@ Symbolic in nature, struan or strone cake was a crucial element in the ritualist
 - Anne Ross, "Lindow Man and the Celtic Tradition," in The Lindow Man: The Body in the Bog, ed. I. M. Stead, J. B. Bourke, and Don Brothwell (Ithaca, N.Y.: Cornell University Press, 1986), 162-169.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cake Image](['https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg'])
+![cake Image](https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg)

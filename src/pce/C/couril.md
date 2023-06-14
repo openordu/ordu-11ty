@@ -15,13 +15,13 @@ attributes:
   - young woman enjoyed by Fairies
   - young woman left pregnant with half-fairy child
 categories:
-  - location
   - species
   - mythical creature
-  - gender
   - mythical creatures
-  - folkloric figure
   - ancient structures
+  - gender
+  - folkloric figure
+  - location
 entities:
   - couril(folkloric figure)
   - Fairies(mythical creatures)
@@ -69,4 +69,3 @@ The evil courils were a Breton folkloric figure, often found around ancient Ston
 - Henderson, George. Survivals in Belief Among the Celts. Glasgow: James MacLeose and Sons, 1911, 73.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![couril Image]([None])

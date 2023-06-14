@@ -9,8 +9,8 @@ attributes:
   - Mongán son of Caíntigern and Manannán Mac Lir
   - Manannán Mac Lir father of Mongán
 categories:
-  - magical king
   - Irish sea god
+  - magical king
   - Irish goddess or heroine
 entities:
   - Caíntigern(Irish goddess or heroine)
@@ -40,4 +40,4 @@ Irish mythology mentions Caíntigern, a lesser-known figure who is regarded as a
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caíntigern Image](['https://upload.wikimedia.org/wikipedia/commons/f/fc/Innisnacailleach.jpg'])
+![Caíntigern Image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Innisnacailleach.jpg)

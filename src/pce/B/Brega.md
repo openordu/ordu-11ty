@@ -9,8 +9,8 @@ attributes:
   - Brega described in several ancient texts
   - Brega rich agricultural region
 categories:
-  - region
   - Irish mythological site
+  - region
 entities:
   - Brega(Irish mythological site)
   - Co. Meath(region)
@@ -39,4 +39,3 @@ Mythical site Brega (Bregia), as described in numerous early texts, was a bounti
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brega Image]([None])

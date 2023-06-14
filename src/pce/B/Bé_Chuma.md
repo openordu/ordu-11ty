@@ -11,9 +11,9 @@ attributes:
   - Art returned with a wife
   - wife demanded Bé Chuma’s ostracism
 categories:
-  - Concept
-  - Person
   - Location
+  - Person
+  - Concept
 entities:
   - Tara(Location)
   - Sovereignty(Concept)
@@ -47,4 +47,3 @@ A goddess or heroine in Irish mythology, Bé Chuma (also spelled Bechuma, Bé Cu
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bé Chuma Image]([None])

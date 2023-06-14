@@ -12,8 +12,8 @@ attributes:
   - Otherworld without any pain, death, disfigurement, or disease
   - Otherworld residents spend their time in merrymaking and games
 categories:
-  - place
   - person
+  - place
 entities:
   - Arawn(person)
   - Pwyll(person)
@@ -53,4 +53,3 @@ A Welsh god named Arawn was considered the lord of Annwn, the Welsh Otherworld. 
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 368–387.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arawn Image]([None])

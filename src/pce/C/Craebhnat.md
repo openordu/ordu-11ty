@@ -32,4 +32,3 @@ In the southwestern Province of Munster near Doneraile, there was a sacred tree 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Craebhnat Image]([None])

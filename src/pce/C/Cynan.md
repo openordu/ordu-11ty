@@ -17,9 +17,9 @@ attributes:
   - invented to serve a political purpose
   - linked with ritual and worship
 categories:
+  - person
   - place
   - group
-  - person
 entities:
   - Cynan(person)
   - Maxen(person)
@@ -62,4 +62,3 @@ Welsh hero Cynan, brother-in-law of the quasi-historical ruler Maxen, assisted M
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cynan Image]([None])

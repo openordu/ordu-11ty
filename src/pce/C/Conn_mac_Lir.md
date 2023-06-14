@@ -9,9 +9,9 @@ attributes:
   - Children Of Lir turned into Swans
   - stepmother Aífe jealous
 categories:
+  - person
   - animal
   - group
-  - person
 entities:
   - Conn mac Lir(person)
   - Lir(person)
@@ -46,4 +46,3 @@ An individual belonging to the Children of Lir named Conn mac Lir, was subjected
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conn mac Lir Image]([None])

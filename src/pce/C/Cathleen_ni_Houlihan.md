@@ -12,10 +12,10 @@ attributes:
   - Cathleen poor old woman who turned into a queen
   - tales echoing the tales of the Cailleach
 categories:
-  - actress and activist
-  - Irish goddess
-  - mythical figure
   - person
+  - Irish goddess
+  - actress and activist
+  - mythical figure
 entities:
   - Cathleen ni Houlihan(Irish goddess)
   - W. B. Yeats(person)
@@ -50,4 +50,4 @@ Irish goddess Cathleen ni Houlihan, also known as Caitlín Ní hUallacháin, gai
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cathleen ni Houlihan Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AbbeyPosterOpeningNight.jpg/1200px-AbbeyPosterOpeningNight.jpg'])
+![Cathleen ni Houlihan Image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AbbeyPosterOpeningNight.jpg/1200px-AbbeyPosterOpeningNight.jpg)

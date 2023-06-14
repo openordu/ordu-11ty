@@ -13,8 +13,8 @@ attributes:
   - two brothers turned into animals
 categories:
   - god
-  - brother of Nynniaw
   - Welsh hero
+  - brother of Nynniaw
 entities:
   - Nynniaw(Welsh hero)
   - Beli(god)
@@ -46,4 +46,3 @@ Welsh hero Nynnyaw, who was the offspring of god Beli, engaged in a war alongsid
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nynnyaw Image]([None])

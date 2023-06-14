@@ -12,9 +12,9 @@ attributes:
   - dragon threatening
   - Assipattle performs heroically
 categories:
+  - Scottish hero
   - Irish character
   - fictional character
-  - Scottish hero
 entities:
   - Assipattle(Scottish hero)
   - Cinderella(fictional character)
@@ -46,4 +46,4 @@ Scottish legend Assipattle is a character found in various folktales and bears s
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Assipattle Image](['https://upload.wikimedia.org/wikipedia/commons/f/fa/Stoor_worm%2C_king%2C_cropped.jpg'])
+![Assipattle Image](https://upload.wikimedia.org/wikipedia/commons/f/fa/Stoor_worm%2C_king%2C_cropped.jpg)

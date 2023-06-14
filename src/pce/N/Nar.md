@@ -9,9 +9,9 @@ attributes:
   - Náir modesty
   - Flaith goddess of Sovereignty
 categories:
-  - Irish goddess
   - location
   - goddess of Sovereignty
+  - Irish goddess
 entities:
   - Nar(Irish goddess)
   - Náir(Irish goddess)
@@ -43,4 +43,3 @@ Obscurely known as modesty, Nar or Náir is an Irish goddess mentioned in certai
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nar Image]([None])

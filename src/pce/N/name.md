@@ -10,10 +10,10 @@ attributes:
   - pet names given to people
   - fairy people knowing real name of loved person puts them in danger of being stolen Away
 categories:
+  - Location
   - Concept
   - Event
   - Person
-  - Location
 entities:
   - Scotland(Location)
   - newborn child(Person)
@@ -63,4 +63,4 @@ The act of naming is a powerful one that holds great significance in many cultur
 - Ross, Anne. Folklore of the Scottish Highlands. London: B. T. Batsford, Ltd., 1976, 95.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![name Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Balinese_ground_zero.JPG/1200px-Balinese_ground_zero.JPG'])
+![name Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Balinese_ground_zero.JPG/1200px-Balinese_ground_zero.JPG)

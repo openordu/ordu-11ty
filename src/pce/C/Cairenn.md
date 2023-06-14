@@ -11,13 +11,13 @@ attributes:
   - Mongfhinn Eochaid Mugmedón's first wife
   - Tara court of Eochaid Mugmedón
 categories:
-  - nationality
-  - family
   - Irish heroine
   - king
+  - family
   - place
-  - mythological figure
   - person
+  - nationality
+  - mythological figure
 entities:
   - Cairenn(Irish heroine)
   - Eochaid Mugmedón(king)
@@ -60,4 +60,3 @@ Irish heroine Cairenn, was the consort of Eochaid Mugmedón and mother to Niall 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cairenn Image]([None])

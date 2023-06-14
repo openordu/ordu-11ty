@@ -50,4 +50,3 @@ Aoi (also known as Aoi mac Ollamain), an Irish deity, belonged to the magical tr
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aí Image]([None])

@@ -12,11 +12,11 @@ attributes:
   - Art Mac Cuinn king of Tara
   - Delbcháem hand
 categories:
-  - daughter
   - Irish heroine
+  - structure
+  - daughter
   - king
   - place
-  - structure
   - people
 entities:
   - Coinchenn(Irish heroine)
@@ -61,4 +61,3 @@ A fierce fighter from Irish mythology known as Coinchenn or Coinchend was cursed
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Coinchenn Image]([None])

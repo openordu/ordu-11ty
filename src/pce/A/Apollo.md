@@ -34,4 +34,4 @@ A god of both the Romans and the Celts was Apollo. The Roman legions were tasked
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 42-135.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Apollo Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/1200px-Italy-3104_-_Apollo_%285378415112%29.jpg'])
+![Apollo Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Italy-3104_-_Apollo_%285378415112%29.jpg/1200px-Italy-3104_-_Apollo_%285378415112%29.jpg)

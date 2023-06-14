@@ -9,10 +9,10 @@ attributes:
   - Wild Hunt pursues individuals
   - Fairies live on islands in or under the waves of lakes
 categories:
-  - Mythical Creature
+  - Location
   - Geographical Feature
   - Water Body
-  - Location
+  - Mythical Creature
 entities:
   - Celtic lands(Location)
   - Isle of Man(Location)
@@ -59,4 +59,3 @@ Folkloric motif pertaining to crossing water is found in some Celtic regions suc
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![crossing water Image]([None])

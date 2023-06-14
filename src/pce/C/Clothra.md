@@ -8,8 +8,8 @@ attributes:
   - Clothra ancestral god
   - Clothra appearance in Irish genealogies
 categories:
-  - text
   - god
+  - text
 entities:
   - Clothra(god)
   - Irish genealogies(text)
@@ -34,4 +34,3 @@ A notable female figure in Irish mythology is Clothra, who is either a heroine o
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clothra Image]([None])

@@ -14,11 +14,11 @@ attributes:
   - Horn Dance luck-bringing performance
   - Celtic beliefs ancient antecedents
 categories:
-  - Ethnic group
   - Location
   - Object
-  - Deity
   - Performance
+  - Ethnic group
+  - Deity
   - Month
 entities:
   - Abbots Bromley(Location)
@@ -62,4 +62,4 @@ In a small English town called Abbots Bromley, there may be a remnant of worship
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Abbots Bromley Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bagot_Street_-_Abbots_Bromley_%28geograph_4030307%29.jpg/1200px-Bagot_Street_-_Abbots_Bromley_%28geograph_4030307%29.jpg'])
+![Abbots Bromley Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bagot_Street_-_Abbots_Bromley_%28geograph_4030307%29.jpg/1200px-Bagot_Street_-_Abbots_Bromley_%28geograph_4030307%29.jpg)

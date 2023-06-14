@@ -128,4 +128,4 @@ In Continental and insular Celtic mythology, animals and birds are often depicte
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![animals Image](['https://upload.wikimedia.org/wikipedia/commons/6/6f/Animal_diversity_b.png'])
+![animals Image](https://upload.wikimedia.org/wikipedia/commons/6/6f/Animal_diversity_b.png)

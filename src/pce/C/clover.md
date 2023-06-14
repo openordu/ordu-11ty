@@ -10,13 +10,13 @@ attributes:
   - four-leafed clover permit one to see things as they really were
   - four-leafed clover main ingredient in Fairy Ointment
 categories:
-  - Symbolic object
+  - substance
   - mythical creature
   - place
-  - plant
   - person
-  - substance
   - product
+  - plant
+  - Symbolic object
 entities:
   - clover Symbolic object(Symbolic object)
   - four-leafed clover(plant)
@@ -64,4 +64,4 @@ Symbolic in nature, clovers hold magical significance. Four-leafed clovers in pa
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![clover Image](['https://upload.wikimedia.org/wikipedia/commons/8/8d/79_Trifolium_repens_L.jpg'])
+![clover Image](https://upload.wikimedia.org/wikipedia/commons/8/8d/79_Trifolium_repens_L.jpg)

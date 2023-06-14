@@ -17,9 +17,9 @@ attributes:
   - Kerry towns location
   - donations for the poor
 categories:
-  - Irish goddess
   - location
   - spring feast
+  - Irish goddess
 entities:
   - Brigit(Irish goddess)
   - Ireland(location)
@@ -59,4 +59,3 @@ On the spring feast of Imbolc, Brigit was often referred to as Biddy, an Irish g
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Biddy Image]([None])

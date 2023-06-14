@@ -11,16 +11,16 @@ attributes:
   - Fisher King legends
   - Arthurian cycle important
 categories:
-  - location
-  - event
+  - culture
   - object
   - concept
-  - deity
-  - title
-  - mythical figure
   - mythical group
   - legendary cycle
-  - culture
+  - deity
+  - location
+  - title
+  - event
+  - mythical figure
 entities:
   - Celts(culture)
   - king(title)
@@ -75,4 +75,3 @@ Mythic theme: the blemished king. According to Celtic tradition, a king could on
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![blemished king Image]([None])

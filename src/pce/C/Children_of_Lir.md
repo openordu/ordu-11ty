@@ -10,12 +10,12 @@ attributes:
   - enchantment ended
   - children aged and died and turned to dust, all within moments
 categories:
-  - material
-  - human characteristic
   - human
-  - death
-  - magic
   - sound
+  - human characteristic
+  - magic
+  - material
+  - death
 entities:
   - children(human)
   - emotions(human characteristic)
@@ -60,4 +60,4 @@ The tale of the Children of Lir recounts the tragic story of Irish heroine and h
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Children of Lir Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg'])
+![Children of Lir Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg)

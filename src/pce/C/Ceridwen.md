@@ -9,9 +9,9 @@ attributes:
   - Ceridwen originally a goddess of the land
   - Ceridwen fertility provided abundant food
 categories:
-  - Goddess
-  - Food
   - Location
+  - Food
+  - Goddess
 entities:
   - Ceridwen(Goddess)
   - land(Location)
@@ -41,4 +41,3 @@ In the midst of Lake Bala (Llyn Tegid) in North Wales, dwelled Ceridwen, also kn
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997, 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ceridwen Image]([None])

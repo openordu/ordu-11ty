@@ -12,9 +12,9 @@ attributes:
   - Highland fairy Dog always moved in a straight line
   - prey including other dogs
 categories:
-  - color
   - Scottish mythological being
   - Fairy creature
+  - color
 entities:
   - cú síth(Scottish mythological being)
   - Highland fairy Dog(Fairy creature)
@@ -49,4 +49,3 @@ A being from Scottish folklore, known as cú síth, is described as a Highland f
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cú síth Image]([None])

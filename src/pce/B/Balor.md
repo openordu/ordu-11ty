@@ -12,10 +12,10 @@ attributes:
   - Tory Island off the northwest coast
   - magical cow owned by Balor
 categories:
-  - culture
-  - place
-  - object
   - person
+  - place
+  - culture
+  - object
 entities:
   - Balor(person)
   - Irish folklore(culture)
@@ -53,4 +53,3 @@ Balor, also known as Balar, Bolar, or Balor of the Evil Eye, is an Irish deity. 
 - Ó hÓgain, Dáithí. Myth, Legend and Romance: An Encyclopedia of the Irish Folk Tradition. New York: Prentice-Hall Press, 1991, 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Balor Image]([None])

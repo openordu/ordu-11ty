@@ -17,8 +17,8 @@ attributes:
   - Lancelot spent a blissful night with a beautiful woman
 categories:
   - Arthurian knight
-  - Arthurian queen
   - Arthurian heroine
+  - Arthurian queen
 entities:
   - Brisen(Arthurian heroine)
   - Elaine(Arthurian heroine)
@@ -63,4 +63,4 @@ Arthurian legend features Brisen, a heroine who played a crucial role in helping
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brisen Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Brisen.jpg/1200px-Brisen.jpg'])
+![Brisen Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Brisen.jpg/1200px-Brisen.jpg)

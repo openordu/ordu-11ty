@@ -11,9 +11,9 @@ attributes:
   - Tír Tairngiri Fairyland of Promise
   - Clídna fairy queen
 categories:
+  - person
   - place
   - group
-  - person
 entities:
   - Ciabhán(person)
   - Fianna(group)
@@ -50,4 +50,3 @@ Ciabhán, the Irish hero also known as Keevan of the Curling Locks or Ciabhan, w
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ciabhán Image]([None])

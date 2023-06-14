@@ -12,11 +12,11 @@ attributes:
   - Celts conveyed such sensitive and powerful material orally
   - Celtic astrological text unlikely that any will ever be found
 categories:
-  - astrology
   - practice
-  - word
+  - astrology
   - people
   - text
+  - word
 entities:
   - Celtic astrology(astrology)
   - druids(people)
@@ -57,4 +57,4 @@ The Celts, being a tribal people with an outdoor way of life, had extensive know
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![astrology Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Astrological_Chart_--_New_Millennium.svg/1200px-Astrological_Chart_--_New_Millennium.svg.png'])
+![astrology Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Astrological_Chart_--_New_Millennium.svg/1200px-Astrological_Chart_--_New_Millennium.svg.png)

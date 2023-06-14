@@ -17,21 +17,21 @@ attributes:
   - throwing coins in fountains Superstitiously practiced today
   - offerings Result in vaguely described “good luck”
 categories:
-  - Symbolic object
-  - Artistic style
-  - Method of exchange
-  - Superstition
-  - Ceremonies
-  - Religious site
-  - Group of people
-  - Place
-  - Objects
-  - Historical event
-  - Invention
-  - Coins
   - Symbolic representation
-  - Sacrifices
+  - Place
+  - Artistic style
   - Concept
+  - Religious site
+  - Superstition
+  - Sacrifices
+  - Ceremonies
+  - Coins
+  - Method of exchange
+  - Group of people
+  - Invention
+  - Historical event
+  - Symbolic object
+  - Objects
 entities:
   - coins(Symbolic object)
   - Celts(Group of people)
@@ -110,4 +110,4 @@ Symbolic objects, coins had been nonexistent among the Celts until the Romans ar
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![coins Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kiloware.JPG/1200px-Kiloware.JPG'])
+![coins Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kiloware.JPG/1200px-Kiloware.JPG)

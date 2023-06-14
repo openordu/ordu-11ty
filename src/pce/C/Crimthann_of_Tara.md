@@ -46,4 +46,3 @@ Fostered by king Diarmait of Tara was Crimthann. Queen Becfhola took notice of h
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crimthann of Tara Image]([None])

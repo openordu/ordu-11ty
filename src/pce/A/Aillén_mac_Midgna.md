@@ -44,4 +44,3 @@ A notorious member of the Tuatha Dé Danann was Aillén mac Midgna (or Midna, or
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aillén mac Midgna Image]([None])

@@ -15,9 +15,9 @@ attributes:
   - Nerbgen wife of Partholón
   - Aifi otherwise unknown
 categories:
-  - wife
   - text
   - Irish heroine
+  - wife
   - hero
 entities:
   - Aifi(Irish heroine)
@@ -68,4 +68,3 @@ Obscurely mentioned in the Book of Invasions, Aifi is one of the Five wives of t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aifi Image]([None])

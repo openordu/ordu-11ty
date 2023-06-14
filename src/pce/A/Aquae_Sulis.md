@@ -9,11 +9,11 @@ attributes:
   - Bath hot Springs
   - Sun goddess Sul dedicated to
 categories:
-  - Nationality
-  - Shrine
-  - Deity
   - City
   - Country
+  - Shrine
+  - Deity
+  - Nationality
 entities:
   - Aquae Sulis(Shrine)
   - British goddess(Deity)
@@ -51,4 +51,4 @@ British goddess Sul, also known as Aquae Sulis, is the deity worshipped at the R
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aquae Sulis Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/1200px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg'])
+![Aquae Sulis Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg/1200px-Roman_Baths_in_Bath_Spa%2C_England_-_July_2006.jpg)

@@ -11,10 +11,10 @@ attributes:
   - midlands mountains tops lopped off
   - flattened hills created by lopping off tops of midlands mountains
 categories:
-  - magical object
-  - mythological object
-  - person
   - warrior
+  - mythological object
+  - magical object
+  - person
 entities:
   - Caladbolg(mythological object)
   - Fergus mac Róich(warrior)
@@ -48,4 +48,3 @@ In Irish mythology, there is an object called Caladbolg which is associated with
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caladbolg Image]([None])

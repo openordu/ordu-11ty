@@ -14,13 +14,13 @@ attributes:
   - Witch Chlaus Haistig trying to steal the queen's children
   - boys and girls released by Fionn
 categories:
-  - witch
-  - heroic group
-  - sacred vow
   - Irish heroine
-  - mythical place
   - hero
   - person
+  - witch
+  - mythical place
+  - heroic group
+  - sacred vow
 entities:
   - Chlaus Haistig(Irish heroine)
   - Fianna(heroic group)
@@ -67,4 +67,3 @@ In the heroic legends of the Fianna, there is a queen who bore the brunt of the 
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. New York: Benjamin Blom, 1969, 228.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Chlaus Haistig Image]([None])

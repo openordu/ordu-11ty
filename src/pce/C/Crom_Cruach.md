@@ -12,9 +12,9 @@ attributes:
   - Mag Slecht ringed by twelve fierce stone figures
   - Mag Slecht believed to be in northeast Co. Cavan
 categories:
-  - place
-  - location
   - deity
+  - location
+  - place
   - text
 entities:
   - Crom Cruach(deity)
@@ -54,4 +54,4 @@ Crom Cruach, also known as Crom Crúaich, Cenn Cruaich, or Cromm Cruaich, was an
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 21–23.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crom Cruach Image](['https://upload.wikimedia.org/wikipedia/commons/5/57/St._Patrick_and_Crom_Cruaich.jpg'])
+![Crom Cruach Image](https://upload.wikimedia.org/wikipedia/commons/5/57/St._Patrick_and_Crom_Cruaich.jpg)

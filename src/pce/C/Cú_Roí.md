@@ -10,12 +10,12 @@ attributes:
   - Cú Roí figure of the sacred king who brings good fortune with an honest reign
   - Dagda fertility deity
 categories:
-  - Mythical Character
-  - Animal
-  - Concept
+  - Location
   - Object
   - Building
-  - Location
+  - Concept
+  - Mythical Character
+  - Animal
 entities:
   - Meath(Location)
   - Castle(Building)
@@ -64,4 +64,3 @@ Cú Roí, a renowned Irish hero, held a similar status in Munster as that of Uls
 O’Rahilly, Thomas. Early Irish History and Mythology. Dublin: The Dublin Institute for Advanced Studies, 1946, 321.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cú Roí Image]([None])

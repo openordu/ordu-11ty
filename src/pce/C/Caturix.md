@@ -10,8 +10,8 @@ attributes:
   - Caturix found in central European regions
   - Caturix identified with Mars by occupying Romans
 categories:
-  - warrior god
   - Continental Celtic god
+  - warrior god
 entities:
   - Caturix(Continental Celtic god)
   - Mars(warrior god)
@@ -38,4 +38,3 @@ Obscure inscriptions found in central European regions refer to Caturix as a Con
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caturix Image]([None])

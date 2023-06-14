@@ -33,4 +33,3 @@ Irish literature and legend mention Bébinn, also known as Bebind, Bé Find, Be 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bébinn Image]([None])

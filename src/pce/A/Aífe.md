@@ -12,10 +12,10 @@ attributes:
   - Aífe sometimes described as a muse figure
   - Aífe occasionally conflated with the stepmother of Fionnuala
 categories:
-  - animal
-  - location
-  - object
   - person
+  - object
+  - location
+  - animal
 entities:
   - Aífe(person)
   - crane bag(object)
@@ -78,4 +78,4 @@ Irish heroine Aífe, also known as Eefa, Eva, Aoife, Aife, or Aeife, is a name t
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aífe Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aiofeduncanunknowndate.jpg/1200px-Aiofeduncanunknowndate.jpg'])
+![Aífe Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Aiofeduncanunknowndate.jpg/1200px-Aiofeduncanunknowndate.jpg)

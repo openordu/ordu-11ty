@@ -9,10 +9,10 @@ attributes:
   - animism part of the Celtic Christian tradition
   - Genius Loci related concept
 categories:
-  - religion
-  - concept
-  - belief
   - culture
+  - concept
+  - religion
+  - belief
 entities:
   - animism(belief)
   - pre-Celtic peoples(culture)
@@ -44,4 +44,3 @@ The Celts, in common with many other ancient civilizations, believed that the wo
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![animism Image]([None])

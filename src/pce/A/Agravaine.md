@@ -17,11 +17,11 @@ attributes:
   - Lancelot killed Agravaine
   - Agravaine plotted with Mordred
 categories:
-  - Round Table
-  - king
-  - Arthurian hero
-  - evil
   - killer
+  - evil
+  - king
+  - Round Table
+  - Arthurian hero
   - brother
 entities:
   - Agravaine(Arthurian hero)
@@ -74,4 +74,4 @@ Agravaine was one of the members of the Knights of the Round Table, which also i
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Agravaine Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blason_Agravain.svg/1200px-Blason_Agravain.svg.png'])
+![Agravaine Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blason_Agravain.svg/1200px-Blason_Agravain.svg.png)

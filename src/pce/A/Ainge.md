@@ -8,8 +8,8 @@ attributes:
   - Ainge magically defended against the theft of the logs she was gathering by transforming them into living trees
   - Ainge owned a tub or Cauldron in which water would ebb and flow as though it were the tide
 categories:
-  - Irish goddess
   - god
+  - Irish goddess
 entities:
   - Ainge(Irish goddess)
   - the Dagda(god)
@@ -34,4 +34,4 @@ Irish mythology tells of Ainge, a goddess and daughter of the Dagda. Ainge displ
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ainge Image](['https://upload.wikimedia.org/wikipedia/en/2/2b/OSCAinge.jpg'])
+![Ainge Image](https://upload.wikimedia.org/wikipedia/en/2/2b/OSCAinge.jpg)

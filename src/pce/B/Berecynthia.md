@@ -18,8 +18,8 @@ attributes:
 categories:
   - regional Celtic Fertility goddess
   - early Christian author
-  - coreligionist
   - Continental Celtic goddess
+  - coreligionist
 entities:
   - Berecynthia(Continental Celtic goddess)
   - Gregory of Tours(early Christian author)
@@ -58,4 +58,3 @@ Obscure in her worship, Berecynthia was a Continental Celtic goddess who was con
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Berecynthia Image]([None])

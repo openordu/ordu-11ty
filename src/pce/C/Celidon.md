@@ -13,12 +13,12 @@ attributes:
   - victory for king Arthur’s knights
   - magician Merlin wandered there during his period of madness
 categories:
-  - location
   - group
-  - event
-  - legendary forest
-  - Arthurian site
   - person
+  - Arthurian site
+  - location
+  - legendary forest
+  - event
 entities:
   - Celidon(Arthurian site)
   - Brocéliande(legendary forest)
@@ -60,4 +60,3 @@ An Arthurian site known as Celidon (Cellydon) is comparable to the legendary for
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Celidon Image]([None])

@@ -9,12 +9,12 @@ attributes:
   - Cethlion prophet who foresaw her people’s defeat
   - Cethlion wounded or killed one of the chiefs of her enemies, the Dagda
 categories:
-  - leader of Fomorians
   - ancient Irish race
-  - Irish heroine or goddess
+  - invading group
   - battlefield
   - chief of Tuatha Dé Danann
-  - invading group
+  - leader of Fomorians
+  - Irish heroine or goddess
 entities:
   - Cethlion(Irish heroine or goddess)
   - Cethlenn(Irish heroine or goddess)
@@ -67,4 +67,3 @@ A protagonist or goddess from Ireland, Cethlion (Cethlenn, Ceithlenn, Céthlionn
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cethlion Image]([None])

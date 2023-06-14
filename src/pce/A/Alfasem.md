@@ -10,11 +10,11 @@ attributes:
   - Alfasem stricken in his reproductive organs
   - Alfasem remained wounded until the Grail quest was completed
 categories:
-  - event
   - object
-  - Arthurian hero
   - Arthurian legend
   - legend
+  - Arthurian hero
+  - event
 entities:
   - Alfasem(Arthurian hero)
   - Blemished Kings(Arthurian legend)
@@ -50,4 +50,3 @@ Arthurian hero Alfasem was one of the Blemished Kings, who tried to lay his eyes
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alfasem Image]([None])

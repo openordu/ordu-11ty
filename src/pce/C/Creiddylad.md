@@ -18,13 +18,13 @@ attributes:
   - Lludd Creiddylad's father in Welsh mythology
   - Geoffrey of Monmouth source of Shakespeare's play
 categories:
+  - springtime feast
+  - person
+  - mythology
+  - Welsh goddess
+  - character
   - location
   - event
-  - Welsh goddess
-  - springtime feast
-  - mythology
-  - person
-  - character
 entities:
   - Creiddylad(Welsh goddess)
   - Beltane(springtime feast)
@@ -92,4 +92,3 @@ Welsh mythology speaks of Creiddylad (also known as Cordelia and Creudylad) as a
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Creiddylad Image]([None])

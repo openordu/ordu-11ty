@@ -10,10 +10,10 @@ attributes:
   - Celts Ethnic group that settled in Slovenia
   - Illyrians Ethnic group that settled in Slovenia
 categories:
-  - Time period
-  - Ethnic group
-  - Continental Celtic goddess
   - Location
+  - Time period
+  - Continental Celtic goddess
+  - Ethnic group
 entities:
   - Noreia(Continental Celtic goddess)
   - Roman(Time period)
@@ -49,4 +49,4 @@ Slovenia was settled by Celts and Illyrians who worshiped an enigmatic goddess n
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Noreia Image](['https://upload.wikimedia.org/wikipedia/commons/7/71/Noricum_1907.jpg'])
+![Noreia Image](https://upload.wikimedia.org/wikipedia/commons/7/71/Noricum_1907.jpg)

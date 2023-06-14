@@ -13,9 +13,9 @@ attributes:
   - Percival sister
   - Dindraine otherwise known as
 categories:
-  - character
-  - knight
   - Arthurian heroine
+  - knight
+  - character
 entities:
   - Blanchefleur(Arthurian heroine)
   - Round Table(knight)
@@ -54,4 +54,4 @@ Arthurian heroine Blanchefleur, also known as Blancheflor, was wooed by Round Ta
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blanchefleur Image](['https://upload.wikimedia.org/wikipedia/commons/9/9a/Edwin_Austin_Abbey_-_Galahad_Parts_from_His_Bride%2C_Blanchefleur.jpg'])
+![Blanchefleur Image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Edwin_Austin_Abbey_-_Galahad_Parts_from_His_Bride%2C_Blanchefleur.jpg)

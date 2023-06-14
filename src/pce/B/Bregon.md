@@ -8,10 +8,10 @@ attributes:
   - Bregon ancestor of the Milesians
   - Milesians final conquerors of the island
 categories:
+  - Irish hero
+  - geographical location
   - final conquerors
   - Irish mythological history
-  - geographical location
-  - Irish hero
 entities:
   - Bregon(Irish hero)
   - Book Of Invasions(Irish mythological history)
@@ -42,4 +42,4 @@ Irish hero Bregon is featured in the Book of Invasions as an ancestor of the Mil
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bregon Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg/1200px-Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg'])
+![Bregon Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg/1200px-Torre_de_H%C3%A9rcules_-_DivesGallaecia2012-62.jpg)

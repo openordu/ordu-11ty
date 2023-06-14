@@ -34,4 +34,3 @@ Nóine, also known as Nóindiu or Noidhiu, is an Irish folkloric figure known fo
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nóine Image]([None])

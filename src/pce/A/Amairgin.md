@@ -15,18 +15,18 @@ attributes:
   - Banba demanded that they name the island after her
   - Amairgin decision to call it after Ériu
 categories:
-  - mythical beings
-  - weapon
-  - goddess
-  - Irish poet
-  - place
-  - poet
-  - plant
-  - animal
-  - poem
-  - natural phenomenon
-  - people
   - culture
+  - animal
+  - Irish poet
+  - weapon
+  - place
+  - mythical beings
+  - people
+  - natural phenomenon
+  - plant
+  - poet
+  - poem
+  - goddess
 entities:
   - Amairgin(Irish poet)
   - Song of Amairgin(poem)
@@ -97,4 +97,3 @@ A legendary figure in Irish mythology, Amairgin (also known as Amargen, Amhairgh
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Amairgin Image]([None])

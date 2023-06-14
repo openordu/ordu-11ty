@@ -8,8 +8,8 @@ attributes:
   - Sucellus god
   - Sucellus striker
 categories:
-  - location
   - deity
+  - location
 entities:
   - Continent(location)
   - Sucellus(deity)
@@ -37,4 +37,4 @@ In her depictions, Natosuelta, a Celtic goddess, is not depicted in the midst of
 - "The princesses intended no metaphor but expressed a belief in what is called immanent divinity, god found within nature rather than outside it." (Green, 1997)
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![nature Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg'])
+![nature Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg)

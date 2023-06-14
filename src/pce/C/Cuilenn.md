@@ -8,8 +8,8 @@ attributes:
   - Cuilenn rescued Fionn
   - golden cup endowed Fionn with wisdom
 categories:
-  - object
   - person
+  - object
 entities:
   - Cuilenn(person)
   - Fionn(person)
@@ -39,4 +39,3 @@ Cuilenn, also known as Cullen or Culann, was a renowned hero in Irish mythology.
 - MacNeill, Máire. The Festival of Lughnasa, Parts I and II. Dublin: Comhairle Bhéaloideas Éireann, 1982, 164.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cuilenn Image]([None])

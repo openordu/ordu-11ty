@@ -14,15 +14,15 @@ attributes:
   - wind was singing through the sinews
   - Canola built the first harp
 categories:
-  - location
-  - celestial object
-  - art form
-  - person
-  - body part
   - animal
+  - person
+  - country
+  - celestial object
   - musical instrument
   - natural phenomenon
-  - country
+  - location
+  - art form
+  - body part
 entities:
   - Canola(person)
   - The Harp(musical instrument)
@@ -77,4 +77,4 @@ An Irish heroine named Canola is credited with inventing The Harp, which is now 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Canola Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CanolaBlooms.JPG/1200px-CanolaBlooms.JPG'])
+![Canola Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CanolaBlooms.JPG/1200px-CanolaBlooms.JPG)

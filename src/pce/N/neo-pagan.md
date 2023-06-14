@@ -9,10 +9,10 @@ attributes:
   - religion described as a reconstruction of ancient beliefs
   - Celtic Revival groups and individuals involved
 categories:
-  - cultural movement
-  - religious beliefs
-  - belief system
   - religious group
+  - religious beliefs
+  - cultural movement
+  - belief system
 entities:
   - neo-pagans(religious group)
   - religion(belief system)
@@ -44,4 +44,4 @@ A religion known as neo-pagan (or neo-Pagan) has emerged, which seeks to rebuild
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![neo-pagan Image](['https://upload.wikimedia.org/wikipedia/commons/9/9e/Sveriges_Asatrosamfunds_h%C3%B6stblot_2009.jpg'])
+![neo-pagan Image](https://upload.wikimedia.org/wikipedia/commons/9/9e/Sveriges_Asatrosamfunds_h%C3%B6stblot_2009.jpg)

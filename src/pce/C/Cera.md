@@ -10,8 +10,8 @@ attributes:
   - The Dagda perhaps signifying "creator"
   - Cera occasionally used in texts or place-names
 categories:
-  - name
   - Irish god
+  - name
 entities:
   - Cera(Irish god)
   - The Dagda(name)
@@ -38,4 +38,3 @@ A deity known as Cera appears in Irish mythology. This name is associated with t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cera Image]([None])

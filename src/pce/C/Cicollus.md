@@ -13,10 +13,10 @@ attributes:
   - Apollo Anextiomarus possible same entity as Cicollus
   - Litavis consort of Cicollus
 categories:
-  - warrior god
   - goddess
-  - protector god
   - Continental Celtic god
+  - protector god
+  - warrior god
 entities:
   - Cicollus(Continental Celtic god)
   - Mars(warrior god)
@@ -52,4 +52,3 @@ A deity named Cicollus was present in Continental Celtic mythology. Though his n
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cicollus Image]([None])

@@ -10,10 +10,10 @@ attributes:
   - Brigit linked to Brixia
   - Brigit associated with Healing aspect
 categories:
-  - thermal Spring
-  - Healing aspect
-  - Continental Celtic goddess
   - country
+  - thermal Spring
+  - Continental Celtic goddess
+  - Healing aspect
 entities:
   - Brixia(Continental Celtic goddess)
   - Bricta(Continental Celtic goddess)
@@ -49,4 +49,3 @@ Continental Celtic goddess Brixia (Bricta) is recognized from a solitary locatio
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brixia Image]([None])

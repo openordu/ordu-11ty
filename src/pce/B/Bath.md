@@ -11,11 +11,11 @@ attributes:
   - 16,000 coins number of coins excavated from Bath
   - 50 cursing tables number of cursing tables found at Bath
 categories:
-  - Culture
+  - Location
   - Material
   - Quantity
   - City
-  - Location
+  - Culture
 entities:
   - Celtic(Culture)
   - Bath(City)
@@ -56,4 +56,3 @@ A British mythological site of note is Bath. The hot Springs at Bath, a southwes
 - Ross, Anne, and Michael Cyprien. A Traveller’s Guide to Celtic Britain. Harrisburg, Pa.: Historical Times, 1985, 19.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bath Image]([None])

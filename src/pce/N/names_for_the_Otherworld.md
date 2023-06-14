@@ -10,10 +10,10 @@ attributes:
   - Fairy Queen Niamh great
   - Golden Hair of
 categories:
+  - person
   - place
   - realm
   - attribute
-  - person
 entities:
   - Otherworld realm(realm)
   - Floating Island(place)
@@ -46,4 +46,3 @@ Numerous names describe the Otherworld, a Celtic paradise found in folkloric tra
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![names for the Otherworld Image]([None])

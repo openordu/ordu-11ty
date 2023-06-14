@@ -9,9 +9,9 @@ attributes:
   - silver pillar held Aoncos aloft above the ocean waves
 categories:
   - magical islands
-  - object
-  - mythological site
   - natural element
+  - mythological site
+  - object
 entities:
   - Aoncos(mythological site)
   - Irish Otherworld(magical islands)
@@ -42,4 +42,3 @@ Magical islands in Irish mythology are numerous, with Aoncos being one of them. 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aoncos Image]([None])

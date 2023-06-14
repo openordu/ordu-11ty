@@ -9,10 +9,10 @@ attributes:
   - Coligny Calendar shows the months
   - lunar year adapted to the longer solar year
 categories:
-  - time
-  - calendar
-  - month
   - culture
+  - time
+  - month
+  - calendar
 entities:
   - lunar months(time)
   - full moon(time)
@@ -90,4 +90,4 @@ The Celts had a unique cosmological concept when it came to the division of seas
 - Danaher, Kevin. “Irish Folk Tradition and the Celtic Calendar.” In The Celtic Consciousness, edited by Robert O’Driscoll, 217–242. New York: George Braziller, 1981.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![calendar Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kalender_Indonesia.jpg/1200px-Kalender_Indonesia.jpg'])
+![calendar Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kalender_Indonesia.jpg/1200px-Kalender_Indonesia.jpg)

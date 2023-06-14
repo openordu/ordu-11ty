@@ -13,9 +13,9 @@ attributes:
   - Branwen Book related to the story
 categories:
   - Character
-  - Location
-  - Book
   - Nationality
+  - Book
+  - Location
 entities:
   - Llyr(Character)
   - Welsh(Nationality)
@@ -56,4 +56,4 @@ Welsh heroes and heroines are featured in the Children of Llyr. One of the branc
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Children of Llyr Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg'])
+![Children of Llyr Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/John_Duncan_%281924%29_Children_of_Lir.jpg/1200px-John_Duncan_%281924%29_Children_of_Lir.jpg)

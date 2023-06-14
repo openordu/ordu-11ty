@@ -10,11 +10,11 @@ attributes:
   - Fertility of its watershed
   - Clutoida called the Spring nymphs
 categories:
-  - Attribute
+  - Location
   - Spring nymphs
+  - Attribute
   - River
   - Scottish goddess
-  - Location
 entities:
   - Clota(Scottish goddess)
   - Scotland(Location)
@@ -50,4 +50,3 @@ Scottish goddess Clota, also known as Clud or Clutoida, was named after Scotland
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clota Image]([None])

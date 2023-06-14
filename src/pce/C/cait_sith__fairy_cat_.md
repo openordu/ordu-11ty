@@ -15,9 +15,9 @@ attributes:
   - cait sith shape-shifting Witch
   - cait sith familiar
 categories:
+  - mythological animal
   - location
   - mythological creature
-  - mythological animal
 entities:
   - cait sith(mythological animal)
   - Scottish Highlands(location)
@@ -58,4 +58,3 @@ Scottish mythology includes the cait sith, a mythical creature resembling a blac
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cait sith (fairy cat) Image]([None])

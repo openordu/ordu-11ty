@@ -9,8 +9,8 @@ attributes:
   - Bairrind activities parallel Cesair
 categories:
   - early invader
-  - important
   - Irish heroine
+  - important
 entities:
   - Bairrind(Irish heroine)
   - Bith(early invader)
@@ -38,4 +38,3 @@ Irish heroine Bairrind, though not as prominent as Cesair, is known as the wife 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bairrind Image]([None])

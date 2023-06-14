@@ -10,9 +10,9 @@ attributes:
   - Brigit fertility
   - holy Wells connection to Brigit
 categories:
-  - Deity
-  - Culture
   - Location
+  - Culture
+  - Deity
 entities:
   - Ireland(Location)
   - Brigit(Deity)
@@ -42,4 +42,3 @@ The deity Brigantia, a Continental Celtic and British goddess, was venerated by 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brigantia Image]([None])

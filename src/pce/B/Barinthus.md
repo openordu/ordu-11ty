@@ -10,8 +10,8 @@ attributes:
   - Arthur final battle
   - Barinthus carried Arthur away from the surface world to the Otherworld
 categories:
-  - place
   - king
+  - place
   - Arthurian hero
 entities:
   - Barinthus(Arthurian hero)
@@ -45,4 +45,3 @@ Arthurian hero Barinthus, also known as Saint Barrind, is recognized as the ferr
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Barinthus Image]([None])

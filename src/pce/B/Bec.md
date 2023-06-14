@@ -12,11 +12,11 @@ attributes:
   - Well Magical
   - Bec mac Dé Diviner who could answer nine questions simultaneously with one answer
 categories:
+  - Hero
+  - Occupation
   - Magical Object
   - Nationality
   - Name
-  - Occupation
-  - Hero
 entities:
   - Bec(Name)
   - Irish(Nationality)
@@ -63,4 +63,3 @@ Bec, a name meaning "small," is attributed to a number of figures in Irish mytho
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bec Image]([None])

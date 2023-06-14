@@ -36,4 +36,3 @@ Invoked by the warrior queen Boudicca of the British tribe, the Iceni, before le
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Andraste Image]([None])

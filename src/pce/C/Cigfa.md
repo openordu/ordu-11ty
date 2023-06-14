@@ -10,9 +10,9 @@ attributes:
   - Rhiannon consort of Pwyll
   - Manawydan second husband of Rhiannon
 categories:
-  - Rhiannon’s second husband
-  - son of the goddess Rhiannon and her consort Pwyll
   - goddess
+  - son of the goddess Rhiannon and her consort Pwyll
+  - Rhiannon’s second husband
   - Welsh heroine or goddess
 entities:
   - Cigfa(Welsh heroine or goddess)
@@ -47,4 +47,3 @@ Welsh heroine or goddess, Cigfa (Kigva), was married to Pryderi, who was Rhianno
 - Gantz, Jeffrey, trans. *The Mabinogion*. (New York: Barnes & Noble Books, 1976), 90-95.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cigfa Image]([None])

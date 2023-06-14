@@ -12,8 +12,8 @@ attributes:
   - southern part more fertile
   - southern part called Deira
 categories:
-  - Time
   - Location
+  - Time
 entities:
   - Northumbria(Location)
   - Celtic times(Time)
@@ -51,4 +51,4 @@ Bernicia and Deira were the names given to the region now known as Northumbria d
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Northumbria Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg/1200px-Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg.png'])
+![Northumbria Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg/1200px-Map_of_the_Kingdom_of_Northumbria_around_700_AD.svg.png)

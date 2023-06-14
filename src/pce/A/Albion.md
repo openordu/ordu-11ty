@@ -12,9 +12,9 @@ attributes:
   - Geoffrey of Monmouth description
   - Albiorix description
 categories:
-  - medieval writer
-  - continental Celtic god
   - British hero
+  - continental Celtic god
+  - medieval writer
 entities:
   - Albion(British hero)
   - Geoffrey of Monmouth(medieval writer)
@@ -46,4 +46,4 @@ The medieval writer Geoffrey of Monmouth narrates the story of Albion, the Briti
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Albion Image](['https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg'])
+![Albion Image](https://upload.wikimedia.org/wikipedia/commons/7/7e/White_cliffs_of_dover_09_2004.jpg)

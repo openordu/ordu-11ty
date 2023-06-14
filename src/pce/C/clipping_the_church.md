@@ -13,12 +13,12 @@ attributes:
   - stones touched by passing celebrants
   - Cotswolds rite was celebrated when the Yews in the churchyard were clipped around the Autumn Equinox
 categories:
+  - Location
+  - Building
   - Event
   - Structure
-  - Person
   - Plant
-  - Building
-  - Location
+  - Person
 entities:
   - England(Location)
   - village churches(Building)
@@ -90,4 +90,4 @@ Performing a circle dance around the churchyard while touching the walls of the 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![clipping the church Image](['https://upload.wikimedia.org/wikipedia/commons/b/b8/Clypping_1848_%281%29.jpg'])
+![clipping the church Image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Clypping_1848_%281%29.jpg)

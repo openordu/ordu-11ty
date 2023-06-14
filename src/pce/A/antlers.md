@@ -72,4 +72,4 @@ Antlers bear a symbolic image in Celtic mythology. Animal forms were often assum
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![antlers Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/1200px-Red_deer_stag_2009_denmark.jpg'])
+![antlers Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Red_deer_stag_2009_denmark.jpg/1200px-Red_deer_stag_2009_denmark.jpg)

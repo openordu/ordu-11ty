@@ -10,10 +10,10 @@ attributes:
   - Bran primary companion hound
   - Sceolan primary companion hound
 categories:
-  - nationality
-  - mythological animal
-  - hunting dog
   - Irish hero
+  - mythological animal
+  - nationality
+  - hunting dog
 entities:
   - Adhnúall(mythological animal)
   - Irish(nationality)
@@ -49,4 +49,3 @@ Irish folklore recounts the existence of Adhnúall (Adnual), an animal featured 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Adhnúall Image]([None])

@@ -14,9 +14,9 @@ attributes:
   - bucca dhu malevolent
   - bucca general term for Fairy
 categories:
+  - food
   - location
   - mythological being
-  - food
 entities:
   - Wales(location)
   - bucca(mythological being)
@@ -62,4 +62,3 @@ Household sprite of Wales, the bucca (also known as bwca, bucca-boo, pwca, bwci,
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bucca Image]([None])

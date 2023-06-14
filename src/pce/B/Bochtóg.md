@@ -13,9 +13,9 @@ attributes:
   - Bochtóg beautiful woman
   - Bochtóg waist-length blonde hair
 categories:
-  - Mythical creature
-  - Irish heroine
   - Location
+  - Irish heroine
+  - Mythical creature
 entities:
   - Bochtóg(Irish heroine)
   - Ireland(Location)
@@ -48,4 +48,3 @@ Irish legend features Bochtóg as a heroine who aided people at risk of drowning
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bochtóg Image]([None])

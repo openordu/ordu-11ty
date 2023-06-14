@@ -11,11 +11,11 @@ attributes:
   - rural people in Scotland and Ireland refused to eat calamity meat
   - fairy cadaver feared to be consumed
 categories:
-  - mythical creature
-  - creature
-  - place
-  - food
   - tool
+  - mythical creature
+  - place
+  - creature
+  - food
 entities:
   - animal(creature)
   - Iron nail(tool)
@@ -60,4 +60,3 @@ Animals that died in unusual ways, such as falling over a cliff or being crushed
 - o hEochaidh, Séan. Fairy Legends of Donegal. Translated by Máire MacNeill. Dublin: Comhairle Bhéaloideas Éireann, 1977, 79.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![calamity meat Image]([None])

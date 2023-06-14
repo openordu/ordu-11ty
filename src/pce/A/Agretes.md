@@ -11,10 +11,10 @@ attributes:
   - Holy Land place
   - Grail great chalice
 categories:
-  - place
-  - object
-  - hero
   - kingdom
+  - object
+  - place
+  - hero
 entities:
   - Agretes(hero)
   - Arthur(hero)
@@ -51,4 +51,3 @@ A heroic figure known as Agretes once ruled over Camelot before King Arthur asce
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Agretes Image]([None])

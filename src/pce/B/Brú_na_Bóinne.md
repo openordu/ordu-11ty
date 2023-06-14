@@ -8,8 +8,8 @@ attributes:
   - rock art unsurpassed anywhere in Europe
   - Knowth recently been opened to the public
 categories:
-  - Art
   - Location
+  - Art
 entities:
   - rock art(Art)
   - Europe(Location)
@@ -42,4 +42,4 @@ A mythological site in Ireland called Brú na Bóinne (Brug na Bóinne) features
 - Thomas, N. L. Irish Symbols of 3500 Bc. Cork: Mercier Press, 1988.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brú na Bóinne Image](['https://upload.wikimedia.org/wikipedia/commons/b/bc/Newgrange.JPG'])
+![Brú na Bóinne Image](https://upload.wikimedia.org/wikipedia/commons/b/bc/Newgrange.JPG)

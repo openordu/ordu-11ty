@@ -8,8 +8,8 @@ attributes:
   - Arthurian hero Kay also called
   - this name name of Kay
 categories:
-  - hero
   - name
+  - hero
 entities:
   - Arthurian hero Kay(hero)
   - this name(name)
@@ -34,4 +34,3 @@ Irish hero Cai was the first Brehon or judge in Ireland. Though obscure, he was 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cai Image]([None])

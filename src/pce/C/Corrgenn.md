@@ -10,10 +10,10 @@ attributes:
   - Áed Minbhrec son of the god Dagda who was killed by Coincheann for seducing his wife
   - Hillfort of Grianán Aileach famous location where Coincheann finally buried the body of Áed Minbhrec
 categories:
-  - son of the god Dagda
+  - Irish hero
   - god
   - Hillfort
-  - Irish hero
+  - son of the god Dagda
 entities:
   - Coincheann(Irish hero)
   - Dagda(god)
@@ -46,4 +46,3 @@ Irish hero Corrgenn, also known as Coincheann, is featured in The Dindshenchas, 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corrgenn Image]([None])

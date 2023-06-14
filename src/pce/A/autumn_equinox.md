@@ -16,14 +16,14 @@ attributes:
   - animal archetypes participated in mummers' parades
   - Hobbyhorse animal archetype in mummers' parades
 categories:
-  - event
   - fictional character
-  - occupation
-  - holiday
   - animal
   - harvest
-  - season
+  - occupation
   - country
+  - holiday
+  - season
+  - event
 entities:
   - Michaelmas(holiday)
   - Fomhar na nGéan(harvest)
@@ -89,4 +89,3 @@ The Celts did not observe the Equinoxes and Solstices as astronomical feast but 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![autumn equinox Image]([None])

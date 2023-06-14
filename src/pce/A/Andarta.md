@@ -10,11 +10,11 @@ attributes:
   - Andarta interpreted as a goddess of wildlife
   - Andarta second syllable of her name, art, is found in the names of many Celtic Bear divinities
 categories:
+  - Continental Celtic goddess
   - concept
-  - divinities
   - Celtic tribe
   - war goddess
-  - Continental Celtic goddess
+  - divinities
 entities:
   - Andarta(Continental Celtic goddess)
   - Voconces(Celtic tribe)
@@ -50,4 +50,3 @@ A Continental Celtic goddess known as Andarta was worshipped by the Voconces, a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Andarta Image]([None])

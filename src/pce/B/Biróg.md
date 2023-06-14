@@ -11,10 +11,10 @@ attributes:
   - Cian disguised in women's attire
   - Eithne daughter of Balor of the Evil Eye
 categories:
-  - Evil Eye
   - Irish heroine
   - human
   - fair
+  - Evil Eye
   - hero
 entities:
   - Biróg(Irish heroine)
@@ -52,4 +52,3 @@ Irish legend tells of Biróg, a heroine who helped with the conception of the he
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Biróg Image]([None])

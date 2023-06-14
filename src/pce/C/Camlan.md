@@ -10,11 +10,11 @@ attributes:
   - Arthur defeated by Mordred
   - Arthur taken to Otherworld by Lady Of The Lake
 categories:
-  - mythological site
-  - son/nephew
-  - king
   - mysterious figure
   - mysterious place
+  - king
+  - mythological site
+  - son/nephew
 entities:
   - Camlan(mythological site)
   - Arthur(king)
@@ -50,4 +50,4 @@ Welsh mythology features Camlan (also written as Camlaun or Camlann), a site who
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Camlan Image](['https://upload.wikimedia.org/wikipedia/commons/1/1a/Battle_Between_King_Arthur_and_Sir_Mordred_-_William_Hatherell.jpg'])
+![Camlan Image](https://upload.wikimedia.org/wikipedia/commons/1/1a/Battle_Between_King_Arthur_and_Sir_Mordred_-_William_Hatherell.jpg)

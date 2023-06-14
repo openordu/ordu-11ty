@@ -12,10 +12,10 @@ attributes:
   - the craft considered generally harmful among residents of the Isle of Man
   - some practitioners could use their skills for good
 categories:
-  - man of enchantment
-  - location
   - language
+  - man of enchantment
   - man of knowledge
+  - location
   - Manx witch
 entities:
   - Buitch(Manx witch)
@@ -54,4 +54,3 @@ A Manx witch, known as Buitch, held titles such as Mraane Obbee, meaning "man of
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Buitch Image]([None])

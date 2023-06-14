@@ -42,4 +42,3 @@ Small round stones believed to carry powerful curses, known as cursing stones, c
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cursing stones Image]([None])

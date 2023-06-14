@@ -9,8 +9,8 @@ attributes:
   - Banba most especially connected with Malin Head
   - Banba alternative name for Cesair
 categories:
-  - Mythological Figure
   - Location
+  - Mythological Figure
 entities:
   - Ireland(Location)
   - Banba(Mythological Figure)
@@ -52,4 +52,3 @@ Irish goddess Banba (Banbha) was encountered by the first Irish Celts, the Miles
 - MacAlister, R. A. Stewart. Lebor Gabála Érenn: The Book of the Taking of Ireland, Part 5. Dublin: Irish Texts Society, 1956, pp. 35 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Banba Image]([None])

@@ -9,10 +9,10 @@ attributes:
   - Fisher King possible origin of name
   - Latin words possible origin of name
 categories:
-  - language
-  - Arthurian site
-  - character
   - building
+  - character
+  - Arthurian site
+  - language
 entities:
   - Corbenic(Arthurian site)
   - castle(building)
@@ -44,4 +44,4 @@ Arthurian legend attributes the name of the castle of the Fisher King to the Lat
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corbenic Image](['https://upload.wikimedia.org/wikipedia/commons/6/60/The_Castle_of_Carboneck.png'])
+![Corbenic Image](https://upload.wikimedia.org/wikipedia/commons/6/60/The_Castle_of_Carboneck.png)

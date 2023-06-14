@@ -13,10 +13,10 @@ attributes:
   - Cathbad father of the heroine Findchóem
   - Deirdre predicted by Cathbad to bring sorrow to Ulster
 categories:
-  - place
+  - person
   - object
   - concept
-  - person
+  - place
 entities:
   - Nessa(person)
   - Worm(object)
@@ -64,4 +64,3 @@ A powerful Druid from the court of King Concobar Mac Nessa, Cathbad was a signif
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cathbad Image]([None])

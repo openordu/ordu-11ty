@@ -11,12 +11,12 @@ attributes:
   - Arthur mythological figure with an ursine name
   - Cormac Mac Airt mythological figure with an ursine name
 categories:
-  - Roman god
-  - Mythological figure
-  - Celtic bear goddess
-  - Bear god
-  - Gaulish goddess
   - Location
+  - Bear god
+  - Mythological figure
+  - Gaulish goddess
+  - Roman god
+  - Celtic bear goddess
 entities:
   - Swiss sites(Location)
   - Berne(Location)
@@ -62,4 +62,4 @@ The bear is a symbolic animal that was revered by early people for its strength,
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bear Image](['https://upload.wikimedia.org/wikipedia/commons/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg'])
+![bear Image](https://upload.wikimedia.org/wikipedia/commons/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg)

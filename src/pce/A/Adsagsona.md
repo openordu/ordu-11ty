@@ -13,10 +13,10 @@ attributes:
   - curse any
   - blessing any
 categories:
-  - ability
   - realm of existence
-  - divinity of magic
+  - ability
   - Continental Celtic goddess
+  - divinity of magic
 entities:
   - Adsagsona(Continental Celtic goddess)
   - weaver of spells(divinity of magic)
@@ -52,4 +52,3 @@ A goddess named Adsagsona existed in the Continental Celtic tradition. People ca
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Adsagsona Image]([None])

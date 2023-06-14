@@ -15,11 +15,11 @@ attributes:
   - brother Faifne satirist
   - death None
 categories:
-  - None
-  - malicious
-  - Irish heroine
   - envious
+  - None
+  - Irish heroine
   - satirist
+  - malicious
 entities:
   - Aige(Irish heroine)
   - Fairy(malicious)
@@ -67,4 +67,3 @@ Irish heroine Aige became the victim of a wicked Fairy's spell, instigated by je
 - Gwynn, Edward. The Metrical Dindshenchas. Part II. Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 67.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aige Image]([None])

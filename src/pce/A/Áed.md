@@ -11,8 +11,8 @@ attributes:
   - goddess inspired Ruad's fatal trip from the Otherworld to join Áed Srónmár on earth
 categories:
   - Fairy
-  - Place
   - Human
+  - Place
 entities:
   - Áed Srónmár(Human)
   - goddess(Fairy)
@@ -53,4 +53,4 @@ A common name in ancient Ireland, Áed (Aedh, Aodh) produced several heroic figu
 - Squire, Charles. Mythology of the Celtic People. London: Bracken Books, 1996.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Áed Image](['https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg'])
+![Áed Image](https://upload.wikimedia.org/wikipedia/commons/3/36/Large_bonfire.jpg)

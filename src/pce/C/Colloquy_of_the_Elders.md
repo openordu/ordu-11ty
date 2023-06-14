@@ -9,9 +9,9 @@ attributes:
   - text satirical toward Patrick
   - text reverent toward the two aging survivors of pagan Ireland
 categories:
+  - Location
   - Organization
   - Person
-  - Location
 entities:
   - Christian monk(Person)
   - holy sites(Location)
@@ -53,4 +53,4 @@ Irish mythological text, the Colloquy of the Elders (also known as the Colloquy 
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 283+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Colloquy of the Elders Image](['https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png'])
+![Colloquy of the Elders Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Finn_Mccool_Comes_to_Aid_the_Fianna.png)

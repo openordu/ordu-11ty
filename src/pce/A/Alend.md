@@ -9,12 +9,12 @@ attributes:
   - Hill of Allen hill where the capital once stood
   - Bog Of Allen named after the goddess Alend
 categories:
-  - bog
-  - county
-  - Irish province
   - Irish goddess
-  - hill
+  - bog
   - ancient capital
+  - county
+  - hill
+  - Irish province
 entities:
   - Alend(Irish goddess)
   - Leinster(Irish province)
@@ -53,4 +53,3 @@ Obscure as she may be, Alend is an Irish goddess or heroine and her name was bes
 - Gwynn, Edward. The Metrical Dindshenchas. Part II. Vol. IX. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 81+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alend Image]([None])

@@ -11,10 +11,10 @@ attributes:
   - Ulster warriors set fire to Aithirne's house
   - greedy poet devoured by greedy flames
 categories:
+  - person
   - location
   - title
   - trait
-  - person
 entities:
   - greed(trait)
   - sexual realm(location)
@@ -62,4 +62,3 @@ The Ulster warriors took revenge by burning down Aithirne's house, which consequ
 - Kennedy, Patrick. Legendary Fictions of the Irish Celts. (New York: Benjamin Blom, 1969), 311.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aithirne Image]([None])

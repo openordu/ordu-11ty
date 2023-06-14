@@ -14,10 +14,10 @@ attributes:
   - rituals imply that the dead may grow angry
   - dead cause disruptions in the earthly world
 categories:
-  - Object
-  - Food/Beverage
-  - Event
   - Location
+  - Object
+  - Event
+  - Food/Beverage
 entities:
   - Brittany(Location)
   - France(Location)
@@ -68,4 +68,3 @@ For the Celts, their ancestors’ spirits were always present and remained close
 - Ross, Anne, and Michael Cyprien. *A Traveller’s Guide to Celtic Britain.* Harrisburg, Pa.: Historical Times, 1985, 67.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ancestors Image]([None])

@@ -11,10 +11,10 @@ attributes:
   - Arthur great king
   - Elaine Arthur's half sister
 categories:
-  - King
-  - Arthurian hero
-  - Half sister
   - Location
+  - King
+  - Half sister
+  - Arthurian hero
 entities:
   - Nentres(Arthurian hero)
   - Garlot(Location)
@@ -48,4 +48,4 @@ Nentres, also known as Nentres of Garlot, is an Arthurian hero. At the commencem
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nentres Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg'])
+![Nentres Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1200px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg)

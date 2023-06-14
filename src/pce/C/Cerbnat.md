@@ -13,9 +13,9 @@ attributes:
   - Cichban wife
   - Nerbgen wife
 categories:
-  - wife
   - text
   - Irish heroine
+  - wife
   - hero
 entities:
   - Cerbnat(Irish heroine)
@@ -64,4 +64,3 @@ Irish legendary figure Cerbnat was one of the Five wives of the hero Partholón 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cerbnat Image]([None])

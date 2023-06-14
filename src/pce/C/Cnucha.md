@@ -11,9 +11,9 @@ attributes:
   - Connad father of Cnucha
   - Castleknock burial place of Cnucha
 categories:
+  - person
   - location
   - Irish heroine
-  - person
 entities:
   - Cnucha(Irish heroine)
   - Conn of the Hundred Battles(person)
@@ -50,4 +50,3 @@ An Irish heroine or goddess named Cnucha once served as the nurse to Conn of the
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cnucha Image]([None])

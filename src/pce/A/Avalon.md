@@ -9,9 +9,9 @@ attributes:
   - Avalon western isle of the Otherworld where the dead and the divine mingle
   - Ynys-witrin ancient name of Glastonbury meaning 'glass island'
 categories:
-  - mythical place
   - location
   - ethnic group
+  - mythical place
 entities:
   - Glastonbury(location)
   - Avalon(mythical place)
@@ -45,4 +45,4 @@ Site of British mythology called Avalon (Afallon). During the time that Arthur, 
 - Evans-Wentz, W. Y. The Fairy-Faith in Celtic Countries. Gerrards Cross: Colin Smythe Humanities Press, 1911, 314–315.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Avalon Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/1200px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg'])
+![Avalon Image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg/1200px-Burne-Jones_Last_Sleep_of_Arthur_in_Avalon_v2.jpg)

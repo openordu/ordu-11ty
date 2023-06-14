@@ -11,8 +11,8 @@ attributes:
   - Tadg found badger meat revolting
   - badger cousins of Tadg
 categories:
-  - nationality
   - person
+  - nationality
   - animal
 entities:
   - badger(animal)
@@ -47,4 +47,4 @@ Symbolic animal, the badger was sometimes viewed as a shape-shifting being, simi
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![badger Image](['https://upload.wikimedia.org/wikipedia/commons/7/7f/Badger_laying_on_ground._-_DPLA_-_0335977b4d1504edc799834081ca4fd5.jpg'])
+![badger Image](https://upload.wikimedia.org/wikipedia/commons/7/7f/Badger_laying_on_ground._-_DPLA_-_0335977b4d1504edc799834081ca4fd5.jpg)

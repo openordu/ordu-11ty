@@ -13,11 +13,11 @@ attributes:
 categories:
   - author
   - nationality
-  - literature
   - poet
-  - mythical figure
   - poem
   - time period
+  - literature
+  - mythical figure
 entities:
   - Cailleach(mythical figure)
   - Gaelic-language literatures(literature)
@@ -73,4 +73,4 @@ A Scottish and Irish figure, the Cailleach (also known as Callech, Caillech, Cai
 - Straffon, Cheryl. The Earth Goddess: Celtic and Pagan Legacy of the Landscape. London: Blandford, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cailleach Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg/1200px-Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg'])
+![Cailleach Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg/1200px-Wonder_tales_from_Scottish_myth_and_legend_%281917%29_%2814566397697%29.jpg)

@@ -13,14 +13,14 @@ attributes:
   - Crudel pagan king
   - Christian warriors warriors
 categories:
-  - Pagan king
-  - Event
-  - Cup
-  - Group
-  - Jewish merchant
-  - Hero
-  - Religious figure
   - Location
+  - Hero
+  - Event
+  - Jewish merchant
+  - Cup
+  - Religious figure
+  - Pagan king
+  - Group
 entities:
   - Arthurian(Hero)
   - Joseph Of Arimathea(Jewish merchant)
@@ -68,4 +68,3 @@ Arthurian hero, known for his cruelty, encountered the Jewish merchant Joseph of
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crudel Image]([None])

@@ -12,9 +12,9 @@ attributes:
   - warriors killed all three daughters
   - Irnan related to the story
 categories:
-  - Irish goddess
   - warriors
   - mythical race
+  - Irish goddess
 entities:
   - Conaran(Irish goddess)
   - Fianna(warriors)
@@ -46,4 +46,3 @@ Conaran is an enigmatic deity in Irish mythology who was the mother of three sor
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conaran Image]([None])

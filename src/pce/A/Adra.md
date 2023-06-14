@@ -11,11 +11,11 @@ attributes:
   - Bith father of both Adra and Cesair
   - Ladra otherwise said to be Cesair's mate
 categories:
-  - father of both Adra and Cesair
-  - mythic history of Ireland
-  - land's first settler
-  - Cesair's mate
   - Irish hero
+  - land's first settler
+  - mythic history of Ireland
+  - Cesair's mate
+  - father of both Adra and Cesair
 entities:
   - Adra(Irish hero)
   - Book Of Invasions(mythic history of Ireland)
@@ -52,4 +52,3 @@ Irish hero Adra features in the Book of Invasions, which chronicles Ireland's my
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Adra Image]([None])

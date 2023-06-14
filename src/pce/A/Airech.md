@@ -9,10 +9,10 @@ attributes:
   - Airech steersman of the death barge
   - Donn mysterious
 categories:
-  - ruler of death
-  - Milesians
-  - foster father
   - Irish hero
+  - foster father
+  - Milesians
+  - ruler of death
 entities:
   - Airech(Irish hero)
   - Bard(Milesians)
@@ -44,4 +44,3 @@ Irish mythology features the enigmatic Airech, a hero who does not hold a promin
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Airech Image]([None])

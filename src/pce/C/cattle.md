@@ -9,9 +9,9 @@ attributes:
   - Beltane cattle were driven between signal fires on Beltane to magically assure their health and well-being
   - summer grazing season Beltane marks the beginning of the summer grazing season
 categories:
-  - animal
-  - practice
   - food
+  - practice
+  - animal
 entities:
   - Divination(practice)
   - Bull(animal)
@@ -43,4 +43,4 @@ Cattle, a symbolic animal, held great importance for the Celts who primarily rel
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cattle Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg'])
+![cattle Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/1200px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg)

@@ -45,4 +45,3 @@ Nessa, also known as Ness, Nes, and Assa, was an Irish goddess and the mother of
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 4-5.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nessa Image]([None])

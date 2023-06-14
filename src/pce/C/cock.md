@@ -14,13 +14,13 @@ attributes:
   - Black cocks viewed as lucky
   - white cocks viewed as unlucky
 categories:
-  - associated with the cock
   - month
-  - viewed as lucky
+  - associated with the cock
   - power
-  - Symbolic animal
-  - viewed as unlucky
+  - viewed as lucky
   - utilitarian
+  - viewed as unlucky
+  - Symbolic animal
 entities:
   - cock(Symbolic animal)
   - domestic chickens(utilitarian)
@@ -66,4 +66,3 @@ Symbolic animal, the cock, drew certain superstitions towards itself, though dom
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cock Image]([None])

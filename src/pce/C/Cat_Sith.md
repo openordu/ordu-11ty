@@ -8,9 +8,9 @@ attributes:
   - Cat Sith Huge dark creature
   - Cat Sith Believed to be either a Fairy or a Witch in disguise
 categories:
+  - Location
   - Scottish folkloric figure
   - Mythical creature
-  - Location
 entities:
   - Cat Sith(Scottish folkloric figure)
   - Highlands(Location)
@@ -41,4 +41,4 @@ Scottish folklore features the Cat Sith, a massive dark entity that was thought 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cat Sith Image](['https://upload.wikimedia.org/wikipedia/commons/3/38/Page_158_illustration_in_More_English_Fairy_Tales.png'])
+![Cat Sith Image](https://upload.wikimedia.org/wikipedia/commons/3/38/Page_158_illustration_in_More_English_Fairy_Tales.png)

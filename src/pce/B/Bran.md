@@ -10,8 +10,8 @@ attributes:
   - Omeath nearby location
   - Co. Louth county
 categories:
-  - location
   - person
+  - location
 entities:
   - Fionn(person)
   - Carnawaddy(location)
@@ -52,4 +52,4 @@ Brangien (Braignwen, Brangaine, Golwg). Arthurian heroine. In the great romance 
 Brân the Blessed (Bendigeidfran, Brân Fendigeid, Bendigeid Fran, Bendigeit Vran, Brân Llyr). Welsh hero or god. One of the great heroes of the Welsh epic cycle, the Mabinogion, Brân was the son of Llyr and brother of the fair Branwen. He was so huge that not a single building could house him, so he lived happily in the open air. When Branwen was lured away to Ireland, where she was virtually imprisoned, Brân led an expedition to retrieve her, during which he suffered a fatal wound from a poisoned spear. Dying, he instructed his warriors to cut off his Head and carry it back to Wales. They did so, discovering along the way that Brân’s head (called Urdawl Ben, “the noble head”) was quite entertaining, singing and telling stories for 87 years before its burial, in an ongoing party called the Assembly of the Wondrous Head. Brân is one of those hard-to-categorize figures over which scholarly debate rages, some contending that he is a literary figure while others find him an ancient god. Among those who contend the latter, Brân is variously a Celtic sea deity or a pre-Celtic divinity merged with a later god, a form of the British god Belatucadros, or an early version of the Fisher King.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bran Image](['https://upload.wikimedia.org/wikipedia/commons/1/16/Wheat_bran_structure.gif'])
+![Bran Image](https://upload.wikimedia.org/wikipedia/commons/1/16/Wheat_bran_structure.gif)

@@ -12,9 +12,9 @@ attributes:
   - Finnbheara lover of the Fairy Queen
 categories:
   - title
+  - Irish heroine
   - group
   - name
-  - Irish heroine
 entities:
   - Nuala(Irish heroine)
   - Fionnuala(name)
@@ -57,4 +57,3 @@ A notable figure in Irish mythology is Nuala, often considered a diminutive form
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nuala Image]([None])

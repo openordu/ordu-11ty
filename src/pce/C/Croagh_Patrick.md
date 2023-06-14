@@ -12,15 +12,15 @@ attributes:
   - Croagh Patrick locally called The Reek
   - last Sunday in July day of climbing Croagh Patrick
 categories:
-  - Demon
-  - Event
-  - Place
-  - Person
   - Religious Figure
-  - Festival
-  - Mountain
   - Religion
+  - Event
+  - Mountain
   - Month
+  - Festival
+  - Place
+  - Demon
+  - Person
 entities:
   - St. Patrick(Person)
   - Christ(Religious Figure)
@@ -76,4 +76,4 @@ In Co. Mayo, in the west of Ireland, a striking triangular mountain ascends from
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Croagh Patrick Image](['https://upload.wikimedia.org/wikipedia/commons/8/84/Croagh_Patrick%2C_the_saddle_on_the_western_flanks_-_geograph.org.uk_-_605872.jpg'])
+![Croagh Patrick Image](https://upload.wikimedia.org/wikipedia/commons/8/84/Croagh_Patrick%2C_the_saddle_on_the_western_flanks_-_geograph.org.uk_-_605872.jpg)

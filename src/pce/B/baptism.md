@@ -10,10 +10,10 @@ attributes:
   - three drops of water protection
   - ancient baptismal ritual origin
 categories:
-  - location
-  - event
-  - substance
   - person
+  - location
+  - substance
+  - event
 entities:
   - children(person)
   - Hebrides(location)
@@ -52,4 +52,4 @@ The ritual of namegiving was a common Celtic practice that involved baptizing ch
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![baptism Image](['https://upload.wikimedia.org/wikipedia/commons/a/ad/Battesimo_dei_neofiti_2.jpg'])
+![baptism Image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Battesimo_dei_neofiti_2.jpg)

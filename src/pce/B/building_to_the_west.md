@@ -8,8 +8,8 @@ attributes:
   - roof taken off
   - cowhouse exposed to elements
 categories:
-  - structure
   - natural phenomenon
+  - structure
 entities:
   - roof(structure)
   - cowhouse(structure)
@@ -37,4 +37,3 @@ To the west lies the Mythic theme, an important concept in Celtic culture. It wa
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![building to the west Image]([None])

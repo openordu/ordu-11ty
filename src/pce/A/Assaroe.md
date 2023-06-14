@@ -15,12 +15,12 @@ attributes:
   - water receives the divine power of Ruad
   - land receives life from the water
 categories:
+  - mythical creatures
+  - mythical character
+  - mythology
+  - poet
   - mythical place
   - goddess
-  - mythical character
-  - poet
-  - mythology
-  - mythical creatures
 entities:
   - Ruad(goddess)
   - Mermaids(mythical creatures)
@@ -65,4 +65,4 @@ The site of Assaroe on the River Erne in Co. Sligo, renowned in legend, is home 
 - Gwynn, Edward. The Metrical Dindshenchas. Part IV. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 3-9.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Assaroe Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Picturesque_Donegal-_its_mountains%2C_rivers%2C_and_lakes._Being_the_Great_Northern_Railway_%28Ireland%29_Company%27s_illustrated_guide_to_the_sporting_and_touring_grounds_of_the_north_of_Ireland_%281908%29_%2814777237441%29.jpg/1200px-thumbnail.jpg'])
+![Assaroe Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Picturesque_Donegal-_its_mountains%2C_rivers%2C_and_lakes._Being_the_Great_Northern_Railway_%28Ireland%29_Company%27s_illustrated_guide_to_the_sporting_and_touring_grounds_of_the_north_of_Ireland_%281908%29_%2814777237441%29.jpg/1200px-thumbnail.jpg)

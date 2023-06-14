@@ -11,10 +11,10 @@ attributes:
   - Otherworld descended to the Otherworld
   - Oweynagat through Oweynagat
 categories:
-  - time
-  - place
-  - epic
   - person
+  - time
+  - epic
+  - place
 entities:
   - Samhain(time)
   - Cruachan(place)
@@ -58,4 +58,3 @@ An important Irish mythological site is Cruachan, also known as Crogan, Rathcrog
 - Raftery, Brian. Pagan Celtic Ireland: The Enigma of the Irish Iron Age. London: Thames and Hudson, 1994, 70.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cruachan Image]([None])

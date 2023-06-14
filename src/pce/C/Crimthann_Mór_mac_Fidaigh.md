@@ -9,10 +9,10 @@ attributes:
   - Mongfhinn supernatural
   - Eithne Úathach cannibal
 categories:
-  - historical figure
   - location
-  - supernatural being
   - cannibal woman
+  - historical figure
+  - supernatural being
 entities:
   - Crimthann Mór mac Fidaigh(historical figure)
   - Mongfhinn(supernatural being)
@@ -44,4 +44,3 @@ Brother of the legendary Mongfhinn and father of the infamous Eithne Úathach, C
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crimthann Mór mac Fidaigh Image]([None])

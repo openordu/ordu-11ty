@@ -15,8 +15,8 @@ attributes:
   - women would drink water ritually
   - bullauns receptacles for libations or fluid offerings
 categories:
-  - Symbolic object
   - location
+  - Symbolic object
   - feminine symbols
 entities:
   - bullaun(Symbolic object)
@@ -52,4 +52,4 @@ Round stones with holes in them found at holy wells and other sacred sites in Ir
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bullaun Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/St_Johns_%2809%29%2C_October_2009.JPG/1200px-St_Johns_%2809%29%2C_October_2009.JPG'])
+![bullaun Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/St_Johns_%2809%29%2C_October_2009.JPG/1200px-St_Johns_%2809%29%2C_October_2009.JPG)

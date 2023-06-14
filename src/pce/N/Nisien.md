@@ -10,8 +10,8 @@ attributes:
   - evil brother Nisien may be simply a positive foil for him
   - Welsh tales recorded as the Mabinogion
 categories:
-  - character
   - literary work
+  - character
 entities:
   - Nisien(character)
   - Welsh tales(literary work)
@@ -44,4 +44,3 @@ A hero or god in Welsh mythology is Nisien (Nissien, Nisyen). Brân The Blessed,
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nisien Image]([None])

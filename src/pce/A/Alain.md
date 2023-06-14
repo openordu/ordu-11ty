@@ -37,4 +37,3 @@ Fisher King is seen by Alain. Also, Alator is a British warrior or a healing god
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Alain Image]([None])

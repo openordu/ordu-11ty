@@ -11,8 +11,8 @@ attributes:
   - London Beli's gate
   - Bile Irish god
 categories:
-  - location
   - person
+  - location
   - concept
 entities:
   - god of death(concept)
@@ -58,4 +58,3 @@ Celtic ancestry is embodied by Beli, who is also likely a god, according to scho
 - Rhys, John. The Welsh People. London: T. Fisher Unwin, 1906. Page 43.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Beli Image]([None])

@@ -9,9 +9,9 @@ attributes:
   - fish lure
   - place honor
 categories:
+  - activity
   - location
   - animal
-  - activity
 entities:
   - actions(activity)
   - fish(animal)
@@ -40,4 +40,3 @@ An Irish mythological being known as Ban Naemha (Ban Naema) is prominent in the 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ban Naemha Image]([None])

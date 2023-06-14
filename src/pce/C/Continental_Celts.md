@@ -26,4 +26,4 @@ Continental Celts See Gaul.
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Continental Celts Image](['https://upload.wikimedia.org/wikipedia/commons/1/1f/Celts_in_Europe.png'])
+![Continental Celts Image](https://upload.wikimedia.org/wikipedia/commons/1/1f/Celts_in_Europe.png)

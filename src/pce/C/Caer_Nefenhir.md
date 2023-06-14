@@ -9,8 +9,8 @@ attributes:
   - Caer Nefenhir castle of high heaven
   - Kulhwch And Olwen story
 categories:
-  - ancient text
   - mythological site
+  - ancient text
 entities:
   - Caer Nefenhir(mythological site)
   - Kulhwch And Olwen(ancient text)
@@ -36,4 +36,3 @@ An Otherworld location known as Caer Nefenhir, which translates to "castle of hi
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caer Nefenhir Image]([None])

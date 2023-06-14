@@ -12,11 +12,11 @@ attributes:
   - Iubdan husband of Bebo
   - Iubdan offered magical shoes to Fergus
 categories:
-  - Fairy king
-  - land
   - object
   - Irish heroine
+  - land
   - king
+  - Fairy king
 entities:
   - Bebo(Irish heroine)
   - Iubdan(Fairy king)
@@ -54,4 +54,4 @@ An Irish heroine named Bebo, who was married to the Fairy king Iubdan and was eq
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bebo Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Bebo.svg/1200px-Logo_Bebo.svg.png'])
+![Bebo Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Logo_Bebo.svg/1200px-Logo_Bebo.svg.png)

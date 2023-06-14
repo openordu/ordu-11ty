@@ -46,4 +46,3 @@ Crochan (Cruacha) is a figure from Irish mythology who is either a heroine or a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crochan Image]([None])

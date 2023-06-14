@@ -10,8 +10,8 @@ attributes:
   - Camelot entirely of this world
   - Camelot affected by influences from beyond
 categories:
-  - Person
   - Location
+  - Person
 entities:
   - Camelot(Location)
   - Avalon(Location)
@@ -44,4 +44,4 @@ Welsh and British mythology have a site known as Camelot, where several places c
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Camelot Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Idylls_of_the_King_3.jpg/1200px-Idylls_of_the_King_3.jpg'])
+![Camelot Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Idylls_of_the_King_3.jpg/1200px-Idylls_of_the_King_3.jpg)

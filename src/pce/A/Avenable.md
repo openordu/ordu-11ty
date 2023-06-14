@@ -12,11 +12,11 @@ attributes:
   - she had revealed her true gender
   - emperor married Avenable
 categories:
+  - Location
+  - Action
+  - Occupation
   - Animal
   - Person
-  - Occupation
-  - Action
-  - Location
 entities:
   - Rome(Location)
   - empress(Person)
@@ -66,4 +66,3 @@ Grisandole was a brave and ambitious young woman from Britain who decided to lea
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Avenable Image]([None])

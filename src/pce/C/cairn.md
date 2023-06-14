@@ -11,9 +11,9 @@ attributes:
   - legend associated with many cairns
   - ritual possibly associated with cairns
 categories:
+  - Location
   - Mythological Site
   - Culture
-  - Location
 entities:
   - Celtic lands(Location)
   - Megalithic Civilization(Culture)
@@ -47,4 +47,4 @@ Mounds of rocks, known as cairns, can be found at significant locations througho
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cairn Image](['https://upload.wikimedia.org/wikipedia/commons/4/4a/Cairn_at_Garvera%2C_Surselva%2C_Graubuenden%2C_Switzerland.jpg'])
+![cairn Image](https://upload.wikimedia.org/wikipedia/commons/4/4a/Cairn_at_Garvera%2C_Surselva%2C_Graubuenden%2C_Switzerland.jpg)

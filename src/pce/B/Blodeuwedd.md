@@ -10,12 +10,12 @@ attributes:
   - queen ritual marriage
   - king sacrifice
 categories:
-  - royalty
   - ritual
-  - mythological figure
-  - person
   - animal
   - crime
+  - person
+  - mythological figure
+  - royalty
 entities:
   - murder(crime)
   - Owl(animal)
@@ -62,4 +62,4 @@ Blodeuwedd, also known as Bloduwith or Blodeuedd, was a Welsh goddess. The story
 - Graves, Robert. The White Goddess: A Historical Grammar of Poetic Myth. New York: Farrar, Strauss and Giroux, 1948. Pp. 308-316.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blodeuwedd Image](['https://upload.wikimedia.org/wikipedia/en/e/e5/Blodeuwedd_-_Christopher_Williams.jpg'])
+![Blodeuwedd Image](https://upload.wikimedia.org/wikipedia/en/e/e5/Blodeuwedd_-_Christopher_Williams.jpg)

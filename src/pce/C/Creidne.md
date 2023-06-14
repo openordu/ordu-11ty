@@ -8,9 +8,9 @@ attributes:
   - Creidne drowned while attempting to import gold from Spain
   - Creidne one of the Warrior Women who fought with the famed Fianna
 categories:
+  - Location
   - Group
   - Person
-  - Location
 entities:
   - Creidne(Person)
   - Spain(Location)
@@ -41,4 +41,3 @@ Creidne, an Irish deity, was a skilled artisan, belonging to the magical group k
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Creidne Image]([None])

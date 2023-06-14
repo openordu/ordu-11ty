@@ -10,14 +10,14 @@ attributes:
   - cattail fluffy white wool was thought to be shape-shifted witches riding to secret gatherings on the winds
   - snowflakes witches could hide in them as they traveled
 categories:
+  - Scottish folkloric motif
+  - supernatural beings
+  - tree
+  - supernatural practice
+  - plant
+  - plant reproductive material
   - negative force
   - Scottish Gaelic name for cattail
-  - supernatural practice
-  - plant reproductive material
-  - plant
-  - Scottish folkloric motif
-  - tree
-  - supernatural beings
 entities:
   - canach(Scottish folkloric motif)
   - catkin(plant)
@@ -66,4 +66,4 @@ The Scottish folktale of canach (also known as catkin or clòimh-chat) centers a
 - McKay, John G. More West Highland Tales. Vol. 2. Scottish Anthropological and Folklore Society. Edinburgh: Oliver and Boyd, 1969, 369-370.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![canach Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirche_Canach_04.jpg/1200px-Kirche_Canach_04.jpg'])
+![canach Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kirche_Canach_04.jpg/1200px-Kirche_Canach_04.jpg)

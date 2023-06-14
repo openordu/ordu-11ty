@@ -9,9 +9,9 @@ attributes:
   - Fionn Mac Cumhaill foster son
   - Bodhmall instructed Fionn in the occult arts
 categories:
+  - Irish heroine
   - great hero
   - occult arts
-  - Irish heroine
 entities:
   - Bodhmall(Irish heroine)
   - Druid(occult arts)
@@ -40,4 +40,3 @@ Irish heroine Bodhmall (also known as Boghmin) was a Druid who played the role o
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bodhmall Image]([None])

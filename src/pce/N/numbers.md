@@ -13,11 +13,11 @@ attributes:
   - goddess Étain forced to live for seven years as an insect
   - magical Lough Gur dries up every seven years to reveal its secrets
 categories:
-  - region
-  - mythical character
-  - magical place
-  - number
   - culture
+  - magical place
+  - mythical character
+  - number
+  - region
 entities:
   - four(number)
   - five(number)
@@ -62,4 +62,4 @@ Celtic culture attributed to numbers a mysterious and powerful nature, even some
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![numbers Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NumberSetinC.svg/1200px-NumberSetinC.svg.png'])
+![numbers Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NumberSetinC.svg/1200px-NumberSetinC.svg.png)

@@ -10,9 +10,9 @@ attributes:
   - Scottish lore described bad girls as combing fleas and frogs from their hair
   - Scottish lore described good girls releasing gold and jewels
 categories:
+  - Location
   - Object
   - Person
-  - Location
 entities:
   - Ireland(Location)
   - Medb(Person)
@@ -45,4 +45,4 @@ The comb is a symbolic item linked to the Mermaid. According to folklore, the Me
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![comb Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plastic_comb%2C_2015-06-07.jpg/1200px-Plastic_comb%2C_2015-06-07.jpg'])
+![comb Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plastic_comb%2C_2015-06-07.jpg/1200px-Plastic_comb%2C_2015-06-07.jpg)

@@ -29,4 +29,4 @@ The British goddess, Britannia, has been the subject of some debate regarding th
 - Ross, Anne, and Michael Cyprien. A Traveller’s Guide to Celtic Britain. Harrisburg, Pa.: Historical Times, 1985, 101.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Britannia Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Britannia-Statue.jpg/1200px-Britannia-Statue.jpg'])
+![Britannia Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Britannia-Statue.jpg/1200px-Britannia-Statue.jpg)

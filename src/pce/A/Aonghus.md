@@ -9,8 +9,8 @@ attributes:
   - Aonghus of the Fir Bolg
   - Dún Aonghusa great stone fort
 categories:
-  - Place
   - CreativeWork
+  - Place
   - Organization
   - Person
 entities:
@@ -70,4 +70,4 @@ A deity or hero of Ireland and Scotland is Aonghus (Angus, Aengus, Oengus). Diff
 - Ó hÓgain, Dáithí. Myth, Legend and Romance: An Encyclopedia of the Irish Folk Tradition. New York: Prentice-Hall Press, 1991. Pp. 39-40.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aonghus Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/1200px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg'])
+![Aonghus Image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/1200px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg)

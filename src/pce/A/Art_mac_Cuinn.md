@@ -10,10 +10,10 @@ attributes:
   - Achtan Conceived Cormac Mac Airt
   - Art Died at the battle of Mag Mucrama
 categories:
-  - Magical heroine
+  - Form of the goddess of Sovereignty
   - Battle
   - Consort
-  - Form of the goddess of Sovereignty
+  - Magical heroine
   - Great hero
 entities:
   - Art(Consort)
@@ -52,4 +52,3 @@ Art mac Cuinn, who was given the name Art, meaning Bear, was an Irish hero and c
 - Curtin, Jeremiah. *Hero-Tales of Ireland*. New York: Benjamin Blom, 1894, 312.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Art mac Cuinn Image]([None])

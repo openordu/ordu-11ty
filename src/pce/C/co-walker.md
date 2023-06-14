@@ -10,11 +10,11 @@ attributes:
   - co-walkers sometimes described as Twin souls, freed with the approach of death, but they were also spoken of as Fairies disguised as the person who stood on the edge of the Otherworld
   - shades or fairies who would ultimately depart and not be seen again, although it is unclear whether the danger was considered to be to the deceased or the living
 categories:
-  - mythical creature
-  - mythical place
   - building
+  - mythical creature
   - person
   - folkloric figure
+  - mythical place
 entities:
   - co-walker(folkloric figure)
   - woman(person)
@@ -53,4 +53,3 @@ A figure in Irish and Scottish folklore was the co-walker. It was said that shor
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![co-walker Image]([None])

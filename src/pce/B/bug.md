@@ -8,8 +8,8 @@ attributes:
   - buggane never seen after
   - roofing project abandoned
 categories:
-  - mythical creature
   - construction project
+  - mythical creature
 entities:
   - buggane(mythical creature)
   - roofing project(construction project)
@@ -37,4 +37,3 @@ A particular syllable, 'bug', is commonly found in the names of many mischievous
 - Spence, Lewis. The Minor Traditions of British Mythology. New York: Benjamin Blom, Inc., 1972, 87.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bug Image]([None])

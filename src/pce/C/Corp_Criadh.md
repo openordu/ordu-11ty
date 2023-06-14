@@ -43,4 +43,3 @@ A Scottish ritual object known as Corp Criadh (or Corp Creagh) was used in the H
 - Henderson, George. Survivals in Belief Among the Celts. Glasgow: James MacLeose and Sons, 1911, 16.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corp Criadh Image]([None])

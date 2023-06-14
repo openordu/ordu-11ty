@@ -14,10 +14,10 @@ attributes:
   - challengers sent by Annowre to overpower Arthur in pairs
   - Tristan knight who assisted Arthur in freeing him from Annowre's captivity
 categories:
-  - king
+  - heroine
   - knight
   - witch or sorceress
-  - heroine
+  - king
 entities:
   - Annowre(heroine)
   - Morgan(witch or sorceress)
@@ -57,4 +57,3 @@ Arthurian legend features Annowre, a witch or sorceress who, bearing a resemblan
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Annowre Image]([None])

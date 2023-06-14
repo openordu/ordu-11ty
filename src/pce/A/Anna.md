@@ -10,11 +10,11 @@ attributes:
   - texts must be read with suspicion
   - texts with alertness for the insertion of Christian beliefs and motifs
 categories:
-  - Religious entity
-  - Mythological entity
-  - Organization
-  - Artistic entity
   - Location
+  - Religious entity
+  - Organization
+  - Mythological entity
+  - Artistic entity
 entities:
   - Irish monks(Organization)
   - Ireland(Location)
@@ -50,4 +50,3 @@ Anna, an Arthurian heroine, is a little-known character mentioned as King Arthur
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Anna Image]([None])

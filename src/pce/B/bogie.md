@@ -18,12 +18,12 @@ attributes:
   -  goblin_appearance
 categories:
   - location
-  - event
+  - trickster figure
+  - type of bogie
   - date
   - group of fairies
-  - type of bogie
-  - trickster figure
   - Scottish mythological figure
+  - event
 entities:
   - bogie(Scottish mythological figure)
   - bogle(trickster figure)
@@ -102,4 +102,4 @@ Scottish mythology features the bogie (also known as bogle, bug, or bug-a-boo), 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bogie Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Seitenkipper-Ua4201-Drehgestell.jpg/1200px-Seitenkipper-Ua4201-Drehgestell.jpg'])
+![bogie Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Seitenkipper-Ua4201-Drehgestell.jpg/1200px-Seitenkipper-Ua4201-Drehgestell.jpg)

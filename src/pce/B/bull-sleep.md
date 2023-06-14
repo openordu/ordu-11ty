@@ -10,15 +10,15 @@ attributes:
   - Scottish Highlanders bound up a diviner in bulls’ hides and left him to dream of the future
   - literary tourist described a ritual of “horrible solemnity” practiced in the Trotternish district in which a man was sewn up in an oxhide and slept under a high waterfall to gain precognitive knowledge
 categories:
-  - group
-  - concept
+  - time
   - animal product
+  - concept
+  - group
+  - animal
   - place
   - activity
-  - animal
-  - person
-  - time
   - natural feature
+  - person
 entities:
   - Conaire(person)
   - bird(animal)
@@ -83,4 +83,3 @@ The Irish and Scottish peoples conducted a fascinating and ancient ceremony know
 - Ross, Anne. Folklore of the Scottish Highlands. London: B. T. Batsford, Ltd., 1976, 58.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bull-sleep Image]([None])

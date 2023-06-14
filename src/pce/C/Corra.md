@@ -8,8 +8,8 @@ attributes:
   - Corra interpreted as a Mother Goddess
   - Corra whose power was broken by the arrival of patriarchal Christianity
 categories:
-  - Mother Goddess
   - religion
+  - Mother Goddess
 entities:
   - Corra(Mother Goddess)
   - patriarchal Christianity(religion)
@@ -35,4 +35,3 @@ A certain heroine or goddess named Corra appears in Irish mythology. The narrati
 - MacNeill, Máire. "The Festival of Lughnasa, Parts I and II." Dublin: Comhairle Bhéaloideas Éireann, 1982, 503.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corra Image]([None])

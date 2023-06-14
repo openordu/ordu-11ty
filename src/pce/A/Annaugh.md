@@ -10,8 +10,8 @@ attributes:
   - Collins Wood location of Annaugh
 categories:
   - place
-  - Irish goddess
   - concept
+  - Irish goddess
 entities:
   - Annaugh(Irish goddess)
   - Collins Wood(place)
@@ -43,4 +43,3 @@ An elusive deity named Annaugh, also known as Anna, was worshipped exclusively i
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Annaugh Image]([None])

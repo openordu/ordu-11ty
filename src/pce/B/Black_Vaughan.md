@@ -16,12 +16,12 @@ attributes:
   - woman with a newborn baby
   - woman whose purity and innocence
 categories:
-  - Insect
+  - Location
+  - Ability
   - Human
   - British folkloric figure
+  - Insect
   - Supernatural being
-  - Ability
-  - Location
 entities:
   - Black Vaughan(British folkloric figure)
   - Lancastershire(Location)
@@ -69,4 +69,3 @@ A British folkloric figure known as Black Vaughan is said to have haunted Lancas
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Black Vaughan Image]([None])

@@ -11,9 +11,9 @@ attributes:
   - Gaulish name may derive from a Gaulish or Welsh word for “malt,” suggesting a connection between drunkenness and aggression
   - Celtic leaders gave their warriors alcoholic beverages before battle
 categories:
-  - None
   - warrior god Mars
   - Continental Celtic god
+  - None
 entities:
   - Braciaea(Continental Celtic god)
   - Romans(warrior god Mars)
@@ -50,4 +50,3 @@ A Continental Celtic divinity known as Braciaea represents an enigmatic Gallic d
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Braciaea Image]([None])

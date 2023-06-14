@@ -12,12 +12,12 @@ attributes:
   - Queen appeared as a Washer At The Ford before disasters
   - Queen was especially connected with the O'Brien family
 categories:
-  - Historical hero
+  - Fairy
   - Family
   - Mythical creatures
-  - Sea fairy
   - Poet
-  - Fairy
+  - Sea fairy
+  - Historical hero
 entities:
   - Aeval(Fairy)
   - Banshees(Mythical creatures)
@@ -61,4 +61,3 @@ An Irish spirit with many names, Aeval Eevell, Aoibheall, Aibell, Aebill, Aoibhe
 - Merriman, Brian. The Midnight Court. Translated by Frank O’Connor. Dublin: The O’Brien Press, 1989.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aeval Image]([None])

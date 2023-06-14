@@ -43,4 +43,3 @@ Irish tales of the Ulster Cycle feature Concobar mac Nessa, a renowned king of U
 - Hull, Eleanor. The Cuchullin Saga in Irish Literature. (London: David Nutt, 1898), 267+.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Concobar mac Nessa Image]([None])

@@ -8,8 +8,8 @@ attributes:
   - Ádammair husband of Flidais
   - Ádammair few known myths
 categories:
-  - Irish woodland goddess
   - Irish god
+  - Irish woodland goddess
 entities:
   - Ádammair(Irish god)
   - Flidais(Irish woodland goddess)
@@ -34,4 +34,3 @@ Obscurity surrounds Ádammair, the Irish deity known for being the husband of Fl
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ádammair Image]([None])

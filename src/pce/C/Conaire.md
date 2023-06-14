@@ -11,11 +11,11 @@ attributes:
   - the fearsome hag threatened him as his life ended
   - the lady of the land's Sovereignty None
 categories:
-  - form
   - position
   - place
   - person
   - relationship
+  - form
 entities:
   - she(person)
   - him(person)
@@ -63,4 +63,3 @@ Conaire, also known as Conare, Conaire Mór, or Conaire Mess Buachalla, was an I
 - O’Rahilly, Thomas. Early Irish History and Mythology. (Dublin: The Dublin Institute for Advanced Studies, 1946), 124.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Conaire Image]([None])

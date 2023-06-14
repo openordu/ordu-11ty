@@ -9,9 +9,9 @@ attributes:
   - Coel euhemerized or diminished into a mere human
   - Coel ancient
 categories:
-  - town
-  - mythological figure
   - nursery rhyme character
+  - mythological figure
+  - town
   - British god
 entities:
   - Coel(British god)
@@ -44,4 +44,4 @@ British god Coel (also known as Coel Hen) is often mentioned in the popular nurs
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Coel Image](['https://upload.wikimedia.org/wikipedia/commons/1/15/History_of_the_Kings_%28f.39.v%29_Coel.jpg'])
+![Coel Image](https://upload.wikimedia.org/wikipedia/commons/1/15/History_of_the_Kings_%28f.39.v%29_Coel.jpg)

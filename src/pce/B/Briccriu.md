@@ -14,13 +14,13 @@ attributes:
   - queen Medb sexual appetite
   - Fergus mac Róich killed Briccriu
 categories:
-  - lake
-  - story
-  - epic
-  - person
-  - Irish hero
   - profession
+  - Irish hero
+  - person
+  - epic
+  - lake
   - prize
+  - story
 entities:
   - Briccriu(Irish hero)
   - Bricriu Nemhthenga(Irish hero)
@@ -73,4 +73,3 @@ Briccriu, also known as Bricriu Nemhthenga or Bricriu of the Poisonous Tongue, w
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. New York: Henry Holt and Co., 1936, 254. Gantz, Jeffrey. Early Irish Myths & Sagas. New York: Penguin, 1981, 219. Gregory, Lady Augusta. Gods and Fighting Men: The Story of the Tuatha De Danaan and of the Fianna of Ireland. New York: Oxford University Press, 1970, 67.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Briccriu Image]([None])

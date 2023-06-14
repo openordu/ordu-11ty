@@ -10,11 +10,11 @@ attributes:
   - Belatucadros cult strength
   - Belatucadros consort
 categories:
-  - Roman war god
+  - culture
   - ethnicity
+  - Roman war god
   - Continental Celtic god
   - geographic location
-  - culture
 entities:
   - Belatucadros(Continental Celtic god)
   - Gaulish(ethnicity)
@@ -50,4 +50,4 @@ Belatucadros was a Celtic deity, belonging to the Continental Celtic pantheon. T
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Belatucadros Image](['https://upload.wikimedia.org/wikipedia/commons/e/ef/Altar_of_Belatocairus_Kirkbride.png'])
+![Belatucadros Image](https://upload.wikimedia.org/wikipedia/commons/e/ef/Altar_of_Belatocairus_Kirkbride.png)

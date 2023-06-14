@@ -11,10 +11,10 @@ attributes:
   - Cattle dun
 categories:
   - animals
-  - Scottish mythological animal
-  - people
   - supernatural beings
+  - people
   - hornless supernatural Cattle
+  - Scottish mythological animal
 entities:
   - crodh mara(Scottish mythological animal)
   - Highlanders of Scotland(people)
@@ -50,4 +50,3 @@ Scottish folklore describes a creature known as crodh mara. As legend has it, th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![crodh mara Image]([None])

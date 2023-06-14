@@ -18,16 +18,16 @@ attributes:
   - ashes from the Lughnasa bonfires
   - bless used to bless cattle, fields, and people
 categories:
-  - Religious tradition
+  - Symbolic representation
+  - Human
   - Seasonal event
+  - Cultural tradition
+  - Source of remnant ash
   - Symbolic material
   - Animal
-  - Human
   - Religious observance
-  - Source of remnant ash
-  - Symbolic representation
   - Land
-  - Cultural tradition
+  - Religious tradition
 entities:
   - ashes(Symbolic material)
   - peat fires(Source of remnant ash)
@@ -93,4 +93,3 @@ Symbolic material, ashes were significant in many Irish folk traditions, consist
 - Danaher, Kevin. *The Year in Ireland.* Cork: Mercier Press, 1922. Pp. 50, 135.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![ashes Image]([None])

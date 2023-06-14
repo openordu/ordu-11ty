@@ -13,19 +13,19 @@ attributes:
   - ruler position
   - war conflict
 categories:
-  - location
-  - music
-  - art
   - position
-  - invention
-  - military
+  - art
+  - Irish hero
+  - music
   - genre
   - action
-  - hero
   - conflict
-  - Irish hero
+  - hero
+  - military
   - musical instrument
   - character
+  - invention
+  - location
 entities:
   - Craiphtine(Irish hero)
   - musical instrument(invention)
@@ -88,4 +88,3 @@ Irish hero Craiphtine, also known as Craftine or Cratiny, was associated with th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Craiphtine Image]([None])

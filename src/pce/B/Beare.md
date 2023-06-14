@@ -8,8 +8,8 @@ attributes:
   - consonants mutate
   - name Moméa
 categories:
-  - letter
   - person
+  - letter
 entities:
   - consonants(letter)
   - name(person)
@@ -34,4 +34,4 @@ In the province of Munster, at the far southwest of Ireland, a thin peninsula th
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Beare Image](['https://upload.wikimedia.org/wikipedia/commons/9/9a/Beare_Farm_-_geograph.org.uk_-_1800207.jpg'])
+![Beare Image](https://upload.wikimedia.org/wikipedia/commons/9/9a/Beare_Farm_-_geograph.org.uk_-_1800207.jpg)

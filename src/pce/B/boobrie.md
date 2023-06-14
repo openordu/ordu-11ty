@@ -9,8 +9,8 @@ attributes:
   - boobrie danger to subsistence farmers
   - boobrie eats otters when cattle are not available
 categories:
-  - occupation
   - bird
+  - occupation
   - animal
 entities:
   - boobrie(bird)
@@ -49,4 +49,4 @@ A Scottish folkloric figure known as the boobrie (tarbh boibhre) is a shape-shif
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![boobrie Image](['https://upload.wikimedia.org/wikipedia/commons/0/01/Wormius%27_Great_Auk.jpg'])
+![boobrie Image](https://upload.wikimedia.org/wikipedia/commons/0/01/Wormius%27_Great_Auk.jpg)

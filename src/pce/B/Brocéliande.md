@@ -15,15 +15,15 @@ attributes:
   - Forest of Paimpont now called
   - Nemeton Europe's last remaining
 categories:
-  - location
-  - magician
-  - sacred site
-  - sacredness
-  - legendary
-  - Arthurian site
-  - primeval forest
-  - mistress
   - culture
+  - legendary
+  - magician
+  - mistress
+  - sacredness
+  - primeval forest
+  - sacred site
+  - Arthurian site
+  - location
 entities:
   - Brocéliande(Arthurian site)
   - Merlin(magician)
@@ -79,4 +79,4 @@ Brocéliande, an Arthurian site located in eastern Brittany, is a legendary fore
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brocéliande Image](['https://upload.wikimedia.org/wikipedia/commons/c/c4/Idylls_of_the_King_18.jpg'])
+![Brocéliande Image](https://upload.wikimedia.org/wikipedia/commons/c/c4/Idylls_of_the_King_18.jpg)

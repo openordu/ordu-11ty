@@ -9,9 +9,9 @@ attributes:
   - caul preserved as a good-luck charm
   - Ireland location
 categories:
-  - location
   - attribute
   - object
+  - location
 entities:
   - caul(object)
   - cap of happiness(attribute)
@@ -43,4 +43,3 @@ An interesting folkloric motif exists where infants are born with a veil of skin
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![caul Image]([None])

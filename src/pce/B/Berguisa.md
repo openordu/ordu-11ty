@@ -10,10 +10,10 @@ attributes:
   - Burgundy eastern
   - Ucuetis consort
 categories:
-  - ethnic group
   - region
   - god
   - Continental Celtic goddess
+  - ethnic group
 entities:
   - Berguisa(Continental Celtic goddess)
   - Celts(ethnic group)
@@ -46,4 +46,3 @@ Continental Celtic deity Berguisa, revered by the Celts inhabiting eastern Burgu
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Berguisa Image]([None])

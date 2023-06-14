@@ -19,16 +19,16 @@ attributes:
   - Borvo identical with the healing Apollo
   - Borvo name may mean “boiling,” an appropriate name for a god of hot springs
 categories:
-  - alternative name for Damona
+  - healing Springs
+  - ethnic group
   - healing god
   - plural form of Sul
-  - goddess
+  - alternative name for Damona
   - mother of Borvo
-  - Continental Celtic god
-  - ethnic group
-  - healing Springs
   - horned Serpent
   - consort of Borvo
+  - goddess
+  - Continental Celtic god
 entities:
   - Borvo(Continental Celtic god)
   - Gauls(ethnic group)
@@ -88,4 +88,3 @@ Male deity Borvo, also referred to as Bormanus or Bormo, is a god belonging to t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Borvo Image]([None])

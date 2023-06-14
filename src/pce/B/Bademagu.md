@@ -9,8 +9,8 @@ attributes:
   - Meleagant kidnapped queen
   - Bademagu kindly king
 categories:
-  - character
   - object
+  - character
 entities:
   - Lancelot(character)
   - Meleagant(character)
@@ -42,4 +42,3 @@ In one of the lesser-known tales of the Arthurian cycle, an Arthurian hero named
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bademagu Image]([None])

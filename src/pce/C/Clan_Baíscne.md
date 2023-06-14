@@ -10,8 +10,8 @@ attributes:
   - Clan Morna followers of the one-eyed Goll Mac Morna
   - Fianna formed by the joining of Clan Baíscne and Clan Morna
 categories:
-  - group
   - person
+  - group
 entities:
   - Clan Baíscne(group)
   - Fionn Mac Cumhaill(person)
@@ -44,4 +44,3 @@ Irish heroes known as Clan Baíscne were the followers of Fionn Mac Cumhaill who
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clan Baíscne Image]([None])

@@ -34,4 +34,3 @@ A Welsh god named Amaethon (also spelled as Amatheon) was known for his associat
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Amaethon Image]([None])

@@ -37,4 +37,4 @@ A being of Irish and Scottish mythology, the cluricaune (also spelled cluricane 
 - Croker, T. Crofton. Fairy Legends and Traditions of the South of Ireland. London: William Tegg, 1862, 73.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cluricaune Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png'])
+![cluricaune Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png)

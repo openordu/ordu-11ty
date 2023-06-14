@@ -9,8 +9,8 @@ attributes:
   - The Song of Wandering Aengus title of the poem
   - this tale basis of the poem
 categories:
-  - poem
   - person
+  - poem
 entities:
   - W. B. Yeats(person)
   - The Song of Wandering Aengus(poem)
@@ -36,4 +36,3 @@ Cáer Ibormeith, an Irish deity or heroine, appears in a poignant Irish love sto
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cáer Image]([None])

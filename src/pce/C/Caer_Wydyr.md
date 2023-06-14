@@ -40,4 +40,3 @@ Welsh mythology features Caer Wydyr, a location also known as the "glass fortres
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caer Wydyr Image]([None])

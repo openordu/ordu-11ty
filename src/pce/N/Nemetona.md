@@ -8,8 +8,8 @@ attributes:
   - Nemetona honored as a god
   - Gaul parts of
 categories:
-  - location
   - god
+  - location
 entities:
   - Nemetona(god)
   - Gaul(location)
@@ -34,4 +34,4 @@ Nemetona is a Continental Celtic and British goddess whose name comes from Nemet
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nemetona Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Altrip_Rhein_Sueden.jpg/1200px-Altrip_Rhein_Sueden.jpg'])
+![Nemetona Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Altrip_Rhein_Sueden.jpg/1200px-Altrip_Rhein_Sueden.jpg)

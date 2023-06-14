@@ -16,10 +16,10 @@ attributes:
   - Cairbre Nia Fer renowned for his 12 handsome daughters
 categories:
   - battle
-  - clan
-  - legendary fighting force
   - place
+  - legendary fighting force
   - person
+  - clan
 entities:
   - Cairbre Lifechair(person)
   - Coffey(clan)
@@ -68,4 +68,3 @@ Male heroes of legendary significance in Irish history bore the common name Cair
 - Ross, Anne. Pagan Celtic Britain: Studies in Iconography and Tradition. London: Routledge & Kegan Paul, 1967, 100.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cairbre Image]([None])

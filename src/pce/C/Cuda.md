@@ -10,10 +10,10 @@ attributes:
   - Cuda holding an egg
   - egg symbol of fruitfulness and potential
 categories:
+  - ancient capital
   - British goddess
   - symbol of fruitfulness and potential
   - tribe
-  - ancient capital
 entities:
   - Cuda(British goddess)
   - Cirencester(ancient capital)
@@ -46,4 +46,3 @@ Obscurely situated in Cirencester, the former capital of the Celtic Dobunni trib
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cuda Image]([None])

@@ -9,8 +9,8 @@ attributes:
   - Twins born as Macha died
   - Debility Of The Ulstermen famous curse on the entire region
 categories:
-  - Person
   - Curse
+  - Person
 entities:
   - Crunniuc(Person)
   - Macha(Person)
@@ -42,4 +42,3 @@ An Irish hero named Crunniuc (also known as Cronnchu or Crunnchu) was favored by
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Crunniuc Image]([None])

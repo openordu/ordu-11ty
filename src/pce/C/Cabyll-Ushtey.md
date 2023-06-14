@@ -10,9 +10,9 @@ attributes:
   - Cabyll-Ushtey Stole cattle and people
   - Cabyll-Ushtey Drowned victims in lakes or sea
 categories:
-  - Mythological Creature
   - Island
   - Creature
+  - Mythological Creature
 entities:
   - Cabyll-Ushtey(Mythological Creature)
   - Isle of Man(Island)
@@ -42,4 +42,3 @@ In Manx folklore, there existed a creature known as the Cabyll-Ushtey. A type of
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cabyll-Ushtey Image]([None])

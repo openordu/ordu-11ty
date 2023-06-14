@@ -10,9 +10,9 @@ attributes:
   -  Roman identification
   -  Irish warrior divinity
 categories:
-  - ethnic group
   - deity
   - civilization
+  - ethnic group
 entities:
   - Neton Continental Celtic god(deity)
   - Celtic tribe(ethnic group)
@@ -45,4 +45,3 @@ Obscure is the god of the Celtic tribe known as the Accetani, Neton, who was rec
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Neton Image]([None])

@@ -37,4 +37,4 @@ The symbolic animal of the bull has been found represented in Europe even before
 - MacCulloch, J. A. The Religion of the Ancient Celts. London: Constable, 1911, 243.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bull Image](['https://upload.wikimedia.org/wikipedia/commons/b/b5/A_Friesian_Bull%2C_Llandeilo_Graban_-_geograph.org.uk_-_579885.jpg'])
+![bull Image](https://upload.wikimedia.org/wikipedia/commons/b/b5/A_Friesian_Bull%2C_Llandeilo_Graban_-_geograph.org.uk_-_579885.jpg)

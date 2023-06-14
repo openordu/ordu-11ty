@@ -15,9 +15,9 @@ attributes:
 categories:
   - object
   - king
-  - Arthurian hero
   - place
   - knight
+  - Arthurian hero
 entities:
   - Bellieus(Arthurian hero)
   - Round Table(object)
@@ -56,4 +56,3 @@ Bellieus, a lesser-known figure in the stories of King Arthur, is regarded as a 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bellieus Image]([None])

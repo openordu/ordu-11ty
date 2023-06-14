@@ -13,9 +13,9 @@ attributes:
   - Nerbgen wife of Partholón
   - Cerbnat wife of Partholón
 categories:
-  - wife
   - text
   - Irish heroine
+  - wife
   - hero
 entities:
   - Cichban(Irish heroine)
@@ -64,4 +64,3 @@ An Irish heroine known as Cichban, while obscure, is mentioned in the Book of In
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cichban Image]([None])

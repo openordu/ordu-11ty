@@ -11,12 +11,12 @@ attributes:
   - pre-Celtic site orientation has been misread by enthusiasts
   - astronomical accident None
 categories:
+  - Artifact
+  - Location
   - Event
+  - Site
   - Culture
   - Person
-  - Artifact
-  - Site
-  - Location
 entities:
   - Beltany(Site)
   - Celtic(Culture)
@@ -59,4 +59,3 @@ In the far northwestern county of Donegal, there is a mythological site called B
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Beltany Image]([None])

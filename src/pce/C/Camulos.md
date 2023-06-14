@@ -11,11 +11,11 @@ attributes:
   - Cumhall father of the hero Fionn Mac Cumhaill
 categories:
   - war god
-  - town
-  - hero
-  - British god
   - Irish ancestral father
+  - town
   - invading
+  - British god
+  - hero
 entities:
   - Camulos(British god)
   - Camulodunum(town)
@@ -54,4 +54,3 @@ Camulos, a British deity, has scarce artifacts to decipher the extent of his div
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Camulos Image]([None])

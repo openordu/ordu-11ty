@@ -8,9 +8,9 @@ attributes:
   - Caliburn Alternative name for Excalibur
   - Excalibur magical sword of Arthur
 categories:
-  - magical sword
-  - person
   - British mythological object
+  - person
+  - magical sword
 entities:
   - Caliburn(British mythological object)
   - Carliburnus(British mythological object)
@@ -47,4 +47,4 @@ A British mythical object known as Caliburn (also referred to as Carliburnus, Ca
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caliburn Image](['https://upload.wikimedia.org/wikipedia/commons/0/0f/Arthur-Pyle_Excalibur_the_Sword.JPG'])
+![Caliburn Image](https://upload.wikimedia.org/wikipedia/commons/0/0f/Arthur-Pyle_Excalibur_the_Sword.JPG)

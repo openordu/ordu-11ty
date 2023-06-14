@@ -10,8 +10,8 @@ attributes:
   - maidens protected the sacred Wells
   - Britain forests
 categories:
-  - location
   - object
+  - location
   - Arthurian hero
 entities:
   - Amangons(Arthurian hero)
@@ -42,4 +42,3 @@ Arthurian legend features Amangons as a villainous figure who instigated the Gra
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Amangons Image]([None])

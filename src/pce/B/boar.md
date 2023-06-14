@@ -9,8 +9,8 @@ attributes:
   - Otherworld source of their fierce strength in the surface world
 categories:
   - Mythical Place
-  - Place
   - Book
+  - Place
   - Animal
 entities:
   - Welsh Mabinogion(Book)
@@ -44,4 +44,4 @@ The boar holds symbolic importance as an animal. Celts encountered the male pig 
 - Green, Miranda. Symbol and Image in Celtic Religious Art. London: Routledge, 1989. Pp. 27, 139.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![boar Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/1200px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg'])
+![boar Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg/1200px-Wildschwein%2C_N%C3%A4he_Pulverstampftor_%28cropped%29.jpg)

@@ -10,11 +10,11 @@ attributes:
   - figure minor
   - Druid served the king Cathaír Mór
 categories:
-  - Person
-  - Group
-  - Object
-  - Title
   - Location
+  - Title
+  - Object
+  - Group
+  - Person
 entities:
   - Almu(Location)
   - Nuada(Person)
@@ -60,4 +60,4 @@ Nuada, the Irish God, was the leader of the Tuatha Dé Danann, the people of the
 - O’Conor, Norreys Jephson. Battles and Enchantments: Retold from Early Gaelic Literature. Freeport N.Y.: Books for Libraries Press, 1970, 7.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nuada Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09.jpg/1200px-Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09.jpg'])
+![Nuada Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09.jpg/1200px-Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09.jpg)

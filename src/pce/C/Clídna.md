@@ -40,4 +40,3 @@ Clídna, also recorded as Cleena, Clíodna, Cliodna, Clíona and Clidna Centfind
 - Gwynn, Edward. The Metrical Dindshenchas. Vol. III. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 207–213.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Clídna Image]([None])

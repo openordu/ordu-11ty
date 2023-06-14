@@ -9,10 +9,10 @@ attributes:
   - Glas Ghaibhleann the cow of abundance—also called the Old Brindled Cow or the Gray Cow—defied winter by claiming it could not kill her
   - winter stole several days from spring and skinned the cow in retaliation
 categories:
+  - season
   - time
   - location
   - animal
-  - season
 entities:
   - late spring(time)
   - winter(season)
@@ -45,4 +45,3 @@ Mythic tales surround the concept of "borrowed days." These are the stormy days 
 - Danaher, Kevin. *The Year in Ireland*. Cork: Mercier Press, 1922, 85.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![borrowed days Image]([None])

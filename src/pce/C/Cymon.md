@@ -43,4 +43,3 @@ A Welsh hero named Cymon played a small part in the story of Owein, the hero who
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cymon Image]([None])

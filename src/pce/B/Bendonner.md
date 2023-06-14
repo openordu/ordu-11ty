@@ -9,10 +9,10 @@ attributes:
   - Finn Mccool folkloric version of the great Irish hero Fionn Mac Cumhaill
   - Ulster coast
 categories:
-  - folkloric hero
+  - Irish hero
   - location
   - folkloric figure
-  - Irish hero
+  - folkloric hero
 entities:
   - Bendonner(folkloric figure)
   - Scottish Giant(folkloric figure)
@@ -47,4 +47,3 @@ There exists a folkloric figure called Bendonner who terrorized the coast of Uls
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bendonner Image]([None])

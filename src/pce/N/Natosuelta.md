@@ -11,9 +11,9 @@ attributes:
   - River Trent land ruled by Natosuelta
   - Romanized images do not stress her riverine
 categories:
+  - country
   - fresh water river
   - Continental Celtic goddess
-  - country
 entities:
   - Natosuelta(Continental Celtic goddess)
   - Nantosuelta(Continental Celtic goddess)
@@ -47,4 +47,4 @@ Deity Natosuelta (Nantosuelta) was a goddess of the Continental Celtic origin. H
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Natosuelta Image](['https://upload.wikimedia.org/wikipedia/commons/6/6a/Nantosuelta_HistMusPfalz_3482a.jpg'])
+![Natosuelta Image](https://upload.wikimedia.org/wikipedia/commons/6/6a/Nantosuelta_HistMusPfalz_3482a.jpg)

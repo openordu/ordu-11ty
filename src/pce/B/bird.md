@@ -65,4 +65,4 @@ A symbolic animal within Celtic mythology is the bird. Birds oftentimes served a
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![bird Image](['https://upload.wikimedia.org/wikipedia/commons/b/bf/Bird_Diversity_2013.png'])
+![bird Image](https://upload.wikimedia.org/wikipedia/commons/b/bf/Bird_Diversity_2013.png)

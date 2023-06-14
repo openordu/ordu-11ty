@@ -8,10 +8,10 @@ attributes:
   - Bolvinnus Little is known
   - Romans identified with their warrior god Mars
 categories:
-  - Warrior god
   - Location
-  - Culture
+  - Warrior god
   - Continental Celtic god
+  - Culture
 entities:
   - Bolvinnus(Continental Celtic god)
   - Gaul(Location)
@@ -42,4 +42,3 @@ Continental Celtic deity Bolvinnus is a scarcely documented god originating from
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bolvinnus Image]([None])

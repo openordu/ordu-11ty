@@ -16,17 +16,17 @@ attributes:
   - Fflur possibly a form of the goddess of Sovereignty
   - Sovereignty approval permitted a man to rule
 categories:
+  - magical item
+  - Welsh stories
+  - Roman emperor
+  - Welsh hero
+  - goddess
+  - character
   - hostage sister
   - location
-  - Welsh hero
   - son of Brân The Blessed
-  - goddess
-  - Welsh stories
-  - mythical figure
   - empire
-  - Roman emperor
-  - character
-  - magical item
+  - mythical figure
 entities:
   - Caswallawn(Welsh hero)
   - Mabinogion(Welsh stories)
@@ -86,4 +86,3 @@ A Welsh hero known as Caswallawn, also referred to as Casswallon, Caswallan and 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caswallawn Image]([None])

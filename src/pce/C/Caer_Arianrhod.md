@@ -12,12 +12,12 @@ attributes:
   - rock off the coast of North 6C 67 Wales said to be the wreckage of Arianrhod’s great castle
   - other sources say it was moved to the heavens
 categories:
-  - city
   - geographical feature
-  - mythological site
-  - goddess or heroine
-  - mythology
   - mythical creatures
+  - mythological site
+  - mythology
+  - city
+  - goddess or heroine
 entities:
   - Caer Arianrhod(mythological site)
   - Arianrhod(goddess or heroine)
@@ -58,4 +58,3 @@ Welsh mythology recounts the existence of Caer Arianrhod (Caer Aranrhod), believ
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Caer Arianrhod Image]([None])

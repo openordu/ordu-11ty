@@ -12,9 +12,9 @@ attributes:
   - Irish epic great
   - Táin Bó Cuailnge related in
 categories:
+  - person
   - place
   - literature
-  - person
 entities:
   - Medb(person)
   - Ulster(place)
@@ -50,4 +50,3 @@ An Irish hero named Nera (Neara mac Niadhain) features in one of the outstanding
 - Cross, Tom Peete, and Clark Harris Slover, eds. Ancient Irish Tales. (New York: Henry Holt and Co., 1936), 248 ff.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nera Image]([None])

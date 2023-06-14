@@ -9,8 +9,8 @@ attributes:
   - Brigindo invoked to assure abundance of crops
   - Continental Celtic obscure
 categories:
-  - culture
   - Celtic goddess
+  - culture
 entities:
   - Brigindo(Celtic goddess)
   - Continental Celtic(culture)
@@ -36,4 +36,4 @@ Celtic goddess Brigindo is known as a protector goddess in Continental Celtic cu
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Brigindo Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thecomingofbrideduncan1917.jpg/1200px-Thecomingofbrideduncan1917.jpg'])
+![Brigindo Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Thecomingofbrideduncan1917.jpg/1200px-Thecomingofbrideduncan1917.jpg)

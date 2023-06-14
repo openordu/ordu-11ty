@@ -14,9 +14,9 @@ attributes:
   - alp-luachra dying of thirst
   - alp-luachra leaping from the afflicted one’s mouth and into the water
 categories:
+  - Irish folkloric figure
   - person who accidentally swallowed an alp-luachra
   - type of alp-luachra
-  - Irish folkloric figure
   - small amphibian
 entities:
   - alp-luachra(Irish folkloric figure)
@@ -55,4 +55,4 @@ An Irish legend, the alp-luachra was a mischievous water sprite that could cause
 - Hyde, Douglas. Beside the Fire: A Collection of Irish Gaelic Folk Stories. London: David Nutt, 1890, 47.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![alp-luachra Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png'])
+![alp-luachra Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Four_Provinces_Flag.svg/1200px-Four_Provinces_Flag.svg.png)

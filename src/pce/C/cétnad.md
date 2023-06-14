@@ -12,9 +12,9 @@ attributes:
   - seven Daughters of the Sea otherwise unknown
   - someone how long they would live
 categories:
-  - Divination
   - Mythical beings
   - Group of people
+  - Divination
   - Animal
 entities:
   - cétnad Irish ritual(Divination)
@@ -50,4 +50,3 @@ A practice in Irish ritual known as cétnad was implemented by Bards. They used 
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![cétnad Image]([None])

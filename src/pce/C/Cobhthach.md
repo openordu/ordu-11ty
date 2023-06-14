@@ -11,9 +11,9 @@ attributes:
   - Cobhthach killed Labhraigh
   - Cobhthach lust for the throne of the Province of Leinster
 categories:
-  - young brother
-  - kingdom
   - Irish hero
+  - kingdom
+  - young brother
 entities:
   - Cobhthach(Irish hero)
   - Labhraigh Lore(young brother)
@@ -44,4 +44,3 @@ An Irish hero by the name of Cobhthach, also known as Covac, is known for perpet
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cobhthach Image]([None])

@@ -14,9 +14,9 @@ attributes:
   - Bodb Derg punished Aífe
   - Aífe turned into a demon or a Crane
 categories:
-  - animal
-  - creature
   - person
+  - creature
+  - animal
 entities:
   - Áeb(person)
   - Lir(person)
@@ -66,4 +66,3 @@ The wise Bodb Derg was a powerful magician who featured as a hero or god in Iris
 - Joyce, Patrick Weston. Ancient Celtic Romances. London: Parkgate Books, 1997.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bodb Derg Image]([None])

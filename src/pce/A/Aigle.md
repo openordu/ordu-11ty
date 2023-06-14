@@ -16,9 +16,9 @@ attributes:
   - Christian missionary involved in the final conflict at Croagh Patrick
   - Ireland’s ancient pagan powers involved in the final conflict at Croagh Patrick
 categories:
+  - person
   - place
   - group
-  - person
 entities:
   - Aigle(person)
   - Connacht prince(person)
@@ -76,4 +76,4 @@ Connacht prince Aigle, an Irish hero, was killed by his uncle Cromderg as vengea
 - Gwynn, Edward. The Metrical Dindshenchas. Royal Irish Academy, Todd Lecture Series. Dublin: Hodges, Figgis, and Co., Ltd., 1906–1924, 281.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Aigle Image](['https://upload.wikimedia.org/wikipedia/commons/5/53/Aigle.jpg'])
+![Aigle Image](https://upload.wikimedia.org/wikipedia/commons/5/53/Aigle.jpg)

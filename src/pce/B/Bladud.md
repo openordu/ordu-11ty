@@ -9,11 +9,11 @@ attributes:
   - Celtic goddess Sul Worshipped at the shrine in Bath
   - Genius Loci Possibly the spirit of the place
 categories:
+  - British hero or god
+  - Spirit
+  - Deity
   - Place
   - Person
-  - British hero or god
-  - Deity
-  - Spirit
 entities:
   - Bladud(British hero or god)
   - Geoffrey of Monmouth(Person)
@@ -48,4 +48,4 @@ British hero or god Bladud was credited by Geoffrey of Monmouth for establishing
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Bladud Image](['https://upload.wikimedia.org/wikipedia/commons/8/81/Bladud.jpg'])
+![Bladud Image](https://upload.wikimedia.org/wikipedia/commons/8/81/Bladud.jpg)

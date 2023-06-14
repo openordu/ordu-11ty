@@ -12,14 +12,14 @@ attributes:
   - mineral Springs located in close proximity to each other
   - Christianization resulted in Arnemetia becoming St. Anne
 categories:
-  - British goddess
-  - shrine
-  - natural resource
-  - word
   - process
-  - saint
   - place
+  - natural resource
+  - saint
   - people
+  - British goddess
+  - word
+  - shrine
 entities:
   - Arnemetia(British goddess)
   - Nemeton(word)
@@ -69,4 +69,3 @@ British goddess, Arnemetia, is associated with the word Nemeton, meaning "in fro
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Arnemetia Image]([None])

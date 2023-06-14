@@ -11,8 +11,8 @@ attributes:
   - Genius Loci may have been spirit of the place
 categories:
   - location
-  - religious figures
   - spirit
+  - religious figures
   - British god
 entities:
   - Antenociticus(British god)
@@ -46,4 +46,4 @@ British god Antenociticus is associated with a temple that was uncovered at Benw
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Antenociticus Image](['https://upload.wikimedia.org/wikipedia/commons/e/ef/%28Roman%29_Temple_of_Antenociticus_%283%29_-_geograph.org.uk_-_837888.jpg'])
+![Antenociticus Image](https://upload.wikimedia.org/wikipedia/commons/e/ef/%28Roman%29_Temple_of_Antenociticus_%283%29_-_geograph.org.uk_-_837888.jpg)

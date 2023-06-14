@@ -11,8 +11,8 @@ attributes:
   - Yspaddaden Penkawr father
   - Yspaddaden Penkawr herdsman
 categories:
-  - Nationality
   - JobTitle
+  - Nationality
   - Person
 entities:
   - Custennin(Person)
@@ -53,4 +53,3 @@ Welsh hero, Custennin, played a limited role in the tale of Kulhwych And Olwen a
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Custennin Image]([None])

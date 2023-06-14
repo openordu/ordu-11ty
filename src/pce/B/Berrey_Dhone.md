@@ -54,4 +54,3 @@ A deity worshipped by the Manx people was Berrey Dhone, also known as Brown Berr
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Berrey Dhone Image]([None])

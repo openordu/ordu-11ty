@@ -13,13 +13,13 @@ attributes:
   - the Book Of Invasions Irish mythic history
   - Elizabethan English poet and political apologist Edmund Spenser took the story literally and argued vehemently that the Irish were originally Scythian savages
 categories:
+  - Irish hero
+  - founder of the Nemedians
+  - vaguely described race
+  - person
+  - Irish mythic history
   - family home
   - migration destination
-  - vaguely described race
-  - Irish mythic history
-  - founder of the Nemedians
-  - Irish hero
-  - person
 entities:
   - Agnoman(Irish hero)
   - Nemed(founder of the Nemedians)
@@ -64,4 +64,4 @@ An Irish hero known as Agnoman appears in the Book of Invasions, a mythic histor
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Agnoman Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg'])
+![Agnoman Image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg/1200px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760452906%29.jpg)

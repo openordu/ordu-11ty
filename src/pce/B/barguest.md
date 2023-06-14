@@ -37,4 +37,3 @@ A British and Scottish mythological creature, the barguest was often difficult t
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![barguest Image]([None])

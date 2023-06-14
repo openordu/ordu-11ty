@@ -19,11 +19,11 @@ attributes:
   - mortal husband killed
   - hill named for Étain’s father, Étar
 categories:
-  - location
-  - tale
+  - Irish mythological location
   - fairy woman
   - character
-  - Irish mythological location
+  - tale
+  - location
 entities:
   - Benn Étair(Irish mythological location)
   - Hill of Howth(location)
@@ -95,4 +95,3 @@ Located near Dublin, Benn Étair (also known as Ben Edair or Ben Edar) is a lege
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Benn Étair Image]([None])

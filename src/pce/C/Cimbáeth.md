@@ -21,16 +21,16 @@ attributes:
   - Díthorba opponent of Macha Mong Rua
   - Cimbáeth husband of Macha Mong Rua
 categories:
-  - nickname
-  - group
-  - marriage
-  - rulers
-  - title
-  - Ulster king
-  - Irish hero
   - committee members
-  - person
+  - marriage
+  - Ulster king
+  - group
+  - Irish hero
   - conflict
+  - person
+  - title
+  - rulers
+  - nickname
 entities:
   - Cimbáeth(Irish hero)
   - Ulster kings(rulers)
@@ -101,4 +101,3 @@ Three Ulster kings, namely Cimbáeth, Áed Ruad, and Díthorba, formed an agreem
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Cimbáeth Image]([None])

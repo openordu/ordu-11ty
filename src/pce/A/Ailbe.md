@@ -11,10 +11,10 @@ attributes:
   - Ailill Mac Mata one of the kings who desired Ailbe
   - Ailbe killed
 categories:
-  - king of Ulster
-  - Irish mythological beast
-  - king of Connacht
   - warrior
+  - king of Ulster
+  - king of Connacht
+  - Irish mythological beast
 entities:
   - Ailbe(Irish mythological beast)
   - Mac Dathó(warrior)
@@ -48,4 +48,4 @@ Ailbe, also known as Ailba, is a creature from Irish mythology. This famous hunt
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Ailbe Image](['https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/StAilbe%27sChurchEmly.JPG/1200px-StAilbe%27sChurchEmly.JPG'])
+![Ailbe Image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/StAilbe%27sChurchEmly.JPG/1200px-StAilbe%27sChurchEmly.JPG)

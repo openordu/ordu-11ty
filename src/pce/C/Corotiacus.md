@@ -9,10 +9,10 @@ attributes:
   - Romans invading
   - Romans connected Corotiacus with Mars
 categories:
-  - Invading force
-  - Roman war god
-  - Celtic god
   - Location
+  - Invading force
+  - Celtic god
+  - Roman war god
 entities:
   - Corotiacus(Celtic god)
   - Suffolk(Location)
@@ -44,4 +44,3 @@ Celtic god Corotiacus is venerated in Suffolk, but very few details are availabl
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Corotiacus Image]([None])

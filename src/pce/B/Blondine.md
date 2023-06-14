@@ -11,9 +11,9 @@ attributes:
   - Cado forgot about Blondine
   - Blondine wore a matching ring to Cado's wedding
 categories:
+  - person
   - location
   - object
-  - person
 entities:
   - Cado(person)
   - Blondine(person)
@@ -57,4 +57,4 @@ Breton heroine, Blondine (also known as Velandinenn or Princess Velandinnen), ha
 - Luzel, F. M. Celtic Folk-Tales from Armorica. Translated by Derek Bryce. Dyfed, Wales: Llanerch Enterprises, 1985.
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Blondine Image](['https://upload.wikimedia.org/wikipedia/en/b/b1/Blondine_film_poster.jpg'])
+![Blondine Image](https://upload.wikimedia.org/wikipedia/en/b/b1/Blondine_film_poster.jpg)

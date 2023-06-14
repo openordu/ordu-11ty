@@ -8,8 +8,8 @@ attributes:
   - Nabelcus Continental Celtic god
   - region of Vaucluse in France associated with Roman god Mars
 categories:
-  - region in France
   - Roman god
+  - region in France
   - Celtic god
   - ancient civilization
 entities:
@@ -42,4 +42,3 @@ Obscure deity Nabelcus, hailing from the Vaucluse region of France, is a Contine
 ``` tab [group1:Sources]
 - Monaghan, Patricia. The Encyclopedia of Celtic Mythology and Folklore. Checkmark Books, 2008.
 ```
-![Nabelcus Image]([None])
